@@ -1,7 +1,15 @@
+# sent_id = syntax:1
+# text = Mumuran ngeni.
+# text[eng] = 
+# labels = mirikitani:72:X
 1	Mumuran	_	VERB	_	_	0	root	_	_
 2	ngeni	_	ADV	_	_	1	advmod	_	_
 3	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:2
+# text = Lapis ne ning anak ini.
+# text[eng] = 
+# labels = mirikitani:72:X
 1	Lapis	_	NOUN	_	_	0	root	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	1	dep	_	_
@@ -11,6 +19,10 @@
 6	ini	_	PRON	_	_	1	nsubj	_	_
 7	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:3
+# text = Isulat ne ning lalaki ing istoriya
+# text[eng] = 
+# labels = mirikitani:72:X
 1	Isulat	_	VERB	_	_	0	root	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	1	dep	_	_
@@ -20,3 +32,4 @@
 6	ing	_	ADP	_	_	7	case	_	_
 7	istorya	_	NOUN	_	_	1	obj	_	_
 8	.	_	PUNCT	_	_	1	punct	_	_
+
