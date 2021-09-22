@@ -1,7 +1,15 @@
+# sent_id = syntax:1
+# text = Mumuran ngeni.
+# text[eng] = It is raining now.
+# labels = mirikitani:72:X
 1	Mumuran	_	VERB	_	_	0	root	_	_
 2	ngeni	_	ADV	_	_	1	advmod	_	_
 3	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:2
+# text = Lapis ne ning anak ini.
+# text[eng] = This is the child's pencil.
+# labels = mirikitani:72:X
 1	Lapis	_	NOUN	_	_	0	root	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	1	dep	_	_
@@ -11,6 +19,10 @@
 6	ini	_	PRON	_	_	1	nsubj	_	_
 7	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:3
+# text = Isulat ne ning lalaki ing istoriya.
+# text[eng] = The boy will write the story.
+# labels = mirikitani:72:X
 1	Isulat	_	VERB	_	_	0	root	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	1	dep	_	_
@@ -21,22 +33,38 @@
 7	istorya	_	NOUN	_	_	1	obj	_	_
 8	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:4
+# text = Munta ku king eskwela.
+# text[eng] = I will go to school.
+# labels = mirikitani:72:X
 1	Munta	_	VERB	_	_	0	root	_	_
 2	ku	_	PRON	_	_	1	nsubj	_	_
 3	king	_	ADP	_	_	4	case	_	_
 4	eskwela	_	NOUN	_	_	1	obl	_	_
 5	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:5
+# text = Mamasa ku king eskwela.
+# text[eng] = I will read at school.
+# labels = mirikitani:72:X
 1	Mamasa	_	VERB	_	_	0	root	_	_
 2	ku	_	PRON	_	_	1	nsubj	_	_
 3	king	_	ADP	_	_	4	case	_	_
 4	eskwela	_	NOUN	_	_	1	obl	_	_
 5	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:6
+# text = Maglutu ya.
+# text[eng] = He will cook.
+# labels = mirikitani:72:X
 1	Maglutu	_	VERB	_	_	0	root	_	_
 2	ya	_	PRON	_	_	1	nsubj	_	_
 3	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:7
+# text = Matas ya ing lalaki.
+# text[eng] = The boy is tall.
+# labels = mirikitani:72:X
 1	Matas	_	ADJ	_	_	0	root	_	_
 2	ya	_	PRON	_	_	1	dep	_	_
 3	ing	_	ADP	_	_	4	case	_	_
