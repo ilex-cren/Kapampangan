@@ -111,5 +111,14 @@
 2	ya	_	PRON	_	_	3	dep	_	_
 3	minta	_	VERB	_	_	0	root	_	_
 4	i	_	ADP	_	_	5	case	_	_
-5	Juan	_	NOUN	_	_	3	nsubj	_	_
+5	Juan	_	PROPN	_	_	3	nsubj	_	_
 6	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = syntax:11
+# text = Ninu ing sinulat?
+# text[eng] = Who is the one who wrote?
+# labels = mirikitani:72:181
+1	Ninu	_	NOUN	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	sinulat	_	VERB	_	_	1	nsubj	_	_
+4	?	_	PUNCT	_	_	1	punct	_	_
