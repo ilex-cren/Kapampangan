@@ -1,0 +1,56 @@
+Multichar_Symbols
+
+%<v%>       ! Verb
+%<patpres%> ! Patient Present
+%<cnjcoo%>  ! Coordinating conjunction
+%<n%>	! Noun
+%<pr%>	! Preposition
+
+%{C%}
+%{V%}
+
+LEXICON Root
+
+Prefixes;
+Conjunctions;
+Nouns;
+Prepositions;
+
+LEXICON CC
+%<cnjcoo%>: #;
+
+LEXICON PREP
+%<pr%>: #;
+
+LEXICON N
+%<n%>: #;
+
+LEXICON Prefixes
+
+:%{C%}%{V%}%> Verbs ;
+
+LEXICON V-ACTIO
+%<v%>%<patpres%>:%>an # ;
+ 
+LEXICON Verbs
+
+kan:kan V-ACTIO;!"eat"
+gawa:gawa V-ACTIO;!"make"
+gamit:gamit V-ACTIO;!"use"
+lakad:lakad V-ACTIO;!"walk"
+lutu:lutu V-ACTIO;!"cook"
+linis:linis V-ACTIO;!"clean"
+punta:punta V-ACTIO;!"go"
+terak:terak V-ACTIO;!"dance"
+sali:sali V-ACTIO;!"buy"
+
+
+LEXICON Conjunctions
+ampong:ampong CC ; !"and"
+
+LEXICON Nouns
+balen:balen N;!"homeland"
+populasyun:populasyun N;!"population"
+
+LEXICON Prepositions
+para:para PREP;!"for"
