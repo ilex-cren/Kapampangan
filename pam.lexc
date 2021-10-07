@@ -5,6 +5,7 @@ Multichar_Symbols
 %<cnjcoo%>  ! Coordinating conjunction
 %<n%>	! Noun
 %<pr%>	! Preposition
+%<adv%>	! Adverb
 
 %{C%}
 %{V%}
@@ -15,6 +16,7 @@ Prefixes;
 Conjunctions;
 Nouns;
 Prepositions;
+Adverbs;
 
 LEXICON CC
 %<cnjcoo%>: #;
@@ -24,6 +26,9 @@ LEXICON PREP
 
 LEXICON N
 %<n%>: #;
+
+LEXICON ADV
+%<adv%>: #;
 
 LEXICON Prefixes
 
@@ -49,8 +54,23 @@ LEXICON Conjunctions
 ampong:ampong CC ; !"and"
 
 LEXICON Nouns
-balen:balen N;!"homeland"
+balen:balen N;!"country"
 populasyun:populasyun N;!"population"
+anak:anak N;!""
+blackboard:blackboard N;!""
+eskwela:eskwela N;!""
+istorya:istorya N;!""
+lalaki:lalaki N;!""
+lamesa:lamesa N;!""
+lapis:lapis N;!""
+libru:libru N;!""
+mestra:mestra N;!""
 
 LEXICON Prepositions
 para:para PREP;!"for"
+ing:ing PREP;!
+ning:ning PREP;!
+king:king PREP;!
+
+LEXICON Adverbs
+ngeni:ngeni ADV;!"now"
