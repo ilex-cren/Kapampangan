@@ -207,3 +207,42 @@
 8	king	_	ADP	_	_	9	case	_	_
 9	Sabadu	_	NOUN	_	_	1	obl	_	_
 10	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:18
+# text = Basan ne ning babai ing libru.
+# text[eng] = The book will be read by the woman.
+# labels = mirikitani:72:126
+1	Basan	_	VERB	_	_	_	_	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	babai	_	NOUN	_	_	1	obj	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	libru	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:19
+# text = Pupuntalan ne ning babai ing pisamban aldoaldo.
+# text[eng] = It is to the church the woman goes every day.
+# labels = mirikitani:72:130
+1	Pupuntalan	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	babai	_	NOUN	_	_	1	obj	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	pisamban	_	NOUN	_	_	1	nsubj:lfoc	_	_
+8	aldoaldo	_	ADV	_	_	1	advmod	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:20
+# text = Iya pamasa na la.
+# text[eng] = He, (he) will read to them.
+# labels = mirikitani:72:167
+1	Iya	_	PRON	_	_	2	nsubj	_	_
+2	pamasa	_	VERB	_	_	0	root	_	_
+3	na	_	PRON	_	_	2	dep	_	_
+4	la	_	PRON	_	_	2	dep	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
