@@ -71,7 +71,6 @@
 4	lalaki	_	NOUN	_	_	1	nsubj	_	_
 5	.	_	PUNCT	_	_	1	punct	_	_
 
-
 # sent_id = syntax:8
 # text = Pisulatanan ne ing lalaki ing blackboard.
 # text[eng] = The boy will write on the blackboard.
@@ -192,8 +191,6 @@
 7	dinatang	_	VERB	_	_	1	advcl	_	_
 8	ka	_	PRON	_	_	7	dep	_	_
 9	.	_	PUNCT	_	_	1	punct	_	_
-
-
 
 # sent_id = syntax:17
 # text = Italakad ne ning lalaki ing bakud king Sabadu. 
