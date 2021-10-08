@@ -124,7 +124,7 @@
 4	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:12
-# text: Nanu ya ing gewa na ning anak mu?
+# text = Nanu ya ing gewa na ning anak mu?
 # text[eng] = What did your child do?
 # labels = mirikitani:72:137
 1	Nanu	_	PRON	_	_	0	root	_	_
@@ -136,3 +136,77 @@
 7	anak	_	NOUN	_	_	4	nsubj	_	_
 8	mu	_	PRON	_	_	7	dep	_	_
 9	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:13
+# text = Mikit tamu pasibayu king tutuking duminggu king Lunes.
+# text[eng] = We'll see each other again next week on Monday.
+# labels = mirikitani:72:29
+1	Mikit	_	VERB	_	_	0	root	_	_
+2	tamu	_	PRON	_	_	1	dep	_	_
+3	pasibayu	_	ADV	_	_	1	advmod	_	_
+4	king	_	ADP	_	_	5	case	_	_
+5-6	tutuki ng	_	_	_	_	_	_	_	_
+5	tutuki	_	ADJ	_	_	7	acl	_	_
+6	 ng	_	PART	_	_	5	mark	_	_
+7	duminggu	_	NOUN	_	_	1	obl	_	_
+8	king	_	ADP	_	_	9	case	_	_
+9	Lunes	_	NOUN	_	_	1	obl	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:14
+# text = Siguru ati yu king eskwela.
+# text[eng] = Maybe he is at school.
+# labels = mirikitani:72:41
+1	Siguru	_	ADV	_	_	2	advmod	_	_
+2	ati	_	VERB	_	_	0	root	_	_
+3	yu	_	PRON	_	_	2	dep	_	_
+4	king	_	ADP	_	_	5	case	_	_
+5	eskwela	_	NOUN	_	_	2	obl	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:15
+# text = Kasaya na potang tanggapan na la.
+# text[eng] = How happy she will be when she receives them.
+# labels = mirikitani:72:70
+1	Kasaya	_	ADJ	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3-4	potang	_	_	_	_	_	_	_	_
+3	pota	_	SCONJ	_	_	5	mark	_	_
+4	ng	_	PART	_	_	3	mark	_	_
+5	tanggapan	_	VERB	_	_	1	advcl	_	_
+6	na	_	PRON	_	_	5	dep	_	_
+7	la	_	PRON	_	_	5	dep	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:16
+# text = Kasaya nang ima ku kasi dinatang ka.
+# text[eng] = How happy my mother is because you came.
+# labels = mirikitani:72:70
+1	Kasaya	_	ADJ	_	_	0	root	_	_
+2-3	nang	_	_	_	_	_	_	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	_	_	_	_
+4	ima	_	NOUN	_	_	1	nsubj	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6	kasi	_	SCONJ	_	_	7	mark	_	_
+7	dinatang	_	VERB	_	_	1	advcl	_	_
+8	ka	_	PRON	_	_	7	dep	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
+
+
+
+# sent_id = syntax:17
+# text = Italakad ne ning lalaki ing bakud king Sabadu. 
+# text[eng] = The boy will put the fence up on Saturday.
+# labels = mirikitani:72:85
+1	Italakad	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	lalaki	_	NOUN	_	_	1	obj	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	bakud	_	NOUN	_	_	1	nsubj	_	_
+8	king	_	ADP	_	_	9	case	_	_
+9	Sabadu	_	NOUN	_	_	1	obl	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
