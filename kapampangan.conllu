@@ -246,3 +246,35 @@
 3	na	_	PRON	_	_	2	dep	_	_
 4	la	_	PRON	_	_	2	dep	_	_
 5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:21
+# text = Dinatang ku keti ketang milabasan a banwa.
+# text[eng] = I came here last year.
+# labels = mirikitani:72:93
+1	Dinatang	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	keti	_	ADV	_	_	1	advmod	_	_
+4-5	ketang	_	_	_	_	_	_	_	_
+4	keta	_	ADP	_	_	8	case	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	milabasan	_	ADJ	_	_	8	amod	_	_
+7	a	_	PART	_	_	6	mark:link	_	_
+8	banwa	_	NOUN	_	_	1	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:22
+# text = Munta la reng anak kari Apu da king Duminggu.
+# text[eng] = The children will go to their grandparents' on Sunday.
+# labels = mirikitani:72:92
+1	Munta	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3-4	reng	_	_	_	_	_	_	_	_
+3	ren	_	ADP	_	_	5	case	_	_
+4	g	_	PART	_	_	3	mark	_	_
+5	anak	_	NOUN	_	_	1	nsubj	_	_
+6	kari	_	ADP	_	_	7	case	_	_
+7	Apu	_	NOUN	_	_	1	obl	_	_
+8	da	_	PRON	_	_	7	dep	_	_
+9	king	_	ADP	_	_	10	case	_	_
+10	Duminggu	_	NOUN	_	_	1	obl	_	_
+11	.	_	PUNCT	_	_	1	punct	_	_

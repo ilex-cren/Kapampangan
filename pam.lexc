@@ -1,11 +1,11 @@
 Multichar_Symbols
 
 %<v%>       ! Verb
-%<patpres%> ! Patient Present
-%<cnjcoo%>  ! Coordinating conjunction
 %<n%>	! Noun
-%<pr%>	! Preposition
 %<adv%>	! Adverb
+%<pr%>	! Preposition
+%<cnjcoo%>  ! Coordinating conjunction
+%<patpres%> ! Patient Present
 
 %{C%}
 %{V%}
