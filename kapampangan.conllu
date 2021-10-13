@@ -401,3 +401,28 @@
 9	kang	_	ADP	_	_	10	case	_	_
 10	Pedru	_	PROPN	_	_	1	obl	_	_
 11	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:33
+# text = Sabian da kekami bukas.
+# text[eng] = They'll tell us tomorrow.
+# labels = mirikitani:72:103
+1	Sabian	_	VERB	_	_	0	root	_	_
+2	da	_	PRON	_	_	1	dep	_	_
+3	kekami	_	PRON	_	_	1	obl	_	_
+4	bukas	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:34
+# text = Gawan ne ning ima ku para karela.
+# text[eng] = My mother will make it for them.
+# labels = mirikitani:72:103
+1	Gawan	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	ima	_	NOUN	_	_	1	obj:agent	_	_
+6	ku	_	PRON	_	_	5	dep	_	_
+7	para	_	ADP	_	_	8	case	_	_
+8	karela	_	PRON	_	_	1	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
