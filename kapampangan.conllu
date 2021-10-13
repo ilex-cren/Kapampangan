@@ -358,3 +358,46 @@
 4	lalaki	_	NOUN	_	_	1	nsubj	_	_
 5	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:30
+# text = Ing babai ing munta king Japan.
+# text[eng] = The one going to Japan is the woman.
+# labels = mirikitani:72:57
+1	Ing	_	ADP	_	_	2	case	_	_
+2	babai	_	NOUN	_	_	0	root	_	_
+3	ing	_	ADP	_	_	4	mark	_	_
+4	munta	_	VERB	_	_	2	csubj	_	_
+5	king	_	ADP	_	_	6	case	_	_
+6	Japan	_	NOUN	_	_	4	obl	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:31
+# text = Mamye yang tela ing mestra kareng babai.
+# text[eng] = The teacher will give cloth to the women.
+# labels = mirikitani:72:91
+1	Mamye	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	tela	_	NOUN	_	_	1	obj	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	mestra	_	NOUN	_	_	1	obj:agent	_	_
+7	kareng	_	ADP	_	_	8	case	_	_
+8	babai	_	NOUN	_	_	1	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:32
+# text = Salwan na lang Jorje reng libru para kang Pedru.
+# text[eng] = George will buy the books for Peter.
+# labels = mirikitani:72:91
+1	Salwan	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3-4	lang	_	_	_	_	_	_	_	_
+3	la	_	PRON	_	_	1	dep	_	_
+4	ng	_	ADP	_	_	5	case	_	_
+5	Jorje	_	PROPN	_	_	1	obj:agent	_	_
+6	reng	_	ADP	_	_	7	case	_	_
+7	libru	_	NOUN	_	_	1	nsubj:pass	_	_
+8	para	_	ADP	_	_	9	fixed	_	_
+9	kang	_	ADP	_	_	10	case	_	_
+10	Pedru	_	PROPN	_	_	1	obl	_	_
+11	.	_	PUNCT	_	_	1	punct	_	_
