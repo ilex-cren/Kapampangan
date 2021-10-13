@@ -268,13 +268,93 @@
 # labels = mirikitani:72:92
 1	Munta	_	VERB	_	_	0	root	_	_
 2	la	_	PRON	_	_	1	dep	_	_
-3-4	reng	_	_	_	_	_	_	_	_
-3	ren	_	ADP	_	_	5	case	_	_
-4	g	_	PART	_	_	3	mark	_	_
-5	anak	_	NOUN	_	_	1	nsubj	_	_
-6	kari	_	ADP	_	_	7	case	_	_
-7	Apu	_	NOUN	_	_	1	obl	_	_
-8	da	_	PRON	_	_	7	dep	_	_
-9	king	_	ADP	_	_	10	case	_	_
-10	Duminggu	_	NOUN	_	_	1	obl	_	_
-11	.	_	PUNCT	_	_	1	punct	_	_
+3	reng	_	ADP	_	_	4	case	_	_
+4	anak	_	NOUN	_	_	1	nsubj	_	_
+5	kari	_	ADP	_	_	6	case	_	_
+6	Apu	_	NOUN	_	_	1	obl	_	_
+7	da	_	PRON	_	_	6	dep	_	_
+8	king	_	ADP	_	_	9	case	_	_
+9	Duminggu	_	NOUN	_	_	1	obl	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:23
+# text = Maragul ne ing manuk.
+# text[eng] = The chicken is already big.
+# labels = mirikitani:72:50
+1	Maragul	_	ADJ	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	ADV	_	_	1	advmod	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	manuk	_	NOUN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:24	
+# text = Mararagul ya ing manuk.
+# text[eng] = The chicken is getting big.
+# labels = mirikitani:72:50
+1	Mararagul	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	manuk	_	NOUN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:25
+# text = Malutu ne ing manuk.
+# text[eng] = The chicken is already cooked.
+# labels = mirikitani:72:51
+1	Malutu	_	ADJ	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	ADV	_	_	1	advmod	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	manuk	_	NOUN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:26
+# text = Manyali yang baru ing babai.
+# text[eng] = The woman will buy several dresses.
+# labels = mirikitani:72:58
+1	Manyali	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark	_	_
+4	baru	_	NOUN	_	_	1	obj	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	babai	_	NOUN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:27
+# text = Kalagu na ning mestra!
+# text[eng] = How pretty the teacher is!
+# labels = mirikitani:72:60
+1	Kalagu	_	ADJ	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ning	_	ADP	_	_	4	case	_	_
+4	mestra	_	NOUN	_	_	1	nsubj	_	_
+5	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:28
+# text = Mamasa kung dyaryu king kwartu ku.
+# text[eng] = I will read a newspaper in my room.
+# labels = mirikitani:72:61
+1	Mamasa	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	dep	_	_
+4	dyaryu	_	NOUN	_	_	1	obj	_	_
+5	king	_	ADP	_	_	6	case	_	_
+6	kwartu	_	NOUN	_	_	1	obl	_	_
+7	ku	_	PRON	_	_	6	dep	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:29
+# text = Mangasanting la reng lalaki.
+# text[eng] = The boys are handsome.
+# labels = mirikitani:72:57
+1	Mangasanting	_	ADJ	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	reng	_	ADP	_	_	4	case	_	_
+4	lalaki	_	NOUN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
+
