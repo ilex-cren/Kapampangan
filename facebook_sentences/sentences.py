@@ -7,4 +7,5 @@ def main():
    sentences = sent_tokenize(raw)
    print(sentences)
    print(len(sentences))
+   f.close()
 main()
