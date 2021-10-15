@@ -458,3 +458,96 @@
 8	reng	_	ADP	_	_	9	case	_	_
 9	anak	_	NOUN	_	_	1	nsubj	_	_
 10	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:37
+# text = Pinyali neng libru ning anak i Maria.
+# text[eng] = Maria will be bought a book by the child.
+# labels = mirikitani:72:128
+1	Pinyali	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark	_	_
+5	libru	_	NOUN	_	_	1	obj	_	_
+6	ning	_	ADP	_	_	7	case	_	_
+7	anak	_	NOUN	_	_	1	obj:agent	_	_
+8	i	_	ADP	_	_	9	case	_	_
+9	Maria	_	PROPN	_	_	1	nsubj	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:38
+# text = Para king anak ya ing pamamyalung.
+# text[eng] = The toy is for the child.
+# labels = mirikitani:72:133
+1	Para	_	ADP	_	_	2	fixed	_	_
+2	king	_	ADP	_	_	3	case	_	_
+3	anak	_	NOUN	_	_	0	root	_	_
+4	ya	_	PRON	_	_	3	dep	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	pamamyalung	_	NOUN	_	_	3	nsubj	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = syntax:39
+# text = Kesaya na ning anak!
+# text[eng] = How happy the child was!
+# labels = mirikitani:72:134
+1	Kesaya	_	ADJ	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ning	_	ADP	_	_	4	case	_	_
+4	anak	_	NOUN	_	_	1	nsubj	_	_
+5	!	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:40
+# text = Estudyante ya ing anak ku.
+# text[eng] = My child is a student.
+# labels = mirikitani:72:135
+1	Estudyante	_	NOUN	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	anak	_	NOUN	_	_	1	nsubj	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:41
+# text = Ing estudyante ing anak ku.
+# text[eng] = My child is the student.
+# labels = mirikitani:72:135
+1	Ing	_	ADP	_	_	2	case	_	_
+2	estudyante	_	NOUN	_	_	0	root	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	anak	_	NOUN	_	_	2	nsubj	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:42
+# text = Ing matas ing anak ku.
+# text[eng] = My child is the tall one.
+# labels = mirikitani:72:135
+1	Ing	_	ADP	_	_	2	case	_	_
+2	matas	_	ADJ	_	_	0	root	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	anak	_	NOUN	_	_	2	nsubj	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:43
+# text = Ninu ing anak mu?
+# text[eng] = Who is your child?
+# labels = mirikitani:72:137
+1	Ninu	_	PRON	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	anak	_	NOUN	_	_	1	nsubj	_	_
+4	mu	_	PRON	_	_	3	dep	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:44
+# text = Ing munta king Japan ing anak.
+# text[eng] = The child is the one who will go to Japan.
+# labels = mirikitani:72:142
+1	Ing	_	ADP	_	_	2	case	_	_
+2	munta	_	VERB	_	_	0	root	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	Japan	_	NOUN	_	_	2	obl	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	anak	_	NOUN	_	_	2	nsubj	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
