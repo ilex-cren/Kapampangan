@@ -551,3 +551,41 @@
 5	ing	_	ADP	_	_	6	case	_	_
 6	anak	_	NOUN	_	_	2	nsubj	_	_
 7	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:45
+# text = Deng maragul deng babai.
+# text[eng] = The girls are the big ones.
+# labels = mirikitani:72:143
+1	Deng	_	ADP	_	_	2	case	_	_
+2	maragul	_	ADJ	_	_	0	root	_	_
+3	deng	_	ADP	_	_	4	case	_	_
+4	babai	_	NOUN	_	_	2	nsubj	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:46
+# text = Ing abugado i Juan.
+# text[eng] = John is the lawyer.
+# labels = mirikitani:72:144
+1	Ing	_	ADP	_	_	2	case	_	_
+2	abugado	_	NOUN	_	_	0	root	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Juan	_	PROPN	_	_	2	nsubj	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:47
+# text = Deng para kareng anak deng kendi.
+# text[eng] = The candies are the ones for the children.
+# labels = mirikitani:72:145
+1	Deng	_	ADP	_	_	4	case	_	_
+2	para	_	ADP	_	_	3	fixed	_	_
+3	kareng	_	ADP	_	_	4	case	_	_
+4	anak	_	NOUN	_	_	0	root	_	_
+5	deng	_	ADP	_	_	6	case	_	_
+6	kendi	_	NOUN	_	_	4	nsubj	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+
+
+
+
+
