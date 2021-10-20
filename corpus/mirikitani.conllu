@@ -639,7 +639,79 @@
 6	lalaki	_	NOUN	_	_	3	obj:agent	_	_
 7	?	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:52
-# text = 
-# text[eng] =
-# labels = mirikitani:72:
+# sent_id = syntax:53
+# text = Itamu munta king sine.
+# text[eng] = We will go to the movie.
+# labels = mirikitani:72:161
+1	Itamu	_	PRON	_	_	2	nsubj	_	_
+2	munta	_	VERB	_	_	0	root	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	sine	_	NOUN	_	_	2	obl	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = syntax:54
+# text = Migaral yang Inglis i Nena.
+# text[eng] = Nena studied English.
+# labels = mirikitani:72:166
+1	Migaral	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	Inglis	_	NOUN	_	_	1	obj	_	_
+5	i	_	ADP	_	_	6	case	_	_
+6	Nena	_	PROPN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:55
+# text = Pigaralan neng Nena ing Inglis.
+# text[eng] = English was studied by Nena.
+# labels = mirikitani:72:167
+1	Pigaralan	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	case	_	_
+5	Nena	_	PROPN	_	_	1	obj:agent	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	Inglis	_	NOUN	_	_	1	nsubj:pass	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:56
+# text = Puntalan ne ning babai ing doktor.
+# text[eng] = The woman will go to the doctor.
+# labels = mirikitani:72:174
+1	Puntalan	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	babai	_	NOUN	_	_	1	obj:agent	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	doktor	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:57
+# text = Saupan na ka ning lalaki.
+# text[eng] = The boy will help you.
+# labels = mirikitani:72:175
+1	Saupan	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ka	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	lalaki	_	NOUN	_	_	1	obj:agent	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:58
+# text = Kaninu ka sumulat?
+# text[eng] = To whom are you going to write?
+# labels = mirikitani:72:181
+1	Kaninu	_	PRON	_	_	3	obl	_	_
+2	ka	_	PRON	_	_	3	dep	_	_
+3	sumulat	_	VERB	_	_	0	root	_	_
+4	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = syntax:59
+# text = Ninu ing sulatanan mu?
+# text[eng] = Who is the [one to whom] you will write?
+# labels = mirikitani:72:181
+
