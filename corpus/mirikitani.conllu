@@ -791,12 +791,12 @@
 # text[eng] = The woman who is teaching English to my child is going to Japan.
 # labels = mirikitani:72:190
 1	Munta	_	VERB	_	_	0	root	_	_
-2	ya	_	PRON	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	_	_	_
 3	king	_	ADP	_	_	_	_	_	_
 4	Japan	_	NOUN	_	_	_	_	_	_
 5	ing	_	ADP	_	_	_	_	_	_
-6	baba	_	NOUN	_	_	_	_	_	_
-7	ing	_	ADP	_	_	_	_	_	_
+6	babai	_	NOUN	_	_	_	_	_	_
+7	ng	_	PART	_	_	_	_	_	_
 8-9	tuturung	_	_	_	_	_	_	_	_
 8	tuturu	_	VERB	_	_	_	_	_	_
 9	ng	_	PART	_	_	_	_	_	_
