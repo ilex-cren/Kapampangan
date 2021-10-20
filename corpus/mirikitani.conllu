@@ -714,4 +714,144 @@
 # text = Ninu ing sulatanan mu?
 # text[eng] = Who is the [one to whom] you will write?
 # labels = mirikitani:72:181
+1	Ninu	_	PRON	_	_	0	root	_	_
+2	ing	_	SCONJ	_	_	3	mark	_	_
+3	sulatanan	_	VERB	_	_	1	csubj	_	_
+4	mu	_	PRON	_	_	3	dep	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = syntax:60
+# text = Para kaninu ka sinaling malan?
+# text[eng] = For whom did you buy clothes?
+# labels = mirikitani:72:181
+1	Para	_	ADP	_	_	2	fixed	_	_
+2	kaninu	_	PRON	_	_	4	obl	_	_
+3	ka	_	PRON	_	_	4	dep	_	_
+4-5	ngsinali	_	_	_	_	_	_	_	_
+4	sinali	_	VERB	_	_	0	root	_	_
+5	ng	_	PART	_	_	6	mark	_	_
+6	malan	_	NOUN	_	_	4	obj	_	_
+7	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = syntax:61
+# text = Ninu ing pinyali mung malan?
+# text[eng] = Who is the [one for whom] you bought clothes?
+# labels = mirikitani:72:181
+1	Ninu	_	PRON	_	_	0	root	_	_
+2	ing	_	SCONJ	_	_	3	mark	_	_
+3	pinyali	_	VERB	_	_	1	csubj	_	_
+4-5	mung	_	_	_	_	_	_	_	_
+4	mu	_	PRON	_	_	3	dep	_	_
+5	ng	_	PART	_	_	6	mark	_	_
+6	malan	_	NOUN	_	_	3	obj	_	_
+7	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:62
+# text = O sige, bayaran ku ne.
+# text[eng] = All right, I'll pay it (already).
+# labels = mirikitani:72:187
+1	O	_	INTJ	_	_	2	fixed	_	_
+2	sige	_	INTJ	_	_	4	discourse	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	bayaran	_	VERB	_	_	0	root	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6-7	ne	_	_	_	_	_	_	_	_
+6	n	_	ADV	_	_	4	advmod	_	_
+7	e	_	PRON	_	_	4	dep	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = syntax:63
+# text = Ambaganan neng pera ing pisamban.
+# text[eng] = He will contribute money to the church.
+# labels = mirikitani:72:187
+1	Ambaganan	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	pera	_	NOUN	_	_	1	obj	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	pisamban	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:64
+# text = Gawan ke ing malan.
+# text[eng] = I will make the dress.
+# labels = mirikitani:72:187
+1	Gawan	_	VERB	_	_	0	root	_	_
+2-3	ke	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	malan	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = syntax:65
+# text = Munta ya king Japan ing babaing tuturung Inglis king anak ku.
+# text[eng] = The woman who is teaching English to my child is going to Japan.
+# labels = mirikitani:72:190
+1	Munta	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	_	_	_	_
+3	king	_	ADP	_	_	_	_	_	_
+4	Japan	_	NOUN	_	_	_	_	_	_
+5	ing	_	ADP	_	_	_	_	_	_
+6	baba	_	NOUN	_	_	_	_	_	_
+7	ing	_	ADP	_	_	_	_	_	_
+8-9	tuturung	_	_	_	_	_	_	_	_
+8	tuturu	_	VERB	_	_	_	_	_	_
+9	ng	_	PART	_	_	_	_	_	_
+10	Inglis	_	NOUN	_	_	_	_	_	_
+11	king	_	ADP	_	_	_	_	_	_
+12	anak	_	NOUN	_	_	_	_	_	_
+13	ku	_	PRON	_	_	_	_	_	_
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = syntax:66
+# text = Bapa ke ing taung makalukluk karin.
+# text[eng] = The man sitting there is my uncle.
+# labels = mirikitani:72:190
+
+# sent_id = syntax:67
+# text = Ortelano neman ing lalaking titser na ning anak ku.
+# text[eng] = The man who is my child's teacher is a farmer also.
+# labels = mirikitani:72:190
+
+# sent_id = syntax:68
+# text = Dinalan na kung krus ning bapa kung pari king Oslob.
+# text[eng] = My uncle who is a priest in Oslob gave me the cross.
+# labels = mirikitani:72:191
+
+# sent_id = syntax:69
+# text = Kanaku ya ing libru a ita.
+# text[eng] = That book is mine.
+# labels = mirikitani:72:191
+
+# sent_id = syntax:70
+# text = Ikit me ing barung seli ku king Menila?
+# text[eng] = Did you see the dress I bought in Manila?
+# labels = mirikitani:72:193
+
+# sent_id = syntax:71
+# text = Panyulat me ing lapis a ibye ku keka.
+# text[eng] = You write with the pencil I gave you.
+# labels = mirikitani:72:193
+
+# sent_id = syntax:72
+# text = Dinatang ku keni ketang banwang milabasan. 
+# text[eng] = I came here last year.
+# labels = mirikitani:72:194
+
+# sent_id = syntax:73
+# text = Abugado ya ing tatang na ning pisan kung tuturung Inglis king Unibersidad.
+# text[eng] = The father of my cousin who teaches English at the University is a lawyer.
+# labels = mirikitani:72:195
+
+# sent_id = syntax:74
+# text = Itang dalagang migkanta ing mestrang mamako king Japan bukas.
+# text[eng] = That youn glady who sang is the teacher who is leaving for Japan tomorrow.
+# labels = mirikitani:72:195
+
+# sent_id = syntax:75
+# text = Ibye ne ning babaing mestrang terak ing kending seli mu napun kareng anak a alang pera.
+# text[eng] = The woman who is a dance teacher will give the candy you bought yesterday to the children without any money. 
+# labels = mirikitani:72:195
