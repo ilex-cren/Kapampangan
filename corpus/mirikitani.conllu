@@ -878,28 +878,107 @@
 # text = Ikit me ing barung seli ku king Menila?
 # text[eng] = Did you see the dress I bought in Manila?
 # labels = mirikitani:72:193
+1	Ikit	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5-6	barung	_	_	_	_	_	_	_	_
+5	baru	_	NOUN	_	_	1	nsubj	_	_
+6	ng	_	PRON	_	_	7	mark	_	_
+7	seli	_	VERB	_	_	5	acl:relcl	_	_
+8	ku	_	PRON	_	_	7	dep	_	_
+9	king	_	ADP	_	_	10	case	_	_
+10	Menila	_	PROPN	_	_	7	obl	_	_
+11	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:71
 # text = Panyulat me ing lapis a ibye ku keka.
 # text[eng] = You write with the pencil I gave you.
 # labels = mirikitani:72:193
+1	Panyulat	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	lapis	_	NOUN	_	_	1	nsubj	_	_
+6	a	_	PART	_	_	7	mark	_	_
+7	ibye	_	VERB	_	_	5	acl:relcl	_	_
+8	ku	_	PRON	_	_	7	dep	_	_
+9	keka	_	PRON	_	_	7	obl	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:72
 # text = Dinatang ku keni ketang banwang milabasan. 
 # text[eng] = I came here last year.
 # labels = mirikitani:72:194
+1	Dinatang	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	keni	_	ADV	_	_	1	advmod	_	_
+4-5	ketang	_	_	_	_	_	_	_	_
+4	keta	_	ADJ	_	_	6	amod	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6-7	banwang	_	_	_	_	_	_	_	_
+6	banwa	_	NOUN	_	_	1	obl	_	_
+7	ng	_	PART	_	_	8	mark	_	_
+8	milabasan	_	VERB	_	_	6	acl:relcl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:73
 # text = Abugado ya ing tatang na ning pisan kung tuturung Inglis king Unibersidad.
 # text[eng] = The father of my cousin who teaches English at the University is a lawyer.
 # labels = mirikitani:72:195
+1	Abugado	_	NOUN	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	tatang	_	NOUN	_	_	1	nsubj	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	ning	_	ADP	_	_	7	case	_	_
+7	pisan	_	NOUN	_	_	4	nmod:poss	_	_
+8-9	kung	_	_	_	_	_	_	_	_
+8	ku	_	PRON	_	_	7	dep	_	_
+9	ng	_	PART	_	_	10	mark	_	_
+10-11	tuturung	_	_	_	_	_	_	_	_
+10	tuturu	_	NOUN	_	_	7	acl:relcl	_	_
+11	ng	_	PART	_	_	12	mark:link	_	_
+12	Inglis	_	NOUN	_	_	10	obj	_	_
+13	king	_	ADP	_	_	14	case	_	_
+14	Unibersidad	_	NOUN	_	_	10	obl	_	_
+15	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:74
 # text = Itang dalagang migkanta ing mestrang mamako king Japan bukas.
-# text[eng] = That youn glady who sang is the teacher who is leaving for Japan tomorrow.
+# text[eng] = That young lady who sang is the teacher who is leaving for Japan tomorrow.
 # labels = mirikitani:72:195
 
 # sent_id = syntax:75
 # text = Ibye ne ning babaing mestrang terak ing kending seli mu napun kareng anak a alang pera.
 # text[eng] = The woman who is a dance teacher will give the candy you bought yesterday to the children without any money. 
 # labels = mirikitani:72:195
+1	Ibye	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5-6	babaing	_	_	_	_	_	_	_	_
+5	babai	_	NOUN	_	_	1	obj:agent	_	_
+6	ng	_	PART	_	_	7	mark	_	_
+7-8	mestrang	_	_	_	_	_	_	_	_
+7	mestra	_	NOUN	_	_	5	acl:relcl	_	_
+8	ng	_	PART	_	_	9	mark:link	_	_
+9	terak	_	NOUN	_	_	7	nmod	_	_
+10	ing	_	ADP	_	_	11	case	_	_
+11-12	kending	_	_	_	_	_	_	_	_
+11	kendi	_	NOUN	_	_	1	nsubj:pass	_	_
+12	ng	_	PART	_	_	13	mark	_	_
+13	seli	_	VERB	_	_	11	acl:relcl	_	_
+14	mu	_	PRON	_	_	13	dep	_	_
+15	napun	_	ADV	_	_	13	advmod	_	_
+16	kareng	_	ADP	_	_	17	case	_	_
+17	anak	_	NOUN	_	_	1	obl	_	_
+18	a	_	PART	_	_	19	mark	_	_
+19-20	alang	_	_	_	_	_	_	_	_
+19	ala	_	VERB	_	_	17	acl:relcl	_	_
+20	ng	_	PART	_	_	21	mark:link	_	_
+21	pera	_	NOUN	_	_	19	obj	_	_
+22	.	_	PUNCT	_	_	1	punct	_	_
