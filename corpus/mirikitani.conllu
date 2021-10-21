@@ -982,3 +982,131 @@
 20	ng	_	PART	_	_	21	mark:link	_	_
 21	pera	_	NOUN	_	_	19	obj	_	_
 22	.	_	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = syntax:76
+# text = King bunduk Sinukwan ating metung a makatuknang matwang babai.
+# text[eng] = In the mountain of Sinukwan there lives an old woman.
+# labels = mirikitani:72:196
+
+# sent_id = syntax:77
+# text = Pagdala neng kending gewa na ning kapatad nang babai i Apu na.
+# text[eng] = He wll take the candy made by his sister to his Grandmother.
+# labels = mirikitani:72:198
+
+# sent_id = syntax:78
+# text = Mipagkwentuan la reng adwang mikaluguran.
+# text[eng] = The two friends told each other stories.
+# labels = mirikitani:72:200
+
+# sent_id = syntax:79
+# text = Munta y aing Japan ing anak a tinerak.
+# text[eng] = The child who danced is going to Japan.
+# labels = mirikitani:72:202
+
+# sent_id = syntax:80
+# text = Para king mestra yang makalukluk karin ing librung seli ku.
+# text[eng] = The book I bought is for the teacher sitting there.
+# labels = mirikitani:72:204
+
+# sent_id = syntax:81
+# text = Mestra ya ing sulatanan ku king poesia.
+# text[eng]] = The [one to whom] I will write a poem is a teacher.
+# labels = mirikitani:72:205
+
+# sent_id = syntax:82
+# text = Balu ku king datang ya.
+# text[eng] = I know that he will come.
+# labels = mirikitani:72:207
+
+# sent_id = syntax:83
+# text = Ikit nang ima na king mangabalbal la.
+# text[eng] = His mother saw that they were broken.
+# labels = mirikitani:72:207
+
+# sent_id = syntax:84
+# text = Sinabi ne ning lalaki ing awang.
+# text[eng] = The boy said 'ing awang'.
+# labels = mirikitani:72:209
+
+# sent_id = syntax:85
+# text = Sinabi na ning lalaki king ding matwang dalaga magdala lang panyulitu.
+# text[eng] = The boy said that the old maids will bring handkerchiefs.
+# labels = mirikitani:72:209
+
+# sent_id = syntax:86
+# text = Nga ra king ing lagyu na ning balen Masiku menibaten ya king balitang ketang balen a ita dakal a siku.
+# text[eng] = They say that the name of the town Masiku came from the well-known fact that in that town there are many chikos.
+# labels = mirikitani:72:209
+
+# sent_id = syntax:87
+# text = Makasigurado kung ing pasalubung miras ya karin masalese.
+# text[eng] = I'm sure the gift will reach there in good condition.
+# labels = mirikitani:72:210
+
+# sent_id = syntax:88
+# text = Kasebyan king ninuman ing mukyat king bunduk Arayat malyari yang kuma karing bunga ring tanaman. 
+# text[eng] = It is said that whoever climbs the mountain Arayat may take the fruits of the plants.
+# labels = mirikitani:72:210
+
+# sent_id = syntax:89
+# text = Sinabi ne ning lalaki datang i Juan.
+# text[eng] = The boy said Juan will come.
+# labels = mirikitani:72:212
+
+# sent_id = syntax:90
+# text = Sinabi na king ing asan ing dapat nang banten ning pusa.
+# text[eng] = He said that the fish is the thing the cat must watch.
+# labels = mirikitani:72:213
+
+# sent_id = syntax:91
+# text = Balu mu nung nukarin ya minta i Juan?
+# text[eng] = Do you know where Juan went?
+# labels = mirikitani:72:214
+
+# sent_id = syntax:92
+# text = Saupan da kang maglinis bale. 
+# text[eng] = I'll help you clean the house.
+# labels = mirikitani:72:218
+
+# sent_id = syntax:93
+# text = Sumaup ku keka bukas.
+# text[eng] = I'll help you tomorrow.
+# labels = mirikitani:72:220
+
+# sent_id = syntax:94
+# text = Saupan da ka bukas.
+# text[eng] = You will be helped by me tomorrow.
+# labels = mirikitani:72:220
+
+# sent_id = syntax:95
+# text = Sumaup kung maglinis bale keka.
+# text[eng] = I'll help you clean the house.
+# labels = mirikitani:72:220
+
+# sent_id = syntax:96
+# text = Kailangan kung muli ngeni.
+# text[eng] = I have to go home now.
+# labels = mirikitani:72:221
+
+# sent_id = syntax:97
+# text = Susubukan keng bubuklat ing awang.
+# text[eng] = I'm trying to open the window.
+# labels = mirikitani:72:221
+
+# sent_id = syntax:98
+# text = Iyagkat deng saglulu ing pau.
+# text[eng] = The turtle was invited by them to race.
+# labels = mirikitani:72:221
+
+# sent_id = syntax:99
+# text = Munta kaming mamialung mahjong king kantin.
+# text[eng] = We'll go to the canteen to play mahjong.
+# labels = mirikitani:72:221
+
+# sent_id = syntax:100
+# text = Bisa kung munta king balen.
+# text[eng] = I want to go to town.
+# labels = mirikitani:72:223
+
+
