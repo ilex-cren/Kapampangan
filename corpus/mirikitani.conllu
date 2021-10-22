@@ -988,6 +988,20 @@
 # text = King bunduk Sinukwan ating metung a makatuknang matwang babai.
 # text[eng] = In the mountain of Sinukwan there lives an old woman.
 # labels = mirikitani:72:196
+1	King	_	ADP	_	_	2	case	_	_
+2	bunduk	_	NOUN	_	_	4	obl	_	_
+3	Sinukwan	_	PROPN	_	_	2	nmod	_	_
+4-5	ating	_	_	_	_	_	_	_	_
+4	atin	_	VERB	_	_	0	root	_	_
+5	g	_	PART	_	_	_	_	_	_
+6	metung	_	NUM	_	_	4	nsubj	_	_
+7	a	_	PART	_	_	8	mark	_	_
+8	makatuknang	_	VERB	_	_	6	acl:relcl	_	_
+9-10	matwang	_	_	_	_	_	_	_	_
+9	matwa	_	ADJ	_	_	11	amod	_	_
+10	ng	_	PART	_	_	9	mark:link	_	_
+11	babai	_	NOUN	_	_	6	appos	_	_
+12	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = syntax:77
 # text = Pagdala neng kending gewa na ning kapatad nang babai i Apu na.
