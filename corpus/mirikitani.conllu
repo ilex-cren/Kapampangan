@@ -1007,16 +1007,58 @@
 # text = Pagdala neng kending gewa na ning kapatad nang babai i Apu na.
 # text[eng] = He wll take the candy made by his sister to his Grandmother.
 # labels = mirikitani:72:198
+1	Pagdala	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5-6	kending	_	_	_	_	_	_	_	_
+5	kendi	_	NOUN	_	_	1	obj	_	_
+6	ng	_	PART	_	_	7	mark	_	_
+7	gewa	_	VERB	_	_	5	acl:relcl	_	_
+8	na	_	PRON	_	_	7	dep	_	_
+9	ning	_	ADP	_	_	10	case	_	_
+10	kapatad	_	NOUN	_	_	7	obj:agent	_	_
+11	nang	_	ADP	_	_	12	case	_	_
+12	babai	_	NOUN	_	_	10	nmod	_	_
+13	i	_	ADP	_	_	14	case	_	_
+14	Apu	_	PROPN	_	_	1	nsubj	_	_
+15	na	_	PRON	_	_	14	dep	_	_
+16	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:78
 # text = Mipagkwentuan la reng adwang mikaluguran.
 # text[eng] = The two friends told each other stories.
 # labels = mirikitani:72:200
+1	Mipagkwentuan	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	reng	_	ADP	_	_	6	case	_	_
+4-5	adwang	_	_	_	_	_	_	_	_
+4	adwa	_	NUM	_	_	6	nummod	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	mikaluguran	_	NOUN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_1	Mipagkwentuan	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	reng	_	ADP	_	_	6	case	_	_
+4-5	adwang	_	_	_	_	_	_	_	_
+4	adwa	_	NUM	_	_	6	nummod	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	mikaluguran	_	NOUN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:79
-# text = Munta y aing Japan ing anak a tinerak.
+# text = Munta ya king Japan ing anak a tinerak.
 # text[eng] = The child who danced is going to Japan.
 # labels = mirikitani:72:202
+1	Munta	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	Japan	_	PROPN	_	_	1	obl	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	anak	_	NOUN	_	_	1	nsubj	_	_
+7	a	_	PART	_	_	8	mark:link	_	_
+8	tinerak	_	VERB	_	_	6	acl:relcl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:80
 # text = Para king mestra yang makalukluk karin ing librung seli ku.
