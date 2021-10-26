@@ -1064,6 +1064,21 @@
 # text = Para king mestra yang makalukluk karin ing librung seli ku.
 # text[eng] = The book I bought is for the teacher sitting there.
 # labels = mirikitani:72:204
+1	Para	_	ADP	_	_	2	fixed	_	_
+2	king	_	ADP	_	_	3	case	_	_
+3	mestra	_	NOUN	_	_	0	root	_	_
+4-5	yang	_	_	_	_	_	_	_	_
+4	ya	_	PRON	_	_	3	dep	_	_
+5	ng	_	PART	_	_	6	mark	_	_
+6	makalukluk	_	VERB	_	_	3	acl:relcl	_	_
+7	karin	_	ADV	_	_	6	advmod	_	_
+8	ing	_	ADP	_	_	9	case	_	_
+9-10	librung	_	_	_	_	_	_	_	_
+9	libru	_	NOUN	_	_	3	nsubj	_	_
+10	ng	_	PART	_	_	11	mark	_	_
+11	seli	_	VERB	_	_	9	acl:relcl	_	_
+12	ku	_	PRON	_	_	11	dep	_	_
+13	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = syntax:81
 # text = Mestra ya ing sulatanan ku king poesia.
@@ -1165,4 +1180,68 @@
 # text[eng] = I want to go to town.
 # labels = mirikitani:72:223
 
+# sent_id = syntax:101
+# text = Lalakad yang mabagal ing lalaki.
+# text[eng] = The boy is walking slowly.
+# labels = mirikitani:72:225
+
+# sent_id = syntax:102
+# text = Mamangan yang mabilis.
+# text[eng] = He eats fast.
+# labels = mirikitani:72:225
+
+# sent_id = syntax:103
+# text = Linawen nang marat nang Gustin i Goryu.
+# text[eng] = Gustin looked carefully at Goryu.
+# labels = mirikitani:72:225
+
+# sent_id = syntax:104
+# text = Kailangan kung sumulat istorya king Inglis.
+# text[eng] = I have to write a story in English.
+# labels = mirikitani:72:226
+
+# sent_id = syntax:105
+# text = Munta kaming mamialung mahjong king kantin.
+# text[eng] = We'll go to the canteen to play mahjong.
+# labels = mirikitani:72:227
+
+# sent_id = syntax:106
+# text = Tinuksu deng manako i Juan.
+# text[eng] = They tempted Juan to steal.
+# labels = mirikitani:72:227
+
+# sent_id = syntax:107
+# text = Mumunta yang mumunta ing anak king sine.
+# text[eng] = The child always goes to the movies.
+# labels = mirikitani:72:228
+
+# sent_id = syntax:108
+# text = Masanting yang masanting ing lalaki.
+# text[eng] = The boy is very handsome.
+# labels = mirikitani:72:228
+
+# sent_id = syntax:109
+# text = Ikit neng masisilab ing bale.
+# text[eng] = He saw the house burning.
+# labels = mirikitani:72:230
+
+# sent_id = syntax:110
+# text = Ikit na lang mamangan deng tau.
+# text[eng] = He saw the people eating.
+# labels = mirikitani:72:231
+
+# sent_id = syntax:111
+# text = Munta ka king tindahan ampong salwan mo reng gule.
+# text[eng] = (You) go to the store and buy some vegetables.
+# labels = mirikitani:72:233
+
+# sent_id = syntax:112
+# text = Minuli ku metutud ku. 
+# text[eng] = I went home (and) slept.
+# labels = mirikitani:72:233
+
+# sent_id = syntax:113
+# text = At saka minuli ya i Maria.
+# text[eng] = And then, Maria went home.
+# labels = mirikitani:72:234
 
