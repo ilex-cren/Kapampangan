@@ -1138,141 +1138,171 @@
 14	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:86
-# text = Nga ra king ing lagyu na ning balen Masiku menibaten ya king balitang ketang balen a ita dakal a siku.
-# text[eng] = They say that the name of the town Masiku came from the well-known fact that in that town there are many chikos.
-# labels = mirikitani:72:209
-
-# sent_id = syntax:87
 # text = Makasigurado kung ing pasalubung miras ya karin masalese.
 # text[eng] = I'm sure the gift will reach there in good condition.
 # labels = mirikitani:72:210
+1	Makasigurado	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	6	mark	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	pasalubung	_	NOUN	_	_	6	nsubj	_	_
+6	miras	_	VERB	_	_	1	ccomp	_	_
+7	ya	_	PRON	_	_	6	dep	_	_
+8	karin	_	ADV	_	_	6	advmod	_	_
+9	masalese	_	ADV	_	_	6	advmod	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:88
+# sent_id = syntax:87
 # text = Kasebyan king ninuman ing mukyat king bunduk Arayat malyari yang kuma karing bunga ring tanaman. 
 # text[eng] = It is said that whoever climbs the mountain Arayat may take the fruits of the plants.
 # labels = mirikitani:72:210
 
-# sent_id = syntax:89
+# sent_id = syntax:88
 # text = Sinabi ne ning lalaki datang i Juan.
 # text[eng] = The boy said Juan will come.
 # labels = mirikitani:72:212
+1	Sinabi	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	lalaki	_	NOUN	_	_	1	obj:agent	_	_
+6	datang	_	VERB	_	_	1	parataxis	_	_
+7	i	_	ADP	_	_	8	case	_	_
+8	Juan	_	PROPN	_	_	6	nsubj	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:90
+# sent_id = syntax:89
 # text = Sinabi na king ing asan ing dapat nang banten ning pusa.
 # text[eng] = He said that the fish is the thing the cat must watch.
 # labels = mirikitani:72:213
+1	Sinabi	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	king	_	SCONJ	_	_	5	mark	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	asan	_	NOUN	_	_	1	ccomp	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	dapat	_	NOUN	_	_	5	nsubj	_	_
+8-9	nang	_	_	_	_	_	_	_	_
+8	na	_	PRON	_	_	7	dep	_	_
+9	ng	_	PART	_	_	10	mark	_	_
+10	banten	_	VERB	_	_	7	acl:relcl	_	_
+11	ning	_	ADP	_	_	12	case	_	_
+12	pusa	_	NOUN	_	_	10	obj:agent	_	_
+13	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:91
+# sent_id = syntax:90
 # text = Balu mu nung nukarin ya minta i Juan?
 # text[eng] = Do you know where Juan went?
 # labels = mirikitani:72:214
 
-# sent_id = syntax:92
+# sent_id = syntax:91
 # text = Saupan da kang maglinis bale. 
 # text[eng] = I'll help you clean the house.
 # labels = mirikitani:72:218
 
-# sent_id = syntax:93
+# sent_id = syntax:92
 # text = Sumaup ku keka bukas.
 # text[eng] = I'll help you tomorrow.
 # labels = mirikitani:72:220
 
-# sent_id = syntax:94
+# sent_id = syntax:93
 # text = Saupan da ka bukas.
 # text[eng] = You will be helped by me tomorrow.
 # labels = mirikitani:72:220
 
-# sent_id = syntax:95
+# sent_id = syntax:
 # text = Sumaup kung maglinis bale keka.
 # text[eng] = I'll help you clean the house.
 # labels = mirikitani:72:220
 
-# sent_id = syntax:96
+# sent_id = syntax:
 # text = Kailangan kung muli ngeni.
 # text[eng] = I have to go home now.
 # labels = mirikitani:72:221
 
-# sent_id = syntax:97
+# sent_id = syntax:
 # text = Susubukan keng bubuklat ing awang.
 # text[eng] = I'm trying to open the window.
 # labels = mirikitani:72:221
 
-# sent_id = syntax:98
+# sent_id = syntax:
 # text = Iyagkat deng saglulu ing pau.
 # text[eng] = The turtle was invited by them to race.
 # labels = mirikitani:72:221
 
-# sent_id = syntax:99
+# sent_id = syntax:
 # text = Munta kaming mamialung mahjong king kantin.
 # text[eng] = We'll go to the canteen to play mahjong.
 # labels = mirikitani:72:221
 
-# sent_id = syntax:100
+# sent_id = syntax:
 # text = Bisa kung munta king balen.
 # text[eng] = I want to go to town.
 # labels = mirikitani:72:223
 
-# sent_id = syntax:101
+# sent_id = syntax:
 # text = Lalakad yang mabagal ing lalaki.
 # text[eng] = The boy is walking slowly.
 # labels = mirikitani:72:225
 
-# sent_id = syntax:102
+# sent_id = syntax:
 # text = Mamangan yang mabilis.
 # text[eng] = He eats fast.
 # labels = mirikitani:72:225
 
-# sent_id = syntax:103
+# sent_id = syntax:
 # text = Linawen nang marat nang Gustin i Goryu.
 # text[eng] = Gustin looked carefully at Goryu.
 # labels = mirikitani:72:225
 
-# sent_id = syntax:104
+# sent_id = syntax:
 # text = Kailangan kung sumulat istorya king Inglis.
 # text[eng] = I have to write a story in English.
 # labels = mirikitani:72:226
 
-# sent_id = syntax:105
+# sent_id = syntax:
 # text = Munta kaming mamialung mahjong king kantin.
 # text[eng] = We'll go to the canteen to play mahjong.
 # labels = mirikitani:72:227
 
-# sent_id = syntax:106
+# sent_id = syntax:
 # text = Tinuksu deng manako i Juan.
 # text[eng] = They tempted Juan to steal.
 # labels = mirikitani:72:227
 
-# sent_id = syntax:107
+# sent_id = syntax:
 # text = Mumunta yang mumunta ing anak king sine.
 # text[eng] = The child always goes to the movies.
 # labels = mirikitani:72:228
 
-# sent_id = syntax:108
+# sent_id = syntax:
 # text = Masanting yang masanting ing lalaki.
 # text[eng] = The boy is very handsome.
 # labels = mirikitani:72:228
 
-# sent_id = syntax:109
+# sent_id = syntax:
 # text = Ikit neng masisilab ing bale.
 # text[eng] = He saw the house burning.
 # labels = mirikitani:72:230
 
-# sent_id = syntax:110
+# sent_id = syntax:
 # text = Ikit na lang mamangan deng tau.
 # text[eng] = He saw the people eating.
 # labels = mirikitani:72:231
 
-# sent_id = syntax:111
+# sent_id = syntax:
 # text = Munta ka king tindahan ampong salwan mo reng gule.
 # text[eng] = (You) go to the store and buy some vegetables.
 # labels = mirikitani:72:233
 
-# sent_id = syntax:112
+# sent_id = syntax:
 # text = Minuli ku metutud ku. 
 # text[eng] = I went home (and) slept.
 # labels = mirikitani:72:233
 
-# sent_id = syntax:113
+# sent_id = syntax:
 # text = At saka minuli ya i Maria.
 # text[eng] = And then, Maria went home.
 # labels = mirikitani:72:234
