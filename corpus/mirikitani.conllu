@@ -1196,76 +1196,166 @@
 # text = Balu mu nung nukarin ya minta i Juan?
 # text[eng] = Do you know where Juan went?
 # labels = mirikitani:72:214
+1	Balu	_	VERB	_	_	0	root	_	_
+2	mu	_	PRON	_	_	1	dep	_	_
+3	nung	_	SCONJ	_	_	6	mark	_	_
+4	nukarin	_	ADV	_	_	6	advmod	_	_
+5	ya	_	PRON	_	_	6	dep	_	_
+6	minta	_	VERB	_	_	1	ccomp	_	_
+7	i	_	ADP	_	_	8	case	_	_
+8	Juan	_	PROPN	_	_	6	nsubj	_	_
+9	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:91
 # text = Saupan da kang maglinis bale. 
 # text[eng] = I'll help you clean the house.
 # labels = mirikitani:72:218
+1	Saupan	_	VERB	_	_	0	root	_	_
+2	da	_	PRON	_	_	1	dep	_	_
+3-4	kang	_	_	_	_	_	_	_	_
+3	ka	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark	_	_
+5	maglinis	_	VERB	_	_	1	xcomp	_	_
+6	bale	_	NOUN	_	_	5	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:92
 # text = Sumaup ku keka bukas.
 # text[eng] = I'll help you tomorrow.
 # labels = mirikitani:72:220
+1	Sumaup	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	keka	_	PRON	_	_	1	obl	_	_
+4	bukas	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:93
 # text = Saupan da ka bukas.
 # text[eng] = You will be helped by me tomorrow.
 # labels = mirikitani:72:220
+1	Saupan	_	VERB	_	_	0	root	_	_
+2	da	_	PRON	_	_	1	dep	_	_
+3	ka	_	PRON	_	_	1	dep	_	_
+4	bukas	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:94
 # text = Sumaup kung maglinis bale keka.
 # text[eng] = I'll help you clean the house.
 # labels = mirikitani:72:220
+1	Sumaup	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark	_	_
+4	maglinis	_	VERB	_	_	1	xcomp	_	_
+5	bale	_	NOUN	_	_	4	obj	_	_
+6	keka	_	PRON	_	_	1	obl	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:95
 # text = Kailangan kung muli ngeni.
 # text[eng] = I have to go home now.
 # labels = mirikitani:72:221
+1	Kailangan	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark	_	_
+4	muli	_	VERB	_	_	1	xcomp	_	_
+5	ngeni	_	ADV	_	_	4	advmod	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:96
 # text = Susubukan keng bubuklat ing awang.
 # text[eng] = I'm trying to open the window.
 # labels = mirikitani:72:221
+1	Susubukan	_	VERB	_	_	0	root	_	_
+2-4	keng	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark	_	_
+5	bubuklat	_	VERB	_	_	1	xcomp	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	awang	_	NOUN	_	_	5	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:97
 # text = Iyagkat deng saglulu ing pau.
 # text[eng] = The turtle was invited by them to race.
 # labels = mirikitani:72:221
+1	Iyagkat	_	VERB	_	_	0	root	_	_
+2-4	deng	_	_	_	_	_	_	_	_
+2	d	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark	_	_
+5	saglulu	_	VERB	_	_	1	xcomp	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	pau	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:98
 # text = Munta kaming mamialung mahjong king kantin.
 # text[eng] = We'll go to the canteen to play mahjong.
 # labels = mirikitani:72:221
+1	Munta	_	VERB	_	_	0	root	_	_
+2-3	kaming	_	_	_	_	_	_	_	_
+2	kami	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark	_	_
+4	mamialung	_	VERB	_	_	1	xcomp	_	_
+5	mahjong	_	NOUN	_	_	4	obj	_	_
+6	king	_	ADP	_	_	7	case	_	_
+7	kantin	_	NOUN	_	_	1	obl	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:99
 # text = Bisa kung munta king balen.
 # text[eng] = I want to go to town.
 # labels = mirikitani:72:223
+1	Bisa	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark	_	_
+4	munta	_	VERB	_	_	1	xcomp	_	_
+5	king	_	ADP	_	_	6	case	_	_
+6	balen	_	NOUN	_	_	4	obl	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:100
 # text = Lalakad yang mabagal ing lalaki.
 # text[eng] = The boy is walking slowly.
 # labels = mirikitani:72:225
+1	Lalakad	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	mabagal	_	ADV	_	_	1	advmod	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	lalaki	_	NOUN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:101
 # text = Mamangan yang mabilis.
 # text[eng] = He eats fast.
 # labels = mirikitani:72:225
+1	Mamangan	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	mabilis	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
-# text = Linawen nang marat nang Gustin i Goryu.
-# text[eng] = Gustin looked carefully at Goryu.
-# labels = mirikitani:72:225
-
-# sent_id = syntax:
+# sent_id = syntax:102
 # text = Kailangan kung sumulat istorya king Inglis.
 # text[eng] = I have to write a story in English.
 # labels = mirikitani:72:226
-
-# sent_id = syntax:
-# text = Munta kaming mamialung mahjong king kantin.
-# text[eng] = We'll go to the canteen to play mahjong.
-# labels = mirikitani:72:227
+1	Kailangan	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark	_	_
+4	sumulat	_	VERB	_	_	1	xcomp	_	_
+5	istorya	_	NOUN	_	_	4	obj	_	_
+6	king	_	ADP	_	_	7	case	_	_
+7	Inglis	_	NOUN	_	_	4	obl	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = Tinuksu deng manako i Juan.
