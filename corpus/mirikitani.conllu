@@ -1089,11 +1089,27 @@
 # text = Balu ku king datang ya.
 # text[eng] = I know that he will come.
 # labels = mirikitani:72:207
+1	Balu	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	king	_	SCONJ	_	_	4	mark	_	_
+4	datang	_	VERB	_	_	1	ccomp	_	_
+5	ya	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:83
 # text = Ikit nang ima na king mangabalbal la.
 # text[eng] = His mother saw that they were broken.
 # labels = mirikitani:72:207
+1	Ikit	_	VERB	_	_	0	root	_	_
+2-3	nang	_	_	_	_	_	_	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ng	_	ADP	_	_	4	case	_	_
+4	ima	_	NOUN	_	_	1	nsubj	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	king	_	SCONJ	_	_	7	mark	_	_
+7	mangabalbal	_	VERB	_	_	1	ccomp	_	_
+8	la	_	PRON	_	_	7	dep	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:84
 # text = Sinabi ne ning lalaki ing awang.
@@ -1104,6 +1120,22 @@
 # text = Sinabi na ning lalaki king ding matwang dalaga magdala lang panyulitu.
 # text[eng] = The boy said that the old maids will bring handkerchiefs.
 # labels = mirikitani:72:209
+1	Sinabi	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ning	_	ADP	_	_	4	case	_	_
+4	lalaki	_	NOUN	_	_	1	nsubj	_	_
+5	king	_	SCONJ	_	_	10	mark	_	_
+6	ding	_	ADP	_	_	9	case	_	_
+7-8	matwang	_	_	_	_	_	_	_	_
+7	matwa	_	ADJ	_	_	9	amod	_	_
+8	ng	_	PART	_	_	7	mark:link	_	_
+9	dalaga	_	NOUN	_	_	10	nsubj	_	_
+10	magdala	_	VERB	_	_	1	ccomp	_	_
+11-12	lang	_	_	_	_	_	_	_	_
+11	la	_	PRON	_	_	10	dep	_	_
+12	ng	_	PART	_	_	13	mark:link	_	_
+13	panyulitu	_	NOUN	_	_	10	obj	_	_
+14	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:86
 # text = Nga ra king ing lagyu na ning balen Masiku menibaten ya king balitang ketang balen a ita dakal a siku.
