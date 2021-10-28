@@ -1412,6 +1412,11 @@
 # text = Minuli ku metutud ku. 
 # text[eng] = I went home (and) slept.
 # labels = mirikitani:72:233
+1	Minuli	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	metutud	_	VERB	_	_	1	parataxis	_	_
+4	ku	_	PRON	_	_	3	dep	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = At saka minuli ya i Maria.
@@ -1422,21 +1427,60 @@
 # text = Tinerak ya i Maria ampong migkanta ya i Juan.
 # text[eng] = Maria danced and Juan sang.
 # labels = mirikitani:72:234
+1	Tinerak	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Maria	_	PROPN	_	_	1	nsubj	_	_
+5	ampong	_	CCONJ	_	_	6	cc	_	_
+6	migkanta	_	VERB	_	_	1	conj	_	_
+7	ya	_	PRON	_	_	6	dep	_	_
+8	i	_	ADP	_	_	9	case	_	_
+9	Juan	_	PROPN	_	_	6	nsubj	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = Mestro ya i Juan ampong estudyante ya i Maria.
 # text[eng] = Juan is a teacher and maria is a student.
 # labels = mirikitani:72:235
+1	Mestro	_	NOUN	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Juan	_	PROPN	_	_	1	nsubj	_	_
+5	ampong	_	CCONJ	_	_	6	cc	_	_
+6	estudyante	_	NOUN	_	_	1	conj	_	_
+7	ya	_	PRON	_	_	6	dep	_	_
+8	i	_	ADP	_	_	9	case	_	_
+9	Maria	_	PROPN	_	_	6	nsubj	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax: 
 # text = Kuma la at mangan karing mialiwang bunga.
 # text[eng] = They get and eat the different fruits.
 # labels = mirikitani:72:240
+1	Kuma	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	at	_	CCONJ	_	_	4	cc	_	_
+4	mangan	_	VERB	_	_	1	conj	_	_
+5	karing	_	ADP	_	_	8	case	_	_
+6-7	mialiwang	_	_	_	_	_	_	_	_
+6	mialiwa	_	ADJ	_	_	8	amod	_	_
+7	ng	_	PART	_	_	6	mark	_	_
+8	bunga	_	NOUN	_	_	4	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = Pinalis de ing lande at linampaso.
 # text[eng] = They swept and scrubbed the floor.
 # labels = mirikitani:72:241
+1	Pinalis	_	VERB	_	_	0	root	_	_
+2-3	de	_	_	_	_	_	_	_	_
+2	d	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	lande	_	NOUN	_	_	1	nsubj	_	_
+6	at	_	CCONJ	_	_	7	cc	_	_
+7	linampaso	_	VERB	_	_	1	conj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = Mipagsulat la ri Maria amp i Juan aldo aldo.
