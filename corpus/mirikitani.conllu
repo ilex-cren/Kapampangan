@@ -1361,6 +1361,15 @@
 # text = Tinuksu deng manako i Juan.
 # text[eng] = They tempted Juan to steal.
 # labels = mirikitani:72:227
+1	Tinuksu	_	VERB	_	_	0	root	_	_
+2-4	deng	_	_	_	_	_	_	_	_
+2	d	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark	_	_
+5	manako	_	VERB	_	_	1	xcomp	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	Juan	_	PROPN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = Mumunta yang mumunta ing anak king sine.
@@ -1396,4 +1405,46 @@
 # text = At saka minuli ya i Maria.
 # text[eng] = And then, Maria went home.
 # labels = mirikitani:72:234
+
+# sent_id = syntax:
+# text = Tinerak ya i Maria ampong migkanta ya i Juan.
+# text[eng] = Maria danced and Juan sang.
+# labels = mirikitani:72:234
+
+# sent_id = syntax:
+# text = Mestro ya i Juan ampong estudyante ya i Maria.
+# text[eng] = Juan is a teacher and maria is a student.
+# labels = mirikitani:72:235
+
+# sent_id = syntax: 
+# text = Kuma la at mangan karing mialiwang bunga.
+# text[eng] = They get and eat the different fruits.
+# labels = mirikitani:72:240
+
+# sent_id = syntax:
+# text = Pinalis de ing lande at linampaso.
+# text[eng] = They swept and scrubbed the floor.
+# labels = mirikitani:72:241
+
+# sent_id = syntax:
+# text = Mipagsulat la ri Maria amp i Juan aldo aldo.
+# text[eng] = Maria and Juan wrote each other (letters) everyday.
+# labels = mirikitani:72:245
+
+# sent_id = syntax:
+# text = Datang ya i Mr. Ruiz ing mestro.
+# text[eng] = Mr. Ruiz, the teacher, is coming.
+# labels = mirikitani:72:248
+
+# sent_id = syntax:
+# text = Ing lalaki salwan ne ing mangga king Sabadu.
+# text[eng] = 
+# labels = mirikitani:72:163
+
+# sent_id = syntax:
+# text = Ika ituki mu la reng anak.
+# text[eng] = 
+# labels = mirikitani:72:162
+
+
 
