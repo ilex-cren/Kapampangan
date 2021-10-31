@@ -1483,14 +1483,33 @@
 8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
-# text = Mipagsulat la ri Maria amp i Juan aldo aldo.
+# text = Mipagsulat la ri Maria ampo i Juan aldo aldo.
 # text[eng] = Maria and Juan wrote each other (letters) everyday.
 # labels = mirikitani:72:245
+1	Mipagsulat	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ri	_	ADP	_	_	4	case	_	_
+4	Maria	_	PROPN	_	_	1	nsubj	_	_
+5	ampo	_	CCONJ	_	_	7	cc	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	Juan	_	PROPN	_	_	4	conj	_	_
+8	aldo	_	ADV	_	_	1	advmod	_	_
+9	aldo	_	ADV	_	_	8	compound:redup	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = Datang ya i Mr. Ruiz ing mestro.
 # text[eng] = Mr. Ruiz, the teacher, is coming.
 # labels = mirikitani:72:248
+1	Datang	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	6	case	_	_
+4	Mr	_	PROPN	_	_	6	flat	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
+6	Ruiz	_	PROPN	_	_	1	nsubj	_	_
+7	ing	_	ADP	_	_	8	case	_	_
+8	mestro	_	NOUN	_	_	6	appos	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:
 # text = Ing lalaki salwan ne ing mangga king Sabadu.
