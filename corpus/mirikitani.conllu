@@ -1084,6 +1084,14 @@
 # text = Mestra ya ing sulatanan ku king poesia.
 # text[eng]] = The [one to whom] I will write a poem is a teacher.
 # labels = mirikitani:72:205
+1	Mestra	_	NOUN	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	SCONJ	_	_	4	mark	_	_
+4	sulatanan	_	VERB	_	_	1	csubj	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6	king	_	ADP	_	_	7	case	_	_
+7	poesia	_	NOUN	_	_	4	obl	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:82
 # text = Balu ku king datang ya.
@@ -1357,7 +1365,7 @@
 7	Inglis	_	NOUN	_	_	4	obl	_	_
 8	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:103
 # text = Tinuksu deng manako i Juan.
 # text[eng] = They tempted Juan to steal.
 # labels = mirikitani:72:227
@@ -1371,27 +1379,45 @@
 7	Juan	_	PROPN	_	_	1	nsubj	_	_
 8	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:104
 # text = Mumunta yang mumunta ing anak king sine.
 # text[eng] = The child always goes to the movies.
 # labels = mirikitani:72:228
+1	Mumunta	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	mumunta	_	VERB	_	_	1	compound:redup	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	anak	_	NOUN	_	_	1	nsubj	_	_
+7	king	_	ADP	_	_	8	case	_	_
+8	sine	_	NOUN	_	_	1	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:105
 # text = Masanting yang masanting ing lalaki.
 # text[eng] = The boy is very handsome.
 # labels = mirikitani:72:228
+1	Masanting	_	ADJ	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	masanting	_	ADJ	_	_	1	compound:redup	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	lalaki	_	NOUN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:106
 # text = Ikit neng masisilab ing bale.
 # text[eng] = He saw the house burning.
 # labels = mirikitani:72:230
 
-# sent_id = syntax:
+# sent_id = syntax:107
 # text = Ikit na lang mamangan deng tau.
 # text[eng] = He saw the people eating.
 # labels = mirikitani:72:231
 
-# sent_id = syntax:
+# sent_id = syntax:108
 # text = Munta ka king tindahan ampong salwan mo reng gule.
 # text[eng] = (You) go to the store and buy some vegetables.
 # labels = mirikitani:72:233
@@ -1408,7 +1434,7 @@
 10	gule	_	NOUN	_	_	6	nsubj	_	_
 11	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:109
 # text = Minuli ku metutud ku. 
 # text[eng] = I went home (and) slept.
 # labels = mirikitani:72:233
@@ -1418,12 +1444,19 @@
 4	ku	_	PRON	_	_	3	dep	_	_
 5	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:110
 # text = At saka minuli ya i Maria.
 # text[eng] = And then, Maria went home.
 # labels = mirikitani:72:234
+1	At	_	CCONJ	_	_	2	fixed	_	_
+2	saka	_	CCONJ	_	_	3	cc	_	_
+3	minuli	_	VERB	_	_	0	root	_	_
+4	ya	_	PRON	_	_	3	dep	_	_
+5	i	_	ADP	_	_	6	case	_	_
+6	Maria	_	PROPN	_	_	3	nsubj	_	_
+7	.	_	PUNCT	_	_	3	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:111
 # text = Tinerak ya i Maria ampong migkanta ya i Juan.
 # text[eng] = Maria danced and Juan sang.
 # labels = mirikitani:72:234
@@ -1438,7 +1471,7 @@
 9	Juan	_	PROPN	_	_	6	nsubj	_	_
 10	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:112
 # text = Mestro ya i Juan ampong estudyante ya i Maria.
 # text[eng] = Juan is a teacher and maria is a student.
 # labels = mirikitani:72:235
@@ -1453,7 +1486,7 @@
 9	Maria	_	PROPN	_	_	6	nsubj	_	_
 10	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax: 
+# sent_id = syntax:113
 # text = Kuma la at mangan karing mialiwang bunga.
 # text[eng] = They get and eat the different fruits.
 # labels = mirikitani:72:240
@@ -1468,7 +1501,7 @@
 8	bunga	_	NOUN	_	_	4	obl	_	_
 9	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:114
 # text = Pinalis de ing lande at linampaso.
 # text[eng] = They swept and scrubbed the floor.
 # labels = mirikitani:72:241
@@ -1482,7 +1515,7 @@
 7	linampaso	_	VERB	_	_	1	conj	_	_
 8	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:115
 # text = Mipagsulat la ri Maria ampo i Juan aldo aldo.
 # text[eng] = Maria and Juan wrote each other (letters) everyday.
 # labels = mirikitani:72:245
@@ -1497,7 +1530,7 @@
 9	aldo	_	ADV	_	_	8	compound:redup	_	_
 10	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:116
 # text = Datang ya i Mr. Ruiz ing mestro.
 # text[eng] = Mr. Ruiz, the teacher, is coming.
 # labels = mirikitani:72:248
@@ -1511,10 +1544,10 @@
 8	mestro	_	NOUN	_	_	6	appos	_	_
 9	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:117
 # text = Ing lalaki salwan ne ing mangga king Sabadu.
-# text[eng] = 
-# labels = mirikitani:72:163 , check dislocation
+# text[eng] = The boy, the mango will be bought by him on Saturday.
+# labels = mirikitani:72:160 , check dislocation
 1	Ing	_	ADP	_	_	2	case	_	_
 2	lalaki	_	NOUN	_	_	3	dislocated	_	_
 3	salwan	_	VERB	_	_	0	root	_	_
@@ -1527,10 +1560,16 @@
 9	Sabadu	_	NOUN	_	_	3	obl	_	_
 10	.	_	PUNCT	_	_	3	punct	_	_
 
-# sent_id = syntax:
+# sent_id = syntax:118
 # text = Ika ituki mu la reng anak.
-# text[eng] = 
-# labels = mirikitani:72:162
-
+# text[eng] = You, you take the children along.
+# labels = mirikitani:72:162 , check dislocation
+1	Ika	_	PRON	_	_	2	dislocated	_	_
+2	ituki	_	VERB	_	_	0	root	_	_
+3	mu	_	PRON	_	_	2	dep	_	_
+4	la	_	PRON	_	_	2	dep	_	_
+5	reng	_	ADP	_	_	6	case	_	_
+6	anak	_	NOUN	_	_	2	nsubj:pass	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
 
 
