@@ -125,7 +125,7 @@
 # sent_id = syntax:12
 # text = Nanu ya ing gewa na ning anak mu?
 # text[eng] = What did your child do?
-# labels = mirikitani:72:137
+# labels = mirikitani:72:137, check promotion by head elision
 1	Nanu	_	PRON	_	_	0	root	_	_
 2	ya	_	PRON	_	_	1	dep	_	_
 3	ing	_	SCONJ	_	_	4	mark	_	_
@@ -1122,7 +1122,16 @@
 # sent_id = syntax:84
 # text = Sinabi ne ning lalaki ing awang.
 # text[eng] = The boy said 'ing awang'.
-# labels = mirikitani:72:209
+# labels = mirikitani:72:209, check arguments
+1	Sinabi	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	lalaki	_	NOUN	_	_	1	obj:agent	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	awang	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:85
 # text = Sinabi na ning lalaki king ding matwang dalaga magdala lang panyulitu.
@@ -1165,6 +1174,24 @@
 # text = Kasebyan king ninuman ing mukyat king bunduk Arayat malyari yang kuma karing bunga ring tanaman. 
 # text[eng] = It is said that whoever climbs the mountain Arayat may take the fruits of the plants.
 # labels = mirikitani:72:210
+1	Kasebyan	_	VERB	_	_	0	root	_	_
+2	king	_	SCONJ	_	_	9	mark	_	_
+3	ninuman	_	PRON	_	_	9	dislocated	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	mukyat	_	VERB	_	_	3	nsubj	_	_
+6	king	_	ADP	_	_	7	case	_	_
+7	bunduk	_	NOUN	_	_	5	obl	_	_
+8	Arayat	_	PROPN	_	_	7	flat	_	_
+9	malyari	_	VERB	_	_	1	ccomp	_	_
+10-11	yang	_	_	_	_	_	_	_	_
+10	ya	_	PRON	_	_	9	dep	_	_
+11	ng	_	PART	_	_	12	mark:link	_	_
+12	kuma	_	VERB	_	_	9	xcomp	_	_
+13	karing	_	ADP	_	_	14	case	_	_
+14	bunga	_	NOUN	_	_	9	obl	_	_
+15	ring	_	ADP	_	_	16	case	_	_
+16	tanaman	_	NOUN	_	_	14	nmod:poss	_	_
+17	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:88
 # text = Sinabi ne ning lalaki datang i Juan.
@@ -1410,12 +1437,30 @@
 # sent_id = syntax:106
 # text = Ikit neng masisilab ing bale.
 # text[eng] = He saw the house burning.
-# labels = mirikitani:72:230
+# labels = mirikitani:72:230, check compound
+1	Ikit	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	masisilab	_	VERB	_	_	1	compound	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	bale	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:107
 # text = Ikit na lang mamangan deng tau.
 # text[eng] = He saw the people eating.
-# labels = mirikitani:72:231
+# labels = mirikitani:72:231, check compound
+1	Ikit	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3-4	lang	_	_	_	_	_	_	_	_
+3	la	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	mamangan	_	VERB	_	_	1	compound	_	_
+6	deng	_	ADP	_	_	7	case	_	_
+7	tau	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:108
 # text = Munta ka king tindahan ampong salwan mo reng gule.
