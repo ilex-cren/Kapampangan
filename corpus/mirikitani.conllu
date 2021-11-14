@@ -116,7 +116,7 @@
 # sent_id = syntax:11
 # text = Ninu ing sinulat?
 # text[eng] = Who is the one who wrote?
-# labels = mirikitani:72:181
+# labels = mirikitani:72:181 ; check POS for ing
 1	Ninu	_	PRON	_	_	0	root	_	_
 2	ing	_	ADP	_	_	3	case	_	_
 3	sinulat	_	VERB	_	_	1	csubj	_	_
@@ -630,7 +630,7 @@
 # sent_id = syntax:51
 # text = Nanu ing seli na ning lalaki?
 # text[eng] = What did the boy buy?
-# labels = mirikitani:72:151
+# labels = mirikitani:72:151 ; check SCONJ
 1	Nanu	_	PRON	_	_	0	root	_	_
 2	ing	_	SCONJ	_	_	3	mark	_	_
 3	seli	_	VERB	_	_	1	csubj	_	_
@@ -713,7 +713,7 @@
 # sent_id = syntax:59
 # text = Ninu ing sulatanan mu?
 # text[eng] = Who is the [one to whom] you will write?
-# labels = mirikitani:72:181
+# labels = mirikitani:72:181 ; check POS of ing
 1	Ninu	_	PRON	_	_	0	root	_	_
 2	ing	_	SCONJ	_	_	3	mark	_	_
 3	sulatanan	_	VERB	_	_	1	csubj	_	_
