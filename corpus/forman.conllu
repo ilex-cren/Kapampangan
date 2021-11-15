@@ -2,7 +2,9 @@
 2-3	de	_	_	_	_	_	_	_	_
 2	d	_	PRON	_	_	1	dep	_	_
 3	e	_	PRON	_	_	1	dep	_	_
-4	.	_	PUNCT	_	_	1	punct	_	_i 1	Swérte	_	ADJ	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+1	Swérte	_	ADJ	_	_	0	root	_	_
 2	ya	_	PR	_	_	1	dep	_	_
 3	.	_	PUNCT	_	_	1	punct	_	_
 
@@ -37,3 +39,17 @@
 4	ing	_	ADP	_	_	5	case	_	_
 5	klásit	_	NOUN	_	_	1	nsubj	_	_
 6	.	_	PUNCT	_	_	1	punct	_	_
+
+# labels = forman:71: , check PART
+1	Atí	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	pala	_	PART	_	_	1	discourse	_	_
+4	kén	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
+
+# labels = forman:71: , check punct
+1	O	_	PART	_	_	3	discourse	_	_
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	nínu	_	PRON	_	_	0	root	_	_
+4	itá	_	PRON	_	_	3	nsubj	_	_
+5	?	_	PUNCT	_	_	3	punct	_	_
