@@ -46,7 +46,7 @@
 3	e	_	PRON	_	_	1	dep	_	_
 4	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = grammar:7
+# sent_id = grammar:6
 # text = Salikútan me ing klásit.
 # text[eng] =
 # labels = forman:71:
@@ -58,22 +58,124 @@
 5	klásit	_	NOUN	_	_	1	nsubj	_	_
 6	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = grammar:8
+# sent_id = grammar:7
 # text = Atí ka pala kén.
-# text[eng] = 
-# labels = forman:71: , check PART
+# text[eng] = So, you were there.
+# labels = forman:71:30 , check PART
 1	Atí	_	VERB	_	_	0	root	_	_
 2	ka	_	PRON	_	_	1	dep	_	_
 3	pala	_	PART	_	_	1	discourse	_	_
 4	kén	_	ADV	_	_	1	advmod	_	_
 5	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = grammar:9
+# sent_id = grammar:8
 # text = O, nínu itá?
-# text[eng] = 
-# labels = forman:71: , check punct
+# text[eng] = Well, who was that?
+# labels = forman:71:30 , check punct
 1	O	_	PART	_	_	3	discourse	_	_
 2	,	_	PUNCT	_	_	3	punct	_	_
 3	nínu	_	PRON	_	_	0	root	_	_
 4	itá	_	PRON	_	_	3	nsubj	_	_
 5	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = grammar:9
+# text = Éne pepákit ing íya talagáng tátákut ya.
+# text[eng] = He didn’t let it show that he himself was very frightened.
+# labels = forman:71:31 , check SCONJ and dislocated
+1	É	_	ADV	_	_	4	advmod	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	4	dep	_	_
+3	e	_	PRON	_	_	4	dep	_	_
+4	pepákit	_	VERB	_	_	0	root	_	_
+5	ing	_	SCONJ	_	_	9	mark	_	_
+6	íya	_	PRON	_	_	9	dislocated	_	_
+7-8	talagáng	_	_	_	_	_	_	_	_
+7	talagá	_	ADV	_	_	9	advmod	_	_
+8	ng	_	PART	_	_	7	mark:link	_	_
+9	tátákut	_	ADJ	_	_	_	_	_	_
+10	ya	_	PRON	_	_	9	dep	_	_
+11	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = grammar:10
+# text = Ing mikibándi, ambaganáneng péra ing pisámban.
+# text[eng] = As for the wealthy man/owner, he gave money to the church.
+# labels = forman:71: , check dislocated and goal/bfoc?
+1	Ing	_	ADP	_	_	2	case	_	_
+2	mikibándi	_	NOUN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	ambaganá	_	VERB	_	_	0	root	_	_
+5-7	neng	_	_	_	_	_	_	_	_
+5	n	_	PRON	_	_	4	dep	_	_
+6	e	_	PRON	_	_	4	dep	_	_
+7	ng	_	PART	_	_	8	mark:link	_	_
+8	péra	_	NOUN	_	_	4	obj	_	_
+9	ing	_	ADP	_	_	10	case	_	_
+10	pisámban	_	NOUN	_	_	4	nsubj	_	_
+11	.	_	PUNCT	_	_	4	punct	_	_
+
+
+# sent_id = grammar:11
+# text = Bandá king mabalákat ing búnduk aráyat.
+# text[eng] = Mt. Arayat is on the way to Mabalacat.
+# labels = forman:71:35 , check flat
+1	Bandá	_	VERB	_	_	0	root	_	_
+2	king	_	ADP	_	_	3	case	_	_
+3	mabalákat	_	PROPN	_	_	1	obl	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	búnduk	_	NOUN	_	_	1	nsubj	_	_
+6	aráyat	_	PROPN	_	_	5	flat	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:12
+# text = Pináluq ke keng dútung.
+# text[eng] = I hit him with a wooden club.
+# labels = forman:71:35
+1	Pináluq	_	VERB	_	_	0	root	_	_
+2-3	ke	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	keng	_	ADP	_	_	5	case	_	_
+5	dútung	_	NOUN	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+
+# sent_id = grammar:13
+# text = Kinuá neng almá ing kamisóla bábo ning lamésa.
+# text[eng] = Alma got the dress from under the table.
+# labels = forman:71:35
+
+# sent_id = grammar:14
+# text = Kebitánan neng alámbre ing pasbúl. 
+# text[eng] = The door was where someone hung the wire.
+# labels = forman:71:36
+
+# sent_id = grammar:15
+# text = Sáli kamí ning maníka ku.
+# text[eng] = My doll and I will go. 
+# labels = forman:71:36
+
+# sent_id = grammar:16
+# text = 
+# text[eng] = 
+# labels = 
+
+# sent_id = grammar:17
+# text = Kaú nang danúm ning kabáyu!
+# text[eng] = How thirsty the horse was for water!
+# labels = forman:71:36
+
+# sent_id = grammar:18
+# text = Kasantíng na ning gayák king dálan! 
+# text[eng] = How beautiful the decorations in the street are!
+# labels = forman:71:36
+
+# sent_id = grammar:19
+# text = Kátas mu!  
+# text[eng] = You're so tall!
+# labels = forman:71:36
+
+# sent_id = grammar:20
+# text = Ing kéka ing makiyamút.
+# text[eng] = Yours is the one with the roots.
+# labels = forman:71:31
+
