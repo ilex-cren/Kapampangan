@@ -92,7 +92,7 @@
 7-8	talagáng	_	_	_	_	_	_	_	_
 7	talagá	_	ADV	_	_	9	advmod	_	_
 8	ng	_	PART	_	_	7	mark:link	_	_
-9	tátákut	_	ADJ	_	_	_	_	_	_
+9	tátákut	_	VERB	_	_	4	ccomp	_	_
 10	ya	_	PRON	_	_	9	dep	_	_
 11	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -233,4 +233,160 @@
 3	ing	_	ADP	_	_	_	_	_	_
 4	makiyamút	_	VERB	_	_	_	_	_	_
 5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = grammar:21
+# text = Ing káku, yápin ing atíng bulúng.
+# text[eng] = Mine is the one that has leaves.
+# labels = forman:71:30
+
+# sent_id = grammar:22
+# text = Itá ing pilalában mi king aldóqaldó.
+# text[eng] = That’s what we struggle over in the confines of a day (every day).
+# labels = forman:71:36
+
+# sent_id = grammar:23
+# text = I nóra, tínípa ya king múla.
+# text[eng] = As for Nora, she went down into the yard.
+# labels = forman:71:36 , check punct
+1	I	_	ADP	_	_	2	case	_	_
+2	nóra	_	PROPN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	tínípa	_	VERB	_	_	0	root	_	_
+5	ya	_	PRON	_	_	4	dep	_	_
+6	king	_	ADP	_	_	7	case	_	_
+7	múla	_	NOUN	_	_	4	obl	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = grammar:24
+# text = Ábilí ke pin palá king búlsa ku.
+# text[eng] = Oh yeah, I guess I happened to put it in my pocket.
+# labels = forman:71:36
+1	Ábilí	_	VERB	_	_	0	root	_	_
+2-3	ke	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	pin	_	PART	_	_	1	discourse	_	_
+5	palá	_	PART	_	_	1	discourse	_	_
+6	king	_	ADP	_	_	7	case	_	_
+7	búlsa	_	NOUN	_	_	1	obl	_	_
+8	ku	_	PRON	_	_	7	dep	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:25
+# text = Ipaník mu la kang imá mu.
+# text[eng] = Take them up to your mother.
+# labels = forman:71:37
+1	Ipaník	_	VERB	_	_	0	root	_	_
+2	mu	_	PRON	_	_	1	dep	_	_
+3	la	_	PRON	_	_	1	dep	_	_
+4	kang	_	ADP	_	_	5	case	_	_
+5	imá	_	NOUN	_	_	1	obl	_	_
+6	mu	_	PRON	_	_	5	dep	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:26
+# text = Tínukí ya i mário kang índang báyang.
+# text[eng] = Mario took (something) to Indang Bayang.
+# labels = forman:71:37
+1	Tínukí	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	mário	_	PROPN	_	_	1	nsubj	_	_
+5	kang	_	ADP	_	_	6	case	_	_
+6	índang	_	PROPN	_	_	_	_	_	_
+7	báyang	_	PROPN	_	_	1	obl	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:27
+# text = Ene pepákit karing ának.
+# text[eng] = She didn’t show it to the children.
+# labels = forman:71:37
+1	E	_	ADV	_	_	4	advmod	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	4	dep	_	_
+3	e	_	PRON	_	_	4	dep	_	_
+4	pepákit	_	VERB	_	_	0	root	_	_
+5	karing	_	ADP	_	_	6	case	_	_
+6	ának	_	NOUN	_	_	4	obl	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = grammar:28
+# text = Binyé ne ing buntúk ampong bátal king makibalé.
+# text[eng] = He gave the head and neck to the owner of the house.
+# labels = forman:71:37 , check pos for makibale
+1	Binyé	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	buntúk	_	NOUN	_	_	1	nsubj	_	_
+6	ampong	_	CCONJ	_	_	7	cc	_	_
+7	bátal	_	NOUN	_	_	5	conj	_	_
+8	king	_	ADP	_	_	9	case	_	_
+9	makibalé	_	NOUN	_	_	1	obl	_	_
+10	.	_	PRON	_	_	1	_	_	_
+
+# sent_id = grammar:29
+# text = Patye éya mulíq, pátagál de king ásu.
+# text[eng] = If he doesn’t go home, they’ll sic the dog on him.
+# labels = forman:71:37
+1	Patye	_	SCONJ	_	_	4	mark	_	_
+2	é	_	ADV	_	_	4	advmod	_	_
+3	ya	_	PRON	_	_	4	dep	_	_
+4	mulíq	_	VERB	_	_	6	ccomp	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	pátagál	_	VERB	_	_	0	root	_	_
+7-8	de	_	_	_	_	_	_	_	_
+7	d	_	PRON	_	_	6	dep	_	_
+8	e	_	PRON	_	_	6	dep	_	_
+9	king	_	ADP	_	_	10	case	_	_
+10	ásu	_	NOUN	_	_	6	obl	_	_
+11	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = grammar:30
+# text = Ing papalambát king tabáq yá ing papasyás king ébun.
+# text[eng] = What softens the lard hardens the egg.
+# labels = forman:71:37 , discuss
+
+# sent_id = grammar:31
+# text = Deng aswáng, tátákut la keng kurús.
+# text[eng] = As for aswangs, they’re afraid of the cross.
+# labels = forman:71:37
+1	Deng	_	ADP	_	_	2	case	_	_
+2	aswáng	_	NOUN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	tátákut	_	VERB	_	_	0	root	_	_
+5	la	_	PRON	_	_	4	dep	_	_
+6	keng	_	ADP	_	_	7	case	_	_
+7	kurús	_	NOUN	_	_	4	obl	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = grammar:32
+# text = Tabálu kéka.
+# text[eng] = It’s up to you/You decide.’ (Lit. “I don’t know to you.”)
+# labels = forman:71:37 
+
+# sent_id = grammar:33
+# text = Melutungtúng na ing yéru king páliq.
+# text[eng] = The iron became brittle in the heat.The iron became brittle in the heat.
+# labels = forman:71:37
+1	Melutungtúng	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	yéru	_	NOUN	_	_	1	nsubj	_	_
+5	king	_	ADP	_	_	6	case	_	_
+6	páliq	_	NOUN	_	_	1	obl	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:34
+# text = Sínáwa ne king tambúl.
+# text[eng] = He got tired of the drum.
+# labels = forman:71:37
+1	Sínáwa	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	king	_	ADP	_	_	5	case	_	_
+5	tambúl	_	NOUN	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
