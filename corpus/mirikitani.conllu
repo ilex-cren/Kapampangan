@@ -949,7 +949,7 @@
 # sent_id = syntax:74
 # text = Itang dalagang migkanta ing mestrang mamako king Japan bukas.
 # text[eng] = That young lady who sang is the teacher who is leaving for Japan tomorrow.
-# labels = mirikitani:72:195
+# labels = mirikitani:72:195 , check (discuss) itang
 
 # sent_id = syntax:75
 # text = Ibye ne ning babaing mestrang terak ing kending seli mu napun kareng anak a alang pera.

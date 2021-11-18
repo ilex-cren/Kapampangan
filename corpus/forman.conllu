@@ -18,8 +18,8 @@
 
 # sent_id = grammar:3
 # text = Pináluq ke keng dútung.
-# text[eng] = 
-# labels = forman:71:
+# text[eng] = I beat him with apiece of wood.
+# labels = forman:71:37
 1	Pináluq	_	VERB	_	_	0	root	_	_
 2-3	ke	_	_	_	_	_	_	_	_
 2	k	_	PRON	_	_	1	dep	_	_
@@ -390,3 +390,68 @@
 5	tambúl	_	NOUN	_	_	1	obl	_	_
 6	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = grammar:35
+# text = King kayáng katakáwan, i suán, péngan na ngán.
+# text[eng] = In his greediness, that Juan, he ate it all up.
+# labels = forman:71:37 , questions about ngan (all) - pron, noun, other?
+
+# sent_id = grammar:36
+# text = Mákatúla ya king susúlud na.
+# text[eng] = He looks funny (because of) what he’s wearing.
+# labels = forman:71:37
+
+# sent_id = grammar:37
+# text = Binyé neng Bóy ing kéndi keng gámat na.
+# text[eng] = Boy gave the candy with his hand.
+# labels = forman:71:37
+1	Binyé	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	ADP	_	_	5	case	_	_
+5	Bóy	_	PROPN	_	_	1	obj:agent	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	kéndi	_	NOUN	_	_	1	nsubj:pass	_	_
+8	keng	_	ADP	_	_	9	case	_	_
+9	gámat	_	NOUN	_	_	1	obl	_	_
+10	na	_	PRON	_	_	9	dep	_	_
+11	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:38
+# text = Kang lítu ya kanú ing maragúl.
+# text[eng] = They say Lito has the big one.
+# labels = forman:71:37 , check (discuss) "ing maragul"
+
+# sent_id = grammar:39
+# text = Magastús ing píkabúrian ken pusitára uling dakál a táu.
+# text[eng] = The normal (preferred) way is very expensive compared to eloping because of the many people.
+# labels = forman:71:37
+
+# sent_id = grammar:40
+# text = Masákit ing Kapampángan keng Tagálog.
+# text[eng] = Kapampangan is harder than Tagalog.
+# labels = forman:71:37
+
+# sent_id = grammar:41
+# text = Nukarín ya i bertíng?
+# text[eng] = Where is Berting?
+# labels = forman:71:38
+
+# sent_id = grammar:42
+# text = Komángging kaligátan i. máya.
+# text[eng] = Maia is just the right shade of brown (skin color).
+# labels = forman:71:38
+
+
+# sent_id = grammar:43
+# text = Manikuá lang tugák di pépe.
+# text[eng] = Pepe and his friends are (trying to) catch frogs.
+# labels = forman:71:38
+1	Manikuá	_	VERB	_	_	0	root	_	_
+2-3	lang	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	tugák	_	NOUN	_	_	1	obj	_	_
+5	di	_	ADP	_	_	6	case	_	_
+6	pépe	_	PROPN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
