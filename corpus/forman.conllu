@@ -347,6 +347,16 @@
 # text = Ing papalambát king tabáq yá ing papasyás king ébun.
 # text[eng] = What softens the lard hardens the egg.
 # labels = forman:71:37 , discuss
+1	Ing	_	ADP	_	_	2	case	_	_
+2	papalambát	_	VERB	_	_	0	root	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	tabáq	_	NOUN	_	_	2	obl	_	_
+5	yá	_	PRON	_	_	2	dep	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	papasyás	_	VERB	_	_	2	nsubj	_	_
+8	king	_	ADP	_	_	9	case	_	_
+9	ébun	_	NOUN	_	_	7	obl	_	_
+10	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = grammar:31
 # text = Deng aswáng, tátákut la keng kurús.
@@ -365,6 +375,7 @@
 # text = Tabálu kéka.
 # text[eng] = It’s up to you/You decide.’ (Lit. “I don’t know to you.”)
 # labels = forman:71:37 
+
 
 # sent_id = grammar:33
 # text = Melutungtúng na ing yéru king páliq.
@@ -399,6 +410,12 @@
 # text = Mákatúla ya king susúlud na.
 # text[eng] = He looks funny (because of) what he’s wearing.
 # labels = forman:71:37
+1	Mákatúla	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	susúlud	_	VERB	_	_	1	obl	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:37
 # text = Binyé neng Bóy ing kéndi keng gámat na.
@@ -421,6 +438,13 @@
 # text = Kang lítu ya kanú ing maragúl.
 # text[eng] = They say Lito has the big one.
 # labels = forman:71:37 , check (discuss) "ing maragul"
+1	Kang	_	ADP	_	_	2	case	_	_
+2	lítu	_	PROPN	_	_	0	root	_	_
+3	ya	_	PRON	_	_	2	dep	_	_
+4	kanú	_	PART	_	_	2	discourse	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	maragúl	_	ADJ	_	_	2	nsubj	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = grammar:39
 # text = Magastús ing píkabúrian ken pusitára uling dakál a táu.

@@ -116,20 +116,20 @@
 # sent_id = syntax:11
 # text = Ninu ing sinulat?
 # text[eng] = Who is the one who wrote?
-# labels = mirikitani:72:181 ; check POS for ing
+# labels = mirikitani:72:181
 1	Ninu	_	PRON	_	_	0	root	_	_
 2	ing	_	ADP	_	_	3	case	_	_
-3	sinulat	_	VERB	_	_	1	csubj	_	_
+3	sinulat	_	VERB	_	_	1	nsubj	_	_
 4	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:12
 # text = Nanu ya ing gewa na ning anak mu?
 # text[eng] = What did your child do?
-# labels = mirikitani:72:137, check promotion by head elision
+# labels = mirikitani:72:137
 1	Nanu	_	PRON	_	_	0	root	_	_
 2	ya	_	PRON	_	_	1	dep	_	_
-3	ing	_	SCONJ	_	_	4	mark	_	_
-4	gewa	_	VERB	_	_	1	csubj	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	gewa	_	VERB	_	_	1	nsubj	_	_
 5	na	_	PRON	_	_	4	dep	_	_
 6	ning	_	ADP	_	_	7	case	_	_
 7	anak	_	NOUN	_	_	4	obj:agent	_	_
@@ -630,10 +630,10 @@
 # sent_id = syntax:51
 # text = Nanu ing seli na ning lalaki?
 # text[eng] = What did the boy buy?
-# labels = mirikitani:72:151 ; check SCONJ
+# labels = mirikitani:72:151
 1	Nanu	_	PRON	_	_	0	root	_	_
-2	ing	_	SCONJ	_	_	3	mark	_	_
-3	seli	_	VERB	_	_	1	csubj	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	seli	_	VERB	_	_	1	nsubj	_	_
 4	na	_	PRON	_	_	3	dep	_	_
 5	ning	_	ADP	_	_	6	case	_	_
 6	lalaki	_	NOUN	_	_	3	obj:agent	_	_
@@ -713,10 +713,10 @@
 # sent_id = syntax:59
 # text = Ninu ing sulatanan mu?
 # text[eng] = Who is the [one to whom] you will write?
-# labels = mirikitani:72:181 ; check POS of ing
+# labels = mirikitani:72:181
 1	Ninu	_	PRON	_	_	0	root	_	_
-2	ing	_	SCONJ	_	_	3	mark	_	_
-3	sulatanan	_	VERB	_	_	1	csubj	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	sulatanan	_	VERB	_	_	1	nsubj	_	_
 4	mu	_	PRON	_	_	3	dep	_	_
 5	?	_	PUNCT	_	_	1	punct	_	_
 
@@ -949,7 +949,22 @@
 # sent_id = syntax:74
 # text = Itang dalagang migkanta ing mestrang mamako king Japan bukas.
 # text[eng] = That young lady who sang is the teacher who is leaving for Japan tomorrow.
-# labels = mirikitani:72:195 , check (discuss) itang
+# labels = mirikitani:72:195 
+1	Ita	_	DET	_	_	3	det	_	_
+2	ng	_	PART	_	_	3	mark:link	_	_
+3-4	dalagang	_	_	_	_	_	_	_	_
+3	dalaga	_	NOUN	_	_	0	root	_	_
+4	ng	_	PART	_	_	5	mark	_	_
+5	migkanta	_	VERB	_	_	3	acl:relcl	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7-8	mestrang	_	_	_	_	_	_	_	_
+7	mestra	_	NOUN	_	_	3	nsubj	_	_
+8	ng	_	PART	_	_	9	mark	_	_
+9	mamako	_	VERB	_	_	7	acl:relcl	_	_
+10	king	_	ADP	_	_	11	case	_	_
+11	Japan	_	PROPN	_	_	9	obl	_	_
+12	bukas	_	ADV	_	_	9	advmod	_	_
+13	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = syntax:75
 # text = Ibye ne ning babaing mestrang terak ing kending seli mu napun kareng anak a alang pera.
