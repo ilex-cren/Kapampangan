@@ -449,12 +449,18 @@
 # sent_id = grammar:39
 # text = Magastús ing píkabúrian ken pusitára uling dakál a táu.
 # text[eng] = The normal (preferred) way is very expensive compared to eloping because of the many people.
-# labels = forman:71:37
+# labels = forman:71:37 , check typo?
 
 # sent_id = grammar:40
 # text = Masákit ing Kapampángan keng Tagálog.
 # text[eng] = Kapampangan is harder than Tagalog.
-# labels = forman:71:37
+# labels = forman:71:37 , check comparative
+1	Masákit	_	ADJ	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	Kapampángan	_	NOUN	_	_	1	nsubj	_	_
+4	keng	_	ADP	_	_	5	case	_	_
+5	Tagálog	_	NOUN	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:41
 # text = Nukarín ya i bertíng?
@@ -465,7 +471,13 @@
 # text = Komángging kaligátan i. máya.
 # text[eng] = Maia is just the right shade of brown (skin color).
 # labels = forman:71:38
-
+1-2	Komángging	_	_	_	_	_	_	_	_
+1	Kománggi	_	ADJ	_	_	0	root	_	_
+2	ng	_	PART	_	_	3	mark:link	_	_
+3	kaligátan	_	ADV	_	_	1	advmod	_	_
+4	i	_	ADP	_	_	5	case	_	_
+5	máya	_	PROPN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:43
 # text = Manikuá lang tugák di pépe.
@@ -479,3 +491,5 @@
 5	di	_	ADP	_	_	6	case	_	_
 6	pépe	_	PROPN	_	_	1	nsubj	_	_
 7	.	_	PUNCT	_	_	1	punct	_	_
+
+
