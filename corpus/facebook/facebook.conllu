@@ -1,0 +1,6770 @@
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Masaplálâng	_	_	_	_	_	_	_	_
+1	Báyung	_	_	_	_	_	_	_	_
+2	Banua	_	_	_	_	_	_	_	_
+3	Kékayu	_	_	_	_	_	_	_	_
+4	Ngan	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Misaplálân	_	_	_	_	_	_	_	_
+1	kayu	_	_	_	_	_	_	_	_
+2	sánang	_	_	_	_	_	_	_	_
+3	Kálam	_	_	_	_	_	_	_	_
+4	ngéning	_	_	_	_	_	_	_	_
+5	dáratang	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	Báyung	_	_	_	_	_	_	_	_
+8	Banua	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Karing	_	_	_	_	_	_	_	_
+1	manungkúlan	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ót	_	_	_	_	_	_	_	_
+4	papaburén	_	_	_	_	_	_	_	_
+5	te	_	_	_	_	_	_	_	_
+6	ing	_	_	_	_	_	_	_	_
+7	San	_	_	_	_	_	_	_	_
+8	Miguel	_	_	_	_	_	_	_	_
+9	maliliári	_	_	_	_	_	_	_	_
+10	burî	_	_	_	_	_	_	_	_
+11	at	_	_	_	_	_	_	_	_
+12	sirân	_	_	_	_	_	_	_	_
+13	nó	_	_	_	_	_	_	_	_
+14	kabaldúgan	_	_	_	_	_	_	_	_
+15	ding	_	_	_	_	_	_	_	_
+16	sablâ	_	_	_	_	_	_	_	_
+17	táng	_	_	_	_	_	_	_	_
+18	Kapagmasúsîan	_	_	_	_	_	_	_	_
+19	kéti	_	_	_	_	_	_	_	_
+20	Kapampángan	_	_	_	_	_	_	_	_
+21	?	_	_	_	_	_	_	_	_
+22	?	_	_	_	_	_	_	_	_
+23	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	linual	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	mu	_	_	_	_	_	_	_	_
+3	saguli	_	_	_	_	_	_	_	_
+4	itang	_	_	_	_	_	_	_	_
+5	maglutu	_	_	_	_	_	_	_	_
+6	...	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	nung	_	_	_	_	_	_	_	_
+9	kekatamung	_	_	_	_	_	_	_	_
+10	Kapampangan	_	_	_	_	_	_	_	_
+11	miliari	_	_	_	_	_	_	_	_
+12	ini	_	_	_	_	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Balu	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	Pampanga	_	_	_	_	_	_	_	_
+3	Hussars	_	_	_	_	_	_	_	_
+4	ya	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	uniform	_	_	_	_	_	_	_	_
+7	da	_	_	_	_	_	_	_	_
+8	reni	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	guardia	_	_	_	_	_	_	_	_
+13	civil	_	_	_	_	_	_	_	_
+14	ngayu	_	_	_	_	_	_	_	_
+15	pa	_	_	_	_	_	_	_	_
+16	ya	_	_	_	_	_	_	_	_
+17	?	_	_	_	_	_	_	_	_
+18	?	_	_	_	_	_	_	_	_
+19	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	digsiu	_	_	_	_	_	_	_	_
+1	kung	_	_	_	_	_	_	_	_
+2	melili	_	_	_	_	_	_	_	_
+3	kanta	_	_	_	_	_	_	_	_
+4	kasi	_	_	_	_	_	_	_	_
+5	e	_	_	_	_	_	_	_	_
+6	ke	_	_	_	_	_	_	_	_
+7	akit	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	'leyal	_	_	_	_	_	_	_	_
+10	'	_	_	_	_	_	_	_	_
+11	...	_	_	_	_	_	_	_	_
+12	les	_	_	_	_	_	_	_	_
+13	halles	_	_	_	_	_	_	_	_
+14	ya	_	_	_	_	_	_	_	_
+15	pala	_	_	_	_	_	_	_	_
+16	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	haha	_	_	_	_	_	_	_	_
+1	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	asnang	_	_	_	_	_	_	_	_
+1	kasukal	_	_	_	_	_	_	_	_
+2	ketang	_	_	_	_	_	_	_	_
+3	gulut	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	ampong	_	_	_	_	_	_	_	_
+6	ketang	_	_	_	_	_	_	_	_
+7	kasiping	_	_	_	_	_	_	_	_
+8	nang	_	_	_	_	_	_	_	_
+9	garden	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	amanuan	_	_	_	_	_	_	_	_
+12	mu	_	_	_	_	_	_	_	_
+13	...	_	_	_	_	_	_	_	_
+14	me-shock	_	_	_	_	_	_	_	_
+15	ku	_	_	_	_	_	_	_	_
+16	asnang	_	_	_	_	_	_	_	_
+17	kasukal	_	_	_	_	_	_	_	_
+18	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	haha	_	_	_	_	_	_	_	_
+1	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	yápin	_	_	_	_	_	_	_	_
+1	pû	_	_	_	_	_	_	_	_
+2	ita	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	páintunan	_	_	_	_	_	_	_	_
+5	da	_	_	_	_	_	_	_	_
+6	...	_	_	_	_	_	_	_	_
+7	Librí	_	_	_	_	_	_	_	_
+8	mú	_	_	_	_	_	_	_	_
+9	ing	_	_	_	_	_	_	_	_
+10	páturung	_	_	_	_	_	_	_	_
+11	sumúlat	_	_	_	_	_	_	_	_
+12	Kulitan	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	péro	_	_	_	_	_	_	_	_
+15	nung	_	_	_	_	_	_	_	_
+16	matamad	_	_	_	_	_	_	_	_
+17	kang	_	_	_	_	_	_	_	_
+18	magáral	_	_	_	_	_	_	_	_
+19	at	_	_	_	_	_	_	_	_
+20	burí	_	_	_	_	_	_	_	_
+21	pásúlat	_	_	_	_	_	_	_	_
+22	naká	_	_	_	_	_	_	_	_
+23	mû	_	_	_	_	_	_	_	_
+24	,	_	_	_	_	_	_	_	_
+25	atín	_	_	_	_	_	_	_	_
+26	nang	_	_	_	_	_	_	_	_
+27	báyad	_	_	_	_	_	_	_	_
+28	kaníta	_	_	_	_	_	_	_	_
+29	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ditakditak	_	_	_	_	_	_	_	_
+1	at	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	AMÁNUNG	_	_	_	_	_	_	_	_
+4	SÍSUAN	_	_	_	_	_	_	_	_
+5	máging	_	_	_	_	_	_	_	_
+6	neng	_	_	_	_	_	_	_	_
+7	amánung	_	_	_	_	_	_	_	_
+8	dáyu	_	_	_	_	_	_	_	_
+9	kng	_	_	_	_	_	_	_	_
+10	saríli	_	_	_	_	_	_	_	_
+11	nang	_	_	_	_	_	_	_	_
+12	TÍBUAN	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Parakal	_	_	_	_	_	_	_	_
+1	nóng	_	_	_	_	_	_	_	_
+2	parakal	_	_	_	_	_	_	_	_
+3	ding	_	_	_	_	_	_	_	_
+4	kalalaláman	_	_	_	_	_	_	_	_
+5	karing	_	_	_	_	_	_	_	_
+6	yápse	_	_	_	_	_	_	_	_
+7	kung	_	_	_	_	_	_	_	_
+8	amanu	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ót	_	_	_	_	_	_	_	_
+1	mípakanian	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nánung	_	_	_	_	_	_	_	_
+1	súkat	_	_	_	_	_	_	_	_
+2	daptan	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Osimap	_	_	_	_	_	_	_	_
+1	dugu	_	_	_	_	_	_	_	_
+2	atin	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	palang	_	_	_	_	_	_	_	_
+5	mekapag-letratu	_	_	_	_	_	_	_	_
+6	kening	_	_	_	_	_	_	_	_
+7	kaririariria	_	_	_	_	_	_	_	_
+8	at	_	_	_	_	_	_	_	_
+9	e	_	_	_	_	_	_	_	_
+10	mu	_	_	_	_	_	_	_	_
+11	sukat	_	_	_	_	_	_	_	_
+12	kalinguang	_	_	_	_	_	_	_	_
+13	robot	_	_	_	_	_	_	_	_
+14	ning	_	_	_	_	_	_	_	_
+15	Porac	_	_	_	_	_	_	_	_
+16	bayu	_	_	_	_	_	_	_	_
+17	re	_	_	_	_	_	_	_	_
+18	pigpapak	_	_	_	_	_	_	_	_
+19	dening	_	_	_	_	_	_	_	_
+20	magbabakal	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atin	_	_	_	_	_	_	_	_
+1	ta	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	sanang	_	_	_	_	_	_	_	_
+4	panapat	_	_	_	_	_	_	_	_
+5	kareng	_	_	_	_	_	_	_	_
+6	Gundam	_	_	_	_	_	_	_	_
+7	ning	_	_	_	_	_	_	_	_
+8	Japan	_	_	_	_	_	_	_	_
+9	nung	_	_	_	_	_	_	_	_
+10	e	_	_	_	_	_	_	_	_
+11	re	_	_	_	_	_	_	_	_
+12	pepaburen	_	_	_	_	_	_	_	_
+13	mengalaklak	_	_	_	_	_	_	_	_
+14	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Benji	_	_	_	_	_	_	_	_
+1	...	_	_	_	_	_	_	_	_
+2	makanian	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	reng	_	_	_	_	_	_	_	_
+5	gagauan	_	_	_	_	_	_	_	_
+6	nang	_	_	_	_	_	_	_	_
+7	ingkung	_	_	_	_	_	_	_	_
+8	ku	_	_	_	_	_	_	_	_
+9	...	_	_	_	_	_	_	_	_
+10	ebun	_	_	_	_	_	_	_	_
+11	binuru	_	_	_	_	_	_	_	_
+12	kng	_	_	_	_	_	_	_	_
+13	aslam	_	_	_	_	_	_	_	_
+14	atbu	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	bauang	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	laya	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	asin	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	paminta	_	_	_	_	_	_	_	_
+23	ampong	_	_	_	_	_	_	_	_
+24	lara	_	_	_	_	_	_	_	_
+25	!	_	_	_	_	_	_	_	_
+26	!	_	_	_	_	_	_	_	_
+27	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	ilaga	_	_	_	_	_	_	_	_
+1	na	_	_	_	_	_	_	_	_
+2	no	_	_	_	_	_	_	_	_
+3	ambing	_	_	_	_	_	_	_	_
+4	deng	_	_	_	_	_	_	_	_
+5	ebun	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ilako	_	_	_	_	_	_	_	_
+8	no	_	_	_	_	_	_	_	_
+9	balat	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	ilage	_	_	_	_	_	_	_	_
+12	no	_	_	_	_	_	_	_	_
+13	rin	_	_	_	_	_	_	_	_
+14	kng	_	_	_	_	_	_	_	_
+15	garapun	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	chaka	_	_	_	_	_	_	_	_
+18	no	_	_	_	_	_	_	_	_
+19	buruan	_	_	_	_	_	_	_	_
+20	ketang	_	_	_	_	_	_	_	_
+21	aslam	_	_	_	_	_	_	_	_
+22	atbu	_	_	_	_	_	_	_	_
+23	nang	_	_	_	_	_	_	_	_
+24	Apung	_	_	_	_	_	_	_	_
+25	Iru	_	_	_	_	_	_	_	_
+26	(	_	_	_	_	_	_	_	_
+27	mangubie	_	_	_	_	_	_	_	_
+28	atang	_	_	_	_	_	_	_	_
+29	nang	_	_	_	_	_	_	_	_
+30	Deng	_	_	_	_	_	_	_	_
+31	)	_	_	_	_	_	_	_	_
+32	at	_	_	_	_	_	_	_	_
+33	bulugan	_	_	_	_	_	_	_	_
+34	napin	_	_	_	_	_	_	_	_
+35	asin	_	_	_	_	_	_	_	_
+36	,	_	_	_	_	_	_	_	_
+37	lara	_	_	_	_	_	_	_	_
+38	,	_	_	_	_	_	_	_	_
+39	paminta	_	_	_	_	_	_	_	_
+40	,	_	_	_	_	_	_	_	_
+41	bauang	_	_	_	_	_	_	_	_
+42	ampong	_	_	_	_	_	_	_	_
+43	laya	_	_	_	_	_	_	_	_
+44	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nung	_	_	_	_	_	_	_	_
+1	burî	_	_	_	_	_	_	_	_
+2	móng	_	_	_	_	_	_	_	_
+3	maging	_	_	_	_	_	_	_	_
+4	masayâ	_	_	_	_	_	_	_	_
+5	reng	_	_	_	_	_	_	_	_
+6	áliuâng	_	_	_	_	_	_	_	_
+7	táu	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	dápat	_	_	_	_	_	_	_	_
+10	múna	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	pámûng	_	_	_	_	_	_	_	_
+13	maging	_	_	_	_	_	_	_	_
+14	masayâ…	_	_	_	_	_	_	_	_
+15	bugók	_	_	_	_	_	_	_	_
+16	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	aua	_	_	_	_	_	_	_	_
+1	!	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	mas	_	_	_	_	_	_	_	_
+1	makatakut	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	reta	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	lalu	_	_	_	_	_	_	_	_
+1	na	_	_	_	_	_	_	_	_
+2	retang	_	_	_	_	_	_	_	_
+3	abitung	_	_	_	_	_	_	_	_
+4	matuling	_	_	_	_	_	_	_	_
+5	ding	_	_	_	_	_	_	_	_
+6	pari	_	_	_	_	_	_	_	_
+7	ampong	_	_	_	_	_	_	_	_
+8	retang	_	_	_	_	_	_	_	_
+9	lupang	_	_	_	_	_	_	_	_
+10	penguin	_	_	_	_	_	_	_	_
+11	kareng	_	_	_	_	_	_	_	_
+12	madre	_	_	_	_	_	_	_	_
+13	...	_	_	_	_	_	_	_	_
+14	makatakut	_	_	_	_	_	_	_	_
+15	la	_	_	_	_	_	_	_	_
+16	pin	_	_	_	_	_	_	_	_
+17	!	_	_	_	_	_	_	_	_
+18	!	_	_	_	_	_	_	_	_
+19	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nung	_	_	_	_	_	_	_	_
+1	makanian	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	mu	_	_	_	_	_	_	_	_
+5	sana	_	_	_	_	_	_	_	_
+6	reng	_	_	_	_	_	_	_	_
+7	maglalage	_	_	_	_	_	_	_	_
+8	kng	_	_	_	_	_	_	_	_
+9	kuartu	_	_	_	_	_	_	_	_
+10	yu	_	_	_	_	_	_	_	_
+11	ne	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	ngeni	_	_	_	_	_	_	_	_
+1	ke	_	_	_	_	_	_	_	_
+2	pamung	_	_	_	_	_	_	_	_
+3	bengi	_	_	_	_	_	_	_	_
+4	panamdaman	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	kaplas	_	_	_	_	_	_	_	_
+7	ning	_	_	_	_	_	_	_	_
+8	kebaingan	_	_	_	_	_	_	_	_
+9	bike	_	_	_	_	_	_	_	_
+10	...	_	_	_	_	_	_	_	_
+11	eku	_	_	_	_	_	_	_	_
+12	mipatudtud	_	_	_	_	_	_	_	_
+13	...	_	_	_	_	_	_	_	_
+14	nandin	_	_	_	_	_	_	_	_
+15	ok	_	_	_	_	_	_	_	_
+16	ku	_	_	_	_	_	_	_	_
+17	mu	_	_	_	_	_	_	_	_
+18	...	_	_	_	_	_	_	_	_
+19	shock	_	_	_	_	_	_	_	_
+20	...	_	_	_	_	_	_	_	_
+21	e	_	_	_	_	_	_	_	_
+22	ku	_	_	_	_	_	_	_	_
+23	makapaniualang	_	_	_	_	_	_	_	_
+24	ala	_	_	_	_	_	_	_	_
+25	ne	_	_	_	_	_	_	_	_
+26	...	_	_	_	_	_	_	_	_
+27	Atin	_	_	_	_	_	_	_	_
+28	púsang	_	_	_	_	_	_	_	_
+29	línub	_	_	_	_	_	_	_	_
+30	king	_	_	_	_	_	_	_	_
+31	kuártu	_	_	_	_	_	_	_	_
+32	ku	_	_	_	_	_	_	_	_
+33	nandin	_	_	_	_	_	_	_	_
+34	lumual	_	_	_	_	_	_	_	_
+35	ku	_	_	_	_	_	_	_	_
+36	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Baláku	_	_	_	_	_	_	_	_
+1	sá	_	_	_	_	_	_	_	_
+2	púsâ	_	_	_	_	_	_	_	_
+3	ké	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kawángis	_	_	_	_	_	_	_	_
+1	némú	_	_	_	_	_	_	_	_
+2	pala	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Óini	_	_	_	_	_	_	_	_
+1	mémáwung	_	_	_	_	_	_	_	_
+2	iming	_	_	_	_	_	_	_	_
+3	púsá	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	gámit	_	_	_	_	_	_	_	_
+6	ku	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ót	_	_	_	_	_	_	_	_
+1	íkit	_	_	_	_	_	_	_	_
+2	ké	_	_	_	_	_	_	_	_
+3	kétang	_	_	_	_	_	_	_	_
+4	video	_	_	_	_	_	_	_	_
+5	maka-pink	_	_	_	_	_	_	_	_
+6	yá	_	_	_	_	_	_	_	_
+7	rin	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Bongbong	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Caballero	_	_	_	_	_	_	_	_
+1	yá	_	_	_	_	_	_	_	_
+2	naman	_	_	_	_	_	_	_	_
+3	pú	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Bong	_	_	_	_	_	_	_	_
+6	Arceo	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Batch	_	_	_	_	_	_	_	_
+1	85	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	king	_	_	_	_	_	_	_	_
+4	Chevalier	_	_	_	_	_	_	_	_
+5	School	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Méging	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	naman	_	_	_	_	_	_	_	_
+4	balámó	_	_	_	_	_	_	_	_
+5	kóya-kóya	_	_	_	_	_	_	_	_
+6	bálang	_	_	_	_	_	_	_	_
+7	tutukí	_	_	_	_	_	_	_	_
+8	nákung	_	_	_	_	_	_	_	_
+9	tátang	_	_	_	_	_	_	_	_
+10	ku	_	_	_	_	_	_	_	_
+11	king	_	_	_	_	_	_	_	_
+12	óbrá	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	king	_	_	_	_	_	_	_	_
+15	Prudential	_	_	_	_	_	_	_	_
+16	Bank	_	_	_	_	_	_	_	_
+17	karin	_	_	_	_	_	_	_	_
+18	king	_	_	_	_	_	_	_	_
+19	Miranda	_	_	_	_	_	_	_	_
+20	at	_	_	_	_	_	_	_	_
+21	saká	_	_	_	_	_	_	_	_
+22	náku	_	_	_	_	_	_	_	_
+23	panílas	_	_	_	_	_	_	_	_
+24	kari	_	_	_	_	_	_	_	_
+25	Ápung	_	_	_	_	_	_	_	_
+26	Dádû	_	_	_	_	_	_	_	_
+27	king	_	_	_	_	_	_	_	_
+28	Vangimar	_	_	_	_	_	_	_	_
+29	Photo	_	_	_	_	_	_	_	_
+30	Studio	_	_	_	_	_	_	_	_
+31	léle	_	_	_	_	_	_	_	_
+32	ning	_	_	_	_	_	_	_	_
+33	bángku	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kakiálung	_	_	_	_	_	_	_	_
+1	kó	_	_	_	_	_	_	_	_
+2	kanta	_	_	_	_	_	_	_	_
+3	karin	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	Bóng	_	_	_	_	_	_	_	_
+6	ampó	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	wáli	_	_	_	_	_	_	_	_
+9	nang	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	Tito	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Págmaragul	_	_	_	_	_	_	_	_
+1	kung	_	_	_	_	_	_	_	_
+2	``	_	_	_	_	_	_	_	_
+3	kóya	_	_	_	_	_	_	_	_
+4	''	_	_	_	_	_	_	_	_
+5	dé	_	_	_	_	_	_	_	_
+6	pa	_	_	_	_	_	_	_	_
+7	rin	_	_	_	_	_	_	_	_
+8	ding	_	_	_	_	_	_	_	_
+9	dakal	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	táwu	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	lálú	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	réng	_	_	_	_	_	_	_	_
+16	kayábé	_	_	_	_	_	_	_	_
+17	na	_	_	_	_	_	_	_	_
+18	king	_	_	_	_	_	_	_	_
+19	church	_	_	_	_	_	_	_	_
+20	ampó	_	_	_	_	_	_	_	_
+21	king	_	_	_	_	_	_	_	_
+22	disaster	_	_	_	_	_	_	_	_
+23	response	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ngéni	_	_	_	_	_	_	_	_
+1	pú	_	_	_	_	_	_	_	_
+2	tátagal	_	_	_	_	_	_	_	_
+3	yang	_	_	_	_	_	_	_	_
+4	kónseyal	_	_	_	_	_	_	_	_
+5	para	_	_	_	_	_	_	_	_
+6	king	_	_	_	_	_	_	_	_
+7	Báyung	_	_	_	_	_	_	_	_
+8	Ángeles	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bistá	_	_	_	_	_	_	_	_
+1	man	_	_	_	_	_	_	_	_
+2	pú	_	_	_	_	_	_	_	_
+3	é	_	_	_	_	_	_	_	_
+4	ya	_	_	_	_	_	_	_	_
+5	pulítiku	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	é	_	_	_	_	_	_	_	_
+8	ná	_	_	_	_	_	_	_	_
+9	rin	_	_	_	_	_	_	_	_
+10	burí	_	_	_	_	_	_	_	_
+11	ing	_	_	_	_	_	_	_	_
+12	pulítíka	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	óini	_	_	_	_	_	_	_	_
+15	pú	_	_	_	_	_	_	_	_
+16	sínábak	_	_	_	_	_	_	_	_
+17	ya	_	_	_	_	_	_	_	_
+18	úling	_	_	_	_	_	_	_	_
+19	bálú	_	_	_	_	_	_	_	_
+20	nang	_	_	_	_	_	_	_	_
+21	kailángán	_	_	_	_	_	_	_	_
+22	né	_	_	_	_	_	_	_	_
+23	pú	_	_	_	_	_	_	_	_
+24	ning	_	_	_	_	_	_	_	_
+25	ciudad	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Sána	_	_	_	_	_	_	_	_
+1	pú	_	_	_	_	_	_	_	_
+2	ásópan	_	_	_	_	_	_	_	_
+3	téng	_	_	_	_	_	_	_	_
+4	milukluk	_	_	_	_	_	_	_	_
+5	bílang	_	_	_	_	_	_	_	_
+6	métung	_	_	_	_	_	_	_	_
+7	karing	_	_	_	_	_	_	_	_
+8	gágawá	_	_	_	_	_	_	_	_
+9	támung	_	_	_	_	_	_	_	_
+10	mangáyap	_	_	_	_	_	_	_	_
+11	a	_	_	_	_	_	_	_	_
+12	batas	_	_	_	_	_	_	_	_
+13	ngéning	_	_	_	_	_	_	_	_
+14	2022	_	_	_	_	_	_	_	_
+15	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Báyung	_	_	_	_	_	_	_	_
+1	lúpa	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Báyung	_	_	_	_	_	_	_	_
+1	lagyû	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Báyung	_	_	_	_	_	_	_	_
+1	Talasúyû	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Luíd	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	#	_	_	_	_	_	_	_	_
+4	bayungangeles	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Sinálí	_	_	_	_	_	_	_	_
+1	kung	_	_	_	_	_	_	_	_
+2	sabun	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pílán	_	_	_	_	_	_	_	_
+1	nang	_	_	_	_	_	_	_	_
+2	aldó	_	_	_	_	_	_	_	_
+3	é	_	_	_	_	_	_	_	_
+4	pa	_	_	_	_	_	_	_	_
+5	malaláso	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	né	_	_	_	_	_	_	_	_
+2	rin	_	_	_	_	_	_	_	_
+3	búbulâ	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	nakpúta	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kandílá	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	yátá	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	digpán	_	_	_	_	_	_	_	_
+5	ning	_	_	_	_	_	_	_	_
+6	alti	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Dána	_	_	_	_	_	_	_	_
+1	kaniáman	_	_	_	_	_	_	_	_
+2	yátá	_	_	_	_	_	_	_	_
+3	iné	_	_	_	_	_	_	_	_
+4	diablós	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Dakal	_	_	_	_	_	_	_	_
+1	pung	_	_	_	_	_	_	_	_
+2	salámat	_	_	_	_	_	_	_	_
+3	karing	_	_	_	_	_	_	_	_
+4	sablâng	_	_	_	_	_	_	_	_
+5	sináup	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	pésitágun	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Úlî	_	_	_	_	_	_	_	_
+1	ning	_	_	_	_	_	_	_	_
+2	méragul	_	_	_	_	_	_	_	_
+3	ku	_	_	_	_	_	_	_	_
+4	karin	_	_	_	_	_	_	_	_
+5	king	_	_	_	_	_	_	_	_
+6	Magálang	_	_	_	_	_	_	_	_
+7	karing	_	_	_	_	_	_	_	_
+8	amlat	_	_	_	_	_	_	_	_
+9	nang	_	_	_	_	_	_	_	_
+10	Ápûng	_	_	_	_	_	_	_	_
+11	Sínukuan	_	_	_	_	_	_	_	_
+12	bílâng	_	_	_	_	_	_	_	_
+13	aldó	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	ápûng	_	_	_	_	_	_	_	_
+16	ginu	_	_	_	_	_	_	_	_
+17	ampóng	_	_	_	_	_	_	_	_
+18	núnû	_	_	_	_	_	_	_	_
+19	da	_	_	_	_	_	_	_	_
+20	ring	_	_	_	_	_	_	_	_
+21	sablâng	_	_	_	_	_	_	_	_
+22	Kapampángan	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	baláku	_	_	_	_	_	_	_	_
+25	sâ	_	_	_	_	_	_	_	_
+26	mó	_	_	_	_	_	_	_	_
+27	kilála	_	_	_	_	_	_	_	_
+28	dé	_	_	_	_	_	_	_	_
+29	mú	_	_	_	_	_	_	_	_
+30	naman	_	_	_	_	_	_	_	_
+31	ding	_	_	_	_	_	_	_	_
+32	éganaganang	_	_	_	_	_	_	_	_
+33	Kapampángan	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Alî	_	_	_	_	_	_	_	_
+1	pala	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bála	_	_	_	_	_	_	_	_
+1	palang	_	_	_	_	_	_	_	_
+2	ístória	_	_	_	_	_	_	_	_
+3	ké	_	_	_	_	_	_	_	_
+4	karéng	_	_	_	_	_	_	_	_
+5	kalúpa	_	_	_	_	_	_	_	_
+6	kung	_	_	_	_	_	_	_	_
+7	Kapampángan	_	_	_	_	_	_	_	_
+8	i	_	_	_	_	_	_	_	_
+9	Ápûng	_	_	_	_	_	_	_	_
+10	Sínukuan	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	alâ	_	_	_	_	_	_	_	_
+13	la	_	_	_	_	_	_	_	_
+14	man	_	_	_	_	_	_	_	_
+15	palang	_	_	_	_	_	_	_	_
+16	kamalémále	_	_	_	_	_	_	_	_
+17	nung	_	_	_	_	_	_	_	_
+18	nínu	_	_	_	_	_	_	_	_
+19	at	_	_	_	_	_	_	_	_
+20	nánu	_	_	_	_	_	_	_	_
+21	ya	_	_	_	_	_	_	_	_
+22	tagana	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	``	_	_	_	_	_	_	_	_
+1	Alâ	_	_	_	_	_	_	_	_
+2	náku	_	_	_	_	_	_	_	_
+3	man	_	_	_	_	_	_	_	_
+4	ákarapat	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nínu	_	_	_	_	_	_	_	_
+1	uárî	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	yáku	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+5	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	``	_	_	_	_	_	_	_	_
+1	Makanián	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ménibat	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	ibat	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+7	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	``	_	_	_	_	_	_	_	_
+1	Alâ	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	rin	_	_	_	_	_	_	_	_
+4	maliári	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+6	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	``	_	_	_	_	_	_	_	_
+1	Magpakabayánî	_	_	_	_	_	_	_	_
+2	naka	_	_	_	_	_	_	_	_
+3	nanaman	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bísâ	_	_	_	_	_	_	_	_
+1	kang	_	_	_	_	_	_	_	_
+2	pagáuâ	_	_	_	_	_	_	_	_
+3	kung	_	_	_	_	_	_	_	_
+4	rebulto	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ákalinguan	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	nung	_	_	_	_	_	_	_	_
+4	nínung	_	_	_	_	_	_	_	_
+5	alang	_	_	_	_	_	_	_	_
+6	patúgut	_	_	_	_	_	_	_	_
+7	gágámit	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	``	_	_	_	_	_	_	_	_
+10	mungkai	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+12	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Iniang	_	_	_	_	_	_	_	_
+1	kinorek	_	_	_	_	_	_	_	_
+2	ke	_	_	_	_	_	_	_	_
+3	é	_	_	_	_	_	_	_	_
+4	na	_	_	_	_	_	_	_	_
+5	burî	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	na	_	_	_	_	_	_	_	_
+2	nóman	_	_	_	_	_	_	_	_
+3	kasi	_	_	_	_	_	_	_	_
+4	kanu	_	_	_	_	_	_	_	_
+5	áintindian	_	_	_	_	_	_	_	_
+6	ding	_	_	_	_	_	_	_	_
+7	``	_	_	_	_	_	_	_	_
+8	ancient	_	_	_	_	_	_	_	_
+9	Kapampángan	_	_	_	_	_	_	_	_
+10	''	_	_	_	_	_	_	_	_
+11	ngána	_	_	_	_	_	_	_	_
+12	ning	_	_	_	_	_	_	_	_
+13	alti	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	MUNIKÁLÂ	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	pû	_	_	_	_	_	_	_	_
+3	King	_	_	_	_	_	_	_	_
+4	Kapampangan	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	‘	_	_	_	_	_	_	_	_
+7	mungkahi	_	_	_	_	_	_	_	_
+8	’	_	_	_	_	_	_	_	_
+9	ning	_	_	_	_	_	_	_	_
+10	Tagálug	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bista	_	_	_	_	_	_	_	_
+1	’	_	_	_	_	_	_	_	_
+2	t	_	_	_	_	_	_	_	_
+3	man	_	_	_	_	_	_	_	_
+4	pû	_	_	_	_	_	_	_	_
+5	ilakó	_	_	_	_	_	_	_	_
+6	ye	_	_	_	_	_	_	_	_
+7	H	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	‘	_	_	_	_	_	_	_	_
+10	mungkahi	_	_	_	_	_	_	_	_
+11	’	_	_	_	_	_	_	_	_
+12	ning	_	_	_	_	_	_	_	_
+13	Tagálug	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	é	_	_	_	_	_	_	_	_
+16	ya	_	_	_	_	_	_	_	_
+17	pa	_	_	_	_	_	_	_	_
+18	mú	_	_	_	_	_	_	_	_
+19	rin	_	_	_	_	_	_	_	_
+20	maging	_	_	_	_	_	_	_	_
+21	Kapampángan	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	At	_	_	_	_	_	_	_	_
+1	é	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	pû	_	_	_	_	_	_	_	_
+4	“	_	_	_	_	_	_	_	_
+5	ancient	_	_	_	_	_	_	_	_
+6	Kapampangan	_	_	_	_	_	_	_	_
+7	”	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	MUNIKÁLÂ	_	_	_	_	_	_	_	_
+10	né	_	_	_	_	_	_	_	_
+11	pô	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Disnan	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	pûng	_	_	_	_	_	_	_	_
+4	gagamítan	_	_	_	_	_	_	_	_
+5	da	_	_	_	_	_	_	_	_
+6	yan	_	_	_	_	_	_	_	_
+7	báyu	_	_	_	_	_	_	_	_
+8	EDSA	_	_	_	_	_	_	_	_
+9	Revolution…iniang	_	_	_	_	_	_	_	_
+10	panaún	_	_	_	_	_	_	_	_
+11	nung	_	_	_	_	_	_	_	_
+12	nu	_	_	_	_	_	_	_	_
+13	réng	_	_	_	_	_	_	_	_
+14	pulítiku	_	_	_	_	_	_	_	_
+15	támu	_	_	_	_	_	_	_	_
+16	Kapampángan	_	_	_	_	_	_	_	_
+17	pa	_	_	_	_	_	_	_	_
+18	ing	_	_	_	_	_	_	_	_
+19	amánung	_	_	_	_	_	_	_	_
+20	gagamítan	_	_	_	_	_	_	_	_
+21	da	_	_	_	_	_	_	_	_
+22	king	_	_	_	_	_	_	_	_
+23	karélang	_	_	_	_	_	_	_	_
+24	pámanungkúlan	_	_	_	_	_	_	_	_
+25	at	_	_	_	_	_	_	_	_
+26	é	_	_	_	_	_	_	_	_
+27	pa	_	_	_	_	_	_	_	_
+28	Tagálug…	_	_	_	_	_	_	_	_
+29	ót	_	_	_	_	_	_	_	_
+30	kaplas	_	_	_	_	_	_	_	_
+31	na	_	_	_	_	_	_	_	_
+32	king	_	_	_	_	_	_	_	_
+33	balat	_	_	_	_	_	_	_	_
+34	ning	_	_	_	_	_	_	_	_
+35	mawóng	_	_	_	_	_	_	_	_
+36	patié	_	_	_	_	_	_	_	_
+37	marimla	_	_	_	_	_	_	_	_
+38	?	_	_	_	_	_	_	_	_
+39	!	_	_	_	_	_	_	_	_
+40	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	mámagad	_	_	_	_	_	_	_	_
+1	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	nung	_	_	_	_	_	_	_	_
+1	atin	_	_	_	_	_	_	_	_
+2	búngang	_	_	_	_	_	_	_	_
+3	aldó	_	_	_	_	_	_	_	_
+4	patié	_	_	_	_	_	_	_	_
+5	mapáli	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	atin	_	_	_	_	_	_	_	_
+8	mú	_	_	_	_	_	_	_	_
+9	naman	_	_	_	_	_	_	_	_
+10	palang	_	_	_	_	_	_	_	_
+11	búngang	_	_	_	_	_	_	_	_
+12	pakarimla	_	_	_	_	_	_	_	_
+13	né	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	kaplas	_	_	_	_	_	_	_	_
+1	da	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	é	_	_	_	_	_	_	_	_
+1	kó	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	áyáring	_	_	_	_	_	_	_	_
+4	ilbén	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mé-busy	_	_	_	_	_	_	_	_
+1	biglâ	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Weird	_	_	_	_	_	_	_	_
+1	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Familiar	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	yet	_	_	_	_	_	_	_	_
+3	balámó	_	_	_	_	_	_	_	_
+4	aliwá	_	_	_	_	_	_	_	_
+5	ya	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tiktokers	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	pû	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	pú	_	_	_	_	_	_	_	_
+3	youtubers	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	🙂	_	_	_	_	_	_	_	_
+1	Más	_	_	_	_	_	_	_	_
+2	masikan	_	_	_	_	_	_	_	_
+3	ya	_	_	_	_	_	_	_	_
+4	kasi	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	Youtube	_	_	_	_	_	_	_	_
+7	késá	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	Tiktok	_	_	_	_	_	_	_	_
+10	king	_	_	_	_	_	_	_	_
+11	Japan	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Considered	_	_	_	_	_	_	_	_
+1	néng	_	_	_	_	_	_	_	_
+2	legit	_	_	_	_	_	_	_	_
+3	profession	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	pámag-youtube	_	_	_	_	_	_	_	_
+6	king	_	_	_	_	_	_	_	_
+7	Japan	_	_	_	_	_	_	_	_
+8	at	_	_	_	_	_	_	_	_
+9	mámáyad	_	_	_	_	_	_	_	_
+10	lang	_	_	_	_	_	_	_	_
+11	taxes	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Have	_	_	_	_	_	_	_	_
+4	you	_	_	_	_	_	_	_	_
+5	been	_	_	_	_	_	_	_	_
+6	vacuned	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Náno	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Vacuned	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Have	_	_	_	_	_	_	_	_
+1	you	_	_	_	_	_	_	_	_
+2	been	_	_	_	_	_	_	_	_
+3	vacuned	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Nakpúta	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	pápag-vacuum	_	_	_	_	_	_	_	_
+1	mukó	_	_	_	_	_	_	_	_
+2	nimal	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Intá	_	_	_	_	_	_	_	_
+1	atin	_	_	_	_	_	_	_	_
+2	támung	_	_	_	_	_	_	_	_
+3	vacuum	_	_	_	_	_	_	_	_
+4	cleaner	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Palisan	_	_	_	_	_	_	_	_
+1	mu	_	_	_	_	_	_	_	_
+2	námú	_	_	_	_	_	_	_	_
+3	murét	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Alî	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Béibí	_	_	_	_	_	_	_	_
+6	kó	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	é	_	_	_	_	_	_	_	_
+9	vacuum	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	nánung	_	_	_	_	_	_	_	_
+5	ngámanuan	_	_	_	_	_	_	_	_
+6	mu	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Vacune	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Nánuyta	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Bakúnâ	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	ininglis	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	mû	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Bugók	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ménimbéntu	_	_	_	_	_	_	_	_
+1	naka	_	_	_	_	_	_	_	_
+2	nanaman	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Simáp	_	_	_	_	_	_	_	_
+1	alang	_	_	_	_	_	_	_	_
+2	aliwang	_	_	_	_	_	_	_	_
+3	mékáramdam	_	_	_	_	_	_	_	_
+4	kéka	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mákaríné	_	_	_	_	_	_	_	_
+1	ka	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ai	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	nánu	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	wárí	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	Inglis	_	_	_	_	_	_	_	_
+10	ing	_	_	_	_	_	_	_	_
+11	bakúnâ	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Back	_	_	_	_	_	_	_	_
+4	seen	_	_	_	_	_	_	_	_
+5	ya	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Back	_	_	_	_	_	_	_	_
+1	seen	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tandánan	_	_	_	_	_	_	_	_
+1	mé	_	_	_	_	_	_	_	_
+2	ita	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Back	_	_	_	_	_	_	_	_
+4	sin	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Gúlut	_	_	_	_	_	_	_	_
+1	...	_	_	_	_	_	_	_	_
+2	kasalánan	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Back	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	gúlut	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Seen	_	_	_	_	_	_	_	_
+1	,	_	_	_	_	_	_	_	_
+2	íkit	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ná	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Íkit	_	_	_	_	_	_	_	_
+1	naka	_	_	_	_	_	_	_	_
+2	gúlót	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ót	_	_	_	_	_	_	_	_
+1	é	_	_	_	_	_	_	_	_
+2	ké	_	_	_	_	_	_	_	_
+3	áintindian	_	_	_	_	_	_	_	_
+4	yátâ	_	_	_	_	_	_	_	_
+5	karin	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Átatandánan	_	_	_	_	_	_	_	_
+4	mu	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	iniang	_	_	_	_	_	_	_	_
+7	ának	_	_	_	_	_	_	_	_
+8	támu	_	_	_	_	_	_	_	_
+9	in-hek-siunan	_	_	_	_	_	_	_	_
+10	dakatámu	_	_	_	_	_	_	_	_
+11	buldét	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ai	_	_	_	_	_	_	_	_
+4	wa	_	_	_	_	_	_	_	_
+5	pútanaidána	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mákatákut	_	_	_	_	_	_	_	_
+1	kaníta	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	kaibat	_	_	_	_	_	_	_	_
+4	masakit	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	At	_	_	_	_	_	_	_	_
+1	saká	_	_	_	_	_	_	_	_
+2	mákaríné	_	_	_	_	_	_	_	_
+3	kasi	_	_	_	_	_	_	_	_
+4	pákit	_	_	_	_	_	_	_	_
+5	mé	_	_	_	_	_	_	_	_
+6	ing	_	_	_	_	_	_	_	_
+7	buldit	_	_	_	_	_	_	_	_
+8	mu	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Lálú	_	_	_	_	_	_	_	_
+1	na	_	_	_	_	_	_	_	_
+2	pótang	_	_	_	_	_	_	_	_
+3	malagú	_	_	_	_	_	_	_	_
+4	ya	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	nars	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mákaríné	_	_	_	_	_	_	_	_
+1	ita	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ósimáp	_	_	_	_	_	_	_	_
+1	pin	_	_	_	_	_	_	_	_
+2	ngéni	_	_	_	_	_	_	_	_
+3	king	_	_	_	_	_	_	_	_
+4	pagó	_	_	_	_	_	_	_	_
+5	námú	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	é	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	king	_	_	_	_	_	_	_	_
+10	buldit	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Yápin	_	_	_	_	_	_	_	_
+4	ita	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Nánung	_	_	_	_	_	_	_	_
+4	yápin	_	_	_	_	_	_	_	_
+5	ita	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Réng	_	_	_	_	_	_	_	_
+4	minúnang	_	_	_	_	_	_	_	_
+5	bakúnâ	_	_	_	_	_	_	_	_
+6	tutúsuk	_	_	_	_	_	_	_	_
+7	dó	_	_	_	_	_	_	_	_
+8	kaníta	_	_	_	_	_	_	_	_
+9	king	_	_	_	_	_	_	_	_
+10	buldit	_	_	_	_	_	_	_	_
+11	támu	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	alê	_	_	_	_	_	_	_	_
+14	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Bakúnâ	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	réta	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Wa	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	bólang	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	nánu	_	_	_	_	_	_	_	_
+8	pamó	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ót	_	_	_	_	_	_	_	_
+1	kabud	_	_	_	_	_	_	_	_
+2	danakatámu	_	_	_	_	_	_	_	_
+3	mú	_	_	_	_	_	_	_	_
+4	wárí	_	_	_	_	_	_	_	_
+5	panasakitan	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	pamakaríné	_	_	_	_	_	_	_	_
+8	at	_	_	_	_	_	_	_	_
+9	tusúkan	_	_	_	_	_	_	_	_
+10	buldit	_	_	_	_	_	_	_	_
+11	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bakúná	_	_	_	_	_	_	_	_
+1	ita	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Bakúná	_	_	_	_	_	_	_	_
+4	pala	_	_	_	_	_	_	_	_
+5	ita	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ó	_	_	_	_	_	_	_	_
+1	makanánu	_	_	_	_	_	_	_	_
+2	yang	_	_	_	_	_	_	_	_
+3	méging	_	_	_	_	_	_	_	_
+4	``	_	_	_	_	_	_	_	_
+5	back	_	_	_	_	_	_	_	_
+6	seen	_	_	_	_	_	_	_	_
+7	''	_	_	_	_	_	_	_	_
+8	kaníta	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Átatandánan	_	_	_	_	_	_	_	_
+4	mu	_	_	_	_	_	_	_	_
+5	iniang	_	_	_	_	_	_	_	_
+6	mébakúná	_	_	_	_	_	_	_	_
+7	tá	_	_	_	_	_	_	_	_
+8	kaníta	_	_	_	_	_	_	_	_
+9	king	_	_	_	_	_	_	_	_
+10	kámpu	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mérkánu	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	réng	_	_	_	_	_	_	_	_
+3	dóktor	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Wa	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	asnóng	_	_	_	_	_	_	_	_
+6	kátas	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mákatákut	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Alí	_	_	_	_	_	_	_	_
+4	mó	_	_	_	_	_	_	_	_
+5	pótang	_	_	_	_	_	_	_	_
+6	bakunan	_	_	_	_	_	_	_	_
+7	dakatámu	_	_	_	_	_	_	_	_
+8	kailángan	_	_	_	_	_	_	_	_
+9	téng	_	_	_	_	_	_	_	_
+10	pákit	_	_	_	_	_	_	_	_
+11	ing	_	_	_	_	_	_	_	_
+12	buldit	_	_	_	_	_	_	_	_
+13	támu	_	_	_	_	_	_	_	_
+14	né	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mákaríné	_	_	_	_	_	_	_	_
+1	,	_	_	_	_	_	_	_	_
+2	alê	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Wa	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Átatandánan	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	pa.	_	_	_	_	_	_	_	_
+3	Atching	_	_	_	_	_	_	_	_
+4	Baby	_	_	_	_	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+6	Déng	_	_	_	_	_	_	_	_
+7	Merkánu	_	_	_	_	_	_	_	_
+8	áintindian	_	_	_	_	_	_	_	_
+9	da	_	_	_	_	_	_	_	_
+10	ita	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	dakatámu	_	_	_	_	_	_	_	_
+2	buring	_	_	_	_	_	_	_	_
+3	díríné	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Iniá	_	_	_	_	_	_	_	_
+1	kanuwárí	_	_	_	_	_	_	_	_
+2	mó	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	gúlut	_	_	_	_	_	_	_	_
+5	támu	_	_	_	_	_	_	_	_
+6	yang	_	_	_	_	_	_	_	_
+7	íkit	_	_	_	_	_	_	_	_
+8	da	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	aliwá	_	_	_	_	_	_	_	_
+11	ing	_	_	_	_	_	_	_	_
+12	buldit	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	iniá	_	_	_	_	_	_	_	_
+15	``	_	_	_	_	_	_	_	_
+16	back	_	_	_	_	_	_	_	_
+17	seen	_	_	_	_	_	_	_	_
+18	''	_	_	_	_	_	_	_	_
+19	ngára	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	ustú	_	_	_	_	_	_	_	_
+1	kang	_	_	_	_	_	_	_	_
+2	ustu	_	_	_	_	_	_	_	_
+3	king	_	_	_	_	_	_	_	_
+4	observation	_	_	_	_	_	_	_	_
+5	mu	_	_	_	_	_	_	_	_
+6	kasi	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kasáman	_	_	_	_	_	_	_	_
+1	kung	_	_	_	_	_	_	_	_
+2	dílí	_	_	_	_	_	_	_	_
+3	itang	_	_	_	_	_	_	_	_
+4	elitist	_	_	_	_	_	_	_	_
+5	politics	_	_	_	_	_	_	_	_
+6	and	_	_	_	_	_	_	_	_
+7	condescending	_	_	_	_	_	_	_	_
+8	approach	_	_	_	_	_	_	_	_
+9	da	_	_	_	_	_	_	_	_
+10	réning	_	_	_	_	_	_	_	_
+11	kámpu	_	_	_	_	_	_	_	_
+12	nang	_	_	_	_	_	_	_	_
+13	Léni	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Yáku	_	_	_	_	_	_	_	_
+1	é	_	_	_	_	_	_	_	_
+2	ké	_	_	_	_	_	_	_	_
+3	burí	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	BBM	_	_	_	_	_	_	_	_
+6	né	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	at	_	_	_	_	_	_	_	_
+9	sigúru	_	_	_	_	_	_	_	_
+10	pin	_	_	_	_	_	_	_	_
+11	OK	_	_	_	_	_	_	_	_
+12	né	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Leni	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	péro	_	_	_	_	_	_	_	_
+17	if	_	_	_	_	_	_	_	_
+18	they	_	_	_	_	_	_	_	_
+19	keep	_	_	_	_	_	_	_	_
+20	this	_	_	_	_	_	_	_	_
+21	up	_	_	_	_	_	_	_	_
+22	and	_	_	_	_	_	_	_	_
+23	think	_	_	_	_	_	_	_	_
+24	that	_	_	_	_	_	_	_	_
+25	they	_	_	_	_	_	_	_	_
+26	will	_	_	_	_	_	_	_	_
+27	win	_	_	_	_	_	_	_	_
+28	because	_	_	_	_	_	_	_	_
+29	they	_	_	_	_	_	_	_	_
+30	have	_	_	_	_	_	_	_	_
+31	the	_	_	_	_	_	_	_	_
+32	moral	_	_	_	_	_	_	_	_
+33	high	_	_	_	_	_	_	_	_
+34	ground	_	_	_	_	_	_	_	_
+35	,	_	_	_	_	_	_	_	_
+36	tátákut	_	_	_	_	_	_	_	_
+37	kung	_	_	_	_	_	_	_	_
+38	maniambut	_	_	_	_	_	_	_	_
+39	ya	_	_	_	_	_	_	_	_
+40	i	_	_	_	_	_	_	_	_
+41	Marcos	_	_	_	_	_	_	_	_
+42	kéti	_	_	_	_	_	_	_	_
+43	Kapampángan	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Dakal	_	_	_	_	_	_	_	_
+1	karéng	_	_	_	_	_	_	_	_
+2	ikuá	_	_	_	_	_	_	_	_
+3	ra	_	_	_	_	_	_	_	_
+4	karéng	_	_	_	_	_	_	_	_
+5	kámpú	_	_	_	_	_	_	_	_
+6	ra	_	_	_	_	_	_	_	_
+7	kéti	_	_	_	_	_	_	_	_
+8	Kapampángan	_	_	_	_	_	_	_	_
+9	déning	_	_	_	_	_	_	_	_
+10	pakákalúlû	_	_	_	_	_	_	_	_
+11	dápot	_	_	_	_	_	_	_	_
+12	tutú	_	_	_	_	_	_	_	_
+13	lang	_	_	_	_	_	_	_	_
+14	biása	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	and	_	_	_	_	_	_	_	_
+17	it	_	_	_	_	_	_	_	_
+18	seems	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	have	_	_	_	_	_	_	_	_
+21	an	_	_	_	_	_	_	_	_
+22	axe	_	_	_	_	_	_	_	_
+23	to	_	_	_	_	_	_	_	_
+24	grind	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	káyi	_	_	_	_	_	_	_	_
+1	Kapampángán	_	_	_	_	_	_	_	_
+2	nómang	_	_	_	_	_	_	_	_
+3	Gen	_	_	_	_	_	_	_	_
+4	Z	_	_	_	_	_	_	_	_
+5	déng	_	_	_	_	_	_	_	_
+6	tútúlak	_	_	_	_	_	_	_	_
+7	kang	_	_	_	_	_	_	_	_
+8	Bongbong	_	_	_	_	_	_	_	_
+9	kéti	_	_	_	_	_	_	_	_
+10	...	_	_	_	_	_	_	_	_
+11	dána	_	_	_	_	_	_	_	_
+12	...	_	_	_	_	_	_	_	_
+13	bísá	_	_	_	_	_	_	_	_
+14	lá	_	_	_	_	_	_	_	_
+15	mú	_	_	_	_	_	_	_	_
+16	yátang	_	_	_	_	_	_	_	_
+17	live	_	_	_	_	_	_	_	_
+18	Sábung	_	_	_	_	_	_	_	_
+19	ding	_	_	_	_	_	_	_	_
+20	alti	_	_	_	_	_	_	_	_
+21	...	_	_	_	_	_	_	_	_
+22	ita	_	_	_	_	_	_	_	_
+23	pin	_	_	_	_	_	_	_	_
+24	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaibat	_	_	_	_	_	_	_	_
+1	déng	_	_	_	_	_	_	_	_
+2	diablus	_	_	_	_	_	_	_	_
+3	nang	_	_	_	_	_	_	_	_
+4	apologists	_	_	_	_	_	_	_	_
+5	nung	_	_	_	_	_	_	_	_
+6	nánu	_	_	_	_	_	_	_	_
+7	nánung	_	_	_	_	_	_	_	_
+8	lalatlat	_	_	_	_	_	_	_	_
+9	dang	_	_	_	_	_	_	_	_
+10	kalaraman	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	é	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	ákaliguan	_	_	_	_	_	_	_	_
+4	yápin	_	_	_	_	_	_	_	_
+5	itang	_	_	_	_	_	_	_	_
+6	pété	_	_	_	_	_	_	_	_
+7	né	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	Clark	_	_	_	_	_	_	_	_
+10	airport	_	_	_	_	_	_	_	_
+11	úlí	_	_	_	_	_	_	_	_
+12	námú	_	_	_	_	_	_	_	_
+13	king	_	_	_	_	_	_	_	_
+14	kasámán	_	_	_	_	_	_	_	_
+15	né	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Gloria	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nung	_	_	_	_	_	_	_	_
+1	kéti	_	_	_	_	_	_	_	_
+2	online	_	_	_	_	_	_	_	_
+3	sábung	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	réng	_	_	_	_	_	_	_	_
+6	mányírang	_	_	_	_	_	_	_	_
+7	bié	_	_	_	_	_	_	_	_
+8	karing	_	_	_	_	_	_	_	_
+9	mémalén	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	king	_	_	_	_	_	_	_	_
+12	Indonesia	_	_	_	_	_	_	_	_
+13	naman	_	_	_	_	_	_	_	_
+14	déng	_	_	_	_	_	_	_	_
+15	online	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	paútang	_	_	_	_	_	_	_	_
+18	ó	_	_	_	_	_	_	_	_
+19	fintech	_	_	_	_	_	_	_	_
+20	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	agyáng	_	_	_	_	_	_	_	_
+1	naman	_	_	_	_	_	_	_	_
+2	king	_	_	_	_	_	_	_	_
+3	Kristianismu	_	_	_	_	_	_	_	_
+4	péro	_	_	_	_	_	_	_	_
+5	karakal	_	_	_	_	_	_	_	_
+6	pa	_	_	_	_	_	_	_	_
+7	mú	_	_	_	_	_	_	_	_
+8	rin	_	_	_	_	_	_	_	_
+9	mág-5-6	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	dána	_	_	_	_	_	_	_	_
+1	ósimáp	_	_	_	_	_	_	_	_
+2	dugú	_	_	_	_	_	_	_	_
+3	é	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	míras	_	_	_	_	_	_	_	_
+7	kékatámu	_	_	_	_	_	_	_	_
+8	réné	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	sigurádú	_	_	_	_	_	_	_	_
+1	mú	_	_	_	_	_	_	_	_
+2	iniá	_	_	_	_	_	_	_	_
+3	sána	_	_	_	_	_	_	_	_
+4	é	_	_	_	_	_	_	_	_
+5	ré	_	_	_	_	_	_	_	_
+6	ábabálú	_	_	_	_	_	_	_	_
+7	kéti	_	_	_	_	_	_	_	_
+8	iti	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	ó	_	_	_	_	_	_	_	_
+1	réni	_	_	_	_	_	_	_	_
+2	kayáng	_	_	_	_	_	_	_	_
+3	mismung	_	_	_	_	_	_	_	_
+4	pulítiku	_	_	_	_	_	_	_	_
+5	ílang	_	_	_	_	_	_	_	_
+6	makibandí	_	_	_	_	_	_	_	_
+7	karén	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	dána	_	_	_	_	_	_	_	_
+1	bísâ	_	_	_	_	_	_	_	_
+2	nákung	_	_	_	_	_	_	_	_
+3	múlî	_	_	_	_	_	_	_	_
+4	Kanítá	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	man	_	_	_	_	_	_	_	_
+7	mékápamunlá	_	_	_	_	_	_	_	_
+8	nala	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Agpang	_	_	_	_	_	_	_	_
+1	kang	_	_	_	_	_	_	_	_
+2	Ingkung	_	_	_	_	_	_	_	_
+3	kung	_	_	_	_	_	_	_	_
+4	Éliung	_	_	_	_	_	_	_	_
+5	king	_	_	_	_	_	_	_	_
+6	Magálang	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	atin	_	_	_	_	_	_	_	_
+9	ya	_	_	_	_	_	_	_	_
+10	kanung	_	_	_	_	_	_	_	_
+11	sésé	_	_	_	_	_	_	_	_
+12	Kulariut	_	_	_	_	_	_	_	_
+13	i	_	_	_	_	_	_	_	_
+14	Ápung	_	_	_	_	_	_	_	_
+15	Mágnu	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	_
+17	tátang	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	at	_	_	_	_	_	_	_	_
+20	Ingkung	_	_	_	_	_	_	_	_
+21	ku	_	_	_	_	_	_	_	_
+22	king	_	_	_	_	_	_	_	_
+23	tud	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Dápot	_	_	_	_	_	_	_	_
+1	aliwá	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	itsúra	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	Kulariut	_	_	_	_	_	_	_	_
+6	karéla	_	_	_	_	_	_	_	_
+7	-	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	bábo	_	_	_	_	_	_	_	_
+10	na	_	_	_	_	_	_	_	_
+11	kanung	_	_	_	_	_	_	_	_
+12	katáwan	_	_	_	_	_	_	_	_
+13	táwu	_	_	_	_	_	_	_	_
+14	ya	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	at	_	_	_	_	_	_	_	_
+17	ing	_	_	_	_	_	_	_	_
+18	lálam	_	_	_	_	_	_	_	_
+19	nang	_	_	_	_	_	_	_	_
+20	katáwan	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	animális	_	_	_	_	_	_	_	_
+23	ya	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Póta	_	_	_	_	_	_	_	_
+1	kanung	_	_	_	_	_	_	_	_
+2	magpanggap	_	_	_	_	_	_	_	_
+3	yang	_	_	_	_	_	_	_	_
+4	táwu	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	sóbrá	_	_	_	_	_	_	_	_
+7	ya	_	_	_	_	_	_	_	_
+8	santing	_	_	_	_	_	_	_	_
+9	iniá	_	_	_	_	_	_	_	_
+10	é	_	_	_	_	_	_	_	_
+11	ka	_	_	_	_	_	_	_	_
+12	maniwálang	_	_	_	_	_	_	_	_
+13	táwu	_	_	_	_	_	_	_	_
+14	ya	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pótang	_	_	_	_	_	_	_	_
+1	mimuá	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	mibabáya	_	_	_	_	_	_	_	_
+5	ya	_	_	_	_	_	_	_	_
+6	aské	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	malútu	_	_	_	_	_	_	_	_
+9	ya	_	_	_	_	_	_	_	_
+10	mata	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	matílus	_	_	_	_	_	_	_	_
+13	ya	_	_	_	_	_	_	_	_
+14	pángil	_	_	_	_	_	_	_	_
+15	ampóng	_	_	_	_	_	_	_	_
+16	balugbug	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	mangakábá	_	_	_	_	_	_	_	_
+19	ya	_	_	_	_	_	_	_	_
+20	kukû	_	_	_	_	_	_	_	_
+21	at	_	_	_	_	_	_	_	_
+22	makisagu	_	_	_	_	_	_	_	_
+23	ya	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Agyú	_	_	_	_	_	_	_	_
+1	na	_	_	_	_	_	_	_	_
+2	kanung	_	_	_	_	_	_	_	_
+3	látî	_	_	_	_	_	_	_	_
+4	ó	_	_	_	_	_	_	_	_
+5	dágul	_	_	_	_	_	_	_	_
+6	istung	_	_	_	_	_	_	_	_
+7	burí	_	_	_	_	_	_	_	_
+8	na	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	antí	_	_	_	_	_	_	_	_
+11	ya	_	_	_	_	_	_	_	_
+12	kanung	_	_	_	_	_	_	_	_
+13	míbugnus	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	bálas	_	_	_	_	_	_	_	_
+16	king	_	_	_	_	_	_	_	_
+17	bilis	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mágdaladalá	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	kanung	_	_	_	_	_	_	_	_
+3	láit	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	míngatbang	_	_	_	_	_	_	_	_
+6	gámat	_	_	_	_	_	_	_	_
+7	at	_	_	_	_	_	_	_	_
+8	déni	_	_	_	_	_	_	_	_
+9	réng	_	_	_	_	_	_	_	_
+10	karélang	_	_	_	_	_	_	_	_
+11	sundang	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mayílig	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	kanung	_	_	_	_	_	_	_	_
+3	mákipaté	_	_	_	_	_	_	_	_
+4	at	_	_	_	_	_	_	_	_
+5	burí	_	_	_	_	_	_	_	_
+6	ra	_	_	_	_	_	_	_	_
+7	ing	_	_	_	_	_	_	_	_
+8	báwu	_	_	_	_	_	_	_	_
+9	ning	_	_	_	_	_	_	_	_
+10	dáyâ	_	_	_	_	_	_	_	_
+11	iniá	_	_	_	_	_	_	_	_
+12	maralas	_	_	_	_	_	_	_	_
+13	lang	_	_	_	_	_	_	_	_
+14	mágpanggap	_	_	_	_	_	_	_	_
+15	táwu	_	_	_	_	_	_	_	_
+16	at	_	_	_	_	_	_	_	_
+17	mákiábé	_	_	_	_	_	_	_	_
+18	king	_	_	_	_	_	_	_	_
+19	labanan	_	_	_	_	_	_	_	_
+20	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ápayámu	_	_	_	_	_	_	_	_
+1	mó	_	_	_	_	_	_	_	_
+2	kanu	_	_	_	_	_	_	_	_
+3	nung	_	_	_	_	_	_	_	_
+4	...	_	_	_	_	_	_	_	_
+5	ai	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	sikrétu	_	_	_	_	_	_	_	_
+8	mi	_	_	_	_	_	_	_	_
+9	ya	_	_	_	_	_	_	_	_
+10	pala	_	_	_	_	_	_	_	_
+11	king	_	_	_	_	_	_	_	_
+12	pamiliá	_	_	_	_	_	_	_	_
+13	mi	_	_	_	_	_	_	_	_
+14	ita	_	_	_	_	_	_	_	_
+15	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Agyámpang	_	_	_	_	_	_	_	_
+1	gagáwan	_	_	_	_	_	_	_	_
+2	dé	_	_	_	_	_	_	_	_
+3	ngan	_	_	_	_	_	_	_	_
+4	ding	_	_	_	_	_	_	_	_
+5	éganaganang	_	_	_	_	_	_	_	_
+6	táwu	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	kapilan	_	_	_	_	_	_	_	_
+9	man	_	_	_	_	_	_	_	_
+10	é	_	_	_	_	_	_	_	_
+11	ya	_	_	_	_	_	_	_	_
+12	maging	_	_	_	_	_	_	_	_
+13	ustu	_	_	_	_	_	_	_	_
+14	ing	_	_	_	_	_	_	_	_
+15	malî	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Salamin	_	_	_	_	_	_	_	_
+1	ning	_	_	_	_	_	_	_	_
+2	Kalasingan	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Panalángin	_	_	_	_	_	_	_	_
+1	mu	_	_	_	_	_	_	_	_
+2	kami	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Luklúkan	_	_	_	_	_	_	_	_
+1	ding	_	_	_	_	_	_	_	_
+2	Maliliû	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Panalángin	_	_	_	_	_	_	_	_
+1	mu	_	_	_	_	_	_	_	_
+2	kami	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kasangkánan	_	_	_	_	_	_	_	_
+1	ning	_	_	_	_	_	_	_	_
+2	Kékaming	_	_	_	_	_	_	_	_
+3	Pángalúlâ	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Panalángin	_	_	_	_	_	_	_	_
+1	mu	_	_	_	_	_	_	_	_
+2	kami	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaban	_	_	_	_	_	_	_	_
+1	ning	_	_	_	_	_	_	_	_
+2	Álak	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Panalángin	_	_	_	_	_	_	_	_
+1	mu	_	_	_	_	_	_	_	_
+2	kami	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaban	_	_	_	_	_	_	_	_
+1	ding	_	_	_	_	_	_	_	_
+2	É	_	_	_	_	_	_	_	_
+3	Bísang	_	_	_	_	_	_	_	_
+4	Mámin	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Panalángin	_	_	_	_	_	_	_	_
+1	mu	_	_	_	_	_	_	_	_
+2	kami	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Magdilidíling	_	_	_	_	_	_	_	_
+1	Kaban	_	_	_	_	_	_	_	_
+2	ding	_	_	_	_	_	_	_	_
+3	Makainum	_	_	_	_	_	_	_	_
+4	kú	_	_	_	_	_	_	_	_
+5	mû	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Panalángin	_	_	_	_	_	_	_	_
+1	mu	_	_	_	_	_	_	_	_
+2	kami	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nung	_	_	_	_	_	_	_	_
+1	yáku	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	burí	_	_	_	_	_	_	_	_
+4	yung	_	_	_	_	_	_	_	_
+5	mamugnus	_	_	_	_	_	_	_	_
+6	emotional	_	_	_	_	_	_	_	_
+7	backlash	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	subúkan	_	_	_	_	_	_	_	_
+10	yéng	_	_	_	_	_	_	_	_
+11	kanan	_	_	_	_	_	_	_	_
+12	king	_	_	_	_	_	_	_	_
+13	árapan	_	_	_	_	_	_	_	_
+14	ku	_	_	_	_	_	_	_	_
+15	ini	_	_	_	_	_	_	_	_
+16	kaibat	_	_	_	_	_	_	_	_
+17	é	_	_	_	_	_	_	_	_
+18	yuku	_	_	_	_	_	_	_	_
+19	dirínan	_	_	_	_	_	_	_	_
+20	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	Béibé	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	nánu	_	_	_	_	_	_	_	_
+7	ya	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	plasnáit	_	_	_	_	_	_	_	_
+10	king	_	_	_	_	_	_	_	_
+11	Inglis	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Nínánu	_	_	_	_	_	_	_	_
+4	ka	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	English	_	_	_	_	_	_	_	_
+1	né	_	_	_	_	_	_	_	_
+2	ita	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	bugók	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	ispel	_	_	_	_	_	_	_	_
+5	mu	_	_	_	_	_	_	_	_
+6	né	_	_	_	_	_	_	_	_
+7	mû	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	dálé	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Fee	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	É	_	_	_	_	_	_	_	_
+4	ya	_	_	_	_	_	_	_	_
+5	Hep	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Bólang	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	alí	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Fee	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	sige	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Fee	_	_	_	_	_	_	_	_
+1	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	kaibat	_	_	_	_	_	_	_	_
+1	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Fee	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	né	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaibat	_	_	_	_	_	_	_	_
+1	,	_	_	_	_	_	_	_	_
+2	Hell	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	Hugh	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Hess	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	Hen	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	High	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	Gee	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	Etched	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	Tea	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Plus	_	_	_	_	_	_	_	_
+1	Night	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Fee	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	Hell	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	Hugh	_	_	_	_	_	_	_	_
+8	...	_	_	_	_	_	_	_	_
+9	Plus	_	_	_	_	_	_	_	_
+10	Night	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Áwa	_	_	_	_	_	_	_	_
+1	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ót	_	_	_	_	_	_	_	_
+1	ináwus	_	_	_	_	_	_	_	_
+2	dé	_	_	_	_	_	_	_	_
+3	palang	_	_	_	_	_	_	_	_
+4	Plus	_	_	_	_	_	_	_	_
+5	Night	_	_	_	_	_	_	_	_
+6	ini	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Nánu	_	_	_	_	_	_	_	_
+4	ya	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	``	_	_	_	_	_	_	_	_
+7	plus	_	_	_	_	_	_	_	_
+8	''	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Dagdag	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Wa	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	istú	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ó	_	_	_	_	_	_	_	_
+1	ing	_	_	_	_	_	_	_	_
+2	``	_	_	_	_	_	_	_	_
+3	night	_	_	_	_	_	_	_	_
+4	''	_	_	_	_	_	_	_	_
+5	nánu	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Béngi	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	siémpre	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Pótang	_	_	_	_	_	_	_	_
+4	madalumdum	_	_	_	_	_	_	_	_
+5	ya	_	_	_	_	_	_	_	_
+6	ing	_	_	_	_	_	_	_	_
+7	béngi	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	nánung	_	_	_	_	_	_	_	_
+10	kúlang	_	_	_	_	_	_	_	_
+11	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Sulû	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	nánung	_	_	_	_	_	_	_	_
+5	kailángan	_	_	_	_	_	_	_	_
+6	mung	_	_	_	_	_	_	_	_
+7	iragdag	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Sulû	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Ó	_	_	_	_	_	_	_	_
+4	ikuá	_	_	_	_	_	_	_	_
+5	mu	_	_	_	_	_	_	_	_
+6	né	_	_	_	_	_	_	_	_
+7	ót	_	_	_	_	_	_	_	_
+8	``	_	_	_	_	_	_	_	_
+9	plus	_	_	_	_	_	_	_	_
+10	night	_	_	_	_	_	_	_	_
+11	''	_	_	_	_	_	_	_	_
+12	ya	_	_	_	_	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Cóng	_	_	_	_	_	_	_	_
+1	Boy	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Úling	_	_	_	_	_	_	_	_
+4	yang	_	_	_	_	_	_	_	_
+5	daragdag	_	_	_	_	_	_	_	_
+6	mung	_	_	_	_	_	_	_	_
+7	sulû	_	_	_	_	_	_	_	_
+8	patié	_	_	_	_	_	_	_	_
+9	madalumdum	_	_	_	_	_	_	_	_
+10	ya	_	_	_	_	_	_	_	_
+11	ing	_	_	_	_	_	_	_	_
+12	béngé	_	_	_	_	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atching	_	_	_	_	_	_	_	_
+1	Baby	_	_	_	_	_	_	_	_
+2	:	_	_	_	_	_	_	_	_
+3	Wa	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ikuá	_	_	_	_	_	_	_	_
+1	mé	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	tulók	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ó	_	_	_	_	_	_	_	_
+1	matudtud	_	_	_	_	_	_	_	_
+2	tána	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	itang	_	_	_	_	_	_	_	_
+1	agyú	_	_	_	_	_	_	_	_
+2	nang	_	_	_	_	_	_	_	_
+3	ákit	_	_	_	_	_	_	_	_
+4	at	_	_	_	_	_	_	_	_
+5	tanggapan	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	ing	_	_	_	_	_	_	_	_
+8	Pilipínas	_	_	_	_	_	_	_	_
+9	é	_	_	_	_	_	_	_	_
+10	ya	_	_	_	_	_	_	_	_
+11	métung	_	_	_	_	_	_	_	_
+12	a	_	_	_	_	_	_	_	_
+13	bangsâ	_	_	_	_	_	_	_	_
+14	nung	_	_	_	_	_	_	_	_
+15	é	_	_	_	_	_	_	_	_
+16	métung	_	_	_	_	_	_	_	_
+17	yang	_	_	_	_	_	_	_	_
+18	balén	_	_	_	_	_	_	_	_
+19	da	_	_	_	_	_	_	_	_
+20	réning	_	_	_	_	_	_	_	_
+21	dakal	_	_	_	_	_	_	_	_
+22	a	_	_	_	_	_	_	_	_
+23	katutúbung	_	_	_	_	_	_	_	_
+24	bangsâ	_	_	_	_	_	_	_	_
+25	a	_	_	_	_	_	_	_	_
+26	atin	_	_	_	_	_	_	_	_
+27	sarásaríling	_	_	_	_	_	_	_	_
+28	Amánu	_	_	_	_	_	_	_	_
+29	,	_	_	_	_	_	_	_	_
+30	Kultúra	_	_	_	_	_	_	_	_
+31	,	_	_	_	_	_	_	_	_
+32	Kasalésáyan	_	_	_	_	_	_	_	_
+33	ampóng	_	_	_	_	_	_	_	_
+34	Pámagpakilalánan	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	ónéng	_	_	_	_	_	_	_	_
+1	alá	_	_	_	_	_	_	_	_
+2	man	_	_	_	_	_	_	_	_
+3	bitasá	_	_	_	_	_	_	_	_
+4	karéla	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nínu	_	_	_	_	_	_	_	_
+1	man	_	_	_	_	_	_	_	_
+2	maniambut	_	_	_	_	_	_	_	_
+3	karéla	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	6	_	_	_	_	_	_	_	_
+6	years	_	_	_	_	_	_	_	_
+7	né	_	_	_	_	_	_	_	_
+8	nanaman	_	_	_	_	_	_	_	_
+9	lumában	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	magsalbat	_	_	_	_	_	_	_	_
+12	ing	_	_	_	_	_	_	_	_
+13	Kapampángan	_	_	_	_	_	_	_	_
+14	at	_	_	_	_	_	_	_	_
+15	pámanluálu	_	_	_	_	_	_	_	_
+16	ning	_	_	_	_	_	_	_	_
+17	keyang	_	_	_	_	_	_	_	_
+18	Amánu	_	_	_	_	_	_	_	_
+19	salang	_	_	_	_	_	_	_	_
+20	king	_	_	_	_	_	_	_	_
+21	dominasiun	_	_	_	_	_	_	_	_
+22	na	_	_	_	_	_	_	_	_
+23	ning	_	_	_	_	_	_	_	_
+24	Tagálug	_	_	_	_	_	_	_	_
+25	king	_	_	_	_	_	_	_	_
+26	gubiérnu	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	edukasiun	_	_	_	_	_	_	_	_
+29	ampó	_	_	_	_	_	_	_	_
+30	pang	_	_	_	_	_	_	_	_
+31	media	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Katátakman	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	pámú	_	_	_	_	_	_	_	_
+3	king	_	_	_	_	_	_	_	_
+4	burger	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	ini	_	_	_	_	_	_	_	_
+7	ngéning	_	_	_	_	_	_	_	_
+8	béngi	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tutú	_	_	_	_	_	_	_	_
+1	yang	_	_	_	_	_	_	_	_
+2	maniáman	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Itang	_	_	_	_	_	_	_	_
+1	beef	_	_	_	_	_	_	_	_
+2	patty	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	asnéng	_	_	_	_	_	_	_	_
+5	kakapal	_	_	_	_	_	_	_	_
+6	dápot	_	_	_	_	_	_	_	_
+7	malambut	_	_	_	_	_	_	_	_
+8	ya	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	malangî	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Juicy	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	ngárá	_	_	_	_	_	_	_	_
+4	pin	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	At	_	_	_	_	_	_	_	_
+1	asnéng	_	_	_	_	_	_	_	_
+2	kalásangkalása	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Migkusuélu	_	_	_	_	_	_	_	_
+1	kung	_	_	_	_	_	_	_	_
+2	mámangan	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	burí	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	pa	_	_	_	_	_	_	_	_
+4	itang	_	_	_	_	_	_	_	_
+5	gúlé	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	ampóng	_	_	_	_	_	_	_	_
+8	sauce	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	é	_	_	_	_	_	_	_	_
+11	ya	_	_	_	_	_	_	_	_
+12	kákawání	_	_	_	_	_	_	_	_
+13	lása	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	yá	_	_	_	_	_	_	_	_
+2	rin	_	_	_	_	_	_	_	_
+3	mayúmu	_	_	_	_	_	_	_	_
+4	iniá	_	_	_	_	_	_	_	_
+5	burí	_	_	_	_	_	_	_	_
+6	ké	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaibat	_	_	_	_	_	_	_	_
+1	pilálú	_	_	_	_	_	_	_	_
+2	réning	_	_	_	_	_	_	_	_
+3	French	_	_	_	_	_	_	_	_
+4	Fries	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	maniáman	_	_	_	_	_	_	_	_
+7	lá	_	_	_	_	_	_	_	_
+8	mú	_	_	_	_	_	_	_	_
+9	naman	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tutú	_	_	_	_	_	_	_	_
+1	lang	_	_	_	_	_	_	_	_
+2	patátas	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Asnóng	_	_	_	_	_	_	_	_
+1	kabanglú	_	_	_	_	_	_	_	_
+2	at	_	_	_	_	_	_	_	_
+3	é	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	tátabâ	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Malutung	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	king	_	_	_	_	_	_	_	_
+3	gílid	_	_	_	_	_	_	_	_
+4	at	_	_	_	_	_	_	_	_
+5	sáktu	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	lambut	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	kilub	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	sásápal	_	_	_	_	_	_	_	_
+3	at	_	_	_	_	_	_	_	_
+4	mákasáwâ	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Áganaká	_	_	_	_	_	_	_	_
+1	kó	_	_	_	_	_	_	_	_
+2	réng	_	_	_	_	_	_	_	_
+3	kakanan	_	_	_	_	_	_	_	_
+4	kung	_	_	_	_	_	_	_	_
+5	pirítung	_	_	_	_	_	_	_	_
+6	patátas	_	_	_	_	_	_	_	_
+7	king	_	_	_	_	_	_	_	_
+8	Japan	_	_	_	_	_	_	_	_
+9	ampóng	_	_	_	_	_	_	_	_
+10	Germany	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tíran	_	_	_	_	_	_	_	_
+1	dala	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pílálung	_	_	_	_	_	_	_	_
+1	French	_	_	_	_	_	_	_	_
+2	Fries	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	saliwan	_	_	_	_	_	_	_	_
+5	ké	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	kanan	_	_	_	_	_	_	_	_
+8	kó	_	_	_	_	_	_	_	_
+9	ílang	_	_	_	_	_	_	_	_
+10	díli	_	_	_	_	_	_	_	_
+11	ra	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	lá	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	kabud	_	_	_	_	_	_	_	_
+4	pánérnu	_	_	_	_	_	_	_	_
+5	ó	_	_	_	_	_	_	_	_
+6	panagaulâ	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	mó	_	_	_	_	_	_	_	_
+2	man	_	_	_	_	_	_	_	_
+3	kailángan	_	_	_	_	_	_	_	_
+4	tiltil	_	_	_	_	_	_	_	_
+5	ketchup	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Asna	_	_	_	_	_	_	_	_
+1	nóng	_	_	_	_	_	_	_	_
+2	kaniáman	_	_	_	_	_	_	_	_
+3	págpúrus	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	mákapagmulálá	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	asnéng	_	_	_	_	_	_	_	_
+5	kamuran	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	yu	_	_	_	_	_	_	_	_
+2	sigúru	_	_	_	_	_	_	_	_
+3	áula	_	_	_	_	_	_	_	_
+4	nung	_	_	_	_	_	_	_	_
+5	magkánu	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	ini	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kasindagul	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	man	_	_	_	_	_	_	_	_
+3	tutung	_	_	_	_	_	_	_	_
+4	Quarter	_	_	_	_	_	_	_	_
+5	Pounder	_	_	_	_	_	_	_	_
+6	ining	_	_	_	_	_	_	_	_
+7	burger	_	_	_	_	_	_	_	_
+8	da	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	110V	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	ngan	_	_	_	_	_	_	_	_
+3	déng	_	_	_	_	_	_	_	_
+4	sulú	_	_	_	_	_	_	_	_
+5	mi	_	_	_	_	_	_	_	_
+6	king	_	_	_	_	_	_	_	_
+7	balé	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	nó	_	_	_	_	_	_	_	_
+2	ngan	_	_	_	_	_	_	_	_
+3	gágána	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nánung	_	_	_	_	_	_	_	_
+1	miliári	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Balámó	_	_	_	_	_	_	_	_
+1	míbálik	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	Magálang	_	_	_	_	_	_	_	_
+4	iniang	_	_	_	_	_	_	_	_
+5	alá	_	_	_	_	_	_	_	_
+6	pang	_	_	_	_	_	_	_	_
+7	kuriénti	_	_	_	_	_	_	_	_
+8	karin	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Balámó	_	_	_	_	_	_	_	_
+1	pépaltó	_	_	_	_	_	_	_	_
+2	lang	_	_	_	_	_	_	_	_
+3	mochi	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pané	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	kasi	_	_	_	_	_	_	_	_
+3	kanung	_	_	_	_	_	_	_	_
+4	masasambut	_	_	_	_	_	_	_	_
+5	déng	_	_	_	_	_	_	_	_
+6	Angels	_	_	_	_	_	_	_	_
+7	karéng	_	_	_	_	_	_	_	_
+8	Evangelion	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	mákalúnus	_	_	_	_	_	_	_	_
+11	nóng	_	_	_	_	_	_	_	_
+12	masiádu	_	_	_	_	_	_	_	_
+13	réng	_	_	_	_	_	_	_	_
+14	Japón	_	_	_	_	_	_	_	_
+15	úling	_	_	_	_	_	_	_	_
+16	gísan	_	_	_	_	_	_	_	_
+17	da	_	_	_	_	_	_	_	_
+18	néng	_	_	_	_	_	_	_	_
+19	piglasak	_	_	_	_	_	_	_	_
+20	déng	_	_	_	_	_	_	_	_
+21	miyáliwang	_	_	_	_	_	_	_	_
+22	monsters	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	aliens	_	_	_	_	_	_	_	_
+25	ampóng	_	_	_	_	_	_	_	_
+26	Merkánu	_	_	_	_	_	_	_	_
+27	ing	_	_	_	_	_	_	_	_
+28	lugal	_	_	_	_	_	_	_	_
+29	da	_	_	_	_	_	_	_	_
+30	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	balákú	_	_	_	_	_	_	_	_
+1	sá	_	_	_	_	_	_	_	_
+2	``	_	_	_	_	_	_	_	_
+3	papakain	_	_	_	_	_	_	_	_
+4	''	_	_	_	_	_	_	_	_
+5	ngána	_	_	_	_	_	_	_	_
+6	...	_	_	_	_	_	_	_	_
+7	mésáné	_	_	_	_	_	_	_	_
+8	ku	_	_	_	_	_	_	_	_
+9	kasi	_	_	_	_	_	_	_	_
+10	karéning	_	_	_	_	_	_	_	_
+11	alting	_	_	_	_	_	_	_	_
+12	Kapampángan	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	tagátágálug	_	_	_	_	_	_	_	_
+15	é	_	_	_	_	_	_	_	_
+16	...	_	_	_	_	_	_	_	_
+17	dikapa	_	_	_	_	_	_	_	_
+18	kumáyén	_	_	_	_	_	_	_	_
+19	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	papakáyin	_	_	_	_	_	_	_	_
+1	nátin	_	_	_	_	_	_	_	_
+2	sila	_	_	_	_	_	_	_	_
+3	...	_	_	_	_	_	_	_	_
+4	É	_	_	_	_	_	_	_	_
+5	yó	_	_	_	_	_	_	_	_
+6	kanu	_	_	_	_	_	_	_	_
+7	pámisalí	_	_	_	_	_	_	_	_
+8	réng	_	_	_	_	_	_	_	_
+9	bótu	_	_	_	_	_	_	_	_
+10	yu	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Rén	_	_	_	_	_	_	_	_
+1	námúng	_	_	_	_	_	_	_	_
+2	bútú	_	_	_	_	_	_	_	_
+3	yu	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Búkas	_	_	_	_	_	_	_	_
+1	né	_	_	_	_	_	_	_	_
+2	pung	_	_	_	_	_	_	_	_
+3	ábak	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	kadduang	_	_	_	_	_	_	_	_
+6	dáké	_	_	_	_	_	_	_	_
+7	na	_	_	_	_	_	_	_	_
+8	ning	_	_	_	_	_	_	_	_
+9	lecture	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	ini	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Míkit-íkit	_	_	_	_	_	_	_	_
+1	!	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Báyu	_	_	_	_	_	_	_	_
+1	kó	_	_	_	_	_	_	_	_
+2	bumótu	_	_	_	_	_	_	_	_
+3	ngéning	_	_	_	_	_	_	_	_
+4	dáratang	_	_	_	_	_	_	_	_
+5	a	_	_	_	_	_	_	_	_
+6	álálan	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	kutnan	_	_	_	_	_	_	_	_
+9	yóng	_	_	_	_	_	_	_	_
+10	masalése	_	_	_	_	_	_	_	_
+11	réning	_	_	_	_	_	_	_	_
+12	tátagal	_	_	_	_	_	_	_	_
+13	nung	_	_	_	_	_	_	_	_
+14	atin	_	_	_	_	_	_	_	_
+15	lang	_	_	_	_	_	_	_	_
+16	máyap	_	_	_	_	_	_	_	_
+17	a	_	_	_	_	_	_	_	_
+18	pamálak	_	_	_	_	_	_	_	_
+19	king	_	_	_	_	_	_	_	_
+20	pámanlualu	_	_	_	_	_	_	_	_
+21	,	_	_	_	_	_	_	_	_
+22	pámagpalábung	_	_	_	_	_	_	_	_
+23	at	_	_	_	_	_	_	_	_
+24	pámanlagánap	_	_	_	_	_	_	_	_
+25	na	_	_	_	_	_	_	_	_
+26	ning	_	_	_	_	_	_	_	_
+27	kekatámung	_	_	_	_	_	_	_	_
+28	Amánung	_	_	_	_	_	_	_	_
+29	Sísuan	_	_	_	_	_	_	_	_
+30	ampóng	_	_	_	_	_	_	_	_
+31	Ámánang	_	_	_	_	_	_	_	_
+32	Kabiasnang	_	_	_	_	_	_	_	_
+33	Kapampángan	_	_	_	_	_	_	_	_
+34	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	sangkan	_	_	_	_	_	_	_	_
+2	nung	_	_	_	_	_	_	_	_
+3	bákit	_	_	_	_	_	_	_	_
+4	patdá-sindí	_	_	_	_	_	_	_	_
+5	ku	_	_	_	_	_	_	_	_
+6	pánga-vegetarian	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Síbúkan	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	mísan	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	kéto	_	_	_	_	_	_	_	_
+5	...	_	_	_	_	_	_	_	_
+6	mig-alang	_	_	_	_	_	_	_	_
+7	kuénta	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	lása	_	_	_	_	_	_	_	_
+10	ning	_	_	_	_	_	_	_	_
+11	steak	_	_	_	_	_	_	_	_
+12	at	_	_	_	_	_	_	_	_
+13	nánu	_	_	_	_	_	_	_	_
+14	mang	_	_	_	_	_	_	_	_
+15	kárni	_	_	_	_	_	_	_	_
+16	nung	_	_	_	_	_	_	_	_
+17	é	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	térnuan	_	_	_	_	_	_	_	_
+20	ning	_	_	_	_	_	_	_	_
+21	mapálí	_	_	_	_	_	_	_	_
+22	at	_	_	_	_	_	_	_	_
+23	búbusuk	_	_	_	_	_	_	_	_
+24	a	_	_	_	_	_	_	_	_
+25	báyung	_	_	_	_	_	_	_	_
+26	tun	_	_	_	_	_	_	_	_
+27	a	_	_	_	_	_	_	_	_
+28	násî	_	_	_	_	_	_	_	_
+29	!	_	_	_	_	_	_	_	_
+30	!	_	_	_	_	_	_	_	_
+31	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Iniang	_	_	_	_	_	_	_	_
+1	atin	_	_	_	_	_	_	_	_
+2	ké	_	_	_	_	_	_	_	_
+3	pang	_	_	_	_	_	_	_	_
+4	pun	_	_	_	_	_	_	_	_
+5	ning	_	_	_	_	_	_	_	_
+6	Santul	_	_	_	_	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	Sandoricum	_	_	_	_	_	_	_	_
+9	indicum	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	maralas	_	_	_	_	_	_	_	_
+13	kóng	_	_	_	_	_	_	_	_
+14	ákákit	_	_	_	_	_	_	_	_
+15	déni	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Sáyang	_	_	_	_	_	_	_	_
+1	pinútut	_	_	_	_	_	_	_	_
+2	da	_	_	_	_	_	_	_	_
+3	né	_	_	_	_	_	_	_	_
+4	ita	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Asnang	_	_	_	_	_	_	_	_
+1	kasákit	_	_	_	_	_	_	_	_
+2	mágpatúbung	_	_	_	_	_	_	_	_
+3	mámúngang	_	_	_	_	_	_	_	_
+4	pun	_	_	_	_	_	_	_	_
+5	patié	_	_	_	_	_	_	_	_
+6	atí	_	_	_	_	_	_	_	_
+7	ka	_	_	_	_	_	_	_	_
+8	ciudad	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	malatí	_	_	_	_	_	_	_	_
+11	ká	_	_	_	_	_	_	_	_
+12	mú	_	_	_	_	_	_	_	_
+13	lóti	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kákatak	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	ngan	_	_	_	_	_	_	_	_
+3	king	_	_	_	_	_	_	_	_
+4	bulung	_	_	_	_	_	_	_	_
+5	na	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Lúpa	_	_	_	_	_	_	_	_
+1	lang	_	_	_	_	_	_	_	_
+2	ubíngan	_	_	_	_	_	_	_	_
+3	Kúyug	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tambing	_	_	_	_	_	_	_	_
+1	adduá	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	ing	_	_	_	_	_	_	_	_
+1	mítanam	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	king	_	_	_	_	_	_	_	_
+4	ísip	_	_	_	_	_	_	_	_
+5	ku	_	_	_	_	_	_	_	_
+6	itang	_	_	_	_	_	_	_	_
+7	atin	_	_	_	_	_	_	_	_
+8	lang	_	_	_	_	_	_	_	_
+9	maragul	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	malútung	_	_	_	_	_	_	_	_
+12	mabílug	_	_	_	_	_	_	_	_
+13	a	_	_	_	_	_	_	_	_
+14	balámó	_	_	_	_	_	_	_	_
+15	bandérang	_	_	_	_	_	_	_	_
+16	Japon	_	_	_	_	_	_	_	_
+17	at	_	_	_	_	_	_	_	_
+18	lúpa	_	_	_	_	_	_	_	_
+19	lang	_	_	_	_	_	_	_	_
+20	dinosaur	_	_	_	_	_	_	_	_
+21	Mípág-istóriá	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	réng	_	_	_	_	_	_	_	_
+24	maestru	_	_	_	_	_	_	_	_
+25	ampóng	_	_	_	_	_	_	_	_
+26	disípulus	_	_	_	_	_	_	_	_
+27	na	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Maliári	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	palang	_	_	_	_	_	_	_	_
+3	ilagé	_	_	_	_	_	_	_	_
+4	réng	_	_	_	_	_	_	_	_
+5	bakáwan	_	_	_	_	_	_	_	_
+6	ampóng	_	_	_	_	_	_	_	_
+7	palapat	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	aquarium	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	gáwá	_	_	_	_	_	_	_	_
+12	kang	_	_	_	_	_	_	_	_
+13	látî	_	_	_	_	_	_	_	_
+14	...	_	_	_	_	_	_	_	_
+15	pótang	_	_	_	_	_	_	_	_
+16	míkuáltá	_	_	_	_	_	_	_	_
+17	kú	_	_	_	_	_	_	_	_
+18	rin	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	mímísip	_	_	_	_	_	_	_	_
+1	kú	_	_	_	_	_	_	_	_
+2	mu	_	_	_	_	_	_	_	_
+3	rugung	_	_	_	_	_	_	_	_
+4	maglagé	_	_	_	_	_	_	_	_
+5	5	_	_	_	_	_	_	_	_
+6	gallon	_	_	_	_	_	_	_	_
+7	tank	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	office	_	_	_	_	_	_	_	_
+10	mi	_	_	_	_	_	_	_	_
+11	ampó	_	_	_	_	_	_	_	_
+12	king	_	_	_	_	_	_	_	_
+13	balé	_	_	_	_	_	_	_	_
+14	báng	_	_	_	_	_	_	_	_
+15	é	_	_	_	_	_	_	_	_
+16	magástus	_	_	_	_	_	_	_	_
+17	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	táwu	_	_	_	_	_	_	_	_
+2	mísandalian	_	_	_	_	_	_	_	_
+3	yang	_	_	_	_	_	_	_	_
+4	maging	_	_	_	_	_	_	_	_
+5	timáwâ	_	_	_	_	_	_	_	_
+6	Nung	_	_	_	_	_	_	_	_
+7	áganaká	_	_	_	_	_	_	_	_
+8	yé	_	_	_	_	_	_	_	_
+9	pa	_	_	_	_	_	_	_	_
+10	itang	_	_	_	_	_	_	_	_
+11	Amlat	_	_	_	_	_	_	_	_
+12	nung	_	_	_	_	_	_	_	_
+13	nú	_	_	_	_	_	_	_	_
+14	ya	_	_	_	_	_	_	_	_
+15	míragsá	_	_	_	_	_	_	_	_
+16	i	_	_	_	_	_	_	_	_
+17	Sísilim	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	óita	_	_	_	_	_	_	_	_
+20	ing	_	_	_	_	_	_	_	_
+21	lúpa	_	_	_	_	_	_	_	_
+22	na	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Óita	_	_	_	_	_	_	_	_
+1	ing	_	_	_	_	_	_	_	_
+2	´susu	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nandin	_	_	_	_	_	_	_	_
+1	kítang	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	kétang	_	_	_	_	_	_	_	_
+4	súkí	_	_	_	_	_	_	_	_
+5	kung	_	_	_	_	_	_	_	_
+6	pipag-ramen	_	_	_	_	_	_	_	_
+7	nung	_	_	_	_	_	_	_	_
+8	alá	_	_	_	_	_	_	_	_
+9	lang	_	_	_	_	_	_	_	_
+10	japanese	_	_	_	_	_	_	_	_
+11	music	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Atin	_	_	_	_	_	_	_	_
+1	naman	_	_	_	_	_	_	_	_
+2	kanu	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ónéng	_	_	_	_	_	_	_	_
+1	póta	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	kanung	_	_	_	_	_	_	_	_
+4	atí	_	_	_	_	_	_	_	_
+5	yu	_	_	_	_	_	_	_	_
+6	ing	_	_	_	_	_	_	_	_
+7	boss	_	_	_	_	_	_	_	_
+8	karin	_	_	_	_	_	_	_	_
+9	dó	_	_	_	_	_	_	_	_
+10	pátigtig	_	_	_	_	_	_	_	_
+11	déta	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	kasi	_	_	_	_	_	_	_	_
+1	kanu	_	_	_	_	_	_	_	_
+2	é	_	_	_	_	_	_	_	_
+3	ró	_	_	_	_	_	_	_	_
+4	kanu	_	_	_	_	_	_	_	_
+5	áintindian	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	mákatundú	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	kanu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ót	_	_	_	_	_	_	_	_
+1	...	_	_	_	_	_	_	_	_
+2	é	_	_	_	_	_	_	_	_
+3	náku	_	_	_	_	_	_	_	_
+4	pámú	_	_	_	_	_	_	_	_
+5	magbálik	_	_	_	_	_	_	_	_
+6	karin	_	_	_	_	_	_	_	_
+7	agyáng	_	_	_	_	_	_	_	_
+8	maniáman	_	_	_	_	_	_	_	_
+9	...	_	_	_	_	_	_	_	_
+10	itang	_	_	_	_	_	_	_	_
+11	alá	_	_	_	_	_	_	_	_
+12	man	_	_	_	_	_	_	_	_
+13	bitasang	_	_	_	_	_	_	_	_
+14	consultation	_	_	_	_	_	_	_	_
+15	karing	_	_	_	_	_	_	_	_
+16	mémalén	_	_	_	_	_	_	_	_
+17	at	_	_	_	_	_	_	_	_
+18	kabud	_	_	_	_	_	_	_	_
+19	nómú	_	_	_	_	_	_	_	_
+20	gágawang	_	_	_	_	_	_	_	_
+21	anti	_	_	_	_	_	_	_	_
+22	kaníni	_	_	_	_	_	_	_	_
+23	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Áintindian	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	mágkasákit	_	_	_	_	_	_	_	_
+3	tá	_	_	_	_	_	_	_	_
+4	ngan	_	_	_	_	_	_	_	_
+5	at	_	_	_	_	_	_	_	_
+6	binang	_	_	_	_	_	_	_	_
+7	mángailángan	_	_	_	_	_	_	_	_
+8	ngéni	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	wá	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	``	_	_	_	_	_	_	_	_
+14	é	_	_	_	_	_	_	_	_
+15	té	_	_	_	_	_	_	_	_
+16	ápangan	_	_	_	_	_	_	_	_
+17	ing	_	_	_	_	_	_	_	_
+18	prinsípiu	_	_	_	_	_	_	_	_
+19	,	_	_	_	_	_	_	_	_
+20	''	_	_	_	_	_	_	_	_
+21	ngáyú	_	_	_	_	_	_	_	_
+22	pin	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	dápot	_	_	_	_	_	_	_	_
+25	ining	_	_	_	_	_	_	_	_
+26	pulítikung	_	_	_	_	_	_	_	_
+27	``	_	_	_	_	_	_	_	_
+28	mémié	_	_	_	_	_	_	_	_
+29	''	_	_	_	_	_	_	_	_
+30	kéka	_	_	_	_	_	_	_	_
+31	ngéni	_	_	_	_	_	_	_	_
+32	atin	_	_	_	_	_	_	_	_
+33	yá	_	_	_	_	_	_	_	_
+34	ping	_	_	_	_	_	_	_	_
+35	túné	_	_	_	_	_	_	_	_
+36	masabal	_	_	_	_	_	_	_	_
+37	king	_	_	_	_	_	_	_	_
+38	páglában	_	_	_	_	_	_	_	_
+39	at	_	_	_	_	_	_	_	_
+40	tatalakaránan	_	_	_	_	_	_	_	_
+41	mó	_	_	_	_	_	_	_	_
+42	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ó	_	_	_	_	_	_	_	_
+1	ngéni	_	_	_	_	_	_	_	_
+2	yá	_	_	_	_	_	_	_	_
+3	mú	_	_	_	_	_	_	_	_
+4	``	_	_	_	_	_	_	_	_
+5	sásáup	_	_	_	_	_	_	_	_
+6	''	_	_	_	_	_	_	_	_
+7	at	_	_	_	_	_	_	_	_
+8	``	_	_	_	_	_	_	_	_
+9	mámié	_	_	_	_	_	_	_	_
+10	''	_	_	_	_	_	_	_	_
+11	úling	_	_	_	_	_	_	_	_
+12	malápit	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	ing	_	_	_	_	_	_	_	_
+15	eleksiun	_	_	_	_	_	_	_	_
+16	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Maging	_	_	_	_	_	_	_	_
+1	útang	_	_	_	_	_	_	_	_
+2	mé	_	_	_	_	_	_	_	_
+3	kasing	_	_	_	_	_	_	_	_
+4	lub	_	_	_	_	_	_	_	_
+5	kanian	_	_	_	_	_	_	_	_
+6	iné	_	_	_	_	_	_	_	_
+7	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nínung	_	_	_	_	_	_	_	_
+1	atin	_	_	_	_	_	_	_	_
+2	pang	_	_	_	_	_	_	_	_
+3	copy	_	_	_	_	_	_	_	_
+4	ning	_	_	_	_	_	_	_	_
+5	librú	_	_	_	_	_	_	_	_
+6	kung	_	_	_	_	_	_	_	_
+7	Kulitan	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pasaliwán	_	_	_	_	_	_	_	_
+1	ná	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Haha	_	_	_	_	_	_	_	_
+1	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Médiu	_	_	_	_	_	_	_	_
+1	in	_	_	_	_	_	_	_	_
+2	demand	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	ngéning	_	_	_	_	_	_	_	_
+5	pasku	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Maliári	_	_	_	_	_	_	_	_
+1	namó	_	_	_	_	_	_	_	_
+2	é	_	_	_	_	_	_	_	_
+3	yu	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	átianang	_	_	_	_	_	_	_	_
+6	dípáran	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	``	_	_	_	_	_	_	_	_
+9	Nung	_	_	_	_	_	_	_	_
+10	bálú	_	_	_	_	_	_	_	_
+11	mé	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	é	_	_	_	_	_	_	_	_
+14	mé	_	_	_	_	_	_	_	_
+15	págmaimut	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+17	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Buguk	_	_	_	_	_	_	_	_
+1	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kapilan	_	_	_	_	_	_	_	_
+1	man	_	_	_	_	_	_	_	_
+2	é	_	_	_	_	_	_	_	_
+3	ku	_	_	_	_	_	_	_	_
+4	méging	_	_	_	_	_	_	_	_
+5	maimut	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Dápot	_	_	_	_	_	_	_	_
+1	atí	_	_	_	_	_	_	_	_
+2	king	_	_	_	_	_	_	_	_
+3	lugal	_	_	_	_	_	_	_	_
+4	at	_	_	_	_	_	_	_	_
+5	ustung	_	_	_	_	_	_	_	_
+6	parálan	_	_	_	_	_	_	_	_
+7	ing	_	_	_	_	_	_	_	_
+8	pámandáké	_	_	_	_	_	_	_	_
+9	béluan	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	kabiasnan	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	karing	_	_	_	_	_	_	_	_
+2	mapaniamantalá	_	_	_	_	_	_	_	_
+3	ampóng	_	_	_	_	_	_	_	_
+4	mangatamad	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Aliwá	_	_	_	_	_	_	_	_
+1	pú	_	_	_	_	_	_	_	_
+2	yáku	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Google	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	pú	_	_	_	_	_	_	_	_
+3	software	_	_	_	_	_	_	_	_
+4	application	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Aliwá	_	_	_	_	_	_	_	_
+1	pú	_	_	_	_	_	_	_	_
+2	yákung	_	_	_	_	_	_	_	_
+3	dápat	_	_	_	_	_	_	_	_
+4	gágawá	_	_	_	_	_	_	_	_
+5	karing	_	_	_	_	_	_	_	_
+6	thesis	_	_	_	_	_	_	_	_
+7	yu	_	_	_	_	_	_	_	_
+8	ó	_	_	_	_	_	_	_	_
+9	homework	_	_	_	_	_	_	_	_
+10	da	_	_	_	_	_	_	_	_
+11	réng	_	_	_	_	_	_	_	_
+12	ának	_	_	_	_	_	_	_	_
+13	yu	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Aliwá	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	reference	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	consultant	_	_	_	_	_	_	_	_
+6	ampóng	_	_	_	_	_	_	_	_
+7	resource	_	_	_	_	_	_	_	_
+8	person	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	lálú	_	_	_	_	_	_	_	_
+11	na	_	_	_	_	_	_	_	_
+12	king	_	_	_	_	_	_	_	_
+13	úpahan	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	talapangawang	_	_	_	_	_	_	_	_
+16	thesis	_	_	_	_	_	_	_	_
+17	ó	_	_	_	_	_	_	_	_
+18	assignment	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	pú	_	_	_	_	_	_	_	_
+3	paréwu	_	_	_	_	_	_	_	_
+4	rén	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Aliwá	_	_	_	_	_	_	_	_
+1	yá	_	_	_	_	_	_	_	_
+2	rin	_	_	_	_	_	_	_	_
+3	pú	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	mág-research	_	_	_	_	_	_	_	_
+6	ampóng	_	_	_	_	_	_	_	_
+7	mángutang	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	múmútus	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	pápagawang	_	_	_	_	_	_	_	_
+12	thesis	_	_	_	_	_	_	_	_
+13	ó	_	_	_	_	_	_	_	_
+14	assignment	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	pú	_	_	_	_	_	_	_	_
+3	paréwu	_	_	_	_	_	_	_	_
+4	rén	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Iniá	_	_	_	_	_	_	_	_
+1	é	_	_	_	_	_	_	_	_
+2	yú	_	_	_	_	_	_	_	_
+3	pákíbat	_	_	_	_	_	_	_	_
+4	kanáku	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	``	_	_	_	_	_	_	_	_
+7	mángutang	_	_	_	_	_	_	_	_
+8	kú	_	_	_	_	_	_	_	_
+9	mû	_	_	_	_	_	_	_	_
+10	''	_	_	_	_	_	_	_	_
+11	ó	_	_	_	_	_	_	_	_
+12	``	_	_	_	_	_	_	_	_
+13	pásáwup	_	_	_	_	_	_	_	_
+14	kú	_	_	_	_	_	_	_	_
+15	mú	_	_	_	_	_	_	_	_
+16	pû	_	_	_	_	_	_	_	_
+17	''	_	_	_	_	_	_	_	_
+18	nung	_	_	_	_	_	_	_	_
+19	káku	_	_	_	_	_	_	_	_
+20	yu	_	_	_	_	_	_	_	_
+21	nó	_	_	_	_	_	_	_	_
+22	págawá	_	_	_	_	_	_	_	_
+23	réng	_	_	_	_	_	_	_	_
+24	óbrá	_	_	_	_	_	_	_	_
+25	yu	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	research	_	_	_	_	_	_	_	_
+2	yan	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	nung	_	_	_	_	_	_	_	_
+5	é	_	_	_	_	_	_	_	_
+6	pámanaiamantalâ	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mabié	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	mángisnáwa	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	dáránup	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	mimimuá	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	pápálí	_	_	_	_	_	_	_	_
+11	mú	_	_	_	_	_	_	_	_
+12	naman	_	_	_	_	_	_	_	_
+13	buntuk	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	prográma	_	_	_	_	_	_	_	_
+3	ó	_	_	_	_	_	_	_	_
+4	application	_	_	_	_	_	_	_	_
+5	ning	_	_	_	_	_	_	_	_
+6	kékayung	_	_	_	_	_	_	_	_
+7	cell	_	_	_	_	_	_	_	_
+8	phone	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	ápitimidtímid	_	_	_	_	_	_	_	_
+11	yú	_	_	_	_	_	_	_	_
+12	mû	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nung	_	_	_	_	_	_	_	_
+1	nínu	_	_	_	_	_	_	_	_
+2	man	_	_	_	_	_	_	_	_
+3	gágawá	_	_	_	_	_	_	_	_
+4	karing	_	_	_	_	_	_	_	_
+5	taladtad	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	``	_	_	_	_	_	_	_	_
+8	Ing	_	_	_	_	_	_	_	_
+9	bata	_	_	_	_	_	_	_	_
+10	ay	_	_	_	_	_	_	_	_
+11	danupan	_	_	_	_	_	_	_	_
+12	''	_	_	_	_	_	_	_	_
+13	ampóng	_	_	_	_	_	_	_	_
+14	``	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Juan	_	_	_	_	_	_	_	_
+17	ay	_	_	_	_	_	_	_	_
+18	mataba	_	_	_	_	_	_	_	_
+19	ya	_	_	_	_	_	_	_	_
+20	anak	_	_	_	_	_	_	_	_
+21	''	_	_	_	_	_	_	_	_
+22	at	_	_	_	_	_	_	_	_
+23	légé	_	_	_	_	_	_	_	_
+24	dó	_	_	_	_	_	_	_	_
+25	karing	_	_	_	_	_	_	_	_
+26	textbooks	_	_	_	_	_	_	_	_
+27	ampóng	_	_	_	_	_	_	_	_
+28	module	_	_	_	_	_	_	_	_
+29	da	_	_	_	_	_	_	_	_
+30	king	_	_	_	_	_	_	_	_
+31	``	_	_	_	_	_	_	_	_
+32	Mother	_	_	_	_	_	_	_	_
+33	Tongue	_	_	_	_	_	_	_	_
+34	''	_	_	_	_	_	_	_	_
+35	at	_	_	_	_	_	_	_	_
+36	tuturú	_	_	_	_	_	_	_	_
+37	dó	_	_	_	_	_	_	_	_
+38	karing	_	_	_	_	_	_	_	_
+39	ának	_	_	_	_	_	_	_	_
+40	,	_	_	_	_	_	_	_	_
+41	pakisábi	_	_	_	_	_	_	_	_
+42	mú	_	_	_	_	_	_	_	_
+43	pung	_	_	_	_	_	_	_	_
+44	mayap	_	_	_	_	_	_	_	_
+45	,	_	_	_	_	_	_	_	_
+46	misábit	_	_	_	_	_	_	_	_
+47	kóng	_	_	_	_	_	_	_	_
+48	gilingan	_	_	_	_	_	_	_	_
+49	a	_	_	_	_	_	_	_	_
+50	batu	_	_	_	_	_	_	_	_
+51	karing	_	_	_	_	_	_	_	_
+52	bátal	_	_	_	_	_	_	_	_
+53	yu	_	_	_	_	_	_	_	_
+54	at	_	_	_	_	_	_	_	_
+55	saká	_	_	_	_	_	_	_	_
+56	kayu	_	_	_	_	_	_	_	_
+57	lundag	_	_	_	_	_	_	_	_
+58	king	_	_	_	_	_	_	_	_
+59	Páruâ.l	_	_	_	_	_	_	_	_
+60	a	_	_	_	_	_	_	_	_
+61	posts	_	_	_	_	_	_	_	_
+62	king	_	_	_	_	_	_	_	_
+63	newsfeed	_	_	_	_	_	_	_	_
+64	mu	_	_	_	_	_	_	_	_
+65	,	_	_	_	_	_	_	_	_
+66	kailángán	_	_	_	_	_	_	_	_
+67	na	_	_	_	_	_	_	_	_
+68	taganang	_	_	_	_	_	_	_	_
+69	mabáting	_	_	_	_	_	_	_	_
+70	pámû	_	_	_	_	_	_	_	_
+71	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pótang	_	_	_	_	_	_	_	_
+1	Tagálug	_	_	_	_	_	_	_	_
+2	nó	_	_	_	_	_	_	_	_
+3	ngan	_	_	_	_	_	_	_	_
+4	déng	_	_	_	_	_	_	_	_
+5	lúlual	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	posts	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	newsfeed	_	_	_	_	_	_	_	_
+10	mu	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	kailángán	_	_	_	_	_	_	_	_
+13	na	_	_	_	_	_	_	_	_
+14	taganang	_	_	_	_	_	_	_	_
+15	mabáting	_	_	_	_	_	_	_	_
+16	pámû	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Iniang	_	_	_	_	_	_	_	_
+1	malatí	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	kasáman	_	_	_	_	_	_	_	_
+5	kung	_	_	_	_	_	_	_	_
+6	díli	_	_	_	_	_	_	_	_
+7	ing	_	_	_	_	_	_	_	_
+8	bálang	_	_	_	_	_	_	_	_
+9	sumíngit	_	_	_	_	_	_	_	_
+10	ya	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Marcos	_	_	_	_	_	_	_	_
+13	king	_	_	_	_	_	_	_	_
+14	nánu	_	_	_	_	_	_	_	_
+15	mang	_	_	_	_	_	_	_	_
+16	álbén	_	_	_	_	_	_	_	_
+17	mung	_	_	_	_	_	_	_	_
+18	prográma	_	_	_	_	_	_	_	_
+19	king	_	_	_	_	_	_	_	_
+20	tv	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Alang	_	_	_	_	_	_	_	_
+1	bitasang	_	_	_	_	_	_	_	_
+2	warning	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Prime	_	_	_	_	_	_	_	_
+1	time	_	_	_	_	_	_	_	_
+2	pamo	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Sisiguradduan	_	_	_	_	_	_	_	_
+1	nang	_	_	_	_	_	_	_	_
+2	málbé	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	ngan	_	_	_	_	_	_	_	_
+5	tv	_	_	_	_	_	_	_	_
+6	ding	_	_	_	_	_	_	_	_
+7	táwu	_	_	_	_	_	_	_	_
+8	pótang	_	_	_	_	_	_	_	_
+9	sumíngit	_	_	_	_	_	_	_	_
+10	né	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	masákit	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	pótang	_	_	_	_	_	_	_	_
+4	yarí	_	_	_	_	_	_	_	_
+5	néng	_	_	_	_	_	_	_	_
+6	kínatak	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	patí	_	_	_	_	_	_	_	_
+9	na	_	_	_	_	_	_	_	_
+10	ing	_	_	_	_	_	_	_	_
+11	albén	_	_	_	_	_	_	_	_
+12	mu	_	_	_	_	_	_	_	_
+13	yárí	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Maibug	_	_	_	_	_	_	_	_
+1	nakang	_	_	_	_	_	_	_	_
+2	mamasíbas	_	_	_	_	_	_	_	_
+3	ampóng	_	_	_	_	_	_	_	_
+4	mamaldak	_	_	_	_	_	_	_	_
+5	tv	_	_	_	_	_	_	_	_
+6	(	_	_	_	_	_	_	_	_
+7	Maragul	_	_	_	_	_	_	_	_
+8	la	_	_	_	_	_	_	_	_
+9	kanta	_	_	_	_	_	_	_	_
+10	réng	_	_	_	_	_	_	_	_
+11	tv	_	_	_	_	_	_	_	_
+12	at	_	_	_	_	_	_	_	_
+13	atin	_	_	_	_	_	_	_	_
+14	lang	_	_	_	_	_	_	_	_
+15	stand	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Íká	_	_	_	_	_	_	_	_
+1	pang	_	_	_	_	_	_	_	_
+2	manasakit	_	_	_	_	_	_	_	_
+3	patié	_	_	_	_	_	_	_	_
+4	pildak	_	_	_	_	_	_	_	_
+5	mé	_	_	_	_	_	_	_	_
+6	)	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bálí	_	_	_	_	_	_	_	_
+1	kaníta	_	_	_	_	_	_	_	_
+2	mákasnuk	_	_	_	_	_	_	_	_
+3	né	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	alti	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Péro	_	_	_	_	_	_	_	_
+1	iniang	_	_	_	_	_	_	_	_
+2	pépalakó	_	_	_	_	_	_	_	_
+3	nó	_	_	_	_	_	_	_	_
+4	ngan	_	_	_	_	_	_	_	_
+5	déng	_	_	_	_	_	_	_	_
+6	álben	_	_	_	_	_	_	_	_
+7	ming	_	_	_	_	_	_	_	_
+8	anime	_	_	_	_	_	_	_	_
+9	kanita	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	naidána	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	aliwá	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	ini	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mámérsonal	_	_	_	_	_	_	_	_
+1	né	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	anakpúta	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Asnákung	_	_	_	_	_	_	_	_
+1	kamuang	_	_	_	_	_	_	_	_
+2	kamuá	_	_	_	_	_	_	_	_
+3	at	_	_	_	_	_	_	_	_
+4	é	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	méyárí	_	_	_	_	_	_	_	_
+7	ring	_	_	_	_	_	_	_	_
+8	Daimosu	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	Voltes	_	_	_	_	_	_	_	_
+11	V	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	Mazinger	_	_	_	_	_	_	_	_
+14	Z	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	Balatak	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	etc	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Úling	_	_	_	_	_	_	_	_
+1	pépalakó	_	_	_	_	_	_	_	_
+2	nó	_	_	_	_	_	_	_	_
+3	ngan	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaníta	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	né	_	_	_	_	_	_	_	_
+3	minúnang	_	_	_	_	_	_	_	_
+4	ákasáman	_	_	_	_	_	_	_	_
+5	tagana	_	_	_	_	_	_	_	_
+6	ing	_	_	_	_	_	_	_	_
+7	gubiérnu	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Alá	_	_	_	_	_	_	_	_
+1	néng	_	_	_	_	_	_	_	_
+2	aliwang	_	_	_	_	_	_	_	_
+3	géwá	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	animal	_	_	_	_	_	_	_	_
+6	nung	_	_	_	_	_	_	_	_
+7	é	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	ilakó	_	_	_	_	_	_	_	_
+10	nó	_	_	_	_	_	_	_	_
+11	túlâ	_	_	_	_	_	_	_	_
+12	réng	_	_	_	_	_	_	_	_
+13	táwu	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ini	_	_	_	_	_	_	_	_
+1	yang	_	_	_	_	_	_	_	_
+2	ténam	_	_	_	_	_	_	_	_
+3	ku	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	ísip	_	_	_	_	_	_	_	_
+6	ku	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Grade	_	_	_	_	_	_	_	_
+1	5	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	pámú	_	_	_	_	_	_	_	_
+4	yátá	_	_	_	_	_	_	_	_
+5	kaníta	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	11	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	sigúru	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Maralas	_	_	_	_	_	_	_	_
+1	kung	_	_	_	_	_	_	_	_
+2	mág-drawing	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	lulusúban	_	_	_	_	_	_	_	_
+5	mi	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	at	_	_	_	_	_	_	_	_
+8	lalasakan	_	_	_	_	_	_	_	_
+9	ing	_	_	_	_	_	_	_	_
+10	Malacañang	_	_	_	_	_	_	_	_
+11	at	_	_	_	_	_	_	_	_
+12	pipirítu	_	_	_	_	_	_	_	_
+13	mi	_	_	_	_	_	_	_	_
+14	ya	_	_	_	_	_	_	_	_
+15	i	_	_	_	_	_	_	_	_
+16	Marcos	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Boazanian	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	kaníta	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ménibat	_	_	_	_	_	_	_	_
+1	king	_	_	_	_	_	_	_	_
+2	ibat	_	_	_	_	_	_	_	_
+3	Boazanian	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Yáku	_	_	_	_	_	_	_	_
+1	i	_	_	_	_	_	_	_	_
+2	Zardos	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	Heinel	_	_	_	_	_	_	_	_
+5	)	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kasáman	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	Voltes	_	_	_	_	_	_	_	_
+4	V	_	_	_	_	_	_	_	_
+5	ampó	_	_	_	_	_	_	_	_
+6	réng	_	_	_	_	_	_	_	_
+7	kaklási	_	_	_	_	_	_	_	_
+8	kung	_	_	_	_	_	_	_	_
+9	magsása-Voltes	_	_	_	_	_	_	_	_
+10	team	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	5	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	yátá	_	_	_	_	_	_	_	_
+3	king	_	_	_	_	_	_	_	_
+4	klási	_	_	_	_	_	_	_	_
+5	mi	_	_	_	_	_	_	_	_
+6	Steve	_	_	_	_	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	Go	_	_	_	_	_	_	_	_
+9	Kenichi	_	_	_	_	_	_	_	_
+10	)	_	_	_	_	_	_	_	_
+11	la	_	_	_	_	_	_	_	_
+12	ngan	_	_	_	_	_	_	_	_
+13	déng	_	_	_	_	_	_	_	_
+14	nakpúta	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ustú	_	_	_	_	_	_	_	_
+1	yá	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	gagáwan	_	_	_	_	_	_	_	_
+5	da	_	_	_	_	_	_	_	_
+6	ring	_	_	_	_	_	_	_	_
+7	Boazanian	_	_	_	_	_	_	_	_
+8	a	_	_	_	_	_	_	_	_
+9	lalasakan	_	_	_	_	_	_	_	_
+10	dé	_	_	_	_	_	_	_	_
+11	ing	_	_	_	_	_	_	_	_
+12	yátu	_	_	_	_	_	_	_	_
+13	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Yáku	_	_	_	_	_	_	_	_
+1	lasakan	_	_	_	_	_	_	_	_
+2	ké	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	Pilipínas	_	_	_	_	_	_	_	_
+5	at	_	_	_	_	_	_	_	_
+6	saká	_	_	_	_	_	_	_	_
+7	ké	_	_	_	_	_	_	_	_
+8	durúgan	_	_	_	_	_	_	_	_
+9	ing	_	_	_	_	_	_	_	_
+10	Malacañang	_	_	_	_	_	_	_	_
+11	kaibat	_	_	_	_	_	_	_	_
+12	damputan	_	_	_	_	_	_	_	_
+13	dé	_	_	_	_	_	_	_	_
+14	réng	_	_	_	_	_	_	_	_
+15	beast	_	_	_	_	_	_	_	_
+16	fighter	_	_	_	_	_	_	_	_
+17	ku	_	_	_	_	_	_	_	_
+18	i	_	_	_	_	_	_	_	_
+19	Marcos	_	_	_	_	_	_	_	_
+20	at	_	_	_	_	_	_	_	_
+21	saká	_	_	_	_	_	_	_	_
+22	ré	_	_	_	_	_	_	_	_
+23	panadtaran	_	_	_	_	_	_	_	_
+24	latílatí	_	_	_	_	_	_	_	_
+25	báyú	_	_	_	_	_	_	_	_
+26	ré	_	_	_	_	_	_	_	_
+27	dulukan	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mísan	_	_	_	_	_	_	_	_
+1	átupan	_	_	_	_	_	_	_	_
+2	kó	_	_	_	_	_	_	_	_
+3	réng	_	_	_	_	_	_	_	_
+4	kilála	_	_	_	_	_	_	_	_
+5	kung	_	_	_	_	_	_	_	_
+6	mág-rally	_	_	_	_	_	_	_	_
+7	a	_	_	_	_	_	_	_	_
+8	bábálak	_	_	_	_	_	_	_	_
+9	matudtud	_	_	_	_	_	_	_	_
+10	king	_	_	_	_	_	_	_	_
+11	dálan	_	_	_	_	_	_	_	_
+12	at	_	_	_	_	_	_	_	_
+13	igkat	_	_	_	_	_	_	_	_
+14	dáku	_	_	_	_	_	_	_	_
+15	ságuling	_	_	_	_	_	_	_	_
+16	tumambay	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Óita	_	_	_	_	_	_	_	_
+1	míras	_	_	_	_	_	_	_	_
+2	king	_	_	_	_	_	_	_	_
+3	mípag-testimónia	_	_	_	_	_	_	_	_
+4	nung	_	_	_	_	_	_	_	_
+5	makanánu	_	_	_	_	_	_	_	_
+6	réng	_	_	_	_	_	_	_	_
+7	ákasáman	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	gubiérnu	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	nung	_	_	_	_	_	_	_	_
+12	bákit	_	_	_	_	_	_	_	_
+13	mág-rally	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	ngéni	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Inistóriá	_	_	_	_	_	_	_	_
+1	ké	_	_	_	_	_	_	_	_
+2	karéla	_	_	_	_	_	_	_	_
+3	ini	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Máili	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Balá	_	_	_	_	_	_	_	_
+1	ra	_	_	_	_	_	_	_	_
+2	mumuritan	_	_	_	_	_	_	_	_
+3	ku	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mékikailí	_	_	_	_	_	_	_	_
+1	nákú	_	_	_	_	_	_	_	_
+2	mû	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tanaidára	_	_	_	_	_	_	_	_
+1	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Tutú	_	_	_	_	_	_	_	_
+1	naman	_	_	_	_	_	_	_	_
+2	é.	_	_	_	_	_	_	_	_
+3	Kailángan	_	_	_	_	_	_	_	_
+4	pá	_	_	_	_	_	_	_	_
+5	wáring	_	_	_	_	_	_	_	_
+6	atin	_	_	_	_	_	_	_	_
+7	yang	_	_	_	_	_	_	_	_
+8	patén	_	_	_	_	_	_	_	_
+9	kékami	_	_	_	_	_	_	_	_
+10	ing	_	_	_	_	_	_	_	_
+11	gubiérnu	_	_	_	_	_	_	_	_
+12	báyu	_	_	_	_	_	_	_	_
+13	mé	_	_	_	_	_	_	_	_
+14	ákasáman	_	_	_	_	_	_	_	_
+15	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Sabágé	_	_	_	_	_	_	_	_
+1	atin	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pété	_	_	_	_	_	_	_	_
+1	náku	_	_	_	_	_	_	_	_
+2	túlâ	_	_	_	_	_	_	_	_
+3	ning	_	_	_	_	_	_	_	_
+4	nakpúta	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	...	_	_	_	_	_	_	_	_
+1	é	_	_	_	_	_	_	_	_
+2	naman	_	_	_	_	_	_	_	_
+3	báwal	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	atin	_	_	_	_	_	_	_	_
+6	batik	_	_	_	_	_	_	_	_
+7	(	_	_	_	_	_	_	_	_
+8	tattoo	_	_	_	_	_	_	_	_
+9	)	_	_	_	_	_	_	_	_
+10	king	_	_	_	_	_	_	_	_
+11	monasteriu	_	_	_	_	_	_	_	_
+12	...	_	_	_	_	_	_	_	_
+13	ding	_	_	_	_	_	_	_	_
+14	mismung	_	_	_	_	_	_	_	_
+15	monks	_	_	_	_	_	_	_	_
+16	íla	_	_	_	_	_	_	_	_
+17	pa	_	_	_	_	_	_	_	_
+18	pin	_	_	_	_	_	_	_	_
+19	déng	_	_	_	_	_	_	_	_
+20	manbabatik	_	_	_	_	_	_	_	_
+21	(	_	_	_	_	_	_	_	_
+22	tattoo	_	_	_	_	_	_	_	_
+23	artists	_	_	_	_	_	_	_	_
+24	)	_	_	_	_	_	_	_	_
+25	...	_	_	_	_	_	_	_	_
+26	áwa	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	BATIK	_	_	_	_	_	_	_	_
+29	ya	_	_	_	_	_	_	_	_
+30	king	_	_	_	_	_	_	_	_
+31	Kapampángan	_	_	_	_	_	_	_	_
+32	ing	_	_	_	_	_	_	_	_
+33	``	_	_	_	_	_	_	_	_
+34	tattoo	_	_	_	_	_	_	_	_
+35	''	_	_	_	_	_	_	_	_
+36	iniá	_	_	_	_	_	_	_	_
+37	BATIKAN	_	_	_	_	_	_	_	_
+38	ngára	_	_	_	_	_	_	_	_
+39	karing	_	_	_	_	_	_	_	_
+40	experts	_	_	_	_	_	_	_	_
+41	úling	_	_	_	_	_	_	_	_
+42	babatik	_	_	_	_	_	_	_	_
+43	(	_	_	_	_	_	_	_	_
+44	ta-tattoo	_	_	_	_	_	_	_	_
+45	)	_	_	_	_	_	_	_	_
+46	ró	_	_	_	_	_	_	_	_
+47	kaníta	_	_	_	_	_	_	_	_
+48	king	_	_	_	_	_	_	_	_
+49	pagó	_	_	_	_	_	_	_	_
+50	ra	_	_	_	_	_	_	_	_
+51	réng	_	_	_	_	_	_	_	_
+52	achievements	_	_	_	_	_	_	_	_
+53	da	_	_	_	_	_	_	_	_
+54	...	_	_	_	_	_	_	_	_
+55	bináwal	_	_	_	_	_	_	_	_
+56	da	_	_	_	_	_	_	_	_
+57	ing	_	_	_	_	_	_	_	_
+58	kultúra	_	_	_	_	_	_	_	_
+59	ning	_	_	_	_	_	_	_	_
+60	pambabatik	_	_	_	_	_	_	_	_
+61	iniang	_	_	_	_	_	_	_	_
+62	dintang	_	_	_	_	_	_	_	_
+63	ya	_	_	_	_	_	_	_	_
+64	ing	_	_	_	_	_	_	_	_
+65	Islam	_	_	_	_	_	_	_	_
+66	...	_	_	_	_	_	_	_	_
+67	É	_	_	_	_	_	_	_	_
+68	ku	_	_	_	_	_	_	_	_
+69	bálú	_	_	_	_	_	_	_	_
+70	nung	_	_	_	_	_	_	_	_
+71	ápansínan	_	_	_	_	_	_	_	_
+72	yu	_	_	_	_	_	_	_	_
+73	,	_	_	_	_	_	_	_	_
+74	dápot	_	_	_	_	_	_	_	_
+75	ót	_	_	_	_	_	_	_	_
+76	dakal	_	_	_	_	_	_	_	_
+77	karéning	_	_	_	_	_	_	_	_
+78	kékatámung	_	_	_	_	_	_	_	_
+79	kasanggang	_	_	_	_	_	_	_	_
+80	gúgúsal	_	_	_	_	_	_	_	_
+81	,	_	_	_	_	_	_	_	_
+82	lúlugud	_	_	_	_	_	_	_	_
+83	at	_	_	_	_	_	_	_	_
+84	mágmasabal	_	_	_	_	_	_	_	_
+85	king	_	_	_	_	_	_	_	_
+86	kékatámung	_	_	_	_	_	_	_	_
+87	Amánung	_	_	_	_	_	_	_	_
+88	Sísuan	_	_	_	_	_	_	_	_
+89	at	_	_	_	_	_	_	_	_
+90	Ámánang	_	_	_	_	_	_	_	_
+91	Kabiasnang	_	_	_	_	_	_	_	_
+92	Kapampángan	_	_	_	_	_	_	_	_
+93	,	_	_	_	_	_	_	_	_
+94	maka-abroad	_	_	_	_	_	_	_	_
+95	la	_	_	_	_	_	_	_	_
+96	,	_	_	_	_	_	_	_	_
+97	ó	_	_	_	_	_	_	_	_
+98	kayâ	_	_	_	_	_	_	_	_
+99	,	_	_	_	_	_	_	_	_
+100	ibat	_	_	_	_	_	_	_	_
+101	la	_	_	_	_	_	_	_	_
+102	abroad	_	_	_	_	_	_	_	_
+103	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ngárá	_	_	_	_	_	_	_	_
+1	pin	_	_	_	_	_	_	_	_
+2	kasi	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	angga't	_	_	_	_	_	_	_	_
+5	é	_	_	_	_	_	_	_	_
+6	mu	_	_	_	_	_	_	_	_
+7	tikman	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	míkawání	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	míláwut	_	_	_	_	_	_	_	_
+12	king	_	_	_	_	_	_	_	_
+13	kékang	_	_	_	_	_	_	_	_
+14	Indung	_	_	_	_	_	_	_	_
+15	Tíbuan	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	é	_	_	_	_	_	_	_	_
+18	ka	_	_	_	_	_	_	_	_
+19	mangulílá	_	_	_	_	_	_	_	_
+20	keya	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Póta	_	_	_	_	_	_	_	_
+1	pámung	_	_	_	_	_	_	_	_
+2	méngulílá	_	_	_	_	_	_	_	_
+3	naka	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	karin	_	_	_	_	_	_	_	_
+6	mé	_	_	_	_	_	_	_	_
+7	pámú	_	_	_	_	_	_	_	_
+8	túné	_	_	_	_	_	_	_	_
+9	ápilasan	_	_	_	_	_	_	_	_
+10	ing	_	_	_	_	_	_	_	_
+11	saddiá	_	_	_	_	_	_	_	_
+12	mung	_	_	_	_	_	_	_	_
+13	pibalábalugsé	_	_	_	_	_	_	_	_
+14	a	_	_	_	_	_	_	_	_
+15	pánga-Kapampángan	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Makanian	_	_	_	_	_	_	_	_
+1	mú	_	_	_	_	_	_	_	_
+2	rin	_	_	_	_	_	_	_	_
+3	sigúru	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	miliári	_	_	_	_	_	_	_	_
+6	kanáku	_	_	_	_	_	_	_	_
+7	iniang	_	_	_	_	_	_	_	_
+8	mégáral	_	_	_	_	_	_	_	_
+9	ku	_	_	_	_	_	_	_	_
+10	Cebu	_	_	_	_	_	_	_	_
+11	at	_	_	_	_	_	_	_	_
+12	mégóbrá	_	_	_	_	_	_	_	_
+13	ku	_	_	_	_	_	_	_	_
+14	Mindanao	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	iniang	_	_	_	_	_	_	_	_
+17	línáwut	_	_	_	_	_	_	_	_
+18	ku	_	_	_	_	_	_	_	_
+19	Germany	_	_	_	_	_	_	_	_
+20	ampóng	_	_	_	_	_	_	_	_
+21	Japan	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pótang	_	_	_	_	_	_	_	_
+1	atí	_	_	_	_	_	_	_	_
+2	naka	_	_	_	_	_	_	_	_
+3	aliwang	_	_	_	_	_	_	_	_
+4	labuad	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	alá	_	_	_	_	_	_	_	_
+7	nakang	_	_	_	_	_	_	_	_
+8	aliwang	_	_	_	_	_	_	_	_
+9	maging	_	_	_	_	_	_	_	_
+10	angklâ	_	_	_	_	_	_	_	_
+11	nung	_	_	_	_	_	_	_	_
+12	é	_	_	_	_	_	_	_	_
+13	ing	_	_	_	_	_	_	_	_
+14	kékang	_	_	_	_	_	_	_	_
+15	pánga-Kapampángan	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	kambé	_	_	_	_	_	_	_	_
+18	na	_	_	_	_	_	_	_	_
+19	ning	_	_	_	_	_	_	_	_
+20	babakalan	_	_	_	_	_	_	_	_
+21	mung	_	_	_	_	_	_	_	_
+22	kultúra	_	_	_	_	_	_	_	_
+23	ampóng	_	_	_	_	_	_	_	_
+24	amánu	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pótang	_	_	_	_	_	_	_	_
+1	makaláwut	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	kasi	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	panamdaman	_	_	_	_	_	_	_	_
+6	mung	_	_	_	_	_	_	_	_
+7	biglá	_	_	_	_	_	_	_	_
+8	itang	_	_	_	_	_	_	_	_
+9	maliári	_	_	_	_	_	_	_	_
+10	ngan	_	_	_	_	_	_	_	_
+11	palang	_	_	_	_	_	_	_	_
+12	lumbug	_	_	_	_	_	_	_	_
+13	at	_	_	_	_	_	_	_	_
+14	mabáting	_	_	_	_	_	_	_	_
+15	ini	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Panamdaman	_	_	_	_	_	_	_	_
+1	mung	_	_	_	_	_	_	_	_
+2	king	_	_	_	_	_	_	_	_
+3	pati	_	_	_	_	_	_	_	_
+4	íka	_	_	_	_	_	_	_	_
+5	maliári	_	_	_	_	_	_	_	_
+6	mú	_	_	_	_	_	_	_	_
+7	namang	_	_	_	_	_	_	_	_
+8	malúngud	_	_	_	_	_	_	_	_
+9	at	_	_	_	_	_	_	_	_
+10	lumbug	_	_	_	_	_	_	_	_
+11	at	_	_	_	_	_	_	_	_
+12	at	_	_	_	_	_	_	_	_
+13	maláwus	_	_	_	_	_	_	_	_
+14	akmulán	_	_	_	_	_	_	_	_
+15	na	_	_	_	_	_	_	_	_
+16	ning	_	_	_	_	_	_	_	_
+17	Yátu	_	_	_	_	_	_	_	_
+18	nung	_	_	_	_	_	_	_	_
+19	kabud	_	_	_	_	_	_	_	_
+20	milakó	_	_	_	_	_	_	_	_
+21	ka	_	_	_	_	_	_	_	_
+22	pánga-táyid	_	_	_	_	_	_	_	_
+23	king	_	_	_	_	_	_	_	_
+24	kékang	_	_	_	_	_	_	_	_
+25	Indung	_	_	_	_	_	_	_	_
+26	Tíbuan	_	_	_	_	_	_	_	_
+27	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Makanian	_	_	_	_	_	_	_	_
+1	mú	_	_	_	_	_	_	_	_
+2	rin	_	_	_	_	_	_	_	_
+3	sigúru	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	sangkan	_	_	_	_	_	_	_	_
+6	nung	_	_	_	_	_	_	_	_
+7	bákit	_	_	_	_	_	_	_	_
+8	dakal	_	_	_	_	_	_	_	_
+9	kékatámu	_	_	_	_	_	_	_	_
+10	kéti	_	_	_	_	_	_	_	_
+11	Kapampángan	_	_	_	_	_	_	_	_
+12	ding	_	_	_	_	_	_	_	_
+13	ílá	_	_	_	_	_	_	_	_
+14	pa	_	_	_	_	_	_	_	_
+15	mismú	_	_	_	_	_	_	_	_
+16	réng	_	_	_	_	_	_	_	_
+17	alang	_	_	_	_	_	_	_	_
+18	masabal	_	_	_	_	_	_	_	_
+19	at	_	_	_	_	_	_	_	_
+20	maláwus	_	_	_	_	_	_	_	_
+21	mákamaté	_	_	_	_	_	_	_	_
+22	king	_	_	_	_	_	_	_	_
+23	kékatámung	_	_	_	_	_	_	_	_
+24	pánga-Kapampángan	_	_	_	_	_	_	_	_
+25	;	_	_	_	_	_	_	_	_
+26	Nung	_	_	_	_	_	_	_	_
+27	bákit	_	_	_	_	_	_	_	_
+28	bistá	_	_	_	_	_	_	_	_
+29	man	_	_	_	_	_	_	_	_
+30	kétí	_	_	_	_	_	_	_	_
+31	nó	_	_	_	_	_	_	_	_
+32	míbayit	_	_	_	_	_	_	_	_
+33	at	_	_	_	_	_	_	_	_
+34	méragul	_	_	_	_	_	_	_	_
+35	at	_	_	_	_	_	_	_	_
+36	Kapampángan	_	_	_	_	_	_	_	_
+37	lang	_	_	_	_	_	_	_	_
+38	mingatba	_	_	_	_	_	_	_	_
+39	réng	_	_	_	_	_	_	_	_
+40	péngári	_	_	_	_	_	_	_	_
+41	ra	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	íla	_	_	_	_	_	_	_	_
+44	Tagálug	_	_	_	_	_	_	_	_
+45	nala	_	_	_	_	_	_	_	_
+46	at	_	_	_	_	_	_	_	_
+47	más	_	_	_	_	_	_	_	_
+48	burí	_	_	_	_	_	_	_	_
+49	ra	_	_	_	_	_	_	_	_
+50	pang	_	_	_	_	_	_	_	_
+51	pánagalúgan	_	_	_	_	_	_	_	_
+52	dó	_	_	_	_	_	_	_	_
+53	réng	_	_	_	_	_	_	_	_
+54	kalúpa	_	_	_	_	_	_	_	_
+55	rang	_	_	_	_	_	_	_	_
+56	Kapampángan	_	_	_	_	_	_	_	_
+57	kéti	_	_	_	_	_	_	_	_
+58	king	_	_	_	_	_	_	_	_
+59	saríli	_	_	_	_	_	_	_	_
+60	rang	_	_	_	_	_	_	_	_
+61	tíbuan	_	_	_	_	_	_	_	_
+62	a	_	_	_	_	_	_	_	_
+63	é	_	_	_	_	_	_	_	_
+64	ra	_	_	_	_	_	_	_	_
+65	pa	_	_	_	_	_	_	_	_
+66	bitasang	_	_	_	_	_	_	_	_
+67	likuan	_	_	_	_	_	_	_	_
+68	at	_	_	_	_	_	_	_	_
+69	bétíngan	_	_	_	_	_	_	_	_
+70	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Dápot	_	_	_	_	_	_	_	_
+1	atin	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	mú	_	_	_	_	_	_	_	_
+4	rin	_	_	_	_	_	_	_	_
+5	mápilan	_	_	_	_	_	_	_	_
+6	king	_	_	_	_	_	_	_	_
+7	panawun	_	_	_	_	_	_	_	_
+8	ngéni	_	_	_	_	_	_	_	_
+9	réng	_	_	_	_	_	_	_	_
+10	ákilála	_	_	_	_	_	_	_	_
+11	kung	_	_	_	_	_	_	_	_
+12	bistá	_	_	_	_	_	_	_	_
+13	man	_	_	_	_	_	_	_	_
+14	é	_	_	_	_	_	_	_	_
+15	dé	_	_	_	_	_	_	_	_
+16	pa	_	_	_	_	_	_	_	_
+17	bitasang	_	_	_	_	_	_	_	_
+18	likuan	_	_	_	_	_	_	_	_
+19	ing	_	_	_	_	_	_	_	_
+20	karélang	_	_	_	_	_	_	_	_
+21	Indung	_	_	_	_	_	_	_	_
+22	Tíbuan	_	_	_	_	_	_	_	_
+23	,	_	_	_	_	_	_	_	_
+24	mapálí	_	_	_	_	_	_	_	_
+25	pa	_	_	_	_	_	_	_	_
+26	rin	_	_	_	_	_	_	_	_
+27	at	_	_	_	_	_	_	_	_
+28	mibabáya	_	_	_	_	_	_	_	_
+29	ing	_	_	_	_	_	_	_	_
+30	karélang	_	_	_	_	_	_	_	_
+31	pánga-Kapampángan	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bákit	_	_	_	_	_	_	_	_
+1	mó	_	_	_	_	_	_	_	_
+2	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kasi	_	_	_	_	_	_	_	_
+1	kanu	_	_	_	_	_	_	_	_
+2	rugú	_	_	_	_	_	_	_	_
+3	agyáng	_	_	_	_	_	_	_	_
+4	é	_	_	_	_	_	_	_	_
+5	nó	_	_	_	_	_	_	_	_
+6	lumáwut	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	pánamdaman	_	_	_	_	_	_	_	_
+9	da	_	_	_	_	_	_	_	_
+10	néng	_	_	_	_	_	_	_	_
+11	ditakdítak	_	_	_	_	_	_	_	_
+12	mababáting	_	_	_	_	_	_	_	_
+13	ing	_	_	_	_	_	_	_	_
+14	karélang	_	_	_	_	_	_	_	_
+15	Amánu	_	_	_	_	_	_	_	_
+16	at	_	_	_	_	_	_	_	_
+17	Kultúra	_	_	_	_	_	_	_	_
+18	at	_	_	_	_	_	_	_	_
+19	mitatambúnán	_	_	_	_	_	_	_	_
+20	nang	_	_	_	_	_	_	_	_
+21	mitatambúnan	_	_	_	_	_	_	_	_
+22	ing	_	_	_	_	_	_	_	_
+23	karélang	_	_	_	_	_	_	_	_
+24	Indung	_	_	_	_	_	_	_	_
+25	Tíbuan	_	_	_	_	_	_	_	_
+26	karéning	_	_	_	_	_	_	_	_
+27	súkal	_	_	_	_	_	_	_	_
+28	a	_	_	_	_	_	_	_	_
+29	mánibat	_	_	_	_	_	_	_	_
+30	king	_	_	_	_	_	_	_	_
+31	impiérnung	_	_	_	_	_	_	_	_
+32	Ménílâ	_	_	_	_	_	_	_	_
+33	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ding	_	_	_	_	_	_	_	_
+1	kampung	_	_	_	_	_	_	_	_
+2	nang	_	_	_	_	_	_	_	_
+3	alagad	_	_	_	_	_	_	_	_
+4	Dong	_	_	_	_	_	_	_	_
+5	Suan	_	_	_	_	_	_	_	_
+6	(	_	_	_	_	_	_	_	_
+7	Don	_	_	_	_	_	_	_	_
+8	Juan	_	_	_	_	_	_	_	_
+9	)	_	_	_	_	_	_	_	_
+10	:	_	_	_	_	_	_	_	_
+11	i	_	_	_	_	_	_	_	_
+12	Noet	_	_	_	_	_	_	_	_
+13	Noen	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	ing	_	_	_	_	_	_	_	_
+16	matuang	_	_	_	_	_	_	_	_
+17	pantas	_	_	_	_	_	_	_	_
+18	a	_	_	_	_	_	_	_	_
+19	atatandánan	_	_	_	_	_	_	_	_
+20	na	_	_	_	_	_	_	_	_
+21	ngan	_	_	_	_	_	_	_	_
+22	ing	_	_	_	_	_	_	_	_
+23	mílábas	_	_	_	_	_	_	_	_
+24	at	_	_	_	_	_	_	_	_
+25	áwuwúlá	_	_	_	_	_	_	_	_
+26	na	_	_	_	_	_	_	_	_
+27	ing	_	_	_	_	_	_	_	_
+28	bágé	_	_	_	_	_	_	_	_
+29	a	_	_	_	_	_	_	_	_
+30	dáratang	_	_	_	_	_	_	_	_
+31	at	_	_	_	_	_	_	_	_
+32	é	_	_	_	_	_	_	_	_
+33	pa	_	_	_	_	_	_	_	_
+34	miliári	_	_	_	_	_	_	_	_
+35	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Úling	_	_	_	_	_	_	_	_
+1	mapúlá	_	_	_	_	_	_	_	_
+2	né	_	_	_	_	_	_	_	_
+3	mata	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	matá	_	_	_	_	_	_	_	_
+7	ning	_	_	_	_	_	_	_	_
+8	kayang	_	_	_	_	_	_	_	_
+9	kaladdua	_	_	_	_	_	_	_	_
+10	yang	_	_	_	_	_	_	_	_
+11	pánláwé	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	at	_	_	_	_	_	_	_	_
+14	karin	_	_	_	_	_	_	_	_
+15	nó	_	_	_	_	_	_	_	_
+16	áyayanínag	_	_	_	_	_	_	_	_
+17	déng	_	_	_	_	_	_	_	_
+18	tutú	_	_	_	_	_	_	_	_
+19	támung	_	_	_	_	_	_	_	_
+20	pilublúban	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	i	_	_	_	_	_	_	_	_
+1	Supla	_	_	_	_	_	_	_	_
+2	Supling	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	pasiuk	_	_	_	_	_	_	_	_
+6	na	_	_	_	_	_	_	_	_
+7	yang	_	_	_	_	_	_	_	_
+8	mágparatang	_	_	_	_	_	_	_	_
+9	karing	_	_	_	_	_	_	_	_
+10	ángin	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	manibat	_	_	_	_	_	_	_	_
+13	karing	_	_	_	_	_	_	_	_
+14	banáyad	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	mangarimlang	_	_	_	_	_	_	_	_
+17	bagul	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	manggá	_	_	_	_	_	_	_	_
+20	na	_	_	_	_	_	_	_	_
+21	karing	_	_	_	_	_	_	_	_
+22	mangasikan	_	_	_	_	_	_	_	_
+23	a	_	_	_	_	_	_	_	_
+24	bagyú	_	_	_	_	_	_	_	_
+25	at	_	_	_	_	_	_	_	_
+26	síguang	_	_	_	_	_	_	_	_
+27	mámalimpúyut	_	_	_	_	_	_	_	_
+28	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	i	_	_	_	_	_	_	_	_
+1	Miran	_	_	_	_	_	_	_	_
+2	Miron	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	asnéng	_	_	_	_	_	_	_	_
+5	karagul	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	siwálâ	_	_	_	_	_	_	_	_
+8	iniá	_	_	_	_	_	_	_	_
+9	bálang	_	_	_	_	_	_	_	_
+10	mánialítá	_	_	_	_	_	_	_	_
+11	ya	_	_	_	_	_	_	_	_
+12	sásabéwung	_	_	_	_	_	_	_	_
+13	ya	_	_	_	_	_	_	_	_
+14	ing	_	_	_	_	_	_	_	_
+15	kakéwan	_	_	_	_	_	_	_	_
+16	at	_	_	_	_	_	_	_	_
+17	málibungbung	_	_	_	_	_	_	_	_
+18	ya	_	_	_	_	_	_	_	_
+19	ing	_	_	_	_	_	_	_	_
+20	banâ	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	i	_	_	_	_	_	_	_	_
+1	Kurang	_	_	_	_	_	_	_	_
+2	Kuring	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	asnéng	_	_	_	_	_	_	_	_
+5	kabilis	_	_	_	_	_	_	_	_
+6	mamulandit	_	_	_	_	_	_	_	_
+7	iniá	_	_	_	_	_	_	_	_
+8	mágpabáyat	_	_	_	_	_	_	_	_
+9	yang	_	_	_	_	_	_	_	_
+10	bitis	_	_	_	_	_	_	_	_
+11	úling	_	_	_	_	_	_	_	_
+12	nung	_	_	_	_	_	_	_	_
+13	alí	_	_	_	_	_	_	_	_
+14	sulparit	_	_	_	_	_	_	_	_
+15	ya	_	_	_	_	_	_	_	_
+16	kéti	_	_	_	_	_	_	_	_
+17	yátu	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	i	_	_	_	_	_	_	_	_
+1	Punta	_	_	_	_	_	_	_	_
+2	Punting	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	asnéng	_	_	_	_	_	_	_	_
+5	kasípat	_	_	_	_	_	_	_	_
+6	iniá	_	_	_	_	_	_	_	_
+7	agyú	_	_	_	_	_	_	_	_
+8	nóng	_	_	_	_	_	_	_	_
+9	túran	_	_	_	_	_	_	_	_
+10	king	_	_	_	_	_	_	_	_
+11	keyang	_	_	_	_	_	_	_	_
+12	páná	_	_	_	_	_	_	_	_
+13	ó	_	_	_	_	_	_	_	_
+14	baril	_	_	_	_	_	_	_	_
+15	agyáng	_	_	_	_	_	_	_	_
+16	makanánu	_	_	_	_	_	_	_	_
+17	nó	_	_	_	_	_	_	_	_
+18	kaláwut	_	_	_	_	_	_	_	_
+19	ó	_	_	_	_	_	_	_	_
+20	kalatí	_	_	_	_	_	_	_	_
+21	king	_	_	_	_	_	_	_	_
+22	kéyang	_	_	_	_	_	_	_	_
+23	panimanman	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	i	_	_	_	_	_	_	_	_
+1	Kargen	_	_	_	_	_	_	_	_
+2	Kargon	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	asnéng	_	_	_	_	_	_	_	_
+5	túnéng	_	_	_	_	_	_	_	_
+6	kasikan	_	_	_	_	_	_	_	_
+7	iniá	_	_	_	_	_	_	_	_
+8	agyú	_	_	_	_	_	_	_	_
+9	néng	_	_	_	_	_	_	_	_
+10	binuat	_	_	_	_	_	_	_	_
+11	at	_	_	_	_	_	_	_	_
+12	písánan	_	_	_	_	_	_	_	_
+13	ing	_	_	_	_	_	_	_	_
+14	Bunduk	_	_	_	_	_	_	_	_
+15	Aláya	_	_	_	_	_	_	_	_
+16	manibat	_	_	_	_	_	_	_	_
+17	king	_	_	_	_	_	_	_	_
+18	Candába	_	_	_	_	_	_	_	_
+19	at	_	_	_	_	_	_	_	_
+20	saká	_	_	_	_	_	_	_	_
+21	né	_	_	_	_	_	_	_	_
+22	bésíbas	_	_	_	_	_	_	_	_
+23	karin	_	_	_	_	_	_	_	_
+24	king	_	_	_	_	_	_	_	_
+25	Aráyat	_	_	_	_	_	_	_	_
+26	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	BILAS	_	_	_	_	_	_	_	_
+1	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nánu	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	BILAS	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nánu	_	_	_	_	_	_	_	_
+1	né	_	_	_	_	_	_	_	_
+2	ning	_	_	_	_	_	_	_	_
+3	BAYÓ	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Úling	_	_	_	_	_	_	_	_
+1	alá	_	_	_	_	_	_	_	_
+2	kung	_	_	_	_	_	_	_	_
+3	asáwa	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	manggá	_	_	_	_	_	_	_	_
+6	man	_	_	_	_	_	_	_	_
+7	ngéni	_	_	_	_	_	_	_	_
+8	magugulú	_	_	_	_	_	_	_	_
+9	ku	_	_	_	_	_	_	_	_
+10	king	_	_	_	_	_	_	_	_
+11	kabaldúgan	_	_	_	_	_	_	_	_
+12	na	_	_	_	_	_	_	_	_
+13	ning	_	_	_	_	_	_	_	_
+14	BILAS	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	``	_	_	_	_	_	_	_	_
+1	Kamulangan	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	pikásáman	_	_	_	_	_	_	_	_
+4	mó	_	_	_	_	_	_	_	_
+5	ngan	_	_	_	_	_	_	_	_
+6	ding	_	_	_	_	_	_	_	_
+7	rósas	_	_	_	_	_	_	_	_
+8	úlí	_	_	_	_	_	_	_	_
+9	námú	_	_	_	_	_	_	_	_
+10	ning	_	_	_	_	_	_	_	_
+11	mésuksuk	_	_	_	_	_	_	_	_
+12	ka	_	_	_	_	_	_	_	_
+13	king	_	_	_	_	_	_	_	_
+14	métung	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	itang	_	_	_	_	_	_	_	_
+17	isúkú	_	_	_	_	_	_	_	_
+18	mu	_	_	_	_	_	_	_	_
+19	nó	_	_	_	_	_	_	_	_
+20	ngan	_	_	_	_	_	_	_	_
+21	ding	_	_	_	_	_	_	_	_
+22	kékang	_	_	_	_	_	_	_	_
+23	tagimpan	_	_	_	_	_	_	_	_
+24	úlíng	_	_	_	_	_	_	_	_
+25	é	_	_	_	_	_	_	_	_
+26	ya	_	_	_	_	_	_	_	_
+27	mípaltutuan	_	_	_	_	_	_	_	_
+28	itang	_	_	_	_	_	_	_	_
+29	métung	_	_	_	_	_	_	_	_
+30	,	_	_	_	_	_	_	_	_
+31	itang	_	_	_	_	_	_	_	_
+32	é	_	_	_	_	_	_	_	_
+33	naka	_	_	_	_	_	_	_	_
+34	bitasang	_	_	_	_	_	_	_	_
+35	bísang	_	_	_	_	_	_	_	_
+36	sumúbuk	_	_	_	_	_	_	_	_
+37	pa	_	_	_	_	_	_	_	_
+38	úling	_	_	_	_	_	_	_	_
+39	mébigú	_	_	_	_	_	_	_	_
+40	kang	_	_	_	_	_	_	_	_
+41	mísan	_	_	_	_	_	_	_	_
+42	,	_	_	_	_	_	_	_	_
+43	itang	_	_	_	_	_	_	_	_
+44	paniumpá	_	_	_	_	_	_	_	_
+45	mu	_	_	_	_	_	_	_	_
+46	nó	_	_	_	_	_	_	_	_
+47	ngan	_	_	_	_	_	_	_	_
+48	ding	_	_	_	_	_	_	_	_
+49	kékang	_	_	_	_	_	_	_	_
+50	kakálugúran	_	_	_	_	_	_	_	_
+51	úling	_	_	_	_	_	_	_	_
+52	pigtaksilán	_	_	_	_	_	_	_	_
+53	naká	_	_	_	_	_	_	_	_
+54	mú	_	_	_	_	_	_	_	_
+55	ning	_	_	_	_	_	_	_	_
+56	métung	_	_	_	_	_	_	_	_
+57	,	_	_	_	_	_	_	_	_
+58	itang	_	_	_	_	_	_	_	_
+59	é	_	_	_	_	_	_	_	_
+60	naka	_	_	_	_	_	_	_	_
+61	bísang	_	_	_	_	_	_	_	_
+62	malsintá	_	_	_	_	_	_	_	_
+63	pa	_	_	_	_	_	_	_	_
+64	,	_	_	_	_	_	_	_	_
+65	úling	_	_	_	_	_	_	_	_
+66	é	_	_	_	_	_	_	_	_
+67	ya	_	_	_	_	_	_	_	_
+68	méging	_	_	_	_	_	_	_	_
+69	tapat	_	_	_	_	_	_	_	_
+70	ining	_	_	_	_	_	_	_	_
+71	pélsintan	_	_	_	_	_	_	_	_
+72	mu	_	_	_	_	_	_	_	_
+73	ó	_	_	_	_	_	_	_	_
+74	é	_	_	_	_	_	_	_	_
+75	naka	_	_	_	_	_	_	_	_
+76	bitasang	_	_	_	_	_	_	_	_
+77	pélsintan	_	_	_	_	_	_	_	_
+78	mú	_	_	_	_	_	_	_	_
+79	naman	_	_	_	_	_	_	_	_
+80	,	_	_	_	_	_	_	_	_
+81	itang	_	_	_	_	_	_	_	_
+82	ikabat	_	_	_	_	_	_	_	_
+83	mu	_	_	_	_	_	_	_	_
+84	né	_	_	_	_	_	_	_	_
+85	ing	_	_	_	_	_	_	_	_
+86	pasbul	_	_	_	_	_	_	_	_
+87	king	_	_	_	_	_	_	_	_
+88	pámikatágung	_	_	_	_	_	_	_	_
+89	tumúlá	_	_	_	_	_	_	_	_
+90	ka	_	_	_	_	_	_	_	_
+91	,	_	_	_	_	_	_	_	_
+92	úling	_	_	_	_	_	_	_	_
+93	mépalpak	_	_	_	_	_	_	_	_
+94	kang	_	_	_	_	_	_	_	_
+95	mísan	_	_	_	_	_	_	_	_
+96	,	_	_	_	_	_	_	_	_
+97	Atin	_	_	_	_	_	_	_	_
+98	mung	_	_	_	_	_	_	_	_
+99	atin	_	_	_	_	_	_	_	_
+100	dáratang	_	_	_	_	_	_	_	_
+101	a	_	_	_	_	_	_	_	_
+102	pámikatágun	_	_	_	_	_	_	_	_
+103	,	_	_	_	_	_	_	_	_
+104	Kakálugúran	_	_	_	_	_	_	_	_
+105	,	_	_	_	_	_	_	_	_
+106	Sintâ	_	_	_	_	_	_	_	_
+107	,	_	_	_	_	_	_	_	_
+108	Báyung	_	_	_	_	_	_	_	_
+109	síkanan	_	_	_	_	_	_	_	_
+110	,	_	_	_	_	_	_	_	_
+111	Úling	_	_	_	_	_	_	_	_
+112	kaibat	_	_	_	_	_	_	_	_
+113	ning	_	_	_	_	_	_	_	_
+114	mapúpus	_	_	_	_	_	_	_	_
+115	,	_	_	_	_	_	_	_	_
+116	Bumílug	_	_	_	_	_	_	_	_
+117	né	_	_	_	_	_	_	_	_
+118	nanaman	_	_	_	_	_	_	_	_
+119	pasibáyu	_	_	_	_	_	_	_	_
+120	ing	_	_	_	_	_	_	_	_
+121	búlan	_	_	_	_	_	_	_	_
+122	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	At	_	_	_	_	_	_	_	_
+1	óiti	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	kanákung	_	_	_	_	_	_	_	_
+4	líyim	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	Malaguá	_	_	_	_	_	_	_	_
+7	yá	_	_	_	_	_	_	_	_
+8	mung	_	_	_	_	_	_	_	_
+9	líyim	_	_	_	_	_	_	_	_
+10	,	_	_	_	_	_	_	_	_
+11	King	_	_	_	_	_	_	_	_
+12	kapamílatán	_	_	_	_	_	_	_	_
+13	námú	_	_	_	_	_	_	_	_
+14	ning	_	_	_	_	_	_	_	_
+15	kékatámung	_	_	_	_	_	_	_	_
+16	pilublúban	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	Karin	_	_	_	_	_	_	_	_
+19	támu	_	_	_	_	_	_	_	_
+20	túnéng	_	_	_	_	_	_	_	_
+21	mánákit	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Déning	_	_	_	_	_	_	_	_
+1	túné	_	_	_	_	_	_	_	_
+2	maulaga	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	É	_	_	_	_	_	_	_	_
+5	nó	_	_	_	_	_	_	_	_
+6	ákákit	_	_	_	_	_	_	_	_
+7	ning	_	_	_	_	_	_	_	_
+8	mata	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+10	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Naidána	_	_	_	_	_	_	_	_
+1	pénaláská	_	_	_	_	_	_	_	_
+2	né	_	_	_	_	_	_	_	_
+3	rugú	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	#	_	_	_	_	_	_	_	_
+6	AtchingBaby	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Hahaha	_	_	_	_	_	_	_	_
+1	!	_	_	_	_	_	_	_	_
+2	!	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Péró	_	_	_	_	_	_	_	_
+1	ing	_	_	_	_	_	_	_	_
+2	é	_	_	_	_	_	_	_	_
+3	kú	_	_	_	_	_	_	_	_
+4	mú	_	_	_	_	_	_	_	_
+5	burí	_	_	_	_	_	_	_	_
+6	yápin	_	_	_	_	_	_	_	_
+7	itang	_	_	_	_	_	_	_	_
+8	inúna	_	_	_	_	_	_	_	_
+9	né	_	_	_	_	_	_	_	_
+10	ing	_	_	_	_	_	_	_	_
+11	sibúyas	_	_	_	_	_	_	_	_
+12	kéning	_	_	_	_	_	_	_	_
+13	báwang	_	_	_	_	_	_	_	_
+14	!	_	_	_	_	_	_	_	_
+15	!	_	_	_	_	_	_	_	_
+16	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	makanian	_	_	_	_	_	_	_	_
+2	Jo	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kapampángan	_	_	_	_	_	_	_	_
+1	támu	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Múná	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	báwang	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	sibúyas	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaibat	_	_	_	_	_	_	_	_
+1	ing	_	_	_	_	_	_	_	_
+2	KASÁMAN	_	_	_	_	_	_	_	_
+3	kung	_	_	_	_	_	_	_	_
+4	díli	_	_	_	_	_	_	_	_
+5	itang	_	_	_	_	_	_	_	_
+6	dinínán	_	_	_	_	_	_	_	_
+7	néng	_	_	_	_	_	_	_	_
+8	mayúmu	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+11	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nakpútá	_	_	_	_	_	_	_	_
+1	Kapampángan	_	_	_	_	_	_	_	_
+2	támu	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	té	_	_	_	_	_	_	_	_
+2	págtakpan	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	niámán	_	_	_	_	_	_	_	_
+5	ning	_	_	_	_	_	_	_	_
+6	lútú	_	_	_	_	_	_	_	_
+7	támu	_	_	_	_	_	_	_	_
+8	king	_	_	_	_	_	_	_	_
+9	Mayúmu	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Óbrang	_	_	_	_	_	_	_	_
+1	Tagálug	_	_	_	_	_	_	_	_
+2	ita	_	_	_	_	_	_	_	_
+3	úling	_	_	_	_	_	_	_	_
+4	agyáng	_	_	_	_	_	_	_	_
+5	nánung	_	_	_	_	_	_	_	_
+6	gáwan	_	_	_	_	_	_	_	_
+7	da	_	_	_	_	_	_	_	_
+8	é	_	_	_	_	_	_	_	_
+9	dé	_	_	_	_	_	_	_	_
+10	túran	_	_	_	_	_	_	_	_
+11	iniá	_	_	_	_	_	_	_	_
+12	ibukáyú	_	_	_	_	_	_	_	_
+13	ra	_	_	_	_	_	_	_	_
+14	némú	_	_	_	_	_	_	_	_
+15	réng	_	_	_	_	_	_	_	_
+16	alti	_	_	_	_	_	_	_	_
+17	!	_	_	_	_	_	_	_	_
+18	!	_	_	_	_	_	_	_	_
+19	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Péro	_	_	_	_	_	_	_	_
+1	mig-enjoy	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mákatúlá	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Maliári	_	_	_	_	_	_	_	_
+1	mú	_	_	_	_	_	_	_	_
+2	naman	_	_	_	_	_	_	_	_
+3	palang	_	_	_	_	_	_	_	_
+4	ibulanglang	_	_	_	_	_	_	_	_
+5	/	_	_	_	_	_	_	_	_
+6	isigang	_	_	_	_	_	_	_	_
+7	king	_	_	_	_	_	_	_	_
+8	biábas	_	_	_	_	_	_	_	_
+9	ing	_	_	_	_	_	_	_	_
+10	tuyû	_	_	_	_	_	_	_	_
+11	!	_	_	_	_	_	_	_	_
+12	!	_	_	_	_	_	_	_	_
+13	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mapálí	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	kuártu	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mapálí	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	pader	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mapálí	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	káma	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mapálí	_	_	_	_	_	_	_	_
+1	ing	_	_	_	_	_	_	_	_
+2	lúlual	_	_	_	_	_	_	_	_
+3	ángin	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	ventilador	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Niáman	_	_	_	_	_	_	_	_
+1	king	_	_	_	_	_	_	_	_
+2	impiérnó	_	_	_	_	_	_	_	_
+3	né	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Réng	_	_	_	_	_	_	_	_
+1	mulálang	_	_	_	_	_	_	_	_
+2	tagátagálug	_	_	_	_	_	_	_	_
+3	``	_	_	_	_	_	_	_	_
+4	pára	_	_	_	_	_	_	_	_
+5	''	_	_	_	_	_	_	_	_
+6	yá	_	_	_	_	_	_	_	_
+7	mú	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	bálú	_	_	_	_	_	_	_	_
+10	ra	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Reng	_	_	_	_	_	_	_	_
+1	saligósó	_	_	_	_	_	_	_	_
+2	naman	_	_	_	_	_	_	_	_
+3	kabud	_	_	_	_	_	_	_	_
+4	lá	_	_	_	_	_	_	_	_
+5	mú	_	_	_	_	_	_	_	_
+6	tútuktuk	_	_	_	_	_	_	_	_
+7	king	_	_	_	_	_	_	_	_
+8	bábó	_	_	_	_	_	_	_	_
+9	ó	_	_	_	_	_	_	_	_
+10	kayá	_	_	_	_	_	_	_	_
+11	pílit	_	_	_	_	_	_	_	_
+12	déng	_	_	_	_	_	_	_	_
+13	pasuitan	_	_	_	_	_	_	_	_
+14	balámó	_	_	_	_	_	_	_	_
+15	ásu	_	_	_	_	_	_	_	_
+16	ing	_	_	_	_	_	_	_	_
+17	mágmanéwu	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ósimáp	_	_	_	_	_	_	_	_
+1	íkatámung	_	_	_	_	_	_	_	_
+2	méragul	_	_	_	_	_	_	_	_
+3	pang	_	_	_	_	_	_	_	_
+4	Kapampángan	_	_	_	_	_	_	_	_
+5	gagamítan	_	_	_	_	_	_	_	_
+6	té	_	_	_	_	_	_	_	_
+7	pa	_	_	_	_	_	_	_	_
+8	ing	_	_	_	_	_	_	_	_
+9	magálang	_	_	_	_	_	_	_	_
+10	at	_	_	_	_	_	_	_	_
+11	manénéng	_	_	_	_	_	_	_	_
+12	``	_	_	_	_	_	_	_	_
+13	Kén	_	_	_	_	_	_	_	_
+14	námú	_	_	_	_	_	_	_	_
+15	pung	_	_	_	_	_	_	_	_
+16	lélé	_	_	_	_	_	_	_	_
+17	!	_	_	_	_	_	_	_	_
+18	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kapilan	_	_	_	_	_	_	_	_
+1	pámú	_	_	_	_	_	_	_	_
+2	atin	_	_	_	_	_	_	_	_
+3	mig-post	_	_	_	_	_	_	_	_
+4	anti	_	_	_	_	_	_	_	_
+5	karéni	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	saká	_	_	_	_	_	_	_	_
+8	ké	_	_	_	_	_	_	_	_
+9	dináké	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Baláku	_	_	_	_	_	_	_	_
+1	sá	_	_	_	_	_	_	_	_
+2	angganganggá	_	_	_	_	_	_	_	_
+3	ku	_	_	_	_	_	_	_	_
+4	nó	_	_	_	_	_	_	_	_
+5	mung	_	_	_	_	_	_	_	_
+6	panagimpan	_	_	_	_	_	_	_	_
+7	úling	_	_	_	_	_	_	_	_
+8	é	_	_	_	_	_	_	_	_
+9	ró	_	_	_	_	_	_	_	_
+10	gagáwan	_	_	_	_	_	_	_	_
+11	kéti	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kabirabira	_	_	_	_	_	_	_	_
+1	,	_	_	_	_	_	_	_	_
+2	bildúgan	_	_	_	_	_	_	_	_
+3	dákung	_	_	_	_	_	_	_	_
+4	anti	_	_	_	_	_	_	_	_
+5	karéni	_	_	_	_	_	_	_	_
+6	ibat	_	_	_	_	_	_	_	_
+7	Banua	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Magagawá	_	_	_	_	_	_	_	_
+1	lá	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	naman	_	_	_	_	_	_	_	_
+4	pala	_	_	_	_	_	_	_	_
+5	kéti	_	_	_	_	_	_	_	_
+6	king	_	_	_	_	_	_	_	_
+7	Ángeles	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	MANIÁMAN	_	_	_	_	_	_	_	_
+1	la	_	_	_	_	_	_	_	_
+2	pung	_	_	_	_	_	_	_	_
+3	MANIÁMAN	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bálang	_	_	_	_	_	_	_	_
+1	kínis	_	_	_	_	_	_	_	_
+2	antí	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	móng	_	_	_	_	_	_	_	_
+5	súsulápó	_	_	_	_	_	_	_	_
+6	Banua	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Túné	_	_	_	_	_	_	_	_
+1	yang	_	_	_	_	_	_	_	_
+2	Ángel	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	mékáísip	_	_	_	_	_	_	_	_
+5	gáwá	_	_	_	_	_	_	_	_
+6	karéti	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Dakal	_	_	_	_	_	_	_	_
+1	pung	_	_	_	_	_	_	_	_
+2	salámat	_	_	_	_	_	_	_	_
+3	karéning	_	_	_	_	_	_	_	_
+4	séimáda	_	_	_	_	_	_	_	_
+5	ning	_	_	_	_	_	_	_	_
+6	CAFE	_	_	_	_	_	_	_	_
+7	HOLA	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+10	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	anak	_	_	_	_	_	_	_	_
+2	a	_	_	_	_	_	_	_	_
+3	mapangutang	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	é	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	dágul	_	_	_	_	_	_	_	_
+8	mangmang	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Báwal	_	_	_	_	_	_	_	_
+1	kanu	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	mányiklód	_	_	_	_	_	_	_	_
+4	karéng	_	_	_	_	_	_	_	_
+5	tégáwan	_	_	_	_	_	_	_	_
+6	ngéning	_	_	_	_	_	_	_	_
+7	Pásku	_	_	_	_	_	_	_	_
+8	ngána	_	_	_	_	_	_	_	_
+9	ning	_	_	_	_	_	_	_	_
+10	DOH	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Masúkul	_	_	_	_	_	_	_	_
+1	kayu	_	_	_	_	_	_	_	_
+2	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ablas	_	_	_	_	_	_	_	_
+1	ning	_	_	_	_	_	_	_	_
+2	Indung	_	_	_	_	_	_	_	_
+3	Tíbuan	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Óyan	_	_	_	_	_	_	_	_
+1	ing	_	_	_	_	_	_	_	_
+2	epéktu	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ning	_	_	_	_	_	_	_	_
+5	pámangútud	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	réng	_	_	_	_	_	_	_	_
+8	mangáragul	_	_	_	_	_	_	_	_
+9	a	_	_	_	_	_	_	_	_
+10	Pun	_	_	_	_	_	_	_	_
+11	king	_	_	_	_	_	_	_	_
+12	MacArthur	_	_	_	_	_	_	_	_
+13	Highway	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mépálî	_	_	_	_	_	_	_	_
+1	na	_	_	_	_	_	_	_	_
+2	patié	_	_	_	_	_	_	_	_
+3	Kaléldo	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	títas	_	_	_	_	_	_	_	_
+6	pa	_	_	_	_	_	_	_	_
+7	ing	_	_	_	_	_	_	_	_
+8	danum	_	_	_	_	_	_	_	_
+9	bálang	_	_	_	_	_	_	_	_
+10	Káuran	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kailángan	_	_	_	_	_	_	_	_
+1	lang	_	_	_	_	_	_	_	_
+2	ibálik	_	_	_	_	_	_	_	_
+3	ding	_	_	_	_	_	_	_	_
+4	Pun	_	_	_	_	_	_	_	_
+5	at	_	_	_	_	_	_	_	_
+6	samásan	_	_	_	_	_	_	_	_
+7	ding	_	_	_	_	_	_	_	_
+8	palígî	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Kaluat	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	néng	_	_	_	_	_	_	_	_
+3	é	_	_	_	_	_	_	_	_
+4	daramdaman	_	_	_	_	_	_	_	_
+5	iné	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pitdá	_	_	_	_	_	_	_	_
+1	ra	_	_	_	_	_	_	_	_
+2	ngan	_	_	_	_	_	_	_	_
+3	kasing	_	_	_	_	_	_	_	_
+4	biglâ	_	_	_	_	_	_	_	_
+5	ing	_	_	_	_	_	_	_	_
+6	sablâ	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Luíd	_	_	_	_	_	_	_	_
+1	kayung	_	_	_	_	_	_	_	_
+2	pasibáyu	_	_	_	_	_	_	_	_
+3	Shane	_	_	_	_	_	_	_	_
+4	Lumanog	_	_	_	_	_	_	_	_
+5	&	_	_	_	_	_	_	_	_
+6	Arum	_	_	_	_	_	_	_	_
+7	!	_	_	_	_	_	_	_	_
+8	!	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Biáyan	_	_	_	_	_	_	_	_
+1	táng	_	_	_	_	_	_	_	_
+2	pasibáyu	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	lugud	_	_	_	_	_	_	_	_
+5	king	_	_	_	_	_	_	_	_
+6	Amánu	_	_	_	_	_	_	_	_
+7	at	_	_	_	_	_	_	_	_
+8	Ámána	_	_	_	_	_	_	_	_
+9	táng	_	_	_	_	_	_	_	_
+10	kabiasnang	_	_	_	_	_	_	_	_
+11	Kapampángan	_	_	_	_	_	_	_	_
+12	!	_	_	_	_	_	_	_	_
+13	!	_	_	_	_	_	_	_	_
+14	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Lugud	_	_	_	_	_	_	_	_
+1	mú	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	bié	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+6	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ót	_	_	_	_	_	_	_	_
+1	limbug	_	_	_	_	_	_	_	_
+2	lá	_	_	_	_	_	_	_	_
+3	pin	_	_	_	_	_	_	_	_
+4	déng	_	_	_	_	_	_	_	_
+5	dikut	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	MALÁMARÍNÉ	_	_	_	_	_	_	_	_
+8	(	_	_	_	_	_	_	_	_
+9	Mimosa	_	_	_	_	_	_	_	_
+10	pudica	_	_	_	_	_	_	_	_
+11	)	_	_	_	_	_	_	_	_
+12	né	_	_	_	_	_	_	_	_
+13	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	náku	_	_	_	_	_	_	_	_
+2	mánákit	_	_	_	_	_	_	_	_
+3	tútúbú	_	_	_	_	_	_	_	_
+4	karéng	_	_	_	_	_	_	_	_
+5	múla	_	_	_	_	_	_	_	_
+6	manibat	_	_	_	_	_	_	_	_
+7	iniang	_	_	_	_	_	_	_	_
+8	méngatambúnan	_	_	_	_	_	_	_	_
+9	ya	_	_	_	_	_	_	_	_
+10	ing	_	_	_	_	_	_	_	_
+11	labuad	_	_	_	_	_	_	_	_
+12	támu	_	_	_	_	_	_	_	_
+13	king	_	_	_	_	_	_	_	_
+14	abu	_	_	_	_	_	_	_	_
+15	ning	_	_	_	_	_	_	_	_
+16	bunduk	_	_	_	_	_	_	_	_
+17	Pinatúbû	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	King	_	_	_	_	_	_	_	_
+1	anti	_	_	_	_	_	_	_	_
+2	mú	_	_	_	_	_	_	_	_
+3	rin	_	_	_	_	_	_	_	_
+4	méngaltó	_	_	_	_	_	_	_	_
+5	lang	_	_	_	_	_	_	_	_
+6	alang	_	_	_	_	_	_	_	_
+7	patúgut	_	_	_	_	_	_	_	_
+8	ding	_	_	_	_	_	_	_	_
+9	táwung	_	_	_	_	_	_	_	_
+10	lamaran	_	_	_	_	_	_	_	_
+11	at	_	_	_	_	_	_	_	_
+12	alang	_	_	_	_	_	_	_	_
+13	maríné	_	_	_	_	_	_	_	_
+14	,	_	_	_	_	_	_	_	_
+15	lálú	_	_	_	_	_	_	_	_
+16	na	_	_	_	_	_	_	_	_
+17	karéng	_	_	_	_	_	_	_	_
+18	pulítiku	_	_	_	_	_	_	_	_
+19	ampóng	_	_	_	_	_	_	_	_
+20	mánungkúlan	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Nung	_	_	_	_	_	_	_	_
+1	ménakit	_	_	_	_	_	_	_	_
+2	kayung	_	_	_	_	_	_	_	_
+3	dikut	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	Malámarine	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	é	_	_	_	_	_	_	_	_
+8	yé	_	_	_	_	_	_	_	_
+9	pú	_	_	_	_	_	_	_	_
+10	sana	_	_	_	_	_	_	_	_
+11	papatén	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Parakalan	_	_	_	_	_	_	_	_
+1	tala	_	_	_	_	_	_	_	_
+2	úling	_	_	_	_	_	_	_	_
+3	atin	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	pa	_	_	_	_	_	_	_	_
+6	ring	_	_	_	_	_	_	_	_
+7	paganakâ	_	_	_	_	_	_	_	_
+8	at	_	_	_	_	_	_	_	_
+9	liksiun	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	átúru	_	_	_	_	_	_	_	_
+12	kekatamu	_	_	_	_	_	_	_	_
+13	at	_	_	_	_	_	_	_	_
+14	karing	_	_	_	_	_	_	_	_
+15	ának	_	_	_	_	_	_	_	_
+16	támu	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Iniá	_	_	_	_	_	_	_	_
+1	sigúrú	_	_	_	_	_	_	_	_
+2	mérakal	_	_	_	_	_	_	_	_
+3	nó	_	_	_	_	_	_	_	_
+4	réng	_	_	_	_	_	_	_	_
+5	alang	_	_	_	_	_	_	_	_
+6	maríné	_	_	_	_	_	_	_	_
+7	ngéni	_	_	_	_	_	_	_	_
+8	kasi	_	_	_	_	_	_	_	_
+9	é	_	_	_	_	_	_	_	_
+10	ra	_	_	_	_	_	_	_	_
+11	né	_	_	_	_	_	_	_	_
+12	bálú	_	_	_	_	_	_	_	_
+13	ing	_	_	_	_	_	_	_	_
+14	salitang	_	_	_	_	_	_	_	_
+15	MÁKARÍNÉ	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ing	_	_	_	_	_	_	_	_
+1	bálú	_	_	_	_	_	_	_	_
+2	ra	_	_	_	_	_	_	_	_
+3	námú	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	``	_	_	_	_	_	_	_	_
+6	máka-iyâ	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+8	''	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Mulat	_	_	_	_	_	_	_	_
+1	ya	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	Dílang	_	_	_	_	_	_	_	_
+4	Kapampángan	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Iti	_	_	_	_	_	_	_	_
+1	yang	_	_	_	_	_	_	_	_
+2	sangkan	_	_	_	_	_	_	_	_
+3	nung	_	_	_	_	_	_	_	_
+4	bákit	_	_	_	_	_	_	_	_
+5	masélan	_	_	_	_	_	_	_	_
+6	tá	_	_	_	_	_	_	_	_
+7	panlása	_	_	_	_	_	_	_	_
+8	at	_	_	_	_	_	_	_	_
+9	é	_	_	_	_	_	_	_	_
+10	ra	_	_	_	_	_	_	_	_
+11	akuang	_	_	_	_	_	_	_	_
+12	túran	_	_	_	_	_	_	_	_
+13	ing	_	_	_	_	_	_	_	_
+14	lútû	_	_	_	_	_	_	_	_
+15	támu	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	patié	_	_	_	_	_	_	_	_
+1	ménákit	_	_	_	_	_	_	_	_
+2	kang	_	_	_	_	_	_	_	_
+3	weirdo	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	libadlíbad	_	_	_	_	_	_	_	_
+6	king	_	_	_	_	_	_	_	_
+7	arap	_	_	_	_	_	_	_	_
+8	yung	_	_	_	_	_	_	_	_
+9	balé	_	_	_	_	_	_	_	_
+10	a	_	_	_	_	_	_	_	_
+11	makaláwe	_	_	_	_	_	_	_	_
+12	king	_	_	_	_	_	_	_	_
+13	cellphone	_	_	_	_	_	_	_	_
+14	na	_	_	_	_	_	_	_	_
+15	,	_	_	_	_	_	_	_	_
+16	é	_	_	_	_	_	_	_	_
+17	mé	_	_	_	_	_	_	_	_
+18	babarilan	_	_	_	_	_	_	_	_
+19	...	_	_	_	_	_	_	_	_
+20	kéraklan	_	_	_	_	_	_	_	_
+21	mándakap	_	_	_	_	_	_	_	_
+22	yang	_	_	_	_	_	_	_	_
+23	Pokemon	_	_	_	_	_	_	_	_
+24	...	_	_	_	_	_	_	_	_
+25	...	_	_	_	_	_	_	_	_
+26	dána	_	_	_	_	_	_	_	_
+27	limá	_	_	_	_	_	_	_	_
+28	né	_	_	_	_	_	_	_	_
+29	ping	_	_	_	_	_	_	_	_
+30	banua	_	_	_	_	_	_	_	_
+31	ing	_	_	_	_	_	_	_	_
+32	digpán	_	_	_	_	_	_	_	_
+33	ning	_	_	_	_	_	_	_	_
+34	alting	_	_	_	_	_	_	_	_
+35	Pokemon	_	_	_	_	_	_	_	_
+36	Go	_	_	_	_	_	_	_	_
+37	...	_	_	_	_	_	_	_	_
+38	Nínung	_	_	_	_	_	_	_	_
+39	atin	_	_	_	_	_	_	_	_
+40	pámisaling	_	_	_	_	_	_	_	_
+41	kuhli	_	_	_	_	_	_	_	_
+42	loach	_	_	_	_	_	_	_	_
+43	kén	_	_	_	_	_	_	_	_
+44	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Pati	_	_	_	_	_	_	_	_
+1	námú	_	_	_	_	_	_	_	_
+2	rin	_	_	_	_	_	_	_	_
+3	glass	_	_	_	_	_	_	_	_
+4	catfish	_	_	_	_	_	_	_	_
+5	nung	_	_	_	_	_	_	_	_
+6	atin	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Ati	_	_	_	_	_	_	_	_
+1	yu	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	itang	_	_	_	_	_	_	_	_
+4	comment	_	_	_	_	_	_	_	_
+5	kung	_	_	_	_	_	_	_	_
+6	ati	_	_	_	_	_	_	_	_
+7	kayung	_	_	_	_	_	_	_	_
+8	ának	_	_	_	_	_	_	_	_
+9	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Karin	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	mé-block	_	_	_	_	_	_	_	_
+3	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	dé	_	_	_	_	_	_	_	_
+2	bíra	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	É	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	bálú	_	_	_	_	_	_	_	_
+3	nung	_	_	_	_	_	_	_	_
+4	ati	_	_	_	_	_	_	_	_
+5	yu	_	_	_	_	_	_	_	_
+6	pa	_	_	_	_	_	_	_	_
+7	itang	_	_	_	_	_	_	_	_
+8	comment	_	_	_	_	_	_	_	_
+9	kung	_	_	_	_	_	_	_	_
+10	dakal	_	_	_	_	_	_	_	_
+11	lang	_	_	_	_	_	_	_	_
+12	táung	_	_	_	_	_	_	_	_
+13	maka-tag	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	Bálú	_	_	_	_	_	_	_	_
+1	ku	_	_	_	_	_	_	_	_
+2	mé-block	_	_	_	_	_	_	_	_
+3	yang	_	_	_	_	_	_	_	_
+4	biglâ.Ing	_	_	_	_	_	_	_	_
+5	péka	_	_	_	_	_	_	_	_
+6	maniáman	_	_	_	_	_	_	_	_
+7	díling	_	_	_	_	_	_	_	_
+8	pakiramdam	_	_	_	_	_	_	_	_
+9	yápin	_	_	_	_	_	_	_	_
+10	itang	_	_	_	_	_	_	_	_
+11	makápanagkas	_	_	_	_	_	_	_	_
+12	kang	_	_	_	_	_	_	_	_
+13	alang	_	_	_	_	_	_	_	_
+14	patlud	_	_	_	_	_	_	_	_
+15	king	_	_	_	_	_	_	_	_
+16	saríli	_	_	_	_	_	_	_	_
+17	mung	_	_	_	_	_	_	_	_
+18	Amánung	_	_	_	_	_	_	_	_
+19	Sísuan	_	_	_	_	_	_	_	_
+20	!	_	_	_	_	_	_	_	_
+21	!	_	_	_	_	_	_	_	_
+
+# sent_id = facebook:
+# text =
+# text[eng] =
+# labels =
+0	!	_	_	_	_	_	_	_	_
+
