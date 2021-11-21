@@ -1,5 +1,5 @@
 # sent_id = facebook:
-# text =
+# text = Masaplálâng Báyung Banua Kékayu Ngan!!!
 # text[eng] =
 # labels =
 0	Masaplálâng	_	_	_	_	_	_	_	_
@@ -12,7 +12,7 @@
 7	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Misaplálân kayu sánang Kálam ngéning dáratang a Báyung Banua!!!
 # text[eng] =
 # labels =
 0	Misaplálân	_	_	_	_	_	_	_	_
@@ -29,7 +29,7 @@
 11	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Karing manungkúlan: Ót papaburén te ing San Miguel maliliári burî at sirân nó kabaldúgan ding sablâ táng Kapagmasúsîan kéti Kapampángan???
 # text[eng] =
 # labels =
 0	Karing	_	_	_	_	_	_	_	_
@@ -58,7 +58,8 @@
 23	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = linual ya mu saguli itang maglutu...
+o nung kekatamung Kapampangan miliari ini???
 # text[eng] =
 # labels =
 0	linual	_	_	_	_	_	_	_	_
@@ -79,7 +80,7 @@
 15	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Balu ku Pampanga Hussars ya ing uniform da reni at e la guardia civil ngayu pa ya???
 # text[eng] =
 # labels =
 0	Balu	_	_	_	_	_	_	_	_
@@ -104,7 +105,7 @@
 19	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = digsiu kung melili kanta kasi e ke akit ing 'leyal'...les halles ya pala!
 # text[eng] =
 # labels =
 0	digsiu	_	_	_	_	_	_	_	_
@@ -126,14 +127,14 @@
 16	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = haha!
 # text[eng] =
 # labels =
 0	haha	_	_	_	_	_	_	_	_
 1	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = asnang kasukal ketang gulut na ampong ketang kasiping nang garden a amanuan mu... me-shock ku asnang kasukal!
 # text[eng] =
 # labels =
 0	asnang	_	_	_	_	_	_	_	_
@@ -157,14 +158,15 @@
 18	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = haha!
 # text[eng] =
 # labels =
 0	haha	_	_	_	_	_	_	_	_
 1	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = yápin pû ita ing páintunan da...
+Librí mú ing páturung sumúlat Kulitan, péro nung matamad kang magáral at burí pásúlat naká mû, atín nang báyad kaníta.
 # text[eng] =
 # labels =
 0	yápin	_	_	_	_	_	_	_	_
@@ -199,7 +201,7 @@
 29	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ditakditak at ing AMÁNUNG SÍSUAN máging neng amánung dáyu kng saríli nang TÍBUAN.
 # text[eng] =
 # labels =
 0	Ditakditak	_	_	_	_	_	_	_	_
@@ -218,7 +220,7 @@
 13	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Parakal nóng parakal ding kalalaláman karing yápse kung amanu.
 # text[eng] =
 # labels =
 0	Parakal	_	_	_	_	_	_	_	_
@@ -233,7 +235,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ót mípakanian?
 # text[eng] =
 # labels =
 0	Ót	_	_	_	_	_	_	_	_
@@ -241,7 +243,7 @@
 2	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nánung súkat daptan?
 # text[eng] =
 # labels =
 0	Nánung	_	_	_	_	_	_	_	_
@@ -250,7 +252,7 @@
 3	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Osimap dugu atin pa palang mekapag-letratu kening kaririariria at e mu sukat kalinguang robot ning Porac bayu re pigpapak dening magbabakal.
 # text[eng] =
 # labels =
 0	Osimap	_	_	_	_	_	_	_	_
@@ -277,7 +279,7 @@
 21	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atin ta na sanang panapat kareng Gundam ning Japan nung e re pepaburen mengalaklak!
 # text[eng] =
 # labels =
 0	Atin	_	_	_	_	_	_	_	_
@@ -297,7 +299,7 @@
 14	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Benji... makanian la reng gagauan nang ingkung ku... ebun binuru kng aslam atbu, bauang, laya, asin, paminta ampong lara!!!
 # text[eng] =
 # labels =
 0	Benji	_	_	_	_	_	_	_	_
@@ -330,7 +332,7 @@
 27	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ilaga na no ambing deng ebun, ilako no balat, ilage no rin kng garapun, chaka no buruan ketang aslam atbu nang Apung Iru (mangubie atang nang Deng) at bulugan napin asin, lara, paminta, bauang ampong laya!
 # text[eng] =
 # labels =
 0	ilaga	_	_	_	_	_	_	_	_
@@ -380,7 +382,7 @@
 44	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nung burî móng maging masayâ reng áliuâng táu, dápat múna ka pámûng maging masayâ… bugók!
 # text[eng] =
 # labels =
 0	Nung	_	_	_	_	_	_	_	_
@@ -402,7 +404,7 @@
 16	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = aua!!!
 # text[eng] =
 # labels =
 0	aua	_	_	_	_	_	_	_	_
@@ -411,7 +413,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = mas makatakut la reta!!!
 # text[eng] =
 # labels =
 0	mas	_	_	_	_	_	_	_	_
@@ -423,7 +425,7 @@
 6	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = lalu na retang abitung matuling ding pari ampong retang lupang penguin kareng madre... makatakut la pin!!!
 # text[eng] =
 # labels =
 0	lalu	_	_	_	_	_	_	_	_
@@ -448,7 +450,7 @@
 19	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nung makanian na la mu sana reng maglalage kng kuartu yu ne???
 # text[eng] =
 # labels =
 0	Nung	_	_	_	_	_	_	_	_
@@ -468,7 +470,9 @@
 14	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ngeni ke pamung bengi panamdaman ing kaplas ning kebaingan bike... eku mipatudtud... nandin ok ku mu... shock... e ku makapaniualang ala ne...
+
+Atin púsang línub king kuártu ku nandin lumual ku.
 # text[eng] =
 # labels =
 0	ngeni	_	_	_	_	_	_	_	_
@@ -510,7 +514,7 @@
 36	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Baláku sá púsâ ké.
 # text[eng] =
 # labels =
 0	Baláku	_	_	_	_	_	_	_	_
@@ -520,7 +524,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kawángis némú pala.
 # text[eng] =
 # labels =
 0	Kawángis	_	_	_	_	_	_	_	_
@@ -529,7 +533,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Óini mémáwung iming púsá ing gámit ku.
 # text[eng] =
 # labels =
 0	Óini	_	_	_	_	_	_	_	_
@@ -542,7 +546,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ót íkit ké kétang video maka-pink yá rin i Bongbong?
 # text[eng] =
 # labels =
 0	Ót	_	_	_	_	_	_	_	_
@@ -558,7 +562,7 @@
 10	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Caballero yá naman pú i Bong Arceo.
 # text[eng] =
 # labels =
 0	Caballero	_	_	_	_	_	_	_	_
@@ -571,7 +575,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Batch 85 ya king Chevalier School.
 # text[eng] =
 # labels =
 0	Batch	_	_	_	_	_	_	_	_
@@ -583,7 +587,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Méging ké mú naman balámó kóya-kóya bálang tutukí nákung tátang ku king óbrá na king Prudential Bank karin king Miranda at saká náku panílas kari Ápung Dádû king Vangimar Photo Studio léle ning bángku.
 # text[eng] =
 # labels =
 0	Méging	_	_	_	_	_	_	_	_
@@ -623,7 +627,7 @@
 34	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kakiálung kó kanta karin di Bóng ampó i wáli nang i Tito.
 # text[eng] =
 # labels =
 0	Kakiálung	_	_	_	_	_	_	_	_
@@ -641,7 +645,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Págmaragul kung "kóya" dé pa rin ding dakal a táwu, lálú na réng kayábé na king church ampó king disaster response.
 # text[eng] =
 # labels =
 0	Págmaragul	_	_	_	_	_	_	_	_
@@ -671,7 +675,7 @@
 24	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ngéni pú tátagal yang kónseyal para king Báyung Ángeles.
 # text[eng] =
 # labels =
 0	Ngéni	_	_	_	_	_	_	_	_
@@ -686,7 +690,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bistá man pú é ya pulítiku at é ná rin burí ing pulítíka, óini pú sínábak ya úling bálú nang kailángán né pú ning ciudad.
 # text[eng] =
 # labels =
 0	Bistá	_	_	_	_	_	_	_	_
@@ -718,7 +722,7 @@
 26	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Sána pú ásópan téng milukluk bílang métung karing gágawá támung mangáyap a batas ngéning 2022!
 # text[eng] =
 # labels =
 0	Sána	_	_	_	_	_	_	_	_
@@ -739,7 +743,7 @@
 15	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Báyung lúpa.
 # text[eng] =
 # labels =
 0	Báyung	_	_	_	_	_	_	_	_
@@ -747,7 +751,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Báyung lagyû.
 # text[eng] =
 # labels =
 0	Báyung	_	_	_	_	_	_	_	_
@@ -755,7 +759,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Báyung Talasúyû!
 # text[eng] =
 # labels =
 0	Báyung	_	_	_	_	_	_	_	_
@@ -763,7 +767,7 @@
 2	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Luíd ya ing #bayungangeles!!!
 # text[eng] =
 # labels =
 0	Luíd	_	_	_	_	_	_	_	_
@@ -776,7 +780,7 @@
 7	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Sinálí kung sabun.
 # text[eng] =
 # labels =
 0	Sinálí	_	_	_	_	_	_	_	_
@@ -785,7 +789,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pílán nang aldó é pa malaláso.
 # text[eng] =
 # labels =
 0	Pílán	_	_	_	_	_	_	_	_
@@ -797,7 +801,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É né rin búbulâ ing nakpúta.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -809,7 +813,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kandílá ya yátá ing digpán ning alti!?
 # text[eng] =
 # labels =
 0	Kandílá	_	_	_	_	_	_	_	_
@@ -823,7 +827,7 @@
 8	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Dána kaniáman yátá iné diablós!!!
 # text[eng] =
 # labels =
 0	Dána	_	_	_	_	_	_	_	_
@@ -836,7 +840,7 @@
 7	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Dakal pung salámat karing sablâng sináup at pésitágun!!!
 # text[eng] =
 # labels =
 0	Dakal	_	_	_	_	_	_	_	_
@@ -852,7 +856,7 @@
 10	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Úlî ning méragul ku karin king Magálang karing amlat nang Ápûng Sínukuan bílâng aldó, ápûng ginu ampóng núnû da ring sablâng Kapampángan, baláku sâ mó kilála dé mú naman ding éganaganang Kapampángan.
 # text[eng] =
 # labels =
 0	Úlî	_	_	_	_	_	_	_	_
@@ -892,7 +896,7 @@
 34	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Alî pala.
 # text[eng] =
 # labels =
 0	Alî	_	_	_	_	_	_	_	_
@@ -900,7 +904,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bála palang ístória ké karéng kalúpa kung Kapampángan i Ápûng Sínukuan, alâ la man palang kamalémále nung nínu at nánu ya tagana.
 # text[eng] =
 # labels =
 0	Bála	_	_	_	_	_	_	_	_
@@ -929,7 +933,7 @@
 23	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = "Alâ náku man ákarapat.
 # text[eng] =
 # labels =
 0	``	_	_	_	_	_	_	_	_
@@ -940,7 +944,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nínu uárî i yáku?"
 # text[eng] =
 # labels =
 0	Nínu	_	_	_	_	_	_	_	_
@@ -951,7 +955,7 @@
 5	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = "Makanián na ménibat king ibat."
 # text[eng] =
 # labels =
 0	``	_	_	_	_	_	_	_	_
@@ -964,7 +968,7 @@
 7	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = "Alâ mú rin maliári."
 # text[eng] =
 # labels =
 0	``	_	_	_	_	_	_	_	_
@@ -976,7 +980,7 @@
 6	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = "Magpakabayánî naka nanaman?
 # text[eng] =
 # labels =
 0	``	_	_	_	_	_	_	_	_
@@ -986,7 +990,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bísâ kang pagáuâ kung rebulto?
 # text[eng] =
 # labels =
 0	Bísâ	_	_	_	_	_	_	_	_
@@ -997,7 +1001,7 @@
 5	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ákalinguan ku na nung nínung alang patúgut gágámit king "mungkai."
 # text[eng] =
 # labels =
 0	Ákalinguan	_	_	_	_	_	_	_	_
@@ -1015,7 +1019,7 @@
 12	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Iniang kinorek ke é na burî.
 # text[eng] =
 # labels =
 0	Iniang	_	_	_	_	_	_	_	_
@@ -1027,7 +1031,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É na nóman kasi kanu áintindian ding "ancient Kapampángan" ngána ning alti.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -1047,7 +1051,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = MUNIKÁLÂ ya pû King Kapampangan ing ‘mungkahi’ ning Tagálug.
 # text[eng] =
 # labels =
 0	MUNIKÁLÂ	_	_	_	_	_	_	_	_
@@ -1064,7 +1068,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bista’t man pû ilakó ye H ing ‘mungkahi’ ning Tagálug, é ya pa mú rin maging Kapampángan.
 # text[eng] =
 # labels =
 0	Bista	_	_	_	_	_	_	_	_
@@ -1092,7 +1096,7 @@
 22	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = At é ya pû “ancient Kapampangan” ing MUNIKÁLÂ né pô.
 # text[eng] =
 # labels =
 0	At	_	_	_	_	_	_	_	_
@@ -1110,7 +1114,8 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Disnan ké pa pûng gagamítan da yan báyu EDSA Revolution…iniang panaún nung nu réng pulítiku támu Kapampángan pa ing amánung gagamítan da king karélang pámanungkúlan at é pa Tagálug…
+ót kaplas na king balat ning mawóng patié marimla?!?
 # text[eng] =
 # labels =
 0	Disnan	_	_	_	_	_	_	_	_
@@ -1156,14 +1161,14 @@
 40	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = mámagad.
 # text[eng] =
 # labels =
 0	mámagad	_	_	_	_	_	_	_	_
 1	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = nung atin búngang aldó patié mapáli, atin mú naman palang búngang pakarimla né.
 # text[eng] =
 # labels =
 0	nung	_	_	_	_	_	_	_	_
@@ -1183,7 +1188,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = kaplas da!!!
 # text[eng] =
 # labels =
 0	kaplas	_	_	_	_	_	_	_	_
@@ -1193,7 +1198,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = é kó pa áyáring ilbén.
 # text[eng] =
 # labels =
 0	é	_	_	_	_	_	_	_	_
@@ -1204,7 +1209,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mé-busy biglâ.
 # text[eng] =
 # labels =
 0	Mé-busy	_	_	_	_	_	_	_	_
@@ -1212,14 +1217,14 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Weird.
 # text[eng] =
 # labels =
 0	Weird	_	_	_	_	_	_	_	_
 1	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Familiar ya yet balámó aliwá ya.
 # text[eng] =
 # labels =
 0	Familiar	_	_	_	_	_	_	_	_
@@ -1231,7 +1236,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tiktokers ké pû.
 # text[eng] =
 # labels =
 0	Tiktokers	_	_	_	_	_	_	_	_
@@ -1240,7 +1245,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É ké pú youtubers!"
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -1251,7 +1256,7 @@
 5	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = 🙂 Más masikan ya kasi ing Youtube késá king Tiktok king Japan.
 # text[eng] =
 # labels =
 0	🙂	_	_	_	_	_	_	_	_
@@ -1269,7 +1274,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Considered néng legit profession ing pámag-youtube king Japan at mámáyad lang taxes.
 # text[eng] =
 # labels =
 0	Considered	_	_	_	_	_	_	_	_
@@ -1287,7 +1292,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Have you been vacuned?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1300,7 +1305,7 @@
 7	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Náno?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1310,7 +1315,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Vacuned!
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1320,7 +1325,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Have you been vacuned?
 # text[eng] =
 # labels =
 0	Have	_	_	_	_	_	_	_	_
@@ -1330,7 +1335,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Nakpúta ka!
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1341,7 +1346,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = pápag-vacuum mukó nimal ka!
 # text[eng] =
 # labels =
 0	pápag-vacuum	_	_	_	_	_	_	_	_
@@ -1351,7 +1356,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Intá atin támung vacuum cleaner?
 # text[eng] =
 # labels =
 0	Intá	_	_	_	_	_	_	_	_
@@ -1362,7 +1367,7 @@
 5	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Palisan mu námú murét!
 # text[eng] =
 # labels =
 0	Palisan	_	_	_	_	_	_	_	_
@@ -1372,7 +1377,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Alî, Béibí kó, é vacuum.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1388,7 +1393,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Ó nánung ngámanuan mu?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1401,7 +1406,7 @@
 7	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Vacune.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1411,7 +1416,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Nánuyta?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1421,7 +1426,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Bakúnâ!
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1431,7 +1436,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ininglis ké mû.
 # text[eng] =
 # labels =
 0	ininglis	_	_	_	_	_	_	_	_
@@ -1440,7 +1445,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Bugók!
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1450,7 +1455,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ménimbéntu naka nanaman!
 # text[eng] =
 # labels =
 0	Ménimbéntu	_	_	_	_	_	_	_	_
@@ -1459,7 +1464,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Simáp alang aliwang mékáramdam kéka.
 # text[eng] =
 # labels =
 0	Simáp	_	_	_	_	_	_	_	_
@@ -1470,7 +1475,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mákaríné ka!
 # text[eng] =
 # labels =
 0	Mákaríné	_	_	_	_	_	_	_	_
@@ -1478,7 +1483,7 @@
 2	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Ai, nánu ya wárí king Inglis ing bakúnâ?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1496,7 +1501,7 @@
 12	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Back seen ya!
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1508,7 +1513,7 @@
 6	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Back seen!
 # text[eng] =
 # labels =
 0	Back	_	_	_	_	_	_	_	_
@@ -1516,7 +1521,7 @@
 2	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tandánan mé ita.
 # text[eng] =
 # labels =
 0	Tandánan	_	_	_	_	_	_	_	_
@@ -1525,7 +1530,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Back sin?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1536,7 +1541,7 @@
 5	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Gúlut... kasalánan?
 # text[eng] =
 # labels =
 0	Gúlut	_	_	_	_	_	_	_	_
@@ -1545,7 +1550,7 @@
 3	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Back, gúlut.
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1557,7 +1562,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Seen, íkit.
 # text[eng] =
 # labels =
 0	Seen	_	_	_	_	_	_	_	_
@@ -1566,7 +1571,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Ná?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1576,7 +1581,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Íkit naka gúlót?
 # text[eng] =
 # labels =
 0	Íkit	_	_	_	_	_	_	_	_
@@ -1585,7 +1590,7 @@
 3	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ót é ké áintindian yátâ karin.
 # text[eng] =
 # labels =
 0	Ót	_	_	_	_	_	_	_	_
@@ -1597,7 +1602,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Átatandánan mu pa iniang ának támu in-hek-siunan dakatámu buldét?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1615,7 +1620,7 @@
 12	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Ai wa pútanaidána!
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1627,7 +1632,7 @@
 6	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mákatákut kaníta, kaibat masakit pa!
 # text[eng] =
 # labels =
 0	Mákatákut	_	_	_	_	_	_	_	_
@@ -1639,7 +1644,7 @@
 6	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = At saká mákaríné kasi pákit mé ing buldit mu!
 # text[eng] =
 # labels =
 0	At	_	_	_	_	_	_	_	_
@@ -1654,7 +1659,7 @@
 9	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Lálú na pótang malagú ya ing nars.
 # text[eng] =
 # labels =
 0	Lálú	_	_	_	_	_	_	_	_
@@ -1667,7 +1672,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mákaríné ita!
 # text[eng] =
 # labels =
 0	Mákaríné	_	_	_	_	_	_	_	_
@@ -1675,7 +1680,7 @@
 2	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ósimáp pin ngéni king pagó námú at é na king buldit.
 # text[eng] =
 # labels =
 0	Ósimáp	_	_	_	_	_	_	_	_
@@ -1692,7 +1697,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Yápin ita.
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1703,7 +1708,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Nánung yápin ita?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1715,7 +1720,7 @@
 6	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Réng minúnang bakúnâ tutúsuk dó kaníta king buldit támu, alê?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1735,7 +1740,7 @@
 14	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Bakúnâ la réta?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1747,7 +1752,7 @@
 6	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Wa, bólang, nánu pamó?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1762,7 +1767,7 @@
 9	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ót kabud danakatámu mú wárí panasakitan at pamakaríné at tusúkan buldit?
 # text[eng] =
 # labels =
 0	Ót	_	_	_	_	_	_	_	_
@@ -1779,7 +1784,7 @@
 11	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bakúná ita.
 # text[eng] =
 # labels =
 0	Bakúná	_	_	_	_	_	_	_	_
@@ -1787,7 +1792,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Bakúná pala ita.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1799,7 +1804,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ó makanánu yang méging "back seen" kaníta?
 # text[eng] =
 # labels =
 0	Ó	_	_	_	_	_	_	_	_
@@ -1814,7 +1819,7 @@
 9	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Átatandánan mu iniang mébakúná tá kaníta king kámpu.
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1831,7 +1836,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mérkánu la réng dóktor?
 # text[eng] =
 # labels =
 0	Mérkánu	_	_	_	_	_	_	_	_
@@ -1841,7 +1846,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Wa, asnóng kátas!
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1854,7 +1859,7 @@
 7	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mákatákut la!
 # text[eng] =
 # labels =
 0	Mákatákut	_	_	_	_	_	_	_	_
@@ -1862,7 +1867,7 @@
 2	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Alí mó pótang bakunan dakatámu kailángan téng pákit ing buldit támu né?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -1883,7 +1888,7 @@
 15	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mákaríné, alê?
 # text[eng] =
 # labels =
 0	Mákaríné	_	_	_	_	_	_	_	_
@@ -1892,7 +1897,7 @@
 3	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Wa.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -1902,7 +1907,8 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Átatandánan ku pa.
+Atching Baby: Déng Merkánu áintindian da ita.
 # text[eng] =
 # labels =
 0	Átatandánan	_	_	_	_	_	_	_	_
@@ -1919,7 +1925,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É dakatámu buring díríné.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -1929,7 +1935,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Iniá kanuwárí mó ing gúlut támu yang íkit da at aliwá ing buldit, iniá "back seen" ngára.
 # text[eng] =
 # labels =
 0	Iniá	_	_	_	_	_	_	_	_
@@ -1955,7 +1961,7 @@
 20	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ustú kang ustu king observation mu kasi.
 # text[eng] =
 # labels =
 0	ustú	_	_	_	_	_	_	_	_
@@ -1968,7 +1974,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kasáman kung dílí itang elitist politics and condescending approach da réning kámpu nang Léni.
 # text[eng] =
 # labels =
 0	Kasáman	_	_	_	_	_	_	_	_
@@ -1988,7 +1994,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Yáku é ké burí i BBM né, at sigúru pin OK né i Leni, péro if they keep this up and think that they will win because they have the moral high ground, tátákut kung maniambut ya i Marcos kéti Kapampángan.
 # text[eng] =
 # labels =
 0	Yáku	_	_	_	_	_	_	_	_
@@ -2038,7 +2044,7 @@
 44	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Dakal karéng ikuá ra karéng kámpú ra kéti Kapampángan déning pakákalúlû dápot tutú lang biása, and it seems, have an axe to grind.
 # text[eng] =
 # labels =
 0	Dakal	_	_	_	_	_	_	_	_
@@ -2069,7 +2075,9 @@
 25	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = káyi Kapampángán nómang Gen Z déng tútúlak kang Bongbong kéti... dána... bísá lá mú yátang live Sábung ding alti...
+
+ita pin!
 # text[eng] =
 # labels =
 0	káyi	_	_	_	_	_	_	_	_
@@ -2099,7 +2107,7 @@
 24	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaibat déng diablus nang apologists nung nánu nánung lalatlat dang kalaraman.
 # text[eng] =
 # labels =
 0	Kaibat	_	_	_	_	_	_	_	_
@@ -2116,7 +2124,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing é ku ákaliguan yápin itang pété né ing Clark airport úlí námú king kasámán né i Gloria.
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -2140,7 +2148,7 @@
 18	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nung kéti online sábung la réng mányírang bié karing mémalén, king Indonesia naman déng online a paútang ó fintech.
 # text[eng] =
 # labels =
 0	Nung	_	_	_	_	_	_	_	_
@@ -2166,7 +2174,7 @@
 20	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = agyáng naman king Kristianismu péro karakal pa mú rin mág-5-6.
 # text[eng] =
 # labels =
 0	agyáng	_	_	_	_	_	_	_	_
@@ -2182,7 +2190,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = dána ósimáp dugú é la pa míras kékatámu réné!!!
 # text[eng] =
 # labels =
 0	dána	_	_	_	_	_	_	_	_
@@ -2199,7 +2207,7 @@
 11	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = sigurádú mú iniá sána é ré ábabálú kéti iti.
 # text[eng] =
 # labels =
 0	sigurádú	_	_	_	_	_	_	_	_
@@ -2214,7 +2222,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ó réni kayáng mismung pulítiku ílang makibandí karén!!!
 # text[eng] =
 # labels =
 0	ó	_	_	_	_	_	_	_	_
@@ -2230,7 +2238,8 @@
 10	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = dána bísâ nákung múlî 
+Kanítá pa man mékápamunlá nala.
 # text[eng] =
 # labels =
 0	dána	_	_	_	_	_	_	_	_
@@ -2245,7 +2254,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Agpang kang Ingkung kung Éliung king Magálang, atin ya kanung sésé Kulariut i Ápung Mágnu a tátang na at Ingkung ku king tud.
 # text[eng] =
 # labels =
 0	Agpang	_	_	_	_	_	_	_	_
@@ -2275,7 +2284,7 @@
 24	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Dápot aliwá ya itsúra ing Kulariut karéla - ing bábo na kanung katáwan táwu ya, at ing lálam nang katáwan, animális ya.
 # text[eng] =
 # labels =
 0	Dápot	_	_	_	_	_	_	_	_
@@ -2305,7 +2314,7 @@
 24	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Póta kanung magpanggap yang táwu, sóbrá ya santing iniá é ka maniwálang táwu ya.
 # text[eng] =
 # labels =
 0	Póta	_	_	_	_	_	_	_	_
@@ -2326,7 +2335,7 @@
 15	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pótang mimuá ya, mibabáya ya aské, malútu ya mata, matílus ya pángil ampóng balugbug, mangakábá ya kukû at makisagu ya.
 # text[eng] =
 # labels =
 0	Pótang	_	_	_	_	_	_	_	_
@@ -2356,7 +2365,7 @@
 24	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Agyú na kanung látî ó dágul istung burí na at antí ya kanung míbugnus a bálas king bilis na.
 # text[eng] =
 # labels =
 0	Agyú	_	_	_	_	_	_	_	_
@@ -2381,7 +2390,7 @@
 19	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mágdaladalá la kanung láit king míngatbang gámat at déni réng karélang sundang.
 # text[eng] =
 # labels =
 0	Mágdaladalá	_	_	_	_	_	_	_	_
@@ -2399,7 +2408,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mayílig la kanung mákipaté at burí ra ing báwu ning dáyâ iniá maralas lang mágpanggap táwu at mákiábé king labanan!
 # text[eng] =
 # labels =
 0	Mayílig	_	_	_	_	_	_	_	_
@@ -2425,7 +2434,7 @@
 20	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ápayámu mó kanu nung... ai, sikrétu mi ya pala king pamiliá mi ita!
 # text[eng] =
 # labels =
 0	Ápayámu	_	_	_	_	_	_	_	_
@@ -2446,7 +2455,7 @@
 15	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Agyámpang gagáwan dé ngan ding éganaganang táwu, kapilan man é ya maging ustu ing malî.
 # text[eng] =
 # labels =
 0	Agyámpang	_	_	_	_	_	_	_	_
@@ -2468,7 +2477,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Salamin ning Kalasingan.
 # text[eng] =
 # labels =
 0	Salamin	_	_	_	_	_	_	_	_
@@ -2477,7 +2486,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Panalángin mu kami.
 # text[eng] =
 # labels =
 0	Panalángin	_	_	_	_	_	_	_	_
@@ -2486,7 +2495,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Luklúkan ding Maliliû.
 # text[eng] =
 # labels =
 0	Luklúkan	_	_	_	_	_	_	_	_
@@ -2495,7 +2504,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Panalángin mu kami.
 # text[eng] =
 # labels =
 0	Panalángin	_	_	_	_	_	_	_	_
@@ -2504,7 +2513,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kasangkánan ning Kékaming Pángalúlâ.
 # text[eng] =
 # labels =
 0	Kasangkánan	_	_	_	_	_	_	_	_
@@ -2514,7 +2523,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Panalángin mu kami.
 # text[eng] =
 # labels =
 0	Panalángin	_	_	_	_	_	_	_	_
@@ -2523,7 +2532,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaban ning Álak.
 # text[eng] =
 # labels =
 0	Kaban	_	_	_	_	_	_	_	_
@@ -2532,7 +2541,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Panalángin mu kami.
 # text[eng] =
 # labels =
 0	Panalángin	_	_	_	_	_	_	_	_
@@ -2541,7 +2550,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaban ding É Bísang Mámin.
 # text[eng] =
 # labels =
 0	Kaban	_	_	_	_	_	_	_	_
@@ -2552,7 +2561,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Panalángin mu kami.
 # text[eng] =
 # labels =
 0	Panalángin	_	_	_	_	_	_	_	_
@@ -2561,7 +2570,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Magdilidíling Kaban ding Makainum kú mû.
 # text[eng] =
 # labels =
 0	Magdilidíling	_	_	_	_	_	_	_	_
@@ -2573,7 +2582,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Panalángin mu kami.
 # text[eng] =
 # labels =
 0	Panalángin	_	_	_	_	_	_	_	_
@@ -2582,7 +2591,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nung yáku ing burí yung mamugnus emotional backlash, subúkan yéng kanan king árapan ku ini kaibat é yuku dirínan!
 # text[eng] =
 # labels =
 0	Nung	_	_	_	_	_	_	_	_
@@ -2608,7 +2617,7 @@
 20	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Ó Béibé, nánu ya ing plasnáit king Inglis?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2626,7 +2635,7 @@
 12	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Nínánu ka?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2637,7 +2646,7 @@
 5	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = English né ita, bugók!
 # text[eng] =
 # labels =
 0	English	_	_	_	_	_	_	_	_
@@ -2648,7 +2657,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Ó ispel mu né mû.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2662,7 +2671,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Ó dálé, Fee.
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2675,7 +2684,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: É ya Hep?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2687,7 +2696,7 @@
 6	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Bólang, alí ya.
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2700,7 +2709,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Fee ya.
 # text[eng] =
 # labels =
 0	Fee	_	_	_	_	_	_	_	_
@@ -2708,7 +2717,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Ó sige.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2719,21 +2728,21 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Fee.
 # text[eng] =
 # labels =
 0	Fee	_	_	_	_	_	_	_	_
 1	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = kaibat?
 # text[eng] =
 # labels =
 0	kaibat	_	_	_	_	_	_	_	_
 1	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Fee, né.
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2745,7 +2754,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaibat, Hell, Hugh, Hess, Hen, High, Gee, Etched, Tea.
 # text[eng] =
 # labels =
 0	Kaibat	_	_	_	_	_	_	_	_
@@ -2768,7 +2777,7 @@
 17	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Plus Night.
 # text[eng] =
 # labels =
 0	Plus	_	_	_	_	_	_	_	_
@@ -2776,7 +2785,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Fee, Hell, Hugh... Plus Night.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2793,14 +2802,14 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Áwa.
 # text[eng] =
 # labels =
 0	Áwa	_	_	_	_	_	_	_	_
 1	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ót ináwus dé palang Plus Night ini?
 # text[eng] =
 # labels =
 0	Ót	_	_	_	_	_	_	_	_
@@ -2813,7 +2822,7 @@
 7	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Nánu ya ing "plus"?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2828,7 +2837,7 @@
 9	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Dagdag?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2838,7 +2847,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Wa, istú ka.
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2851,7 +2860,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ó ing "night" nánu ya?
 # text[eng] =
 # labels =
 0	Ó	_	_	_	_	_	_	_	_
@@ -2864,7 +2873,7 @@
 7	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Béngi, siémpre.
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2876,7 +2885,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Pótang madalumdum ya ing béngi, nánung kúlang?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2893,7 +2902,7 @@
 11	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Sulû!
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2903,7 +2912,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Ó nánung kailángan mung iragdag?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2917,7 +2926,7 @@
 8	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Sulû!
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2927,7 +2936,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Ó ikuá mu né ót "plus night" ya?
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2946,7 +2955,7 @@
 13	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Cóng Boy: Úling yang daragdag mung sulû patié madalumdum ya ing béngé?
 # text[eng] =
 # labels =
 0	Cóng	_	_	_	_	_	_	_	_
@@ -2965,7 +2974,7 @@
 13	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atching Baby: Wa!
 # text[eng] =
 # labels =
 0	Atching	_	_	_	_	_	_	_	_
@@ -2975,7 +2984,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ikuá mé, tulók!
 # text[eng] =
 # labels =
 0	Ikuá	_	_	_	_	_	_	_	_
@@ -2985,7 +2994,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ó matudtud tána!
 # text[eng] =
 # labels =
 0	Ó	_	_	_	_	_	_	_	_
@@ -2994,7 +3003,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = itang agyú nang ákit at tanggapan a ing Pilipínas é ya métung a bangsâ nung é métung yang balén da réning dakal a katutúbung bangsâ a atin sarásaríling Amánu, Kultúra, Kasalésáyan ampóng Pámagpakilalánan.
 # text[eng] =
 # labels =
 0	itang	_	_	_	_	_	_	_	_
@@ -3035,7 +3044,7 @@
 35	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ónéng alá man bitasá karéla!
 # text[eng] =
 # labels =
 0	ónéng	_	_	_	_	_	_	_	_
@@ -3046,7 +3055,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nínu man maniambut karéla, 6 years né nanaman lumában at magsalbat ing Kapampángan at pámanluálu ning keyang Amánu salang king dominasiun na ning Tagálug king gubiérnu, edukasiun ampó pang media.
 # text[eng] =
 # labels =
 0	Nínu	_	_	_	_	_	_	_	_
@@ -3084,7 +3093,7 @@
 32	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Katátakman ku pámú king burger a ini ngéning béngi.
 # text[eng] =
 # labels =
 0	Katátakman	_	_	_	_	_	_	_	_
@@ -3099,7 +3108,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tutú yang maniáman!
 # text[eng] =
 # labels =
 0	Tutú	_	_	_	_	_	_	_	_
@@ -3108,7 +3117,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Itang beef patty na asnéng kakapal dápot malambut ya.
 # text[eng] =
 # labels =
 0	Itang	_	_	_	_	_	_	_	_
@@ -3123,7 +3132,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É ya malangî.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -3132,7 +3141,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Juicy ya, ngárá pin.
 # text[eng] =
 # labels =
 0	Juicy	_	_	_	_	_	_	_	_
@@ -3143,7 +3152,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = At asnéng kalásangkalása!!!
 # text[eng] =
 # labels =
 0	At	_	_	_	_	_	_	_	_
@@ -3154,7 +3163,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Migkusuélu kung mámangan!!!
 # text[eng] =
 # labels =
 0	Migkusuélu	_	_	_	_	_	_	_	_
@@ -3165,7 +3174,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing burí ku pa itang gúlé na ampóng sauce na é ya kákawání lása.
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -3185,7 +3194,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É yá rin mayúmu iniá burí ké!
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -3198,7 +3207,7 @@
 7	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaibat pilálú réning French Fries na maniáman lá mú naman!
 # text[eng] =
 # labels =
 0	Kaibat	_	_	_	_	_	_	_	_
@@ -3214,7 +3223,7 @@
 10	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tutú lang patátas!
 # text[eng] =
 # labels =
 0	Tutú	_	_	_	_	_	_	_	_
@@ -3223,7 +3232,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Asnóng kabanglú at é la tátabâ.
 # text[eng] =
 # labels =
 0	Asnóng	_	_	_	_	_	_	_	_
@@ -3235,7 +3244,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Malutung la king gílid at sáktu la lambut king kilub.
 # text[eng] =
 # labels =
 0	Malutung	_	_	_	_	_	_	_	_
@@ -3251,7 +3260,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É la sásápal at mákasáwâ.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -3262,7 +3271,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Áganaká kó réng kakanan kung pirítung patátas king Japan ampóng Germany.
 # text[eng] =
 # labels =
 0	Áganaká	_	_	_	_	_	_	_	_
@@ -3279,7 +3288,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tíran dala!
 # text[eng] =
 # labels =
 0	Tíran	_	_	_	_	_	_	_	_
@@ -3287,7 +3296,7 @@
 2	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pílálung French Fries na saliwan ké at kanan kó ílang díli ra.
 # text[eng] =
 # labels =
 0	Pílálung	_	_	_	_	_	_	_	_
@@ -3305,7 +3314,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É lá mú kabud pánérnu ó panagaulâ.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -3318,7 +3327,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É mó man kailángan tiltil ketchup!
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -3330,7 +3339,7 @@
 6	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Asna nóng kaniáman págpúrus!
 # text[eng] =
 # labels =
 0	Asna	_	_	_	_	_	_	_	_
@@ -3340,7 +3349,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing mákapagmulálá pa, asnéng kamuran!!!
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -3354,7 +3363,7 @@
 8	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É yu sigúru áula nung magkánu ya ini!
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -3368,7 +3377,7 @@
 8	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kasindagul ya man tutung Quarter Pounder ining burger da!!!
 # text[eng] =
 # labels =
 0	Kasindagul	_	_	_	_	_	_	_	_
@@ -3385,7 +3394,7 @@
 11	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = 110V la ngan déng sulú mi king balé.
 # text[eng] =
 # labels =
 0	110V	_	_	_	_	_	_	_	_
@@ -3399,7 +3408,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É nó ngan gágána!
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -3409,7 +3418,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nánung miliári?
 # text[eng] =
 # labels =
 0	Nánung	_	_	_	_	_	_	_	_
@@ -3417,7 +3426,7 @@
 2	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Balámó míbálik ku Magálang iniang alá pang kuriénti karin.
 # text[eng] =
 # labels =
 0	Balámó	_	_	_	_	_	_	_	_
@@ -3432,7 +3441,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Balámó pépaltó lang mochi!
 # text[eng] =
 # labels =
 0	Balámó	_	_	_	_	_	_	_	_
@@ -3442,7 +3451,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pané la kasi kanung masasambut déng Angels karéng Evangelion at mákalúnus nóng masiádu réng Japón úling gísan da néng piglasak déng miyáliwang monsters, aliens ampóng Merkánu ing lugal da.
 # text[eng] =
 # labels =
 0	Pané	_	_	_	_	_	_	_	_
@@ -3478,7 +3487,7 @@
 30	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = balákú sá "papakain" ngána... mésáné ku kasi karéning alting Kapampángan a tagátágálug é... dikapa kumáyén?
 # text[eng] =
 # labels =
 0	balákú	_	_	_	_	_	_	_	_
@@ -3503,7 +3512,9 @@
 19	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = papakáyin nátin sila...
+
+É yó kanu pámisalí réng bótu yu.
 # text[eng] =
 # labels =
 0	papakáyin	_	_	_	_	_	_	_	_
@@ -3520,7 +3531,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Rén námúng bútú yu.
 # text[eng] =
 # labels =
 0	Rén	_	_	_	_	_	_	_	_
@@ -3530,7 +3541,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Búkas né pung ábak ing kadduang dáké na ning lecture a ini.
 # text[eng] =
 # labels =
 0	Búkas	_	_	_	_	_	_	_	_
@@ -3548,7 +3559,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Míkit-íkit!!!
 # text[eng] =
 # labels =
 0	Míkit-íkit	_	_	_	_	_	_	_	_
@@ -3557,7 +3568,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Báyu kó bumótu ngéning dáratang a álálan, kutnan yóng masalése réning tátagal nung atin lang máyap a pamálak king pámanlualu, pámagpalábung at pámanlagánap na ning kekatámung Amánung Sísuan ampóng Ámánang Kabiasnang Kapampángan.
 # text[eng] =
 # labels =
 0	Báyu	_	_	_	_	_	_	_	_
@@ -3597,7 +3608,7 @@
 34	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing sangkan nung bákit patdá-sindí ku pánga-vegetarian.
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -3610,7 +3621,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Síbúkan ké mísan ing kéto... mig-alang kuénta ing lása ning steak at nánu mang kárni nung é na térnuan ning mapálí at búbusuk a báyung tun a násî!!!
 # text[eng] =
 # labels =
 0	Síbúkan	_	_	_	_	_	_	_	_
@@ -3647,7 +3658,7 @@
 31	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Iniang atin ké pang pun ning Santul (Sandoricum indicum), maralas kóng ákákit déni.
 # text[eng] =
 # labels =
 0	Iniang	_	_	_	_	_	_	_	_
@@ -3669,7 +3680,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Sáyang pinútut da né ita.
 # text[eng] =
 # labels =
 0	Sáyang	_	_	_	_	_	_	_	_
@@ -3680,7 +3691,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Asnang kasákit mágpatúbung mámúngang pun patié atí ka ciudad at malatí ká mú lóti.
 # text[eng] =
 # labels =
 0	Asnang	_	_	_	_	_	_	_	_
@@ -3700,7 +3711,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kákatak la ngan king bulung na.
 # text[eng] =
 # labels =
 0	Kákatak	_	_	_	_	_	_	_	_
@@ -3712,7 +3723,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Lúpa lang ubíngan Kúyug!
 # text[eng] =
 # labels =
 0	Lúpa	_	_	_	_	_	_	_	_
@@ -3722,7 +3733,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tambing adduá la.
 # text[eng] =
 # labels =
 0	Tambing	_	_	_	_	_	_	_	_
@@ -3731,7 +3742,9 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ing mítanam mú king ísip ku itang atin lang maragul a malútung mabílug a balámó bandérang Japon at lúpa lang dinosaur
+
+Mípág-istóriá la réng maestru ampóng disípulus na.
 # text[eng] =
 # labels =
 0	ing	_	_	_	_	_	_	_	_
@@ -3765,7 +3778,9 @@
 28	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Maliári la palang ilagé réng bakáwan ampóng palapat king aquarium at gáwá kang látî...
+
+pótang míkuáltá kú rin.
 # text[eng] =
 # labels =
 0	Maliári	_	_	_	_	_	_	_	_
@@ -3790,7 +3805,7 @@
 19	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = mímísip kú mu rugung maglagé 5 gallon tank king office mi ampó king balé báng é magástus!
 # text[eng] =
 # labels =
 0	mímísip	_	_	_	_	_	_	_	_
@@ -3813,7 +3828,9 @@
 17	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing táwu mísandalian yang maging timáwâ
+
+Nung áganaká yé pa itang Amlat nung nú ya míragsá i Sísilim, óita ing lúpa na.
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -3842,7 +3859,7 @@
 23	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Óita ing ´susu na.
 # text[eng] =
 # labels =
 0	Óita	_	_	_	_	_	_	_	_
@@ -3852,7 +3869,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nandin kítang ku kétang súkí kung pipag-ramen nung alá lang japanese music.
 # text[eng] =
 # labels =
 0	Nandin	_	_	_	_	_	_	_	_
@@ -3870,7 +3887,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Atin naman kanu.
 # text[eng] =
 # labels =
 0	Atin	_	_	_	_	_	_	_	_
@@ -3879,7 +3896,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ónéng póta mú kanung atí yu ing boss karin dó pátigtig déta.
 # text[eng] =
 # labels =
 0	Ónéng	_	_	_	_	_	_	_	_
@@ -3897,7 +3914,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = kasi kanu é ró kanu áintindian at mákatundú la kanu.
 # text[eng] =
 # labels =
 0	kasi	_	_	_	_	_	_	_	_
@@ -3913,7 +3930,8 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ót... é náku pámú magbálik karin agyáng maniáman...
+itang alá man bitasang consultation karing mémalén at kabud nómú gágawang anti kaníni.
 # text[eng] =
 # labels =
 0	Ót	_	_	_	_	_	_	_	_
@@ -3942,7 +3960,7 @@
 23	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Áintindian ku mágkasákit tá ngan at binang mángailángan ngéni, at wá, "é té ápangan ing prinsípiu," ngáyú pin, dápot ining pulítikung "mémié" kéka ngéni atin yá ping túné masabal king páglában at tatalakaránan mó?
 # text[eng] =
 # labels =
 0	Áintindian	_	_	_	_	_	_	_	_
@@ -3990,7 +4008,7 @@
 42	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ó ngéni yá mú "sásáup" at "mámié" úling malápit na ing eleksiun?
 # text[eng] =
 # labels =
 0	Ó	_	_	_	_	_	_	_	_
@@ -4012,7 +4030,7 @@
 16	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Maging útang mé kasing lub kanian iné?
 # text[eng] =
 # labels =
 0	Maging	_	_	_	_	_	_	_	_
@@ -4025,7 +4043,7 @@
 7	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nínung atin pang copy ning librú kung Kulitan?
 # text[eng] =
 # labels =
 0	Nínung	_	_	_	_	_	_	_	_
@@ -4039,7 +4057,7 @@
 8	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pasaliwán ná!
 # text[eng] =
 # labels =
 0	Pasaliwán	_	_	_	_	_	_	_	_
@@ -4047,14 +4065,14 @@
 2	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Haha!
 # text[eng] =
 # labels =
 0	Haha	_	_	_	_	_	_	_	_
 1	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Médiu in demand la ngéning pasku.
 # text[eng] =
 # labels =
 0	Médiu	_	_	_	_	_	_	_	_
@@ -4066,7 +4084,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Maliári namó é yu ku átianang dípáran a "Nung bálú mé, é mé págmaimut."
 # text[eng] =
 # labels =
 0	Maliári	_	_	_	_	_	_	_	_
@@ -4089,14 +4107,14 @@
 17	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Buguk!
 # text[eng] =
 # labels =
 0	Buguk	_	_	_	_	_	_	_	_
 1	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kapilan man é ku méging maimut.
 # text[eng] =
 # labels =
 0	Kapilan	_	_	_	_	_	_	_	_
@@ -4108,7 +4126,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Dápot atí king lugal at ustung parálan ing pámandáké béluan at kabiasnan.
 # text[eng] =
 # labels =
 0	Dápot	_	_	_	_	_	_	_	_
@@ -4126,7 +4144,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É karing mapaniamantalá ampóng mangatamad!
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -4137,7 +4155,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Aliwá pú yáku i Google.
 # text[eng] =
 # labels =
 0	Aliwá	_	_	_	_	_	_	_	_
@@ -4148,7 +4166,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É ku pú software application.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -4159,7 +4177,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Aliwá pú yákung dápat gágawá karing thesis yu ó homework da réng ának yu.
 # text[eng] =
 # labels =
 0	Aliwá	_	_	_	_	_	_	_	_
@@ -4179,7 +4197,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Aliwá ya ing reference king consultant ampóng resource person at lálú na king úpahan a talapangawang thesis ó assignment.
 # text[eng] =
 # labels =
 0	Aliwá	_	_	_	_	_	_	_	_
@@ -4204,7 +4222,7 @@
 19	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É la pú paréwu rén!
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -4215,7 +4233,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Aliwá yá rin pú ing mág-research ampóng mángutang king múmútus at pápagawang thesis ó assignment.
 # text[eng] =
 # labels =
 0	Aliwá	_	_	_	_	_	_	_	_
@@ -4236,7 +4254,7 @@
 15	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É la pú paréwu rén.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -4247,7 +4265,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Iniá é yú pákíbat kanáku ing "mángutang kú mû" ó "pásáwup kú mú pû" nung káku yu nó págawá réng óbrá yu.
 # text[eng] =
 # labels =
 0	Iniá	_	_	_	_	_	_	_	_
@@ -4279,7 +4297,7 @@
 26	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É research yan, nung é pámanaiamantalâ.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -4292,7 +4310,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mabié ku, mángisnáwa ku, dáránup, mimimuá at pápálí mú naman buntuk.
 # text[eng] =
 # labels =
 0	Mabié	_	_	_	_	_	_	_	_
@@ -4312,7 +4330,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É ku prográma ó application ning kékayung cell phone a ápitimidtímid yú mû.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -4331,7 +4349,7 @@
 13	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nung nínu man gágawá karing taladtad a "Ing bata ay danupan" ampóng "i Juan ay mataba ya anak" at légé dó karing textbooks ampóng module da king "Mother Tongue" at tuturú dó karing ának, pakisábi mú pung mayap, misábit kóng gilingan a batu karing bátal yu at saká kayu lundag king Páruâ.l a posts king newsfeed mu, kailángán na taganang mabáting pámû.
 # text[eng] =
 # labels =
 0	Nung	_	_	_	_	_	_	_	_
@@ -4408,7 +4426,7 @@
 71	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pótang Tagálug nó ngan déng lúlual a posts king newsfeed mu, kailángán na taganang mabáting pámû.
 # text[eng] =
 # labels =
 0	Pótang	_	_	_	_	_	_	_	_
@@ -4431,7 +4449,7 @@
 17	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Iniang malatí ku, kasáman kung díli ing bálang sumíngit ya i Marcos king nánu mang álbén mung prográma king tv.
 # text[eng] =
 # labels =
 0	Iniang	_	_	_	_	_	_	_	_
@@ -4458,7 +4476,7 @@
 21	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Alang bitasang warning.
 # text[eng] =
 # labels =
 0	Alang	_	_	_	_	_	_	_	_
@@ -4467,7 +4485,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Prime time pamo.
 # text[eng] =
 # labels =
 0	Prime	_	_	_	_	_	_	_	_
@@ -4476,7 +4494,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Sisiguradduan nang málbé la ngan tv ding táwu pótang sumíngit né.
 # text[eng] =
 # labels =
 0	Sisiguradduan	_	_	_	_	_	_	_	_
@@ -4493,7 +4511,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing masákit, pótang yarí néng kínatak, patí na ing albén mu yárí na.
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -4514,7 +4532,7 @@
 15	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Maibug nakang mamasíbas ampóng mamaldak tv (Maragul la kanta réng tv at atin lang stand.
 # text[eng] =
 # labels =
 0	Maibug	_	_	_	_	_	_	_	_
@@ -4536,7 +4554,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Íká pang manasakit patié pildak mé).
 # text[eng] =
 # labels =
 0	Íká	_	_	_	_	_	_	_	_
@@ -4549,7 +4567,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bálí kaníta mákasnuk né ing alti.
 # text[eng] =
 # labels =
 0	Bálí	_	_	_	_	_	_	_	_
@@ -4561,7 +4579,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Péro iniang pépalakó nó ngan déng álben ming anime kanita, naidána, aliwá na ini.
 # text[eng] =
 # labels =
 0	Péro	_	_	_	_	_	_	_	_
@@ -4583,7 +4601,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mámérsonal né ing anakpúta!
 # text[eng] =
 # labels =
 0	Mámérsonal	_	_	_	_	_	_	_	_
@@ -4593,7 +4611,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Asnákung kamuang kamuá at é la méyárí ring Daimosu, Voltes V, Mazinger Z, Balatak, etc.
 # text[eng] =
 # labels =
 0	Asnákung	_	_	_	_	_	_	_	_
@@ -4618,7 +4636,7 @@
 19	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Úling pépalakó nó ngan!
 # text[eng] =
 # labels =
 0	Úling	_	_	_	_	_	_	_	_
@@ -4628,7 +4646,7 @@
 4	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaníta ku né minúnang ákasáman tagana ing gubiérnu.
 # text[eng] =
 # labels =
 0	Kaníta	_	_	_	_	_	_	_	_
@@ -4642,7 +4660,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Alá néng aliwang géwá ing animal nung é ing ilakó nó túlâ réng táwu.
 # text[eng] =
 # labels =
 0	Alá	_	_	_	_	_	_	_	_
@@ -4662,7 +4680,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ini yang ténam ku king ísip ku.
 # text[eng] =
 # labels =
 0	Ini	_	_	_	_	_	_	_	_
@@ -4675,7 +4693,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Grade 5 ku pámú yátá kaníta.
 # text[eng] =
 # labels =
 0	Grade	_	_	_	_	_	_	_	_
@@ -4687,7 +4705,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = 11 ku sigúru.
 # text[eng] =
 # labels =
 0	11	_	_	_	_	_	_	_	_
@@ -4696,7 +4714,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Maralas kung mág-drawing a lulusúban mi ya at lalasakan ing Malacañang at pipirítu mi ya i Marcos.
 # text[eng] =
 # labels =
 0	Maralas	_	_	_	_	_	_	_	_
@@ -4719,7 +4737,7 @@
 17	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Boazanian ku kaníta.
 # text[eng] =
 # labels =
 0	Boazanian	_	_	_	_	_	_	_	_
@@ -4728,7 +4746,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ménibat king ibat Boazanian ku.
 # text[eng] =
 # labels =
 0	Ménibat	_	_	_	_	_	_	_	_
@@ -4739,7 +4757,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Yáku i Zardos (Heinel).
 # text[eng] =
 # labels =
 0	Yáku	_	_	_	_	_	_	_	_
@@ -4751,7 +4769,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kasáman ké i Voltes V ampó réng kaklási kung magsása-Voltes team.
 # text[eng] =
 # labels =
 0	Kasáman	_	_	_	_	_	_	_	_
@@ -4768,7 +4786,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = 5 la yátá king klási mi Steve (Go Kenichi) la ngan déng nakpúta.
 # text[eng] =
 # labels =
 0	5	_	_	_	_	_	_	_	_
@@ -4789,7 +4807,7 @@
 15	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ustú yá mú ing gagáwan da ring Boazanian a lalasakan dé ing yátu!
 # text[eng] =
 # labels =
 0	Ustú	_	_	_	_	_	_	_	_
@@ -4808,7 +4826,7 @@
 13	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Yáku lasakan ké ing Pilipínas at saká ké durúgan ing Malacañang kaibat damputan dé réng beast fighter ku i Marcos at saká ré panadtaran latílatí báyú ré dulukan.
 # text[eng] =
 # labels =
 0	Yáku	_	_	_	_	_	_	_	_
@@ -4842,7 +4860,7 @@
 28	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mísan átupan kó réng kilála kung mág-rally a bábálak matudtud king dálan at igkat dáku ságuling tumambay.
 # text[eng] =
 # labels =
 0	Mísan	_	_	_	_	_	_	_	_
@@ -4865,7 +4883,7 @@
 17	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Óita míras king mípag-testimónia nung makanánu réng ákasáman ing gubiérnu at nung bákit mág-rally la ngéni.
 # text[eng] =
 # labels =
 0	Óita	_	_	_	_	_	_	_	_
@@ -4887,7 +4905,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Inistóriá ké karéla ini.
 # text[eng] =
 # labels =
 0	Inistóriá	_	_	_	_	_	_	_	_
@@ -4897,7 +4915,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Máili la.
 # text[eng] =
 # labels =
 0	Máili	_	_	_	_	_	_	_	_
@@ -4905,7 +4923,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Balá ra mumuritan ku la.
 # text[eng] =
 # labels =
 0	Balá	_	_	_	_	_	_	_	_
@@ -4916,7 +4934,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mékikailí nákú mû.
 # text[eng] =
 # labels =
 0	Mékikailí	_	_	_	_	_	_	_	_
@@ -4925,14 +4943,14 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tanaidára.
 # text[eng] =
 # labels =
 0	Tanaidára	_	_	_	_	_	_	_	_
 1	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Tutú naman é. Kailángan pá wáring atin yang patén kékami ing gubiérnu báyu mé ákasáman?
 # text[eng] =
 # labels =
 0	Tutú	_	_	_	_	_	_	_	_
@@ -4953,7 +4971,7 @@
 15	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Sabágé atin ya.
 # text[eng] =
 # labels =
 0	Sabágé	_	_	_	_	_	_	_	_
@@ -4962,7 +4980,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pété náku túlâ ning nakpúta.
 # text[eng] =
 # labels =
 0	Pété	_	_	_	_	_	_	_	_
@@ -4973,7 +4991,9 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = ...é naman báwal ing atin batik (tattoo) king monasteriu... ding mismung monks íla pa pin déng manbabatik (tattoo artists)... áwa, BATIK ya king Kapampángan ing "tattoo" iniá BATIKAN ngára karing experts úling babatik (ta-tattoo) ró kaníta king pagó ra réng achievements da... bináwal da ing kultúra ning pambabatik iniang dintang ya ing Islam...
+
+É ku bálú nung ápansínan yu, dápot ót dakal karéning kékatámung kasanggang gúgúsal, lúlugud at mágmasabal king kékatámung Amánung Sísuan at Ámánang Kabiasnang Kapampángan, maka-abroad la, ó kayâ, ibat la abroad.
 # text[eng] =
 # labels =
 0	...	_	_	_	_	_	_	_	_
@@ -5082,7 +5102,7 @@
 103	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ngárá pin kasi, angga't é mu tikman ing míkawání at míláwut king kékang Indung Tíbuan, é ka mangulílá keya.
 # text[eng] =
 # labels =
 0	Ngárá	_	_	_	_	_	_	_	_
@@ -5109,7 +5129,7 @@
 21	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Póta pámung méngulílá naka, karin mé pámú túné ápilasan ing saddiá mung pibalábalugsé a pánga-Kapampángan.
 # text[eng] =
 # labels =
 0	Póta	_	_	_	_	_	_	_	_
@@ -5131,7 +5151,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Makanian mú rin sigúru ing miliári kanáku iniang mégáral ku Cebu at mégóbrá ku Mindanao, iniang línáwut ku Germany ampóng Japan.
 # text[eng] =
 # labels =
 0	Makanian	_	_	_	_	_	_	_	_
@@ -5159,7 +5179,7 @@
 22	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pótang atí naka aliwang labuad, alá nakang aliwang maging angklâ nung é ing kékang pánga-Kapampángan, kambé na ning babakalan mung kultúra ampóng amánu.
 # text[eng] =
 # labels =
 0	Pótang	_	_	_	_	_	_	_	_
@@ -5190,7 +5210,7 @@
 25	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pótang makaláwut ka kasi, panamdaman mung biglá itang maliári ngan palang lumbug at mabáting ini.
 # text[eng] =
 # labels =
 0	Pótang	_	_	_	_	_	_	_	_
@@ -5212,7 +5232,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Panamdaman mung king pati íka maliári mú namang malúngud at lumbug at at maláwus akmulán na ning Yátu nung kabud milakó ka pánga-táyid king kékang Indung Tíbuan.
 # text[eng] =
 # labels =
 0	Panamdaman	_	_	_	_	_	_	_	_
@@ -5245,7 +5265,7 @@
 27	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Makanian mú rin sigúru ing sangkan nung bákit dakal kékatámu kéti Kapampángan ding ílá pa mismú réng alang masabal at maláwus mákamaté king kékatámung pánga-Kapampángan; Nung bákit bistá man kétí nó míbayit at méragul at Kapampángan lang mingatba réng péngári ra, íla Tagálug nala at más burí ra pang pánagalúgan dó réng kalúpa rang Kapampángan kéti king saríli rang tíbuan a é ra pa bitasang likuan at bétíngan.
 # text[eng] =
 # labels =
 0	Makanian	_	_	_	_	_	_	_	_
@@ -5321,7 +5341,7 @@
 70	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Dápot atin pa mú rin mápilan king panawun ngéni réng ákilála kung bistá man é dé pa bitasang likuan ing karélang Indung Tíbuan, mapálí pa rin at mibabáya ing karélang pánga-Kapampángan.
 # text[eng] =
 # labels =
 0	Dápot	_	_	_	_	_	_	_	_
@@ -5359,7 +5379,7 @@
 32	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bákit mó?
 # text[eng] =
 # labels =
 0	Bákit	_	_	_	_	_	_	_	_
@@ -5367,7 +5387,7 @@
 2	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kasi kanu rugú agyáng é nó lumáwut, pánamdaman da néng ditakdítak mababáting ing karélang Amánu at Kultúra at mitatambúnán nang mitatambúnan ing karélang Indung Tíbuan karéning súkal a mánibat king impiérnung Ménílâ.
 # text[eng] =
 # labels =
 0	Kasi	_	_	_	_	_	_	_	_
@@ -5406,7 +5426,8 @@
 33	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ding kampung nang alagad Dong Suan (Don Juan):
+i Noet Noen, ing matuang pantas a atatandánan na ngan ing mílábas at áwuwúlá na ing bágé a dáratang at é pa miliári.
 # text[eng] =
 # labels =
 0	Ding	_	_	_	_	_	_	_	_
@@ -5447,7 +5468,7 @@
 35	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Úling mapúlá né mata, ing matá ning kayang kaladdua yang pánláwé na at karin nó áyayanínag déng tutú támung pilublúban.
 # text[eng] =
 # labels =
 0	Úling	_	_	_	_	_	_	_	_
@@ -5474,7 +5495,7 @@
 21	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = i Supla Supling, ing pasiuk na yang mágparatang karing ángin, manibat karing banáyad a mangarimlang bagul, manggá na karing mangasikan a bagyú at síguang mámalimpúyut.
 # text[eng] =
 # labels =
 0	i	_	_	_	_	_	_	_	_
@@ -5508,7 +5529,7 @@
 28	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = i Miran Miron, asnéng karagul a siwálâ iniá bálang mánialítá ya sásabéwung ya ing kakéwan at málibungbung ya ing banâ.
 # text[eng] =
 # labels =
 0	i	_	_	_	_	_	_	_	_
@@ -5535,7 +5556,7 @@
 21	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = i Kurang Kuring, asnéng kabilis mamulandit iniá mágpabáyat yang bitis úling nung alí sulparit ya kéti yátu.
 # text[eng] =
 # labels =
 0	i	_	_	_	_	_	_	_	_
@@ -5559,7 +5580,7 @@
 18	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = i Punta Punting, asnéng kasípat iniá agyú nóng túran king keyang páná ó baril agyáng makanánu nó kaláwut ó kalatí king kéyang panimanman.
 # text[eng] =
 # labels =
 0	i	_	_	_	_	_	_	_	_
@@ -5589,7 +5610,7 @@
 24	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = i Kargen Kargon, asnéng túnéng kasikan iniá agyú néng binuat at písánan ing Bunduk Aláya manibat king Candába at saká né bésíbas karin king Aráyat.
 # text[eng] =
 # labels =
 0	i	_	_	_	_	_	_	_	_
@@ -5621,14 +5642,14 @@
 26	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = BILAS.
 # text[eng] =
 # labels =
 0	BILAS	_	_	_	_	_	_	_	_
 1	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nánu ya ing BILAS?
 # text[eng] =
 # labels =
 0	Nánu	_	_	_	_	_	_	_	_
@@ -5638,7 +5659,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nánu né ning BAYÓ?
 # text[eng] =
 # labels =
 0	Nánu	_	_	_	_	_	_	_	_
@@ -5648,7 +5669,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Úling alá kung asáwa, manggá man ngéni magugulú ku king kabaldúgan na ning BILAS.
 # text[eng] =
 # labels =
 0	Úling	_	_	_	_	_	_	_	_
@@ -5669,7 +5690,26 @@
 15	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = "Kamulangan 
+ing pikásáman mó ngan ding rósas
+úlí námú ning mésuksuk ka king métung,
+itang isúkú mu nó ngan ding kékang tagimpan
+úlíng é ya mípaltutuan itang métung,
+itang é naka bitasang bísang sumúbuk pa
+úling mébigú kang mísan,
+itang paniumpá mu nó ngan ding kékang kakálugúran
+úling pigtaksilán naká mú ning métung,
+itang é naka bísang malsintá pa,
+úling é ya méging tapat ining pélsintan mu
+ó é naka bitasang pélsintan mú naman,
+itang ikabat mu né ing pasbul king pámikatágung tumúlá ka,
+úling mépalpak kang mísan,
+Atin mung atin dáratang a pámikatágun,
+Kakálugúran,
+Sintâ,
+Báyung síkanan,
+Úling kaibat ning mapúpus,
+Bumílug né nanaman pasibáyu ing búlan.
 # text[eng] =
 # labels =
 0	``	_	_	_	_	_	_	_	_
@@ -5797,7 +5837,10 @@
 122	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = At óiti ing kanákung líyim,
+Malaguá yá mung líyim,
+King kapamílatán námú ning kékatámung pilublúban,
+Karin támu túnéng mánákit.
 # text[eng] =
 # labels =
 0	At	_	_	_	_	_	_	_	_
@@ -5825,7 +5868,8 @@
 22	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Déning túné maulaga, 
+É nó ákákit ning mata."
 # text[eng] =
 # labels =
 0	Déning	_	_	_	_	_	_	_	_
@@ -5841,7 +5885,7 @@
 10	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Naidána pénaláská né rugú i #AtchingBaby!!!
 # text[eng] =
 # labels =
 0	Naidána	_	_	_	_	_	_	_	_
@@ -5856,7 +5900,7 @@
 9	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Hahaha!!!
 # text[eng] =
 # labels =
 0	Hahaha	_	_	_	_	_	_	_	_
@@ -5865,7 +5909,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Péró ing é kú mú burí yápin itang inúna né ing sibúyas kéning báwang!!!
 # text[eng] =
 # labels =
 0	Péró	_	_	_	_	_	_	_	_
@@ -5887,7 +5931,7 @@
 16	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É makanian Jo!!!
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -5898,7 +5942,7 @@
 5	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kapampángan támu.
 # text[eng] =
 # labels =
 0	Kapampángan	_	_	_	_	_	_	_	_
@@ -5906,7 +5950,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Múná ya ing báwang king sibúyas!!!
 # text[eng] =
 # labels =
 0	Múná	_	_	_	_	_	_	_	_
@@ -5920,7 +5964,7 @@
 8	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaibat ing KASÁMAN kung díli itang dinínán néng mayúmu!!!
 # text[eng] =
 # labels =
 0	Kaibat	_	_	_	_	_	_	_	_
@@ -5937,7 +5981,7 @@
 11	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nakpútá Kapampángan támu.
 # text[eng] =
 # labels =
 0	Nakpútá	_	_	_	_	_	_	_	_
@@ -5946,7 +5990,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É té págtakpan ing niámán ning lútú támu king Mayúmu.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -5962,7 +6006,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Óbrang Tagálug ita úling agyáng nánung gáwan da é dé túran iniá ibukáyú ra némú réng alti!!!
 # text[eng] =
 # labels =
 0	Óbrang	_	_	_	_	_	_	_	_
@@ -5987,7 +6031,7 @@
 19	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Péro mig-enjoy ku.
 # text[eng] =
 # labels =
 0	Péro	_	_	_	_	_	_	_	_
@@ -5996,7 +6040,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mákatúlá ya.
 # text[eng] =
 # labels =
 0	Mákatúlá	_	_	_	_	_	_	_	_
@@ -6004,7 +6048,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Maliári mú naman palang ibulanglang / isigang king biábas ing tuyû!!!
 # text[eng] =
 # labels =
 0	Maliári	_	_	_	_	_	_	_	_
@@ -6023,7 +6067,7 @@
 13	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mapálí ya ing kuártu.
 # text[eng] =
 # labels =
 0	Mapálí	_	_	_	_	_	_	_	_
@@ -6033,7 +6077,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mapálí ya ing pader.
 # text[eng] =
 # labels =
 0	Mapálí	_	_	_	_	_	_	_	_
@@ -6043,7 +6087,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mapálí ya ing káma.
 # text[eng] =
 # labels =
 0	Mapálí	_	_	_	_	_	_	_	_
@@ -6053,7 +6097,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mapálí ing lúlual ángin king ventilador.
 # text[eng] =
 # labels =
 0	Mapálí	_	_	_	_	_	_	_	_
@@ -6065,7 +6109,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Niáman king impiérnó né?
 # text[eng] =
 # labels =
 0	Niáman	_	_	_	_	_	_	_	_
@@ -6075,7 +6119,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Réng mulálang tagátagálug "pára" yá mú ing bálú ra.
 # text[eng] =
 # labels =
 0	Réng	_	_	_	_	_	_	_	_
@@ -6092,7 +6136,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Reng saligósó naman kabud lá mú tútuktuk king bábó ó kayá pílit déng pasuitan balámó ásu ing mágmanéwu.
 # text[eng] =
 # labels =
 0	Reng	_	_	_	_	_	_	_	_
@@ -6116,7 +6160,7 @@
 18	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ósimáp íkatámung méragul pang Kapampángan gagamítan té pa ing magálang at manénéng "Kén námú pung lélé!"
 # text[eng] =
 # labels =
 0	Ósimáp	_	_	_	_	_	_	_	_
@@ -6140,7 +6184,7 @@
 18	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kapilan pámú atin mig-post anti karéni at saká ké dináké.
 # text[eng] =
 # labels =
 0	Kapilan	_	_	_	_	_	_	_	_
@@ -6156,7 +6200,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Baláku sá angganganggá ku nó mung panagimpan úling é ró gagáwan kéti.
 # text[eng] =
 # labels =
 0	Baláku	_	_	_	_	_	_	_	_
@@ -6174,7 +6218,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kabirabira, bildúgan dákung anti karéni ibat Banua!!!
 # text[eng] =
 # labels =
 0	Kabirabira	_	_	_	_	_	_	_	_
@@ -6190,7 +6234,7 @@
 10	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Magagawá lá mú naman pala kéti king Ángeles!!!
 # text[eng] =
 # labels =
 0	Magagawá	_	_	_	_	_	_	_	_
@@ -6206,7 +6250,7 @@
 10	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = MANIÁMAN la pung MANIÁMAN!!!
 # text[eng] =
 # labels =
 0	MANIÁMAN	_	_	_	_	_	_	_	_
@@ -6218,7 +6262,7 @@
 6	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bálang kínis antí ka móng súsulápó Banua!!!
 # text[eng] =
 # labels =
 0	Bálang	_	_	_	_	_	_	_	_
@@ -6233,7 +6277,7 @@
 9	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Túné yang Ángel ing mékáísip gáwá karéti!!!
 # text[eng] =
 # labels =
 0	Túné	_	_	_	_	_	_	_	_
@@ -6248,7 +6292,7 @@
 9	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Dakal pung salámat karéning séimáda ning CAFE HOLA!!!
 # text[eng] =
 # labels =
 0	Dakal	_	_	_	_	_	_	_	_
@@ -6264,7 +6308,7 @@
 10	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing anak a mapangutang, é ya dágul mangmang.
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -6279,7 +6323,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Báwal kanu ing mányiklód karéng tégáwan ngéning Pásku ngána ning DOH.
 # text[eng] =
 # labels =
 0	Báwal	_	_	_	_	_	_	_	_
@@ -6296,7 +6340,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Masúkul kayu.
 # text[eng] =
 # labels =
 0	Masúkul	_	_	_	_	_	_	_	_
@@ -6304,7 +6348,7 @@
 2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ablas ning Indung Tíbuan.
 # text[eng] =
 # labels =
 0	Ablas	_	_	_	_	_	_	_	_
@@ -6314,7 +6358,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Óyan ing epéktu na ning pámangútud da réng mangáragul a Pun king MacArthur Highway.
 # text[eng] =
 # labels =
 0	Óyan	_	_	_	_	_	_	_	_
@@ -6334,7 +6378,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mépálî na patié Kaléldo, títas pa ing danum bálang Káuran.
 # text[eng] =
 # labels =
 0	Mépálî	_	_	_	_	_	_	_	_
@@ -6351,7 +6395,7 @@
 11	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kailángan lang ibálik ding Pun at samásan ding palígî.
 # text[eng] =
 # labels =
 0	Kailángan	_	_	_	_	_	_	_	_
@@ -6366,7 +6410,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Kaluat ku néng é daramdaman iné!!!
 # text[eng] =
 # labels =
 0	Kaluat	_	_	_	_	_	_	_	_
@@ -6380,7 +6424,7 @@
 8	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pitdá ra ngan kasing biglâ ing sablâ.
 # text[eng] =
 # labels =
 0	Pitdá	_	_	_	_	_	_	_	_
@@ -6393,7 +6437,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Luíd kayung pasibáyu Shane Lumanog & Arum!!!
 # text[eng] =
 # labels =
 0	Luíd	_	_	_	_	_	_	_	_
@@ -6408,7 +6452,7 @@
 9	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Biáyan táng pasibáyu ing lugud king Amánu at Ámána táng kabiasnang Kapampángan!!!
 # text[eng] =
 # labels =
 0	Biáyan	_	_	_	_	_	_	_	_
@@ -6428,7 +6472,7 @@
 14	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Lugud mú ing bié!!!
 # text[eng] =
 # labels =
 0	Lugud	_	_	_	_	_	_	_	_
@@ -6440,7 +6484,7 @@
 6	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ót limbug lá pin déng dikut a MALÁMARÍNÉ (Mimosa pudica) né?
 # text[eng] =
 # labels =
 0	Ót	_	_	_	_	_	_	_	_
@@ -6459,7 +6503,7 @@
 13	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É náku mánákit tútúbú karéng múla manibat iniang méngatambúnan ya ing labuad támu king abu ning bunduk Pinatúbû.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -6483,7 +6527,7 @@
 18	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = King anti mú rin méngaltó lang alang patúgut ding táwung lamaran at alang maríné, lálú na karéng pulítiku ampóng mánungkúlan.
 # text[eng] =
 # labels =
 0	King	_	_	_	_	_	_	_	_
@@ -6510,7 +6554,7 @@
 21	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Nung ménakit kayung dikut a Malámarine, é yé pú sana papatén.
 # text[eng] =
 # labels =
 0	Nung	_	_	_	_	_	_	_	_
@@ -6528,7 +6572,7 @@
 12	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Parakalan tala úling  atin la pa ring paganakâ at liksiun a átúru kekatamu at karing ának támu.
 # text[eng] =
 # labels =
 0	Parakalan	_	_	_	_	_	_	_	_
@@ -6551,7 +6595,7 @@
 17	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Iniá sigúrú mérakal nó réng alang maríné ngéni kasi é ra né bálú ing salitang MÁKARÍNÉ.
 # text[eng] =
 # labels =
 0	Iniá	_	_	_	_	_	_	_	_
@@ -6573,7 +6617,7 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ing bálú ra námú ing "máka-iyâ."
 # text[eng] =
 # labels =
 0	Ing	_	_	_	_	_	_	_	_
@@ -6587,7 +6631,7 @@
 8	''	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Mulat ya ing Dílang Kapampángan.
 # text[eng] =
 # labels =
 0	Mulat	_	_	_	_	_	_	_	_
@@ -6598,7 +6642,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Iti yang sangkan nung bákit masélan tá panlása at é ra akuang túran ing lútû támu.
 # text[eng] =
 # labels =
 0	Iti	_	_	_	_	_	_	_	_
@@ -6620,7 +6664,9 @@
 16	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = patié ménákit kang weirdo a libadlíbad king arap yung balé a makaláwe king cellphone na, é mé babarilan... kéraklan mándakap yang Pokemon...
+...dána limá né ping banua ing digpán ning alting Pokemon Go...
+Nínung atin pámisaling kuhli loach kén?
 # text[eng] =
 # labels =
 0	patié	_	_	_	_	_	_	_	_
@@ -6670,7 +6716,7 @@
 44	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Pati námú rin glass catfish nung atin.
 # text[eng] =
 # labels =
 0	Pati	_	_	_	_	_	_	_	_
@@ -6683,7 +6729,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Ati yu pa itang comment kung ati kayung ának?
 # text[eng] =
 # labels =
 0	Ati	_	_	_	_	_	_	_	_
@@ -6698,7 +6744,7 @@
 9	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Karin ku mé-block!
 # text[eng] =
 # labels =
 0	Karin	_	_	_	_	_	_	_	_
@@ -6707,7 +6753,7 @@
 3	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É dé bíra?
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -6716,7 +6762,7 @@
 3	?	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = É ku bálú nung ati yu pa itang comment kung dakal lang táung maka-tag.
 # text[eng] =
 # labels =
 0	É	_	_	_	_	_	_	_	_
@@ -6736,7 +6782,7 @@
 14	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = Bálú ku mé-block yang biglâ.Ing péka maniáman díling pakiramdam yápin itang makápanagkas kang alang patlud king saríli mung Amánung Sísuan!!
 # text[eng] =
 # labels =
 0	Bálú	_	_	_	_	_	_	_	_
@@ -6763,7 +6809,7 @@
 21	!	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:
-# text =
+# text = !
 # text[eng] =
 # labels =
 0	!	_	_	_	_	_	_	_	_

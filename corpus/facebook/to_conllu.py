@@ -4,7 +4,7 @@ g = open("facebook.conllu", 'a')
 raw = f.read().strip()
 sents = sent_tokenize(raw)
 for sent in sents:
-   g.write('# sent_id = facebook:\n# text =\n# text[eng] =\n# labels =\n')
+   g.write('# sent_id = facebook:\n# text = {}\n# text[eng] =\n# labels =\n'.format(sent))
    lines = []
    for i in range(len(word_tokenize(sent))):
      number = str(i)
