@@ -492,4 +492,88 @@
 6	pépe	_	PROPN	_	_	1	nsubj	_	_
 7	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = grammar:44
+# text = Ikuá meng danúm i tátang.
+# text[eng] = Get some water for Father.
+# labels = forman:71:38
+1	Ikuá	_	VERB	_	_	0	root	_	_
+2-4	meng	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	danúm	_	NOUN	_	_	1	obj	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	tátang	_	NOUN	_	_	1	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
+# sent_id = grammar:45
+# text = Pénget neng óli i jád.
+# text[eng] = Holy gave Judd a bite (of something).
+# labels = forman:71:38
+1	Pénget	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	ADP	_	_	5	case	_	_
+5	óli	_	PROPN	_	_	1	obj:agent	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	jád	_	PROPN	_	_	1	nsubj:pass	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:46
+# text = Salikútan me ing klásit.
+# text[eng] = Hide yourself in the closet.
+# labels = forman:71:38
+1	Salikútan	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	klásit	_	NOUN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:47
+# text = Neng mísan áiistóriya da ka kareng kakláse ku ing íkayú, maganaká kayú.
+# text[eng] = Sometimes I have occasion to tell my classmates that you were good people.
+# labels = forman:71:38 , check neng misan - not clear what neng is doing
+1	Neng	_	ADP	_	_	2	case	_	_
+2	mísan	_	NOUN	_	_	3	obl	_	_
+3	áiistóriya	_	VERB	_	_	0	root	_	_
+4	da	_	PRON	_	_	3	dep	_	_
+5	ka	_	PRON	_	_	3	dep	_	_
+6	kareng	_	ADP	_	_	7	case	_	_
+7	kakláse	_	NOUN	_	_	3	obl	_	_
+8	ku	_	PRON	_	_	7	nmod:poss	_	_
+9	ing	_	ADP	_	_	12	case	_	_
+10	íkayú	_	PRON	_	_	12	dislocated	_	_
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	maganaká	_	VERB	_	_	3	nsubj	_	_
+13	kayú	_	PRON	_	_	12	dep	_	_
+14	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = grammar:48
+# text = Ákalingwán nátaq ing é mu wári báluq.
+# text[eng] = Maybe he has now forgotten that you probably don’t know.
+# labels = forman:71:39 , check promotion by head elision
+1	Ákalingwán	_	VERB	_	_	0	root	_	_
+2-3	nátaq	_	_	_	_	_	_	_	_
+2	ná	_	PRON	_	_	1	dep	_	_
+3	taq	_	PART	_	_	1	discourse	_	_
+4	ing	_	ADP	_	_	8	case	_	_
+5	é	_	ADV	_	_	8	advmod	_	_
+6	mu	_	PRON	_	_	8	dep	_	_
+7	wári	_	PART	_	_	8	discourse	_	_
+8	báluq	_	VERB	_	_	1	nsubj	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:49
+# text = Íka ing táung labuád?
+# text[eng] = Are you the supernatural being?
+# labels = forman:71:40
+1	Íka	_	PRON	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3-4	táung	_	_	_	_	_	_	_	_
+3	táu	_	NOUN	_	_	1	nsubj	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	labuád	_	ADJ	_	_	3	amod	_	_
+6	?	_	PUNCT	_	_	1	punct	_	_
