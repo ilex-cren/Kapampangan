@@ -346,71 +346,208 @@ Anám na ké bánwa miasáwa.
  Púpulaí lang meník di Pás at Tés.
  ‘Tes, Paz and companions ran going up/went up running.’ (50)
  
-Pasáup kang magdalá keng séli mu. ‘Have (someone) help you carry what you bought.’ (50)
-Subuknán teng pagqanán ing tibí. ‘Let’s try to turn the TV on.’ (50)
-Áturú mu lang manyalítang kapampángan?. ‘Could you teach them to speak Kapampangan?’ (50)
-Dudurót katá qútak. ‘We are confused [lit. whirling we (with respect to our) brains].’ (51)
-Pakasalbág la buák. ‘They have their hair hanging loose.’ (51)
- Makúnyat la balát. ‘They are thick-skinned.’ (51) 
-Mapáli ya buntúk. ‘He is hot-headed.’ (51)
-Mépákúya buldít. ‘He got the seat of his pants caught on a nail.’ (51)
-Mesúgat ka buntúk. ‘You were wounded in the head.’ (51)
- Míras ya bánua. ‘He will reach the sky/heaven.’ (51)
-Digsú nya meté. ‘He was close to death. (51) 
-Migísing lang maránun. ‘They woke up early.’ (51)
- Masalusú yang mulaí. ‘He runs swiftly.’ (51)
-Mabilís lang magsalítaq. ‘They talk rapidly.’ (51)
-Qagadqagád yang minúkyat. ‘He climbed straightaway.’ (51)
- Áintíndian nong talagá. ‘They really understand (it).’ (51)
- Balíkar dong pasibáyu deng ténam da. ‘They went back again to the ones they planted.’ (51)
-É me ipusít makanyán. ‘Don’t squeeze it like that. (51)
-Maglákad lang makanyán. ‘They walk like that.’ (51)
-Lálabít kang lálabít. ‘You really do blabber.’ (52)
- mangán nang mangán. ‘eat and eat/stuff oneself’. (52)
-paintún neng paintún. ‘search and search for something’. (52)
-Nánánu ka?. ‘What are you doing?’. (52)
- Nínánu ka?. ‘What did you do?.’ (52)
-Menánu ka?. ‘What happened to you?’. (52)
-Makanánu ka?. ‘How are you? How (will) you (do it)? (52)
-’Mintáka? ‘Did you go?’ (52)
- Alí ku. ‘No, I didn’t (go).’ (52)
-Éku mintá. ‘I didn’t go.’ (52)
-Makó ná ku. ‘I’m going to leave now. (53)
-’É na ku mámakó. ‘I’m not leaving now.’ (53)
-Mangán tá na.  É ka makó. ‘Don’t leave.’ (53)
-Nú ka muntá? ‘Where are you going (to go)?’ (53)
-É na ka magbálik? ‘Aren’t you going to come back?’ (53)
-Anté i Tátang? ‘Where is Father?’ (54)
-Atí ne i Imáq. ‘Mother is here now.’ (54)
-Atí na yú? ‘Is she/he here now?’ (54)
-Atí yu ngéni king múla. ‘She/he’s here now in the yard.’ (54)
- Alá yu. ‘She/he’s not here.’ (54)
-Atín yang baróng tagálog. ‘He has a barong Tagalog.’ (54)
- Alá ya pang sapátus. ‘He doesn’t have shoes yet.’ (54)
- I Jún, alá ya pang asáwa. ‘As for Jun(ior), he has no wife yet.’ (54)
- Atín la pung sirá ring ópu. ‘The opu plants have some damage (d parts), sir.’ (54)
-Alá kamí. ‘We have none.’ (54)
-Mikaqápat ta paláng pésus. ‘To our surprise we have four pesos.(54)
-Métung man aláng makipányu. ‘None of them has a handkerchief.’ (55) 
-Dakál ya bié i Juán. ‘Juan has many lives.’ (i.e., There are many stories about the life of Juan.) (55)
-Kang Kármén ing maníka. ‘The doll is Carmen’s/is with Carmen.’ (55)
-Ing kang Kármén ing maníka. ‘The doll is the one Carmen has. (55)
-’Kutséru ya i Mandóng. ‘Mandong is a rig-driver. (55)
-’Kusinéra ya i Ríta. ‘Rita is a cook/kitchen manager/runs a restaurant.’ (56)
- Ing kapitán (ya) i Paskwál. ‘Pascual is the (barrio) captain.’ (56)
- Detang aliwá reng dáráyaq. ‘The ones bleeding were those others.’ (56)
-Íka i Maríang Sinukuán?. ‘Are you Maria Sinukuan?’ (56)
-Alí ku. ‘I am not.’ (56)
-É ku Maríang Sinukuán. ‘I’m not Maria Sinukuan.’ (56) 
-Aliwayáku i Maríang Sinukuán. ‘I’m not Maria Sinukuan—Someone other than me is Maria Sinukuan.’ (56)
- Áku i Maríang Makíling. ‘I am Maria Makiling.’ (56)
-Yámu itá. ‘That one is him.’ (56)
-Nínu naman déni? ‘And who are these?’ (56)
-Áku námu ing aláng árakáp a tugák. ‘I’m the only one who wasn’t able to catch a frog.’ (56)
-I(n)sánu ing kéka? ‘Which one is yours?’ (56)
-Nánu la rétang makabálut papél? ‘What are those things wrapped in paper?’ (56)
-Ságin la? ‘Are they bananas?’ (56)
- Alí la. ‘No, they’re not.’ (56)
- É la asán dén. ‘Those are not fish.’ (56)
- É ya tugák ing king súput. ‘The thing in the sack is not a frog. (56)
-’Obát pu lálákad la ring balé ampon tanáman?.
+Pasáup kang magdalá keng séli mu. 
+‘Have (someone) help you carry what you bought.’ (50)
+
+Subuknán teng pagqanán ing tibí. 
+‘Let’s try to turn the TV on.’ (50)
+
+Áturú mu lang manyalítang kapampángan?. 
+‘Could you teach them to speak Kapampangan?’ (50)
+
+Dudurót katá qútak. 
+‘We are confused [lit. whirling we (with respect to our) brains].’ (51)
+
+Pakasalbág la buák. 
+‘They have their hair hanging loose.’ (51)
+
+ Makúnyat la balát. 
+ ‘They are thick-skinned.’ (51) 
+ 
+Mapáli ya buntúk.
+‘He is hot-headed.’ (51)
+
+Mépákúya buldít. 
+‘He got the seat of his pants caught on a nail.’ (51)
+
+Mesúgat ka buntúk.
+‘You were wounded in the head.’ (51)
+
+ Míras ya bánua. 
+ ‘He will reach the sky/heaven.’ (51)
+ 
+Digsú nya meté.
+‘He was close to death. (51) 
+
+Migísing lang maránun. 
+‘They woke up early.’ (51)
+
+ Masalusú yang mulaí. 
+ ‘He runs swiftly.’ (51)
+ 
+Mabilís lang magsalítaq.
+‘They talk rapidly.’ (51)
+
+Qagadqagád yang minúkyat. 
+‘He climbed straightaway.’ (51)
+
+ Áintíndian nong talagá.
+ ‘They really understand (it).’ (51)
+ 
+ Balíkar dong pasibáyu deng ténam da. 
+ ‘They went back again to the ones they planted.’ (51)
+ 
+É me ipusít makanyán. 
+‘Don’t squeeze it like that. (51
+)
+Maglákad lang makanyán.
+‘They walk like that.’ (51)
+
+Lálabít kang lálabít. 
+‘You really do blabber.’ (52)
+
+ mangán nang mangán.
+ ‘eat and eat/stuff oneself’. (52)
+ 
+paintún neng paintún. 
+‘search and search for something’. (52)
+
+Nánánu ka?. 
+‘What are you doing?’. (52)
+
+ Nínánu ka?. 
+ ‘What did you do?.’ (52)
+ 
+Menánu ka?. 
+‘What happened to you?’. (52)
+
+Makanánu ka?. 
+‘How are you? How (will) you (do it)? (52)
+
+’Mintáka? 
+‘Did you go?’ (52)
+
+ Alí ku.
+ ‘No, I didn’t (go).’ (52)
+ 
+Éku mintá. 
+‘I didn’t go.’ (52)
+
+Makó ná ku. 
+‘I’m going to leave now. (53)
+
+’É na ku mámakó.
+‘I’m not leaving now.’ (53)
+
+Mangán tá na.  É ka makó.
+‘Don’t leave.’ (53)
+
+Nú ka muntá? 
+‘Where are you going (to go)?’ (53)
+
+É na ka magbálik?
+‘Aren’t you going to come back?’ (53)
+
+Anté i Tátang?
+‘Where is Father?’ (54)
+
+Atí ne i Imáq. 
+‘Mother is here now.’ (54)
+
+Atí na yú? 
+‘Is she/he here now?’ (54)
+
+Atí yu ngéni king múla.
+‘She/he’s here now in the yard.’ (54)
+
+ Alá yu.
+ ‘She/he’s not here.’ (54)
+ 
+Atín yang baróng tagálog. 
+‘He has a barong Tagalog.’ (54)
+
+ Alá ya pang sapátus.
+ ‘He doesn’t have shoes yet.’ (54)
+ 
+ I Jún, alá ya pang asáwa.
+ ‘As for Jun(ior), he has no wife yet.’ (54)
+ 
+ Atín la pung sirá ring ópu. 
+ ‘The opu plants have some damage (d parts), sir.’ (54)
+
+Alá kamí. 
+‘We have none.’ (54)
+
+Mikaqápat ta paláng pésus. 
+‘To our surprise we have four pesos.(54)
+
+Métung man aláng makipányu. 
+‘None of them has a handkerchief.’ (55) 
+
+Dakál ya bié i Juán. 
+‘Juan has many lives.’ (i.e., There are many stories about the life of Juan.) (55)
+
+Kang Kármén ing maníka. 
+‘The doll is Carmen’s/is with Carmen.’ (55)
+
+Ing kang Kármén ing maníka. 
+‘The doll is the one Carmen has. (55)
+
+’Kutséru ya i Mandóng. 
+‘Mandong is a rig-driver. (55)
+
+’Kusinéra ya i Ríta. ‘
+Rita is a cook/kitchen manager/runs a restaurant.’ (56)
+
+ Ing kapitán (ya) i Paskwál. 
+ ‘Pascual is the (barrio) captain.’ (56)
+ 
+ Detang aliwá reng dáráyaq. 
+ ‘The ones bleeding were those others.’ (56)
+ 
+Íka i Maríang Sinukuán?. 
+‘Are you Maria Sinukuan?’ (56)
+
+Alí ku. 
+‘I am not.’ (56)
+
+É ku Maríang Sinukuán. 
+‘I’m not Maria Sinukuan.’ (56) 
+
+Aliwayáku i Maríang Sinukuán. 
+‘I’m not Maria Sinukuan—Someone other than me is Maria Sinukuan.’ (56)
+
+ Áku i Maríang Makíling. 
+ ‘I am Maria Makiling.’ (56)
+ 
+Yámu itá. 
+‘That one is him.’ (56)
+
+Nínu naman déni?
+‘And who are these?’ (56)
+
+Áku námu ing aláng árakáp a tugák. 
+‘I’m the only one who wasn’t able to catch a frog.’ (56)
+
+I(n)sánu ing kéka? 
+‘Which one is yours?’ (56)
+
+Nánu la rétang makabálut papél? 
+‘What are those things wrapped in paper?’ (56)
+
+Ságin la? 
+‘Are they bananas?’ (56)
+
+ Alí la. 
+ ‘No, they’re not.’ (56)
+ 
+ É la asán dén. 
+ ‘Those are not fish.’ (56)
+ 
+ É ya tugák ing king súput. ‘
+ The thing in the sack is not a frog. (56)
+ 
+’Obát pu lálákad la ring balé ampon tanáman?.Aliwá ring balé ampon tanáman ding lálákad. Ing
+lálákad ing sásakén tang trén.
+‘Why are the houses and trees moving, sir? It’s not the houses and trees that are moving (it’s something else). What is moving is the train we are riding.’(57)
+
