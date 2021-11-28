@@ -7,7 +7,7 @@ for sent in sents:
    g.write('# sent_id = facebook:\n# text = {}\n# text[eng] =\n# labels =\n'.format(sent))
    lines = []
    for i in range(len(word_tokenize(sent))):
-     number = str(i)
+     number = str(i+1)
      word = word_tokenize(sent)[i]
      line = number + '\t' + word + 8 * ('\t' + '_')
      lines.append(line)

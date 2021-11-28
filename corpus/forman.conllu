@@ -745,931 +745,919 @@
 # text = Nukarín yu na la kasí kinwá déni? 
 # text[eng] = Because (I want you to tell me again) where did you get those?’ 
 # labels = forman:71:42
-0	Nukarín	_	_	_	_	_	_	_	_
-1	yu	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	la	_	_	_	_	_	_	_	_
-4	kasí	_	_	_	_	_	_	_	_
-5	kinwá	_	_	_	_	_	_	_	_
-6	déni	_	_	_	_	_	_	_	_
-7	?	_	_	_	_	_	_	_	_
+1	Nukarín	_	_	_	_	_	_	_	_
+2	yu	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	la	_	_	_	_	_	_	_	_
+5	kasí	_	_	_	_	_	_	_	_
+6	kinwá	_	_	_	_	_	_	_	_
+7	déni	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Yámuq itá. 
 # text[eng] =  That is the one. 
 # labels = forman:71:44
-0	Yámuq	_	_	_	_	_	_	_	_
-1	itá	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Yámuq	_	_	_	_	_	_	_	_
+2	itá	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nínu naman déni? 
 # text[eng] = Who are these people?’ 
 # labels = forman:71:44
-0	Nínu	_	_	_	_	_	_	_	_
-1	naman	_	_	_	_	_	_	_	_
-2	déni	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
+1	Nínu	_	_	_	_	_	_	_	_
+2	naman	_	_	_	_	_	_	_	_
+3	déni	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Éla asán dén. 
 # text[eng] = Those aren’t fish. 
 # labels = forman:71:44
-0	Éla	_	_	_	_	_	_	_	_
-1	asán	_	_	_	_	_	_	_	_
-2	dén	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Éla	_	_	_	_	_	_	_	_
+2	asán	_	_	_	_	_	_	_	_
+3	dén	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nánu la rétang makabálut papíl? 
 # text[eng] = What are those things wrapped in paper?’ 
 # labels = forman:71:44
-0	Nánu	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	rétang	_	_	_	_	_	_	_	_
-3	makabálut	_	_	_	_	_	_	_	_
-4	papíl	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Nánu	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	rétang	_	_	_	_	_	_	_	_
+4	makabálut	_	_	_	_	_	_	_	_
+5	papíl	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Isábit tála pu king “chrístmas trée” riyán? 
 # text[eng] = Shall we hang those on the Christmas tree, sir?’ 
 # labels = forman:71:44
-0	Isábit	_	_	_	_	_	_	_	_
-1	tála	_	_	_	_	_	_	_	_
-2	pu	_	_	_	_	_	_	_	_
-3	king	_	_	_	_	_	_	_	_
-4	“	_	_	_	_	_	_	_	_
-5	chrístmas	_	_	_	_	_	_	_	_
-6	trée	_	_	_	_	_	_	_	_
-7	”	_	_	_	_	_	_	_	_
-8	riyán	_	_	_	_	_	_	_	_
-9	?	_	_	_	_	_	_	_	_
+1	Isábit	_	_	_	_	_	_	_	_
+2	tála	_	_	_	_	_	_	_	_
+3	pu	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	“	_	_	_	_	_	_	_	_
+6	chrístmas	_	_	_	_	_	_	_	_
+7	trée	_	_	_	_	_	_	_	_
+8	”	_	_	_	_	_	_	_	_
+9	riyán	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Iníng lúbid a iní, mas makába ya késa kéta. 
 # text[eng] =  As for this rope here, it’s longer than that one. 
 # labels = forman:71:44
-0	Iníng	_	_	_	_	_	_	_	_
-1	lúbid	_	_	_	_	_	_	_	_
-2	a	_	_	_	_	_	_	_	_
-3	iní	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	mas	_	_	_	_	_	_	_	_
-6	makába	_	_	_	_	_	_	_	_
-7	ya	_	_	_	_	_	_	_	_
-8	késa	_	_	_	_	_	_	_	_
-9	kéta	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+1	Iníng	_	_	_	_	_	_	_	_
+2	lúbid	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	iní	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	mas	_	_	_	_	_	_	_	_
+7	makába	_	_	_	_	_	_	_	_
+8	ya	_	_	_	_	_	_	_	_
+9	késa	_	_	_	_	_	_	_	_
+10	kéta	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Makanánu kung mulíq kaníni? 
 # text[eng] =  How can I go home like this?’ 
 # labels = forman:71:44
-0	Makanánu	_	_	_	_	_	_	_	_
-1	kung	_	_	_	_	_	_	_	_
-2	mulíq	_	_	_	_	_	_	_	_
-3	kaníni	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Makanánu	_	_	_	_	_	_	_	_
+2	kung	_	_	_	_	_	_	_	_
+3	mulíq	_	_	_	_	_	_	_	_
+4	kaníni	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Ing magdalá kaníti i Pondíng Miránda. 
 # text[eng] = The bearer of this is Ponding Miranda.
 # labels = forman:71:44
-0	Ing	_	_	_	_	_	_	_	_
-1	magdalá	_	_	_	_	_	_	_	_
-2	kaníti	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Pondíng	_	_	_	_	_	_	_	_
-5	Miránda	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Ing	_	_	_	_	_	_	_	_
+2	magdalá	_	_	_	_	_	_	_	_
+3	kaníti	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Pondíng	_	_	_	_	_	_	_	_
+6	Miránda	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Kaníta naman migmúla ing qínge king dálan. 
 # text[eng] =  That’s the same way the noise in the street started. 
 # labels = forman:71:44
-0	Kaníta	_	_	_	_	_	_	_	_
-1	naman	_	_	_	_	_	_	_	_
-2	migmúla	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	qínge	_	_	_	_	_	_	_	_
-5	king	_	_	_	_	_	_	_	_
-6	dálan	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Kaníta	_	_	_	_	_	_	_	_
+2	naman	_	_	_	_	_	_	_	_
+3	migmúla	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	qínge	_	_	_	_	_	_	_	_
+6	king	_	_	_	_	_	_	_	_
+7	dálan	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Makó na ka kanyán? 
 # text[eng] =  Are you leaving now (like that)?’ 
 # labels = forman:71:44
-0	Makó	_	_	_	_	_	_	_	_
-1	na	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	kanyán	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Makó	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	kanyán	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nánu ing dáptan mu karéni?
 # text[eng] = What will you do with these?’ 
 # labels = forman:71:44
-0	Nánu	_	_	_	_	_	_	_	_
-1	ing	_	_	_	_	_	_	_	_
-2	dáptan	_	_	_	_	_	_	_	_
-3	mu	_	_	_	_	_	_	_	_
-4	karéni	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Nánu	_	_	_	_	_	_	_	_
+2	ing	_	_	_	_	_	_	_	_
+3	dáptan	_	_	_	_	_	_	_	_
+4	mu	_	_	_	_	_	_	_	_
+5	karéni	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Magtál kata námuq karéta.
 # text[eng] =  We (two) will just harvest those. 
 # labels = forman:71:44
-0	Magtál	_	_	_	_	_	_	_	_
-1	kata	_	_	_	_	_	_	_	_
-2	námuq	_	_	_	_	_	_	_	_
-3	karéta	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Magtál	_	_	_	_	_	_	_	_
+2	kata	_	_	_	_	_	_	_	_
+3	námuq	_	_	_	_	_	_	_	_
+4	karéta	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Oiní i tátang ku.
 # text[eng] =  This one here (in a photo) is my father. 
 # labels = forman:71:44
-0	Oiní	_	_	_	_	_	_	_	_
-1	i	_	_	_	_	_	_	_	_
-2	tátang	_	_	_	_	_	_	_	_
-3	ku	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Oiní	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	tátang	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Oréni ring maní.
 # text[eng] =  Here are the peanuts. 
 # labels = forman:71:44
-0	Oréni	_	_	_	_	_	_	_	_
-1	ring	_	_	_	_	_	_	_	_
-2	maní	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Oréni	_	_	_	_	_	_	_	_
+2	ring	_	_	_	_	_	_	_	_
+3	maní	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Oréta na ring músikus. 
 # text[eng] =  There are the musicians. 
 # labels = forman:71:45
-0	Oréta	_	_	_	_	_	_	_	_
-1	na	_	_	_	_	_	_	_	_
-2	ring	_	_	_	_	_	_	_	_
-3	músikus	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Oréta	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ring	_	_	_	_	_	_	_	_
+4	músikus	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Oryán na.
 # text[eng] =  There they are now. 
 # labels = forman:71:45
-0	Oryán	_	_	_	_	_	_	_	_
-1	na	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Oryán	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Kéni ta tipúnan ing pibalátan tang maní.
 # text[eng] =  Here is where we (should) throw away our peanut shells. 
 # labels = forman:71:45
-0	Kéni	_	_	_	_	_	_	_	_
-1	ta	_	_	_	_	_	_	_	_
-2	tipúnan	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	pibalátan	_	_	_	_	_	_	_	_
-5	tang	_	_	_	_	_	_	_	_
-6	maní	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Kéni	_	_	_	_	_	_	_	_
+2	ta	_	_	_	_	_	_	_	_
+3	tipúnan	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	pibalátan	_	_	_	_	_	_	_	_
+6	tang	_	_	_	_	_	_	_	_
+7	maní	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nánumang ásaup mu kén, pásalamátan ku. 
 # text[eng] = Whatever help you can give him, I thank you for it. 
 # labels = forman:71:45
-0	Nánumang	_	_	_	_	_	_	_	_
-1	ásaup	_	_	_	_	_	_	_	_
-2	mu	_	_	_	_	_	_	_	_
-3	kén	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	pásalamátan	_	_	_	_	_	_	_	_
-6	ku	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Nánumang	_	_	_	_	_	_	_	_
+2	ásaup	_	_	_	_	_	_	_	_
+3	mu	_	_	_	_	_	_	_	_
+4	kén	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	pásalamátan	_	_	_	_	_	_	_	_
+7	ku	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Qíka, Nóra, maglínis ka kéti balé. 
 # text[eng] = As for you, Nora, clean up here in the house. 
 # labels = forman:71:45
-0	Qíka	_	_	_	_	_	_	_	_
-1	,	_	_	_	_	_	_	_	_
-2	Nóra	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	maglínis	_	_	_	_	_	_	_	_
-5	ka	_	_	_	_	_	_	_	_
-6	kéti	_	_	_	_	_	_	_	_
-7	balé	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Qíka	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	Nóra	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	maglínis	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	kéti	_	_	_	_	_	_	_	_
+8	balé	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Ding aliwá puq, ibát la kéti. 
 # text[eng] = As for the others, sir, they are from here. 
 # labels = forman:71:45
-0	Ding	_	_	_	_	_	_	_	_
-1	aliwá	_	_	_	_	_	_	_	_
-2	puq	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	ibát	_	_	_	_	_	_	_	_
-5	la	_	_	_	_	_	_	_	_
-6	kéti	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Ding	_	_	_	_	_	_	_	_
+2	aliwá	_	_	_	_	_	_	_	_
+3	puq	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ibát	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	kéti	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Muntá kang agád kéta kayá. 
 # text[eng] = You go right away to his/her place. 
 # labels = forman:71:45
-0	Muntá	_	_	_	_	_	_	_	_
-1	kang	_	_	_	_	_	_	_	_
-2	agád	_	_	_	_	_	_	_	_
-3	kéta	_	_	_	_	_	_	_	_
-4	kayá	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Muntá	_	_	_	_	_	_	_	_
+2	kang	_	_	_	_	_	_	_	_
+3	agád	_	_	_	_	_	_	_	_
+4	kéta	_	_	_	_	_	_	_	_
+5	kayá	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Malínis at makasalílung ing karín. 
 # text[eng] = The (place) there is clean and shady. 
 # labels = forman:71:45
-0	Malínis	_	_	_	_	_	_	_	_
-1	at	_	_	_	_	_	_	_	_
-2	makasalílung	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	karín	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Malínis	_	_	_	_	_	_	_	_
+2	at	_	_	_	_	_	_	_	_
+3	makasalílung	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	karín	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Ing sinsíl, para bákal ya o para batú; ing pát, para dútung.
 # text[eng] = The sinsil is a chisel for iron or stone; the pat is a chisel for wood. 
 # labels = forman:71:46
-0	Ing	_	_	_	_	_	_	_	_
-1	sinsíl	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	para	_	_	_	_	_	_	_	_
-4	bákal	_	_	_	_	_	_	_	_
-5	ya	_	_	_	_	_	_	_	_
-6	o	_	_	_	_	_	_	_	_
-7	para	_	_	_	_	_	_	_	_
-8	batú	_	_	_	_	_	_	_	_
-9	;	_	_	_	_	_	_	_	_
-10	ing	_	_	_	_	_	_	_	_
-11	pát	_	_	_	_	_	_	_	_
-12	,	_	_	_	_	_	_	_	_
-13	para	_	_	_	_	_	_	_	_
-14	dútung	_	_	_	_	_	_	_	_
-15	.	_	_	_	_	_	_	_	_
+1	Ing	_	_	_	_	_	_	_	_
+2	sinsíl	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	para	_	_	_	_	_	_	_	_
+5	bákal	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	o	_	_	_	_	_	_	_	_
+8	para	_	_	_	_	_	_	_	_
+9	batú	_	_	_	_	_	_	_	_
+10	;	_	_	_	_	_	_	_	_
+11	ing	_	_	_	_	_	_	_	_
+12	pát	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	para	_	_	_	_	_	_	_	_
+15	dútung	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Sasadyá re ri mis púno at ding ának ing kwártu ra para king daratáng a paskú.
 # text[eng] = Miss Puno and her pupils are preparing their room for the coming Easter. 
 # labels = forman:71:45
-0	Sasadyá	_	_	_	_	_	_	_	_
-1	re	_	_	_	_	_	_	_	_
-2	ri	_	_	_	_	_	_	_	_
-3	mis	_	_	_	_	_	_	_	_
-4	púno	_	_	_	_	_	_	_	_
-5	at	_	_	_	_	_	_	_	_
-6	ding	_	_	_	_	_	_	_	_
-7	ának	_	_	_	_	_	_	_	_
-8	ing	_	_	_	_	_	_	_	_
-9	kwártu	_	_	_	_	_	_	_	_
-10	ra	_	_	_	_	_	_	_	_
-11	para	_	_	_	_	_	_	_	_
-12	king	_	_	_	_	_	_	_	_
-13	daratáng	_	_	_	_	_	_	_	_
-14	a	_	_	_	_	_	_	_	_
-15	paskú	_	_	_	_	_	_	_	_
-16	.	_	_	_	_	_	_	_	_
+1	Sasadyá	_	_	_	_	_	_	_	_
+2	re	_	_	_	_	_	_	_	_
+3	ri	_	_	_	_	_	_	_	_
+4	mis	_	_	_	_	_	_	_	_
+5	púno	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	ding	_	_	_	_	_	_	_	_
+8	ának	_	_	_	_	_	_	_	_
+9	ing	_	_	_	_	_	_	_	_
+10	kwártu	_	_	_	_	_	_	_	_
+11	ra	_	_	_	_	_	_	_	_
+12	para	_	_	_	_	_	_	_	_
+13	king	_	_	_	_	_	_	_	_
+14	daratáng	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	_
+16	paskú	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Enakósaq paburén kapilán man. 
 # text[eng] = May you not be neglected, ever/at any time. 
 # labels = forman:71:46
-0	Enakósaq	_	_	_	_	_	_	_	_
-1	paburén	_	_	_	_	_	_	_	_
-2	kapilán	_	_	_	_	_	_	_	_
-3	man	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Enakósaq	_	_	_	_	_	_	_	_
+2	paburén	_	_	_	_	_	_	_	_
+3	kapilán	_	_	_	_	_	_	_	_
+4	man	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = kéta lálam ning tanáman. 
 # text[eng] = there under the tree. 
 # labels = forman:71:47
-0	kéta	_	_	_	_	_	_	_	_
-1	lálam	_	_	_	_	_	_	_	_
-2	ning	_	_	_	_	_	_	_	_
-3	tanáman	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	kéta	_	_	_	_	_	_	_	_
+2	lálam	_	_	_	_	_	_	_	_
+3	ning	_	_	_	_	_	_	_	_
+4	tanáman	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = deng marakál a táung arén.
 # text[eng] = those many people there. 
 # labels = forman:71:48
-0	deng	_	_	_	_	_	_	_	_
-1	marakál	_	_	_	_	_	_	_	_
-2	a	_	_	_	_	_	_	_	_
-3	táung	_	_	_	_	_	_	_	_
-4	arén	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	deng	_	_	_	_	_	_	_	_
+2	marakál	_	_	_	_	_	_	_	_
+3	a	_	_	_	_	_	_	_	_
+4	táung	_	_	_	_	_	_	_	_
+5	arén	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Anám na ké bánwa miasáwa. 
 # text[eng] = We’ve been married six years now. 
 # labels = forman:71:48
-0	Anám	_	_	_	_	_	_	_	_
-1	na	_	_	_	_	_	_	_	_
-2	ké	_	_	_	_	_	_	_	_
-3	bánwa	_	_	_	_	_	_	_	_
-4	miasáwa	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Anám	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ké	_	_	_	_	_	_	_	_
+4	bánwa	_	_	_	_	_	_	_	_
+5	miasáwa	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = kanítang minúnang panaún a mabié ya pa. 
 # text[eng] =  way back a long time ago when he was still alive. 
 # labels = forman:71:49
-0	kanítang	_	_	_	_	_	_	_	_
-1	minúnang	_	_	_	_	_	_	_	_
-2	panaún	_	_	_	_	_	_	_	_
-3	a	_	_	_	_	_	_	_	_
-4	mabié	_	_	_	_	_	_	_	_
-5	ya	_	_	_	_	_	_	_	_
-6	pa	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	kanítang	_	_	_	_	_	_	_	_
+2	minúnang	_	_	_	_	_	_	_	_
+3	panaún	_	_	_	_	_	_	_	_
+4	a	_	_	_	_	_	_	_	_
+5	mabié	_	_	_	_	_	_	_	_
+6	ya	_	_	_	_	_	_	_	_
+7	pa	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = É ko bísang maniwálaq. 
 # text[eng] = I don’t want to believe (it). 
 # labels = forman:71:50
-0	É	_	_	_	_	_	_	_	_
-1	ko	_	_	_	_	_	_	_	_
-2	bísang	_	_	_	_	_	_	_	_
-3	maniwálaq	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	É	_	_	_	_	_	_	_	_
+2	ko	_	_	_	_	_	_	_	_
+3	bísang	_	_	_	_	_	_	_	_
+4	maniwálaq	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = É ne buríng dínan.
 # text[eng] =  She doesn’t want to give (something). 
 # labels = forman:71:50
-0	É	_	_	_	_	_	_	_	_
-1	ne	_	_	_	_	_	_	_	_
-2	buríng	_	_	_	_	_	_	_	_
-3	dínan	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	É	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	buríng	_	_	_	_	_	_	_	_
+4	dínan	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Púpulaí lang meník di Pás at Tés.
 # text[eng] =  Tes, Paz and companions ran going up/went up running. 
 # labels = forman:71:50
-0	Púpulaí	_	_	_	_	_	_	_	_
-1	lang	_	_	_	_	_	_	_	_
-2	meník	_	_	_	_	_	_	_	_
-3	di	_	_	_	_	_	_	_	_
-4	Pás	_	_	_	_	_	_	_	_
-5	at	_	_	_	_	_	_	_	_
-6	Tés	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Púpulaí	_	_	_	_	_	_	_	_
+2	lang	_	_	_	_	_	_	_	_
+3	meník	_	_	_	_	_	_	_	_
+4	di	_	_	_	_	_	_	_	_
+5	Pás	_	_	_	_	_	_	_	_
+6	at	_	_	_	_	_	_	_	_
+7	Tés	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Pasáup kang magdalá keng séli mu. 
 # text[eng] = Have (someone) help you carry what you bought. 
 # labels = forman:71:50
-0	Pasáup	_	_	_	_	_	_	_	_
-1	kang	_	_	_	_	_	_	_	_
-2	magdalá	_	_	_	_	_	_	_	_
-3	keng	_	_	_	_	_	_	_	_
-4	séli	_	_	_	_	_	_	_	_
-5	mu	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Pasáup	_	_	_	_	_	_	_	_
+2	kang	_	_	_	_	_	_	_	_
+3	magdalá	_	_	_	_	_	_	_	_
+4	keng	_	_	_	_	_	_	_	_
+5	séli	_	_	_	_	_	_	_	_
+6	mu	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Subuknán teng pagqanán ing tibí. 
 # text[eng] = Let’s try to turn the TV on. 
 # labels = forman:71:50
-0	Subuknán	_	_	_	_	_	_	_	_
-1	teng	_	_	_	_	_	_	_	_
-2	pagqanán	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	tibí	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Subuknán	_	_	_	_	_	_	_	_
+2	teng	_	_	_	_	_	_	_	_
+3	pagqanán	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	tibí	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Áturú mu lang manyalítang kapampángan?. 
 # text[eng] = Could you teach them to speak Kapampangan?’ 
 # labels = forman:71:50
-0	Áturú	_	_	_	_	_	_	_	_
-1	mu	_	_	_	_	_	_	_	_
-2	lang	_	_	_	_	_	_	_	_
-3	manyalítang	_	_	_	_	_	_	_	_
-4	kapampángan	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Áturú	_	_	_	_	_	_	_	_
+2	mu	_	_	_	_	_	_	_	_
+3	lang	_	_	_	_	_	_	_	_
+4	manyalítang	_	_	_	_	_	_	_	_
+5	kapampángan	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Dudurót katá qútak. 
 # text[eng] = We are confused [lit. whirling we (with respect to our) brains]. 
 # labels = forman:71:51
-0	Dudurót	_	_	_	_	_	_	_	_
-1	katá	_	_	_	_	_	_	_	_
-2	qútak	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Dudurót	_	_	_	_	_	_	_	_
+2	katá	_	_	_	_	_	_	_	_
+3	qútak	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Pakasalbág la buák. 
 # text[eng] = They have their hair hanging loose. 
 # labels = forman:71:51
-0	Pakasalbág	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	buák	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Pakasalbág	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	buák	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Makúnyat la balát. 
 # text[eng] =  They are thick-skinned. 
 # labels = forman:71:51
-0	Makúnyat	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	balát	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Makúnyat	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	balát	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Mapáli ya buntúk.
 # text[eng] = He is hot-headed. 
 # labels = forman:71:51
-0	Mapáli	_	_	_	_	_	_	_	_
-1	ya	_	_	_	_	_	_	_	_
-2	buntúk	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Mapáli	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	buntúk	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Mépákúya buldít. 
 # text[eng] = He got the seat of his pants caught on a nail. 
 # labels = forman:71:51
-0	Mépákúya	_	_	_	_	_	_	_	_
-1	buldít	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Mépákúya	_	_	_	_	_	_	_	_
+2	buldít	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Mesúgat ka buntúk.
 # text[eng] = You were wounded in the head. 
 # labels = forman:71:51
-0	Mesúgat	_	_	_	_	_	_	_	_
-1	ka	_	_	_	_	_	_	_	_
-2	buntúk	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Mesúgat	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	buntúk	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Míras ya bánua. 
 # text[eng] =  He will reach the sky/heaven. 
 # labels = forman:71:51
-0	Míras	_	_	_	_	_	_	_	_
-1	ya	_	_	_	_	_	_	_	_
-2	bánua	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Míras	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	bánua	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Digsú nya meté.
 # text[eng] = He was close to death. 
 # labels = forman:71:51
-0	Digsú	_	_	_	_	_	_	_	_
-1	nya	_	_	_	_	_	_	_	_
-2	meté	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Digsú	_	_	_	_	_	_	_	_
+2	nya	_	_	_	_	_	_	_	_
+3	meté	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Migísing lang maránun. 
 # text[eng] = They woke up early. 
 # labels = forman:71:51
-0	Migísing	_	_	_	_	_	_	_	_
-1	lang	_	_	_	_	_	_	_	_
-2	maránun	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Migísing	_	_	_	_	_	_	_	_
+2	lang	_	_	_	_	_	_	_	_
+3	maránun	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Masalusú yang mulaí. 
 # text[eng] =  He runs swiftly. 
 # labels = forman:71:51
-0	Masalusú	_	_	_	_	_	_	_	_
-1	yang	_	_	_	_	_	_	_	_
-2	mulaí	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Masalusú	_	_	_	_	_	_	_	_
+2	yang	_	_	_	_	_	_	_	_
+3	mulaí	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Mabilís lang magsalítaq.
 # text[eng] = They talk rapidly. 
 # labels = forman:71:51
-0	Mabilís	_	_	_	_	_	_	_	_
-1	lang	_	_	_	_	_	_	_	_
-2	magsalítaq	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Mabilís	_	_	_	_	_	_	_	_
+2	lang	_	_	_	_	_	_	_	_
+3	magsalítaq	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Qagadqagád yang minúkyat. 
 # text[eng] = He climbed straightaway. 
 # labels = forman:71:51
-0	Qagadqagád	_	_	_	_	_	_	_	_
-1	yang	_	_	_	_	_	_	_	_
-2	minúkyat	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Qagadqagád	_	_	_	_	_	_	_	_
+2	yang	_	_	_	_	_	_	_	_
+3	minúkyat	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Áintíndian nong talagá.
 # text[eng] =  They really understand (it). 
 # labels = forman:71:51
-0	Áintíndian	_	_	_	_	_	_	_	_
-1	nong	_	_	_	_	_	_	_	_
-2	talagá	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Áintíndian	_	_	_	_	_	_	_	_
+2	nong	_	_	_	_	_	_	_	_
+3	talagá	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Balíkar dong pasibáyu deng ténam da. 
 # text[eng] =  They went back again to the ones they planted. 
 # labels = forman:71:51
-0	Balíkar	_	_	_	_	_	_	_	_
-1	dong	_	_	_	_	_	_	_	_
-2	pasibáyu	_	_	_	_	_	_	_	_
-3	deng	_	_	_	_	_	_	_	_
-4	ténam	_	_	_	_	_	_	_	_
-5	da	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Balíkar	_	_	_	_	_	_	_	_
+2	dong	_	_	_	_	_	_	_	_
+3	pasibáyu	_	_	_	_	_	_	_	_
+4	deng	_	_	_	_	_	_	_	_
+5	ténam	_	_	_	_	_	_	_	_
+6	da	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = É me ipusít makanyán. 
 # text[eng] = Don’t squeeze it like that. (51
 # labels = forman:71:51
-0	É	_	_	_	_	_	_	_	_
-1	me	_	_	_	_	_	_	_	_
-2	ipusít	_	_	_	_	_	_	_	_
-3	makanyán	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	É	_	_	_	_	_	_	_	_
+2	me	_	_	_	_	_	_	_	_
+3	ipusít	_	_	_	_	_	_	_	_
+4	makanyán	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Lálabít kang lálabít. 
 # text[eng] = You really do blabber. 
 # labels = forman:71:52
-0	Lálabít	_	_	_	_	_	_	_	_
-1	kang	_	_	_	_	_	_	_	_
-2	lálabít	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Lálabít	_	_	_	_	_	_	_	_
+2	kang	_	_	_	_	_	_	_	_
+3	lálabít	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = mangán nang mangán.
 # text[eng] =  eat and eat/stuff oneself’. 
 # labels = forman:71:52
-0	mangán	_	_	_	_	_	_	_	_
-1	nang	_	_	_	_	_	_	_	_
-2	mangán	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	mangán	_	_	_	_	_	_	_	_
+2	nang	_	_	_	_	_	_	_	_
+3	mangán	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = paintún neng paintún. 
 # text[eng] = search and search for something’. 
 # labels = forman:71:52
-0	paintún	_	_	_	_	_	_	_	_
-1	neng	_	_	_	_	_	_	_	_
-2	paintún	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	paintún	_	_	_	_	_	_	_	_
+2	neng	_	_	_	_	_	_	_	_
+3	paintún	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nánánu ka?. 
 # text[eng] = What are you doing?’. 
 # labels = forman:71:52
-0	Nánánu	_	_	_	_	_	_	_	_
-1	ka	_	_	_	_	_	_	_	_
-2	?	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Nánánu	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nínánu ka?. 
 # text[eng] =  What did you do?. 
 # labels = forman:71:52
-0	Nínánu	_	_	_	_	_	_	_	_
-1	ka	_	_	_	_	_	_	_	_
-2	?	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Nínánu	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Menánu ka?. 
 # text[eng] = What happened to you?’. 
 # labels = forman:71:52
-0	Menánu	_	_	_	_	_	_	_	_
-1	ka	_	_	_	_	_	_	_	_
-2	?	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Menánu	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Makanánu ka?. 
 # text[eng] = How are you? How (will) you (do it)? 
 # labels = forman:71:52
-0	Makanánu	_	_	_	_	_	_	_	_
-1	ka	_	_	_	_	_	_	_	_
-2	?	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Makanánu	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = ’Mintáka? 
 # text[eng] = Did you go?’ 
 # labels = forman:71:52
-0	’	_	_	_	_	_	_	_	_
-1	Mintáka	_	_	_	_	_	_	_	_
-2	?	_	_	_	_	_	_	_	_
+1	’	_	_	_	_	_	_	_	_
+2	Mintáka	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Alí ku.
 # text[eng] =  No, I didn’t (go). 
 # labels = forman:71:52
-0	Alí	_	_	_	_	_	_	_	_
-1	ku	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Alí	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Éku mintá. 
 # text[eng] = I didn’t go. 
 # labels = forman:71:52
-0	Éku	_	_	_	_	_	_	_	_
-1	mintá	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Éku	_	_	_	_	_	_	_	_
+2	mintá	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Makó ná ku. 
 # text[eng] = I’m going to leave now. 
 # labels = forman:71:53
-0	Makó	_	_	_	_	_	_	_	_
-1	ná	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Makó	_	_	_	_	_	_	_	_
+2	ná	_	_	_	_	_	_	_	_
+3	ku	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = ’É na ku mámakó.
 # text[eng] = I’m not leaving now. 
 # labels = forman:71:53
-0	’	_	_	_	_	_	_	_	_
-1	É	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	ku	_	_	_	_	_	_	_	_
-4	mámakó	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	’	_	_	_	_	_	_	_	_
+2	É	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	ku	_	_	_	_	_	_	_	_
+5	mámakó	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Mangán tá na.  É ka makó.
 # text[eng] = Don’t leave. 
 # labels = forman:71:53
-0	Mangán	_	_	_	_	_	_	_	_
-1	tá	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
-4	É	_	_	_	_	_	_	_	_
-5	ka	_	_	_	_	_	_	_	_
-6	makó	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Mangán	_	_	_	_	_	_	_	_
+2	tá	_	_	_	_	_	_	_	_
+3	na	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+5	É	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	makó	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nú ka muntá? 
 # text[eng] = Where are you going (to go)?’ 
 # labels = forman:71:53
-0	Nú	_	_	_	_	_	_	_	_
-1	ka	_	_	_	_	_	_	_	_
-2	muntá	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
+1	Nú	_	_	_	_	_	_	_	_
+2	ka	_	_	_	_	_	_	_	_
+3	muntá	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = É na ka magbálik?
 # text[eng] = Aren’t you going to come back?’ 
 # labels = forman:71:53
-0	É	_	_	_	_	_	_	_	_
-1	na	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	magbálik	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	É	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	ka	_	_	_	_	_	_	_	_
+4	magbálik	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Anté i Tátang?
 # text[eng] = Where is Father?’ 
 # labels = forman:71:54
-0	Anté	_	_	_	_	_	_	_	_
-1	i	_	_	_	_	_	_	_	_
-2	Tátang	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
+1	Anté	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	Tátang	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Atí ne i Imáq. 
 # text[eng] = Mother is here now. 
 # labels = forman:71:54
-0	Atí	_	_	_	_	_	_	_	_
-1	ne	_	_	_	_	_	_	_	_
-2	i	_	_	_	_	_	_	_	_
-3	Imáq	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Atí	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	i	_	_	_	_	_	_	_	_
+4	Imáq	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Atí na yú? 
 # text[eng] = Is she/he here now?’ 
 # labels = forman:71:54
-0	Atí	_	_	_	_	_	_	_	_
-1	na	_	_	_	_	_	_	_	_
-2	yú	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
+1	Atí	_	_	_	_	_	_	_	_
+2	na	_	_	_	_	_	_	_	_
+3	yú	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Atí yu ngéni king múla.
 # text[eng] = She/he’s here now in the yard. 
 # labels = forman:71:54
-0	Atí	_	_	_	_	_	_	_	_
-1	yu	_	_	_	_	_	_	_	_
-2	ngéni	_	_	_	_	_	_	_	_
-3	king	_	_	_	_	_	_	_	_
-4	múla	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Atí	_	_	_	_	_	_	_	_
+2	yu	_	_	_	_	_	_	_	_
+3	ngéni	_	_	_	_	_	_	_	_
+4	king	_	_	_	_	_	_	_	_
+5	múla	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Alá yu.
 # text[eng] =  She/he’s not here. 
 # labels = forman:71:54
-0	Alá	_	_	_	_	_	_	_	_
-1	yu	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Alá	_	_	_	_	_	_	_	_
+2	yu	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Atín yang baróng tagálog. 
 # text[eng] = He has a barong Tagalog. 
 # labels = forman:71:54
-0	Atín	_	_	_	_	_	_	_	_
-1	yang	_	_	_	_	_	_	_	_
-2	baróng	_	_	_	_	_	_	_	_
-3	tagálog	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Atín	_	_	_	_	_	_	_	_
+2	yang	_	_	_	_	_	_	_	_
+3	baróng	_	_	_	_	_	_	_	_
+4	tagálog	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Alá ya pang sapátus.
 # text[eng] =  He doesn’t have shoes yet. 
 # labels = forman:71:54
-0	Alá	_	_	_	_	_	_	_	_
-1	ya	_	_	_	_	_	_	_	_
-2	pang	_	_	_	_	_	_	_	_
-3	sapátus	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Alá	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	pang	_	_	_	_	_	_	_	_
+4	sapátus	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = I Jún, alá ya pang asáwa.
 # text[eng] =  As for Jun(ior), he has no wife yet. 
 # labels = forman:71:54
-0	I	_	_	_	_	_	_	_	_
-1	Jún	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	alá	_	_	_	_	_	_	_	_
-4	ya	_	_	_	_	_	_	_	_
-5	pang	_	_	_	_	_	_	_	_
-6	asáwa	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	I	_	_	_	_	_	_	_	_
+2	Jún	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	alá	_	_	_	_	_	_	_	_
+5	ya	_	_	_	_	_	_	_	_
+6	pang	_	_	_	_	_	_	_	_
+7	asáwa	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Atín la pung sirá ring ópu. 
 # text[eng] =  The opu plants have some damage (d parts), sir. 
 # labels = forman:71:54
-0	Atín	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	pung	_	_	_	_	_	_	_	_
-3	sirá	_	_	_	_	_	_	_	_
-4	ring	_	_	_	_	_	_	_	_
-5	ópu	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Atín	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	pung	_	_	_	_	_	_	_	_
+4	sirá	_	_	_	_	_	_	_	_
+5	ring	_	_	_	_	_	_	_	_
+6	ópu	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Alá kamí. 
 # text[eng] = We have none. 
 # labels = forman:71:54
-0	Alá	_	_	_	_	_	_	_	_
-1	kamí	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Alá	_	_	_	_	_	_	_	_
+2	kamí	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Mikaqápat ta paláng pésus. 
 # text[eng] = To our surprise we have four pesos.
 # labels = forman:71:54
-0	Mikaqápat	_	_	_	_	_	_	_	_
-1	ta	_	_	_	_	_	_	_	_
-2	paláng	_	_	_	_	_	_	_	_
-3	pésus	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mikaqápat	_	_	_	_	_	_	_	_
+2	ta	_	_	_	_	_	_	_	_
+3	paláng	_	_	_	_	_	_	_	_
+4	pésus	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Métung man aláng makipányu. 
 # text[eng] = None of them has a handkerchief. 
 # labels = forman:71:55
-0	Métung	_	_	_	_	_	_	_	_
-1	man	_	_	_	_	_	_	_	_
-2	aláng	_	_	_	_	_	_	_	_
-3	makipányu	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Métung	_	_	_	_	_	_	_	_
+2	man	_	_	_	_	_	_	_	_
+3	aláng	_	_	_	_	_	_	_	_
+4	makipányu	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Dakál ya bié i Juán. 
 # text[eng] = Juan has many lives. (i.e., There are many stories about the life of Juan.) 
 # labels = forman:71:55
-0	Dakál	_	_	_	_	_	_	_	_
-1	ya	_	_	_	_	_	_	_	_
-2	bié	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Juán	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Dakál	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	bié	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Juán	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Kang Kármén ing maníka. 
 # text[eng] = The doll is Carmen’s/is with Carmen. 
 # labels = forman:71:55
-0	Kang	_	_	_	_	_	_	_	_
-1	Kármén	_	_	_	_	_	_	_	_
-2	ing	_	_	_	_	_	_	_	_
-3	maníka	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
-
-
-# sent_id = grammar:
-# text = Ing kang Kármén ing maníka. 
-# text[eng] = The doll is the one Carmen has. 
-# labels = forman:71:55
-0	Ing	_	_	_	_	_	_	_	_
-1	kang	_	_	_	_	_	_	_	_
+1	Kang	_	_	_	_	_	_	_	_
 2	Kármén	_	_	_	_	_	_	_	_
 3	ing	_	_	_	_	_	_	_	_
 4	maníka	_	_	_	_	_	_	_	_
@@ -1677,238 +1665,250 @@
 
 
 # sent_id = grammar:
+# text = Ing kang Kármén ing maníka. 
+# text[eng] = The doll is the one Carmen has. 
+# labels = forman:71:55
+1	Ing	_	_	_	_	_	_	_	_
+2	kang	_	_	_	_	_	_	_	_
+3	Kármén	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	maníka	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+
+# sent_id = grammar:
 # text = ’Kutséru ya i Mandóng. 
 # text[eng] = Mandong is a rig-driver. 
 # labels = forman:71:55
-0	’	_	_	_	_	_	_	_	_
-1	Kutséru	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Mandóng	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	’	_	_	_	_	_	_	_	_
+2	Kutséru	_	_	_	_	_	_	_	_
+3	ya	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Mandóng	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = ’Kusinéra ya i Ríta. ‘
 # text[eng] = Rita is a cook/kitchen manager/runs a restaurant. 
 # labels = forman:71:56
-0	’	_	_	_	_	_	_	_	_
-1	Kusinéra	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Ríta	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
-6	‘	_	_	_	_	_	_	_	_
+1	’	_	_	_	_	_	_	_	_
+2	Kusinéra	_	_	_	_	_	_	_	_
+3	ya	_	_	_	_	_	_	_	_
+4	i	_	_	_	_	_	_	_	_
+5	Ríta	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+7	‘	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Ing kapitán (ya) i Paskwál. 
 # text[eng] =  Pascual is the (barrio) captain. 
 # labels = forman:71:56
-0	Ing	_	_	_	_	_	_	_	_
-1	kapitán	_	_	_	_	_	_	_	_
-2	(	_	_	_	_	_	_	_	_
-3	ya	_	_	_	_	_	_	_	_
-4	)	_	_	_	_	_	_	_	_
-5	i	_	_	_	_	_	_	_	_
-6	Paskwál	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Ing	_	_	_	_	_	_	_	_
+2	kapitán	_	_	_	_	_	_	_	_
+3	(	_	_	_	_	_	_	_	_
+4	ya	_	_	_	_	_	_	_	_
+5	)	_	_	_	_	_	_	_	_
+6	i	_	_	_	_	_	_	_	_
+7	Paskwál	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Detang aliwá reng dáráyaq. 
 # text[eng] =  The ones bleeding were those others. 
 # labels = forman:71:56
-0	Detang	_	_	_	_	_	_	_	_
-1	aliwá	_	_	_	_	_	_	_	_
-2	reng	_	_	_	_	_	_	_	_
-3	dáráyaq	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Detang	_	_	_	_	_	_	_	_
+2	aliwá	_	_	_	_	_	_	_	_
+3	reng	_	_	_	_	_	_	_	_
+4	dáráyaq	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Íka i Maríang Sinukuán?. 
 # text[eng] = Are you Maria Sinukuan?’ 
 # labels = forman:71:56
-0	Íka	_	_	_	_	_	_	_	_
-1	i	_	_	_	_	_	_	_	_
-2	Maríang	_	_	_	_	_	_	_	_
-3	Sinukuán	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Íka	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	Maríang	_	_	_	_	_	_	_	_
+4	Sinukuán	_	_	_	_	_	_	_	_
+5	?	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Alí ku. 
 # text[eng] = I am not. 
 # labels = forman:71:56
-0	Alí	_	_	_	_	_	_	_	_
-1	ku	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Alí	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = É ku Maríang Sinukuán. 
 # text[eng] = I’m not Maria Sinukuan. 
 # labels = forman:71:56
-0	É	_	_	_	_	_	_	_	_
-1	ku	_	_	_	_	_	_	_	_
-2	Maríang	_	_	_	_	_	_	_	_
-3	Sinukuán	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	É	_	_	_	_	_	_	_	_
+2	ku	_	_	_	_	_	_	_	_
+3	Maríang	_	_	_	_	_	_	_	_
+4	Sinukuán	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Aliwayáku i Maríang Sinukuán. 
 # text[eng] = I’m not Maria Sinukuan—Someone other than me is Maria Sinukuan. 
 # labels = forman:71:56
-0	Aliwayáku	_	_	_	_	_	_	_	_
-1	i	_	_	_	_	_	_	_	_
-2	Maríang	_	_	_	_	_	_	_	_
-3	Sinukuán	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Aliwayáku	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	Maríang	_	_	_	_	_	_	_	_
+4	Sinukuán	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Áku i Maríang Makíling. 
 # text[eng] =  I am Maria Makiling. 
 # labels = forman:71:56
-0	Áku	_	_	_	_	_	_	_	_
-1	i	_	_	_	_	_	_	_	_
-2	Maríang	_	_	_	_	_	_	_	_
-3	Makíling	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Áku	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	Maríang	_	_	_	_	_	_	_	_
+4	Makíling	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Yámu itá. 
 # text[eng] = That one is him. 
 # labels = forman:71:56
-0	Yámu	_	_	_	_	_	_	_	_
-1	itá	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Yámu	_	_	_	_	_	_	_	_
+2	itá	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nínu naman déni?
 # text[eng] = And who are these?’ 
 # labels = forman:71:56
-0	Nínu	_	_	_	_	_	_	_	_
-1	naman	_	_	_	_	_	_	_	_
-2	déni	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
+1	Nínu	_	_	_	_	_	_	_	_
+2	naman	_	_	_	_	_	_	_	_
+3	déni	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Áku námu ing aláng árakáp a tugák. 
 # text[eng] = I’m the only one who wasn’t able to catch a frog. 
 # labels = forman:71:56
-0	Áku	_	_	_	_	_	_	_	_
-1	námu	_	_	_	_	_	_	_	_
-2	ing	_	_	_	_	_	_	_	_
-3	aláng	_	_	_	_	_	_	_	_
-4	árakáp	_	_	_	_	_	_	_	_
-5	a	_	_	_	_	_	_	_	_
-6	tugák	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Áku	_	_	_	_	_	_	_	_
+2	námu	_	_	_	_	_	_	_	_
+3	ing	_	_	_	_	_	_	_	_
+4	aláng	_	_	_	_	_	_	_	_
+5	árakáp	_	_	_	_	_	_	_	_
+6	a	_	_	_	_	_	_	_	_
+7	tugák	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = I(n)sánu ing kéka? 
 # text[eng] = Which one is yours?’ 
 # labels = forman:71:56
-0	I	_	_	_	_	_	_	_	_
-1	(	_	_	_	_	_	_	_	_
-2	n	_	_	_	_	_	_	_	_
-3	)	_	_	_	_	_	_	_	_
-4	sánu	_	_	_	_	_	_	_	_
-5	ing	_	_	_	_	_	_	_	_
-6	kéka	_	_	_	_	_	_	_	_
-7	?	_	_	_	_	_	_	_	_
+1	I	_	_	_	_	_	_	_	_
+2	(	_	_	_	_	_	_	_	_
+3	n	_	_	_	_	_	_	_	_
+4	)	_	_	_	_	_	_	_	_
+5	sánu	_	_	_	_	_	_	_	_
+6	ing	_	_	_	_	_	_	_	_
+7	kéka	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Nánu la rétang makabálut papél? 
 # text[eng] = What are those things wrapped in paper?’ 
 # labels = forman:71:56
-0	Nánu	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	rétang	_	_	_	_	_	_	_	_
-3	makabálut	_	_	_	_	_	_	_	_
-4	papél	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Nánu	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	rétang	_	_	_	_	_	_	_	_
+4	makabálut	_	_	_	_	_	_	_	_
+5	papél	_	_	_	_	_	_	_	_
+6	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Ságin la? 
 # text[eng] = Are they bananas?’ 
 # labels = forman:71:56
-0	Ságin	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	?	_	_	_	_	_	_	_	_
+1	Ságin	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = Alí la. 
 # text[eng] =  No, they’re not. 
 # labels = forman:71:56
-0	Alí	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	Alí	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = É la asán dén. 
 # text[eng] =  Those are not fish. 
 # labels = forman:71:56
-0	É	_	_	_	_	_	_	_	_
-1	la	_	_	_	_	_	_	_	_
-2	asán	_	_	_	_	_	_	_	_
-3	dén	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	É	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	asán	_	_	_	_	_	_	_	_
+4	dén	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = É ya tugák ing king súput. 
 # text[eng] = The thing in the sack is not a frog. 
 # labels = forman:71:56
-0	É	_	_	_	_	_	_	_	_
-1	ya	_	_	_	_	_	_	_	_
-2	tugák	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	king	_	_	_	_	_	_	_	_
-5	súput	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	É	_	_	_	_	_	_	_	_
+2	ya	_	_	_	_	_	_	_	_
+3	tugák	_	_	_	_	_	_	_	_
+4	ing	_	_	_	_	_	_	_	_
+5	king	_	_	_	_	_	_	_	_
+6	súput	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:
 # text = ’Obát pu lálákad la ring balé ampon tanáman?.Aliwá ring balé ampon tanáman ding lálákad. Ing lálákad ing sásakén tang trén.
 # text[eng] = Why are the houses and trees moving, sir? It’s not the houses and trees that are moving (it’s something else). What is moving is the train we are riding.
 # labels = forman:71:57
-0	’	_	_	_	_	_	_	_	_
-1	Obát	_	_	_	_	_	_	_	_
-2	pu	_	_	_	_	_	_	_	_
-3	lálákad	_	_	_	_	_	_	_	_
-4	la	_	_	_	_	_	_	_	_
-5	ring	_	_	_	_	_	_	_	_
-6	balé	_	_	_	_	_	_	_	_
-7	ampon	_	_	_	_	_	_	_	_
-8	tanáman	_	_	_	_	_	_	_	_
-9	?	_	_	_	_	_	_	_	_
-10	.Aliwá	_	_	_	_	_	_	_	_
-11	ring	_	_	_	_	_	_	_	_
-12	balé	_	_	_	_	_	_	_	_
-13	ampon	_	_	_	_	_	_	_	_
-14	tanáman	_	_	_	_	_	_	_	_
-15	ding	_	_	_	_	_	_	_	_
-16	lálákad	_	_	_	_	_	_	_	_
-17	.	_	_	_	_	_	_	_	_
-18	Ing	_	_	_	_	_	_	_	_
-19	lálákad	_	_	_	_	_	_	_	_
-20	ing	_	_	_	_	_	_	_	_
-21	sásakén	_	_	_	_	_	_	_	_
-22	tang	_	_	_	_	_	_	_	_
-23	trén	_	_	_	_	_	_	_	_
-24	.	_	_	_	_	_	_	_	_
+1	’	_	_	_	_	_	_	_	_
+2	Obát	_	_	_	_	_	_	_	_
+3	pu	_	_	_	_	_	_	_	_
+4	lálákad	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	ring	_	_	_	_	_	_	_	_
+7	balé	_	_	_	_	_	_	_	_
+8	ampon	_	_	_	_	_	_	_	_
+9	tanáman	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+11	.Aliwá	_	_	_	_	_	_	_	_
+12	ring	_	_	_	_	_	_	_	_
+13	balé	_	_	_	_	_	_	_	_
+14	ampon	_	_	_	_	_	_	_	_
+15	tanáman	_	_	_	_	_	_	_	_
+16	ding	_	_	_	_	_	_	_	_
+17	lálákad	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+19	Ing	_	_	_	_	_	_	_	_
+20	lálákad	_	_	_	_	_	_	_	_
+21	ing	_	_	_	_	_	_	_	_
+22	sásakén	_	_	_	_	_	_	_	_
+23	tang	_	_	_	_	_	_	_	_
+24	trén	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
 
 

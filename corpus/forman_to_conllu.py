@@ -16,7 +16,7 @@ for item in items:
    print('# text[eng] =', eng)
    print('# labels = forman:71:', page.group(), sep='')
    for i in range(len(word_tokenize(pam))):
-     number = str(i)
+     number = str(i+1)
      word = word_tokenize(pam)[i]
      line = number + '\t' + word + 8 * ('\t' + '_')
      print(line)
