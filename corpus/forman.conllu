@@ -577,3 +577,194 @@
 4	ng	_	PART	_	_	5	mark:link	_	_
 5	labuád	_	ADJ	_	_	3	amod	_	_
 6	?	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:50
+# text = Íka ing bálaq.
+# text[eng] = You be the one to decide.
+# labels = forman:71:40
+1	Íka	_	PRON	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	bálaq	_	VERB	_	_	1	nsubj	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:51
+# text = Ikayú, atín kayúng upáyang mas lábis kekamí.
+# text[eng] = As for you, you have a power greater than ours.
+# labels = forman:71:40 , check comparison
+1	Ikayú	_	PRON	_	_	3	dislocated	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	atín	_	VERB	_	_	0	root	_	_
+4-5	kayúng	_	_	_	_	_	_	_	_
+4	kayú	_	PRON	_	_	3	dep	_	_
+5	ng	_	PART	_	_	_	_	_	_
+6	upáyang	_	NOUN	_	_	3	obj	_	_
+7	mas	_	ADV	_	_	8	advmod	_	_
+8	lábis	_	ADJ	_	_	6	amod	_	_
+9	kekamí	_	PRON	_	_	8	obl	_	_
+10	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = grammar:52
+# text = Áku, é ku buríq.
+# text[eng] = As for me, I don’t like it.
+# labels = forman:71:40
+1	Áku	_	PRON	_	_	5	dislocated	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	é	_	ADV	_	_	5	advmod	_	_
+4	ku	_	PRON	_	_	5	dep	_	_
+5	buríq	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = grammar:53
+# text = Iaduáng me kayá ing básu.
+# text[eng] = Hand him the glass.
+# labels = forman:71:38
+1	Iaduáng	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	kayá	_	PRON	_	_	1	obl	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	básu	_	NOUN	_	_	1	nsubj:pass	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:54
+# text = Póta masíra ing bángkaq.
+# text[eng] = The canoe might get damaged.
+# labels = forman:71:38
+1	Póta	_	ADV	_	_	2	advmod	_	_
+2	masíra	_	VERB	_	_	0	root	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	bángkaq	_	NOUN	_	_	2	nsubj	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = grammar:55
+# text = Patdán me ing sulúq.
+# text[eng] = Put out the light.
+# labels = forman:71:38
+1	Patdán	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	sulúq	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:56
+# text = Magkánu ing akákit mu king kilúb ning aldóqaldó?
+# text[eng] = How much are you able to earn in a day?
+# labels = forman:71:38 , check pos of magkanu ("how much cost?")
+
+# sent_id = grammar:57
+# text = Ináus ke.
+# text[eng] = I called him.
+# labels = forman:71:41
+1	Ináus	_	VERB	_	_	0	root	_	_
+2-3	ke	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:58
+# text = Awsán me.
+# text[eng] = (You) call him.
+# labels = forman:71:41
+1	Awsán	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:59
+# text = Ináus miya.
+# text[eng] = We (excl.) called him.
+# labels = forman:71:41
+1	Ináus	_	VERB	_	_	0	root	_	_
+2-3	miya	_	_	_	_	_	_	_	_
+2	mi	_	PRON	_	_	1	dep	_	_
+3	ya	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:60
+# text = Awsán táya.
+# text[eng] = Let’s call him.
+# labels = forman:71:41
+1	Awsán	_	VERB	_	_	0	root	_	_
+2-3	táya	_	_	_	_	_	_	_	_
+2	tá	_	PRON	_	_	1	dep	_	_
+3	ya	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:61
+# text = Awsán ye.
+# text[eng] = You call him.
+# labels = forman:71:41
+1	Awsán	_	VERB	_	_	0	root	_	_
+2-3	ye	_	_	_	_	_	_	_	_
+2	y	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = grammar:62
+# text = Sáyang yá.
+# text[eng] = Too bad for him (something will happen).
+# labels = forman:71:41
+
+# sent_id = grammar:63
+# text = Sáyáng nya.
+# text[eng] = Too bad about him (something happened).
+# labels = forman:71:41
+
+# sent_id = grammar:64
+# text = Tinotó ra no ring padwás dari tátang pépe king plaísdan.
+# text[eng] = Tatang Pepe and companions were watching their fishing poles in the fishpond.
+# labels = forman:71:42
+
+# sent_id = grammar:65
+# text = Tinotó ra la naman ding padwás dari mário at triníng.
+# text[eng] = Mario and Trining were watching their poles too.
+# labels = forman:71:42
+
+# sent_id = grammar:66
+# text = Ibílíyu no ring kwáyan.
+# text[eng] = Put those bamboos down now.
+# labels = forman:71:42 , check ibiliyu - is that the verb or a verb + pronoun "yu"
+
+# sent_id = grammar:67
+# text = Nukarín yo kinwá réni?
+# text[eng] = Where did you get those?
+# labels = forman:71:42
+1	Nukarín	_	ADV	_	_	4	advmod	_	_
+2-3	yo	_	_	_	_	_	_	_	_
+2	y	_	PRON	_	_	4	dep	_	_
+3	o	_	PRON	_	_	4	dep	_	_
+4	kinwá	_	VERB	_	_	0	root	_	_
+5	réni	_	PRON	_	_	4	nsubj:pass	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = grammar:68
+# text = Nukarín yu na la kasí kinwá déni?
+# text[eng] = Because (I want you to tell me again) where did you get those?
+# labels = forman:71:42
+
+# sent_id = grammar:69
+# text = Yámuq itá.
+# text[eng] = That is the one.
+# labels = forman:71:44
+
+# sent_id = grammar:70
+# text = Nínu naman déni?
+# text[eng] = Who are these people?
+# labels = forman:71:44
+
+# sent_id = grammar:71
+# text = Éla asán dén.
+# text[eng] = Those aren’t fish.
+# labels = forman:71:44
+
+
+
+
+
+
+
+
