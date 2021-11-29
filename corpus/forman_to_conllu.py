@@ -5,7 +5,8 @@ items = re.split(r'\s*\n\s*\n\s*',f.read())
 for item in items:
    print('# sent_id = grammar:')
    split_pam = item.split('\n')
-   pam = split_pam[0]
+   pam = split_pam[0] # Kapampangan sentence
+   pam = pam.replace('’', '')
    print('# text =', pam)
    rest = split_pam[1]
    page = re.search('\d+', rest)
