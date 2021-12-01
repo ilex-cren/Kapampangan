@@ -71,7 +71,7 @@
 # sent_id = grammar:8
 # text = O, nínu itá?
 # text[eng] = Well, who was that?
-# labels = forman:71:30 , check punct
+# labels = forman:71:30 , check punct , check pos of ita
 1	O	_	PART	_	_	3	discourse	_	_
 2	,	_	PUNCT	_	_	3	punct	_	_
 3	nínu	_	PRON	_	_	0	root	_	_
@@ -375,6 +375,9 @@
 # text = Tabálu kéka.
 # text[eng] = It’s up to you/You decide.’ (Lit. “I don’t know to you.”)
 # labels = forman:71:37 
+1	Tabálu	_	VERB	_	_	0	root	_	_
+2	kéka	_	PRON	_	_	1	obl	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:33
@@ -404,7 +407,20 @@
 # sent_id = grammar:35
 # text = King kayáng katakáwan, i suán, péngan na ngán.
 # text[eng] = In his greediness, that Juan, he ate it all up.
-# labels = forman:71:37 , questions about ngan (all) - pron, noun, other?
+# labels = forman:71:37 , questions about ngan (all) - pron, noun, other? , come back later
+1	King	_	ADP	_	_	4	case	_	_
+2-3	kayáng	_	_	_	_	_	_	_	_
+2	kayá	_	PRON	_	_	4	nmod:poss	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	katakáwan	_	NOUN	_	_	9	obl	_	_
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	suán	_	PROPN	_	_	9	dislocated	_	_
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	péngan	_	VERB	_	_	0	root	_	_
+10	na	_	PRON	_	_	9	dep	_	_
+11	ngán	_	DET	_	_	9	nsubj	_	_
+12	.	_	PUNCT	_	_	9	punct	_	_
 
 # sent_id = grammar:36
 # text = Mákatúla ya king susúlud na.
@@ -466,6 +482,11 @@
 # text = Nukarín ya i bertíng?
 # text[eng] = Where is Berting?
 # labels = forman:71:38
+1	Nukarín	_	ADV	_	_	0	root	_	_
+2	ya	_	PART	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	bertíng	_	PROPN	_	_	1	nsubj	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:42
 # text = Komángging kaligátan i. máya.
@@ -707,22 +728,22 @@
 # sent_id = grammar:62
 # text = Sáyang yá.
 # text[eng] = Too bad for him (something will happen).
-# labels = forman:71:41
+# labels = forman:71:41 , check
 
 # sent_id = grammar:63
 # text = Sáyáng nya.
 # text[eng] = Too bad about him (something happened).
-# labels = forman:71:41
+# labels = forman:71:41 , check
 
 # sent_id = grammar:64
 # text = Tinotó ra no ring padwás dari tátang pépe king plaísdan.
 # text[eng] = Tatang Pepe and companions were watching their fishing poles in the fishpond.
-# labels = forman:71:42
+# labels = forman:71:42 , check what 'ra' is
 
 # sent_id = grammar:65
 # text = Tinotó ra la naman ding padwás dari mário at triníng.
 # text[eng] = Mario and Trining were watching their poles too.
-# labels = forman:71:42
+# labels = forman:71:42 , check what 'ra' is 
 
 # sent_id = grammar:66
 # text = Ibílíyu no ring kwáyan.
@@ -744,7 +765,7 @@
 # sent_id = grammar:
 # text = Nukarín yu na la kasí kinwá déni? 
 # text[eng] = Because (I want you to tell me again) where did you get those?’ 
-# labels = forman:71:42
+# labels = forman:71:42 , check kasi, na
 1	Nukarín	_	_	_	_	_	_	_	_
 2	yu	_	_	_	_	_	_	_	_
 3	na	_	_	_	_	_	_	_	_
@@ -758,15 +779,16 @@
 # sent_id = grammar:
 # text = Yámuq itá. 
 # text[eng] =  That is the one. 
-# labels = forman:71:44
-1	Yámuq	_	_	_	_	_	_	_	_
-2	itá	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
-
+# labels = forman:71:44 , check pos of muq and ita (PRON or DET), also the eng translation may be wrong
+1-2	Yámuq	_	_	_	_	_	_	_	_
+1	Yá	_	PRON	_	_	0	root	_	_
+2	muq	_	ADV	_	_	1	advmod	_	_
+3	itá	_	PRON	_	_	1	nsubj	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:
 # text = Nínu naman déni? 
-# text[eng] = Who are these people?’ 
+# text[eng] = Who are these people? 
 # labels = forman:71:44
 1	Nínu	_	_	_	_	_	_	_	_
 2	naman	_	_	_	_	_	_	_	_
