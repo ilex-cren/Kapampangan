@@ -14,4 +14,5 @@ def main():
    print("Tokens: ", len(word_tokenize(raw)))
    print("Types: ", len(sorted(set(word_tokenize(raw)))))
    f.close()
+   output.close()
 main()

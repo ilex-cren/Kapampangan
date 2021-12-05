@@ -1,5 +1,5 @@
 from nltk.tokenize import sent_tokenize, word_tokenize
-f = open("facebook_sentences.txt", 'r')
+f = open("sentences_no_duplicates.txt", 'r')
 g = open("facebook.conllu", 'a')
 raw = f.read().strip()
 sents = sent_tokenize(raw)

@@ -237,7 +237,17 @@
 # sent_id = grammar:21
 # text = Ing káku, yápin ing atíng bulúng.
 # text[eng] = Mine is the one that has leaves.
-# labels = forman:71:30
+# labels = forman:71:30 , check promotion by head elision
+1	Ing	_	ADP	_	_	2	case	_	_
+2	káku	_	PRON	_	_	0	root	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	yápin	_	PART	_	_	2	discourse	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6-7	atíng	_	_	_	_	_	_	_	_
+6	atín	_	VERB	_	_	2	nsubj	_	_
+7	g	_	PART	_	_	8	mark:link	_	_
+8	bulúng	_	NOUN	_	_	6	obl	_	_
+9	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = grammar:22
 # text = Itá ing pilalában mi king aldóqaldó.
@@ -324,7 +334,7 @@
 7	bátal	_	NOUN	_	_	5	conj	_	_
 8	king	_	ADP	_	_	9	case	_	_
 9	makibalé	_	NOUN	_	_	1	obl	_	_
-10	.	_	PRON	_	_	1	_	_	_
+10	.	_	PUNCT	_	_	1	_	punct	_
 
 # sent_id = grammar:29
 # text = Patye éya mulíq, pátagál de king ásu.
@@ -762,7 +772,7 @@
 5	réni	_	PRON	_	_	4	nsubj:pass	_	_
 6	?	_	PUNCT	_	_	4	punct	_	_
 
-# sent_id = grammar:
+# sent_id = grammar:68
 # text = Nukarín yu na la kasí kinwá déni? 
 # text[eng] = Because (I want you to tell me again) where did you get those?’ 
 # labels = forman:71:42 , check kasi, na
@@ -776,7 +786,7 @@
 8	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:69
 # text = Yámuq itá. 
 # text[eng] =  That is the one. 
 # labels = forman:71:44 , check pos of muq and ita (PRON or DET), also the eng translation may be wrong
@@ -786,39 +796,40 @@
 3	itá	_	PRON	_	_	1	nsubj	_	_
 4	.	_	PUNCT	_	_	1	punct	_	_
 
-# sent_id = grammar:
+# sent_id = grammar:70
 # text = Nínu naman déni? 
 # text[eng] = Who are these people? 
 # labels = forman:71:44
-1	Nínu	_	_	_	_	_	_	_	_
-2	naman	_	_	_	_	_	_	_	_
-3	déni	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Nínu	_	PRON	_	_	0	root	_	_
+2	naman	_	PART	_	_	1	discourse	_	_
+3	déni	_	PRON	_	_	1	nsubj	_	_
+4	?	_	PUNCT	_	_	1	punct	_	_
 
-
-# sent_id = grammar:
+# sent_id = grammar:71
 # text = Éla asán dén. 
 # text[eng] = Those aren’t fish. 
-# labels = forman:71:44
-1	Éla	_	_	_	_	_	_	_	_
-2	asán	_	_	_	_	_	_	_	_
-3	dén	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check advmod
+1-2	Éla	_	_	_	_	_	_	_	_
+1	É	_	ADV	_	_	3	advmod	_	_
+2	la	_	PRON	_	_	3	dep	_	_
+3	asán	_	NOUN	_	_	0	root	_	_
+4	dén	_	PRON	_	_	3	nsubj	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
 
-
-# sent_id = grammar:
+# sent_id = grammar:72
 # text = Nánu la rétang makabálut papíl? 
 # text[eng] = What are those things wrapped in paper?’ 
-# labels = forman:71:44
-1	Nánu	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	rétang	_	_	_	_	_	_	_	_
-4	makabálut	_	_	_	_	_	_	_	_
-5	papíl	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check makabalut -> papil
+1	Nánu	_	PRON	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3-4	rétang	_	_	_	_	_	_	_	_
+3	réta	_	DET	_	_	5	det	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	makabálut	_	VERB	_	_	1	nsubj	_	_
+6	papíl	_	NOUN	_	_	5	_	_	_
+7	?	_	PUNCT	_	_	1	punct	_	_
 
-
-# sent_id = grammar:
+# sent_id = grammar:73
 # text = Isábit tála pu king “chrístmas trée” riyán? 
 # text[eng] = Shall we hang those on the Christmas tree, sir?’ 
 # labels = forman:71:44
@@ -834,7 +845,7 @@
 10	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:74
 # text = Iníng lúbid a iní, mas makába ya késa kéta. 
 # text[eng] =  As for this rope here, it’s longer than that one. 
 # labels = forman:71:44
