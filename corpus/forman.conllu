@@ -75,7 +75,7 @@
 1	O	_	PART	_	_	3	discourse	_	_
 2	,	_	PUNCT	_	_	3	punct	_	_
 3	nínu	_	PRON	_	_	0	root	_	_
-4	itá	_	PRON	_	_	3	nsubj	_	_
+4	itá	_	DET	_	_	3	nsubj	_	_
 5	?	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = grammar:9
@@ -833,108 +833,114 @@
 # text = Isábit tála pu king “chrístmas trée” riyán? 
 # text[eng] = Shall we hang those on the Christmas tree, sir?’ 
 # labels = forman:71:44
-1	Isábit	_	_	_	_	_	_	_	_
-2	tála	_	_	_	_	_	_	_	_
-3	pu	_	_	_	_	_	_	_	_
-4	king	_	_	_	_	_	_	_	_
-5	“	_	_	_	_	_	_	_	_
-6	chrístmas	_	_	_	_	_	_	_	_
-7	trée	_	_	_	_	_	_	_	_
-8	”	_	_	_	_	_	_	_	_
-9	riyán	_	_	_	_	_	_	_	_
-10	?	_	_	_	_	_	_	_	_
-
+1	Isábit	_	VERB	_	_	0	root	_	_
+2-3	tála	_	_	_	_	_	_	_	_
+2	tá	_	PRON	_	_	1	dep	_	_
+3	la	_	PRON	_	_	1	dep	_	_
+4	pu	_	PART	_	_	1	discourse	_	_
+5	king	_	ADP	_	_	8	case	_	_
+6	“	_	PUNCT	_	_	8	punct	_	_
+7	chrístmas	_	NOUN	_	_	8	compound	_	_
+8	trée	_	NOUN	_	_	1	obl	_	_
+9	”	_	PUNCT	_	_	8	punct	_	_
+10	riyán	_	DET	_	_	1	nsubj:pass	_	_
+11	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:74
 # text = Iníng lúbid a iní, mas makába ya késa kéta. 
 # text[eng] =  As for this rope here, it’s longer than that one. 
-# labels = forman:71:44
-1	Iníng	_	_	_	_	_	_	_	_
-2	lúbid	_	_	_	_	_	_	_	_
-3	a	_	_	_	_	_	_	_	_
-4	iní	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	mas	_	_	_	_	_	_	_	_
-7	makába	_	_	_	_	_	_	_	_
-8	ya	_	_	_	_	_	_	_	_
-9	késa	_	_	_	_	_	_	_	_
-10	kéta	_	_	_	_	_	_	_	_
-11	.	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check kesa
+1-2	Iníng	_	_	_	_	_	_	_	_
+1	Iní	_	DET	_	_	3	det	_	_
+2	ng	_	PART	_	_	1	mark:link	_	_
+3	lúbid	_	NOUN	_	_	8	dislocated	_	_
+4	a	_	PART	_	_	5	mark:link	_	_
+5	iní	_	DET	_	_	3	det	_	_
+6	,	_	PUNCT	_	_	3	punct	_	_
+7	mas	_	ADV	_	_	8	advmod	_	_
+8	makába	_	ADJ	_	_	0	root	_	_
+9	ya	_	PRON	_	_	8	dep	_	_
+10	késa	_	ADP	_	_	11	case	_	_
+11	kéta	_	DET	_	_	8	obl	_	_
+12	.	_	PUNCT	_	_	8	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:75
 # text = Makanánu kung mulíq kaníni? 
 # text[eng] =  How can I go home like this?’ 
-# labels = forman:71:44
-1	Makanánu	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	mulíq	_	_	_	_	_	_	_	_
-4	kaníni	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check mark:link and kanini
+1	Makanánu	_	ADV	_	_	4	advmod	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	4	dep	_	_
+3	ng	_	PART	_	_	2	mark:link	_	_
+4	mulíq	_	VERB	_	_	0	root	_	_
+5	kaníni	_	ADP	_	_	4	obl	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:76
 # text = Ing magdalá kaníti i Pondíng Miránda. 
 # text[eng] = The bearer of this is Ponding Miranda.
-# labels = forman:71:44
-1	Ing	_	_	_	_	_	_	_	_
-2	magdalá	_	_	_	_	_	_	_	_
-3	kaníti	_	_	_	_	_	_	_	_
-4	i	_	_	_	_	_	_	_	_
-5	Pondíng	_	_	_	_	_	_	_	_
-6	Miránda	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check pos of kaniti
+1	Ing	_	ADP	_	_	2	case	_	_
+2	magdalá	_	VERB	_	_	0	root	_	_
+3	kaníti	_	ADP	_	_	2	obl	_	_
+4	i	_	ADP	_	_	5	case	_	_
+5	Pondíng	_	PROPN	_	_	2	nsubj	_	_
+6	Miránda	_	PROPN	_	_	5	flat	_	_
+7	.	_	PUNCT	_	_	2	punct	_	_
 
-
-# sent_id = grammar:
+# sent_id = grammar:77
 # text = Kaníta naman migmúla ing qínge king dálan. 
 # text[eng] =  That’s the same way the noise in the street started. 
-# labels = forman:71:44
-1	Kaníta	_	_	_	_	_	_	_	_
-2	naman	_	_	_	_	_	_	_	_
-3	migmúla	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	qínge	_	_	_	_	_	_	_	_
-6	king	_	_	_	_	_	_	_	_
-7	dálan	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check pos of kanita , check obl (dislocated?)
+1	Kaníta	_	ADP	_	_	3	obl	_	_
+2	naman	_	PART	_	_	3	discourse	_	_
+3	migmúla	_	VERB	_	_	_	_	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	qínge	_	NOUN	_	_	3	nsubj	_	_
+6	king	_	ADP	_	_	7	case	_	_
+7	dálan	_	NOUN	_	_	3	obl	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:78
 # text = Makó na ka kanyán? 
 # text[eng] =  Are you leaving now (like that)?’ 
-# labels = forman:71:44
-1	Makó	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	ka	_	_	_	_	_	_	_	_
-4	kanyán	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check pos and relation for kanyan
+1	Makó	_	VERB	_	_	0	root	_	_
+2	na	_	PART	_	_	1	dep	_	_
+3	ka	_	PRON	_	_	1	dep	_	_
+4	kanyán	_	ADP	_	_	1	obl	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:79
 # text = Nánu ing dáptan mu karéni?
 # text[eng] = What will you do with these?’ 
-# labels = forman:71:44
-1	Nánu	_	_	_	_	_	_	_	_
-2	ing	_	_	_	_	_	_	_	_
-3	dáptan	_	_	_	_	_	_	_	_
-4	mu	_	_	_	_	_	_	_	_
-5	karéni	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check pos and relation for kareni, check promotion by head elision
+1	Nánu	_	PRON	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	dáptan	_	VERB	_	_	1	nsubj	_	_
+4	mu	_	PRON	_	_	3	dep	_	_
+5	karéni	_	ADP	_	_	3	obl	_	_
+6	?	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:80
 # text = Magtál kata námuq karéta.
 # text[eng] =  We (two) will just harvest those. 
-# labels = forman:71:44
-1	Magtál	_	_	_	_	_	_	_	_
-2	kata	_	_	_	_	_	_	_	_
-3	námuq	_	_	_	_	_	_	_	_
-4	karéta	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+# labels = forman:71:44 , check pos and relation for kareta
+1	Magtál	_	VERB	_	_	0	root	_	_
+2	kata	_	PRON	_	_	1	dep	_	_
+3-4	námuq	_	_	_	_	_	_	_	_
+3	ná	_	PART	_	_	1	dep	_	_
+4	muq	_	PART	_	_	1	dep	_	_
+5	karéta	_	ADP	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:81
 # text = Oiní i tátang ku.
 # text[eng] =  This one here (in a photo) is my father. 
 # labels = forman:71:44
@@ -945,7 +951,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:82
 # text = Oréni ring maní.
 # text[eng] =  Here are the peanuts. 
 # labels = forman:71:44
@@ -955,7 +961,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:83
 # text = Oréta na ring músikus. 
 # text[eng] =  There are the musicians. 
 # labels = forman:71:45
@@ -966,7 +972,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:84
 # text = Oryán na.
 # text[eng] =  There they are now. 
 # labels = forman:71:45
@@ -975,7 +981,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:85
 # text = Kéni ta tipúnan ing pibalátan tang maní.
 # text[eng] =  Here is where we (should) throw away our peanut shells. 
 # labels = forman:71:45
@@ -989,7 +995,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:86
 # text = Nánumang ásaup mu kén, pásalamátan ku. 
 # text[eng] = Whatever help you can give him, I thank you for it. 
 # labels = forman:71:45
@@ -1003,7 +1009,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:87
 # text = Qíka, Nóra, maglínis ka kéti balé. 
 # text[eng] = As for you, Nora, clean up here in the house. 
 # labels = forman:71:45
@@ -1018,7 +1024,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:88
 # text = Ding aliwá puq, ibát la kéti. 
 # text[eng] = As for the others, sir, they are from here. 
 # labels = forman:71:45
@@ -1032,7 +1038,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:89
 # text = Muntá kang agád kéta kayá. 
 # text[eng] = You go right away to his/her place. 
 # labels = forman:71:45
@@ -1044,7 +1050,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:90
 # text = Malínis at makasalílung ing karín. 
 # text[eng] = The (place) there is clean and shady. 
 # labels = forman:71:45
@@ -1056,29 +1062,29 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:91
 # text = Ing sinsíl, para bákal ya o para batú; ing pát, para dútung.
 # text[eng] = The sinsil is a chisel for iron or stone; the pat is a chisel for wood. 
 # labels = forman:71:46
-1	Ing	_	_	_	_	_	_	_	_
-2	sinsíl	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	para	_	_	_	_	_	_	_	_
-5	bákal	_	_	_	_	_	_	_	_
-6	ya	_	_	_	_	_	_	_	_
-7	o	_	_	_	_	_	_	_	_
-8	para	_	_	_	_	_	_	_	_
-9	batú	_	_	_	_	_	_	_	_
-10	;	_	_	_	_	_	_	_	_
-11	ing	_	_	_	_	_	_	_	_
-12	pát	_	_	_	_	_	_	_	_
-13	,	_	_	_	_	_	_	_	_
-14	para	_	_	_	_	_	_	_	_
-15	dútung	_	_	_	_	_	_	_	_
-16	.	_	_	_	_	_	_	_	_
+1	Ing	_	ADP	_	_	2	case	_	_
+2	sinsíl	_	NOUN	_	_	5	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	para	_	ADP	_	_	5	case	_	_
+5	bákal	_	NOUN	_	_	0	root	_	_
+6	ya	_	PRON	_	_	5	dep	_	_
+7	o	_	CCONJ	_	_	9	cc	_	_
+8	para	_	ADP	_	_	9	case	_	_
+9	batú	_	NOUN	_	_	5	conj	_	_
+10	;	_	PUNCT	_	_	5	punct	_	_
+11	ing	_	ADP	_	_	12	case	_	_
+12	pát	_	NOUN	_	_	15	dislocated	_	_
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	para	_	ADP	_	_	15	case	_	_
+15	dútung	_	NOUN	_	_	5	parataxis	_	_
+16	.	_	PUNCT	_	_	5	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:92
 # text = Sasadyá re ri mis púno at ding ának ing kwártu ra para king daratáng a paskú.
 # text[eng] = Miss Puno and her pupils are preparing their room for the coming Easter. 
 # labels = forman:71:45
@@ -1113,38 +1119,15 @@
 
 
 # sent_id = grammar:
-# text = kéta lálam ning tanáman. 
-# text[eng] = there under the tree. 
-# labels = forman:71:47
-1	kéta	_	_	_	_	_	_	_	_
-2	lálam	_	_	_	_	_	_	_	_
-3	ning	_	_	_	_	_	_	_	_
-4	tanáman	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
-
-
-# sent_id = grammar:
-# text = deng marakál a táung arén.
-# text[eng] = those many people there. 
-# labels = forman:71:48
-1	deng	_	_	_	_	_	_	_	_
-2	marakál	_	_	_	_	_	_	_	_
-3	a	_	_	_	_	_	_	_	_
-4	táung	_	_	_	_	_	_	_	_
-5	arén	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
-
-
-# sent_id = grammar:
 # text = Anám na ké bánwa miasáwa. 
 # text[eng] = We’ve been married six years now. 
-# labels = forman:71:48
-1	Anám	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	ké	_	_	_	_	_	_	_	_
-4	bánwa	_	_	_	_	_	_	_	_
-5	miasáwa	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+# labels = forman:71:48 , check pos of banwa and advmod (obl? something else?)
+1	Anám	_	NUM	_	_	4	nummod	_	_
+2	na	_	PART	_	_	5	dep	_	_
+3	ké	_	PRON	_	_	5	dep	_	_
+4	bánwa	_	NOUN	_	_	5	advmod	_	_
+5	miasáwa	_	VERB	_	_	0	root	_	_
+6	.	_	PUNCT	_	_	5	punct	_	_
 
 
 # sent_id = grammar:
