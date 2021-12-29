@@ -944,47 +944,44 @@
 # text = Oiní i tátang ku.
 # text[eng] =  This one here (in a photo) is my father. 
 # labels = forman:71:44
-1	Oiní	_	_	_	_	_	_	_	_
-2	i	_	_	_	_	_	_	_	_
-3	tátang	_	_	_	_	_	_	_	_
-4	ku	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Oiní	_	DET	_	_	0	root	_	_
+2	i	_	ADP	_	_	3	case	_	_
+3	tátang	_	NOUN	_	_	1	nsubj	_	_
+4	ku	_	PRON	_	_	3	nmod:poss	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:82
 # text = Oréni ring maní.
 # text[eng] =  Here are the peanuts. 
 # labels = forman:71:44
-1	Oréni	_	_	_	_	_	_	_	_
-2	ring	_	_	_	_	_	_	_	_
-3	maní	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
-
-
-# sent_id = grammar:83
-# text = Oréta na ring músikus. 
+1	Oréni	_	DET	_	_	0	root	_	_
+2	ring	_	ADP	_	_	3	case	_	_
+3	maní	_	NOUN	_	_	1	nsubj	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
+# sent_id = grammar:83 # text = Oréta na ring músikus. 
 # text[eng] =  There are the musicians. 
 # labels = forman:71:45
-1	Oréta	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	ring	_	_	_	_	_	_	_	_
-4	músikus	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Oréta	_	DET	_	_	0	root	_	_
+2	na	_	PART	_	_	1	discourse	_	_
+3	ring	_	ADP	_	_	4	case	_	_
+4	músikus	_	NOUN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:84
 # text = Oryán na.
 # text[eng] =  There they are now. 
 # labels = forman:71:45
-1	Oryán	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Oryán	_	DET	_	_	0	root	_	_
+2	na	_	PART	_	_	1	dep	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:85
 # text = Kéni ta tipúnan ing pibalátan tang maní.
 # text[eng] =  Here is where we (should) throw away our peanut shells. 
-# labels = forman:71:45
+# labels = forman:71:45 , check 
 1	Kéni	_	_	_	_	_	_	_	_
 2	ta	_	_	_	_	_	_	_	_
 3	tipúnan	_	_	_	_	_	_	_	_
