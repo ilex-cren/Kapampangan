@@ -252,7 +252,14 @@
 # sent_id = grammar:22
 # text = Itá ing pilalában mi king aldóqaldó.
 # text[eng] = That’s what we struggle over in the confines of a day (every day).
-# labels = forman:71:36
+# labels = forman:71:36 , check promotion by head elision
+1	Itá	_	DET	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	pilalában	_	VERB	_	_	1	nsubj	_	_
+4	mi	_	PRON	_	_	3	obj:agent	_	_
+5	king	_	ADP	_	_	6	case	_	_
+6	aldóqaldó	_	NOUN	_	_	3	obl	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:23
 # text = I nóra, tínípa ya king múla.
@@ -820,7 +827,7 @@
 # text = Nánu la rétang makabálut papíl? 
 # text[eng] = What are those things wrapped in paper?’ 
 # labels = forman:71:44 , check makabalut -> papil
-1	Nánu	_	PRON	_	_	0	root	_	_
+1	Nánu	_	VERB	_	_	0	root	_	_
 2	la	_	PRON	_	_	1	dep	_	_
 3-4	rétang	_	_	_	_	_	_	_	_
 3	réta	_	DET	_	_	5	det	_	_
@@ -919,7 +926,7 @@
 # text = Nánu ing dáptan mu karéni?
 # text[eng] = What will you do with these?’ 
 # labels = forman:71:44 , check pos and relation for kareni, check promotion by head elision
-1	Nánu	_	PRON	_	_	0	root	_	_
+1	Nánu	_	VERB	_	_	0	root	_	_
 2	ing	_	ADP	_	_	3	case	_	_
 3	dáptan	_	VERB	_	_	1	nsubj	_	_
 4	mu	_	PRON	_	_	3	dep	_	_
@@ -1053,12 +1060,12 @@
 # text = Malínis at makasalílung ing karín. 
 # text[eng] = The (place) there is clean and shady. 
 # labels = forman:71:45
-1	Malínis	_	_	_	_	_	_	_	_
-2	at	_	_	_	_	_	_	_	_
-3	makasalílung	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	karín	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Malínis	_	ADJ	_	_	0	root	_	_
+2	at	_	CCONJ	_	_	3	cc	_	_
+3	makasalílung	_	ADJ	_	_	1	conj	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	karín	_	DET	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:91
@@ -1221,11 +1228,11 @@
 # sent_id = grammar:101
 # text = Dudurót katá qútak. 
 # text[eng] = We are confused [lit. whirling we (with respect to our) brains]. 
-# labels = forman:71:51
-1	Dudurót	_	_	_	_	_	_	_	_
-2	katá	_	_	_	_	_	_	_	_
-3	qútak	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+# labels = forman:71:51 , check label of qutak
+1	Dudurót	_	VERB	_	_	0	root	_	_
+2	katá	_	PRON	_	_	1	dep	_	_
+3	qútak	_	NOUN	_	_	1	obl	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:102
@@ -1301,10 +1308,12 @@
 # text = Migísing lang maránun. 
 # text[eng] = They woke up early. 
 # labels = forman:71:51
-1	Migísing	_	_	_	_	_	_	_	_
-2	lang	_	_	_	_	_	_	_	_
-3	maránun	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Migísing	_	VERB	_	_	0	root	_	_
+2-3	lang	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	maránun	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:110
@@ -1330,121 +1339,109 @@
 4	magsalítaq	_	VERB	_	_	0	root	_	_
 5	.	_	PUNCT	_	_	4	punct	_	_
 
-# sent_id = grammar:
+# sent_id = grammar:112
 # text = Qagadqagád yang minúkyat. 
 # text[eng] = He climbed straightaway. 
 # labels = forman:71:51
-1	Qagadqagád	_	_	_	_	_	_	_	_
-2	yang	_	_	_	_	_	_	_	_
-3	minúkyat	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Qagadqagád	_	ADV	_	_	4	advmod	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	4	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	minúkyat	_	VERB	_	_	0	root	_	_
+5	.	_	PUNCT	_	_	4	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:113
 # text = Áintíndian nong talagá.
 # text[eng] =  They really understand (it). 
 # labels = forman:71:51
-1	Áintíndian	_	_	_	_	_	_	_	_
-2	nong	_	_	_	_	_	_	_	_
-3	talagá	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Áintíndian	_	VERB	_	_	0	root	_	_
+2-4	nong	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	o	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:li	_	_
+5	talagá	_	ADV	_	_	1	advmod	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:114
 # text = Balíkar dong pasibáyu deng ténam da. 
 # text[eng] =  They went back again to the ones they planted. 
 # labels = forman:71:51
-1	Balíkar	_	_	_	_	_	_	_	_
-2	dong	_	_	_	_	_	_	_	_
-3	pasibáyu	_	_	_	_	_	_	_	_
-4	deng	_	_	_	_	_	_	_	_
-5	ténam	_	_	_	_	_	_	_	_
-6	da	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Balíkar	_	VERB	_	_	0	root	_	_
+2-4	dong	_	_	_	_	_	_	_	_
+2	d	_	PRON	_	_	1	dep	_	_
+3	o	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	pasibáyu	_	ADV	_	_	1	advmod	_	_
+6	deng	_	ADP	_	_	7	case	_	_
+7	ténam	_	VERB	_	_	1	nsubj	_	_
+8	da	_	PRON	_	_	7	dep	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:115
 # text = É me ipusít makanyán. 
 # text[eng] = Don’t squeeze it like that. (51
 # labels = forman:71:51
-1	É	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ipusít	_	_	_	_	_	_	_	_
-4	makanyán	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	É	_	ADV	_	_	4	advmod	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	4	dep	_	_
+3	e	_	PRON	_	_	4	dep	_	_
+4	ipusít	_	VERB	_	_	0	root	_	_
+5	makanyán	_	ADJ	_	_	4	advmod	_	_
+6	.	_	PUNCT	_	_	4	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:116
 # text = Lálabít kang lálabít. 
 # text[eng] = You really do blabber. 
 # labels = forman:71:52
-1	Lálabít	_	_	_	_	_	_	_	_
-2	kang	_	_	_	_	_	_	_	_
-3	lálabít	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Lálabít	_	VERB	_	_	0	root	_	_
+2-3	kang	_	_	_	_	_	_	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	lálabít	_	VERB	_	_	1	compound:redup	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
-# text = mangán nang mangán.
-# text[eng] =  eat and eat/stuff oneself’. 
-# labels = forman:71:52
-1	mangán	_	_	_	_	_	_	_	_
-2	nang	_	_	_	_	_	_	_	_
-3	mangán	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
-
-
-# sent_id = grammar:
-# text = paintún neng paintún. 
-# text[eng] = search and search for something’. 
-# labels = forman:71:52
-1	paintún	_	_	_	_	_	_	_	_
-2	neng	_	_	_	_	_	_	_	_
-3	paintún	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
-
-
-# sent_id = grammar:
-# text = Nánánu ka?. 
+# sent_id = grammar:117
+# text = Nánánu ka?
 # text[eng] = What are you doing?’. 
 # labels = forman:71:52
-1	Nánánu	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Nánánu	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	?	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:118
 # text = Nínánu ka?. 
-# text[eng] =  What did you do?. 
+# text[eng] =  What did you do?
 # labels = forman:71:52
-1	Nínánu	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Nínánu	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	?	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:119
 # text = Menánu ka?. 
-# text[eng] = What happened to you?’. 
+# text[eng] = What happened to you?
 # labels = forman:71:52
 1	Menánu	_	_	_	_	_	_	_	_
 2	ka	_	_	_	_	_	_	_	_
 3	?	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
-# text = Makanánu ka?. 
+# sent_id = grammar:120
+# text = Makanánu ka?
 # text[eng] = How are you? How (will) you (do it)? 
 # labels = forman:71:52
 1	Makanánu	_	_	_	_	_	_	_	_
 2	ka	_	_	_	_	_	_	_	_
 3	?	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:121
 # text = Mintáka? 
 # text[eng] = Did you go?’ 
 # labels = forman:71:52
@@ -1452,7 +1449,7 @@
 2	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:122
 # text = Alí ku.
 # text[eng] =  No, I didn’t (go). 
 # labels = forman:71:52
@@ -1461,7 +1458,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:123
 # text = Éku mintá. 
 # text[eng] = I didn’t go. 
 # labels = forman:71:52
@@ -1470,7 +1467,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:124
 # text = Makó ná ku. 
 # text[eng] = I’m going to leave now. 
 # labels = forman:71:53
@@ -1480,7 +1477,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:125
 # text = É na ku mámakó.
 # text[eng] = I’m not leaving now. 
 # labels = forman:71:53
@@ -1491,7 +1488,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:126
 # text = Mangán tá na.  É ka makó.
 # text[eng] = Don’t leave. 
 # labels = forman:71:53

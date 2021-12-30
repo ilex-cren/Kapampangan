@@ -126,7 +126,7 @@
 # text = Nanu ya ing gewa na ning anak mu?
 # text[eng] = What did your child do?
 # labels = mirikitani:72:137
-1	Nanu	_	PRON	_	_	0	root	_	_
+1	Nanu	_	VERB	_	_	0	root	_	_
 2	ya	_	PRON	_	_	1	dep	_	_
 3	ing	_	ADP	_	_	4	case	_	_
 4	gewa	_	VERB	_	_	1	nsubj	_	_
@@ -601,10 +601,10 @@
 9	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = syntax:49
-# text = Nanu ing gew na ning lalaki?
+# text = Nanu ing gewa na ning lalaki?
 # text[eng] = What did the boy do?
 # labels = mirikitani:72:151
-1	Nanu	_	PRON	_	_	0	root	_	_
+1	Nanu	_	VERB	_	_	0	root	_	_
 2	ing	_	SCONJ	_	_	3	mark	_	_
 3	gewa	_	VERB	_	_	1	csubj	_	_
 4	na	_	PRON	_	_	3	dep	_	_
@@ -631,7 +631,7 @@
 # text = Nanu ing seli na ning lalaki?
 # text[eng] = What did the boy buy?
 # labels = mirikitani:72:151
-1	Nanu	_	PRON	_	_	0	root	_	_
+1	Nanu	_	VERB	_	_	0	root	_	_
 2	ing	_	ADP	_	_	3	case	_	_
 3	seli	_	VERB	_	_	1	nsubj	_	_
 4	na	_	PRON	_	_	3	dep	_	_
