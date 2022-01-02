@@ -1,7 +1,7 @@
 # sent_id = grammar:1
 # text = Ináus de.
-# text[eng] =
-# labels = forman:71:
+# text[eng] = They called him.
+# labels = forman:71:41
 1	Ináus	_	VERB	_	_	0	root	_	_
 2-3	de	_	_	_	_	_	_	_	_
 2	d	_	PRON	_	_	1	dep	_	_
@@ -10,15 +10,15 @@
 
 # sent_id = grammar:2
 # text = Swérte ya.
-# text[eng] = 
-# labels = forman:71:
+# text[eng] = He is lucky.
+# labels = forman:71:30
 1	Swérte	_	ADJ	_	_	0	root	_	_
 2	ya	_	PR	_	_	1	dep	_	_
 3	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:3
 # text = Pináluq ke keng dútung.
-# text[eng] = I beat him with apiece of wood.
+# text[eng] = I beat him with a piece of wood.
 # labels = forman:71:37
 1	Pináluq	_	VERB	_	_	0	root	_	_
 2-3	ke	_	_	_	_	_	_	_	_
@@ -30,16 +30,16 @@
 
 # sent_id = grammar:4
 # text = Kátas mu!
-# text[eng] =
-# labels = forman:71:
+# text[eng] = You're so tall!
+# labels = forman:71:36
 1	Kátas	_	ADJ	_	_	0	root	_	_
 2	mu	_	PRON	_	_	1	dep	_	_
 3	!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:5
 # text = Ináus ne.
-# text[eng] = 
-# labels = forman:71:
+# text[eng] = She called him.
+# labels = forman:71:41
 1	Ináus	_	VERB	_	_	0	root	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	1	dep	_	_
@@ -48,8 +48,8 @@
 
 # sent_id = grammar:6
 # text = Salikútan me ing klásit.
-# text[eng] =
-# labels = forman:71:
+# text[eng] = Hide in the closet.
+# labels = forman:71:76
 1	Salikútan	_	VERB	_	_	0	root	_	_
 2-3	me	_	_	_	_	_	_	_	_
 2	m	_	PRON	_	_	1	dep	_	_
@@ -1526,8 +1526,8 @@
 
 # sent_id = grammar:129
 # text = Anté i Tátang?
-# text[eng] = Where is Father?’ 
-# labels = forman:71:54
+# text[eng] = Where is Father? 
+# labels = forman:71:54 , check meaning of ante
 1	Anté	_	_	_	_	_	_	_	_
 2	i	_	_	_	_	_	_	_	_
 3	Tátang	_	_	_	_	_	_	_	_
@@ -1684,60 +1684,59 @@
 # text = Kang Kármén ing maníka. 
 # text[eng] = The doll is Carmen’s/is with Carmen. 
 # labels = forman:71:55
-1	Kang	_	_	_	_	_	_	_	_
-2	Kármén	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	maníka	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Kang	_	ADP	_	_	2	case	_	_
+2	Kármén	_	PROPN	_	_	0	root	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	maníka	_	NOUN	_	_	2	nsubj	_	_
+5	.	_	PUNCT	_	_	2	punct	_	_
 
 
 # sent_id = grammar:143
 # text = Ing kang Kármén ing maníka. 
 # text[eng] = The doll is the one Carmen has. 
-# labels = forman:71:55
-1	Ing	_	_	_	_	_	_	_	_
-2	kang	_	_	_	_	_	_	_	_
-3	Kármén	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	maníka	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+# labels = forman:71:55 , check case
+1	Ing	_	ADP	_	_	3	case	_	_
+2	kang	_	ADP	_	_	3	case	_	_
+3	Kármén	_	PROPN	_	_	0	root	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	maníka	_	NOUN	_	_	3	nsubj	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:144
 # text = Kutséru ya i Mandóng. 
 # text[eng] = Mandong is a rig-driver. 
 # labels = forman:71:55
-1	Kutséru	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Mandóng	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Kutséru	_	NOUN	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Mandóng	_	PROPN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:145
 # text = Kusinéra ya i Ríta. 
 # text[eng] = Rita is a cook/kitchen manager/runs a restaurant. 
 # labels = forman:71:56
-1	Kusinéra	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Ríta	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
-6	‘	_	_	_	_	_	_	_	_
+1	Kusinéra	_	NOUN	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Ríta	_	PROPN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:146
 # text = Ing kapitán (ya) i Paskwál. 
 # text[eng] =  Pascual is the (barrio) captain. 
 # labels = forman:71:56
-1	Ing	_	_	_	_	_	_	_	_
-2	kapitán	_	_	_	_	_	_	_	_
-3	(	_	_	_	_	_	_	_	_
-4	ya	_	_	_	_	_	_	_	_
-5	)	_	_	_	_	_	_	_	_
-6	i	_	_	_	_	_	_	_	_
-7	Paskwál	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Ing	_	ADP	_	_	2	case	_	_
+2	kapitán	_	NOUN	_	_	0	root	_	_
+3	(	_	PUNCT	_	_	4	punct	_	_
+4	ya	_	PRON	_	_	2	dep	_	_
+5	)	_	PUNCT	_	_	4	punct	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	Paskwál	_	PROPN	_	_	2	nsubj	_	_
+8	.	_	PUNCT	_	_	2	punct	_	_
 
 
 # sent_id = grammar:147
@@ -1755,23 +1754,22 @@
 # text = Íka i Maríang Sinukuán?. 
 # text[eng] = Are you Maria Sinukuan?’ 
 # labels = forman:71:56
-1	Íka	_	_	_	_	_	_	_	_
-2	i	_	_	_	_	_	_	_	_
-3	Maríang	_	_	_	_	_	_	_	_
-4	Sinukuán	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Íka	_	PRON	_	_	0	root	_	_
+2	i	_	ADP	_	_	3	case	_	_
+3	Maríang	_	PROPN	_	_	1	nsubj	_	_
+4	Sinukuán	_	PROPN	_	_	3	flat	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:149
 # text = É ku Maríang Sinukuán. 
 # text[eng] = I’m not Maria Sinukuan. 
 # labels = forman:71:56
-1	É	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	Maríang	_	_	_	_	_	_	_	_
-4	Sinukuán	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	É	_	ADV	_	_	3	advmod	_	_
+2	ku	_	PRON	_	_	3	dep	_	_
+3	Maríang	_	PROPN	_	_	0	root	_	_
+4	Sinukuán	_	PROPN	_	_	3	flat	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:150
@@ -1844,18 +1842,6 @@
 
 
 # sent_id = grammar:156
-# text = Nánu la rétang makabálut papél? 
-# text[eng] = What are those things wrapped in paper?’ 
-# labels = forman:71:56
-1	Nánu	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	rétang	_	_	_	_	_	_	_	_
-4	makabálut	_	_	_	_	_	_	_	_
-5	papél	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
-
-
-# sent_id = grammar:157
 # text = Ságin la? 
 # text[eng] = Are they bananas?’ 
 # labels = forman:71:56
@@ -1864,7 +1850,7 @@
 3	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:158
+# sent_id = grammar:157
 # text = Alí la. 
 # text[eng] =  No, they’re not. 
 # labels = forman:71:56
@@ -1873,7 +1859,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:159
+# sent_id = grammar:158
 # text = É la asán dén. 
 # text[eng] =  Those are not fish. 
 # labels = forman:71:56
@@ -1884,7 +1870,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:160
+# sent_id = grammar:159
 # text = É ya tugák ing king súput. 
 # text[eng] = The thing in the sack is not a frog. 
 # labels = forman:71:56
@@ -1897,7 +1883,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:161
+# sent_id = grammar:160
 # text = Obát pu lálákad la ring balé ampon tanáman?
 # text[eng] = Why are the houses and trees moving, sir?
 # labels = forman:71:57
@@ -1911,7 +1897,7 @@
 8	tanáman	_	_	_	_	_	_	_	_
 9	?	_	_	_	_	_	_	_	_
 
-# sent_id = grammar:162
+# sent_id = grammar:161
 # text = Aliwá ring balé ampon tanáman ding lálákad.
 # text[eng] = It’s not the houses and trees that are moving (it’s something else). 
 # labels = forman:71:57
@@ -1924,7 +1910,7 @@
 7	lálákad	_	_	_	_	_	_	_	_
 8	.	_	_	_	_	_	_	_	_
 
-# sent_id = grammar:163
+# sent_id = grammar:162
 # text = Ing lálákad ing sásakén tang trén.
 # text[eng] = What is moving is the train we are riding.
 # labels = forman:71:57
