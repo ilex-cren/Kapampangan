@@ -1249,29 +1249,31 @@
 # text = Makúnyat la balát. 
 # text[eng] =  They are thick-skinned. 
 # labels = forman:71:51
-1	Makúnyat	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	balát	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Makúnyat	_	ADJ	_	_	3	amod	_	_
+2	la	_	PRON	_	_	3	dep	_	_
+3	balát	_	NOUN	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:104
 # text = Mapáli ya buntúk.
 # text[eng] = He is hot-headed. 
 # labels = forman:71:51
-1	Mapáli	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	buntúk	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mapáli	_	ADJ	_	_	3	amod	_	_
+2	ya	_	PRON	_	_	3	dep	_	_
+3	buntúk	_	NOUN	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:105
 # text = Mépákúya buldít. 
 # text[eng] = He got the seat of his pants caught on a nail. 
 # labels = forman:71:51
-1	Mépákúya	_	_	_	_	_	_	_	_
-2	buldít	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1-2	Mépákúya	_	_	_	_	_	_	_	_
+1	Mépákú	_	ADJ	_	_	3	amod	_	_
+2	ya	_	PRON	_	_	3	dep	_	_
+3	buldít	_	NOUN	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:106
@@ -2126,12 +2128,12 @@
 # text = Tibak-tibák ya ing úrud na. 
 # text[eng] = His haircut is sort of uneven. 
 # labels = forman:71:58
-1	Tibak-tibák	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	úrud	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Tibak-tibák	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	úrud	_	NOUN	_	_	1	nsubj	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:181
@@ -2149,46 +2151,48 @@
 # text = Mátua náku. 
 # text[eng] = I’m old now. 
 # labels = forman:71:58
-1	Mátua	_	_	_	_	_	_	_	_
-2	náku	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Mátua	_	ADJ	_	_	0	root	_	_
+2-3	náku	_	_	_	_	_	_	_	_
+2	ná	_	PART	_	_	1	discourse	_	_
+3	ku	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:183
 # text = Malagnát ya ing anák. 
 # text[eng] = The child is feverish. 
 # labels = forman:71:58
-1	Malagnát	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	anák	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Malagnát	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	anák	_	NOUN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:184
 # text = Malambút ya ing ulunán na ning anák. 
 # text[eng] = The child’s pillow is soft. 
 # labels = forman:71:58
-1	Malambút	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	ulunán	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	ning	_	_	_	_	_	_	_	_
-7	anák	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Malambút	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	ulunán	_	NOUN	_	_	1	nsubj	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	ning	_	ADP	_	_	7	case	_	_
+7	anák	_	NOUN	_	_	4	nmod:poss	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:185
 # text = Maqásu ya ing balé ra. 
 # text[eng] = Their house has plenty of dogs. 
 # labels = forman:71:58
-1	Maqásu	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	balé	_	_	_	_	_	_	_	_
-5	ra	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Maqásu	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	balé	_	NOUN	_	_	1	nsubj	_	_
+5	ra	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:186
@@ -2207,218 +2211,258 @@
 # text = Obát malungkút ká? 
 # text[eng] = Why are you sad?’ 
 # labels = forman:71:59
-1	Obát	_	_	_	_	_	_	_	_
-2	malungkút	_	_	_	_	_	_	_	_
-3	ká	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Obát	_	ADV	_	_	2	advmod	_	_
+2	malungkút	_	ADJ	_	_	0	root	_	_
+3	ká	_	PRON	_	_	2	dep	_	_
+4	?	_	PUNCT	_	_	2	punct	_	_
 
 
 # sent_id = grammar:188
 # text = Manóng itáng géwa na. 
 # text[eng] = What he did was improper. 
 # labels = forman:71:59
-1	Manóng	_	_	_	_	_	_	_	_
-2	itáng	_	_	_	_	_	_	_	_
-3	géwa	_	_	_	_	_	_	_	_
-4	na	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Manóng	_	ADJ	_	_	0	root	_	_
+2-3	itáng	_	_	_	_	_	_	_	_
+2	itá	_	DET	_	_	4	det	_	_
+3	ng	_	PART	_	_	2	mark:link	_	_
+4	géwa	_	VERB	_	_	1	nsubj	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:189
 # text = Masípag ya i Lína. 
 # text[eng] = Lina is hard-working.
 # labels = forman:71:59
-1	Masípag	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Lína	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Masípag	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Lína	_	PROPN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:190
 # text = Mapagsélos kung talagá ngéni.
 # text[eng] = I’m really jealous now. 
 # labels = forman:71:59
-1	Mapagsélos	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	talagá	_	_	_	_	_	_	_	_
-4	ngéni	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Mapagsélos	_	ADJ	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	talagá	_	ADV	_	_	1	advmod	_	_
+5	ngéni	_	ADV	_	_	1	advmod	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:191
 # text = Meburá itáng sinúlat ku nandín.
 # text[eng] = That thing I wrote a while ago was erased. 
 # labels = forman:71:59
-1	Meburá	_	_	_	_	_	_	_	_
-2	itáng	_	_	_	_	_	_	_	_
-3	sinúlat	_	_	_	_	_	_	_	_
-4	ku	_	_	_	_	_	_	_	_
-5	nandín	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Meburá	_	VERB	_	_	0	root	_	_
+2-3	itáng	_	_	_	_	_	_	_	_
+2	itá	_	DET	_	_	4	det	_	_
+3	ng	_	PART	_	_	2	mark:link	_	_
+4	sinúlat	_	VERB	_	_	1	nsubj	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6	nandín	_	ADV	_	_	4	advmod	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:192
 # text = Mesiás itáng linútu na. 
 # text[eng] = What she cooked has hardened now.
 # labels = forman:71:59
-1	Mesiás	_	_	_	_	_	_	_	_
-2	itáng	_	_	_	_	_	_	_	_
-3	linútu	_	_	_	_	_	_	_	_
-4	na	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Mesiás	_	VERB	_	_	0	root	_	_
+2-3	itáng	_	_	_	_	_	_	_	_
+2	itá	_	DET	_	_	4	det	_	_
+3	ng	_	PART	_	_	2	mark:link	_	_
+4	linútu	_	VERB	_	_	1	nsubj	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:193
 # text = Melasébu no rétang sampáluk ku. 
 # text[eng] = My tamarind fruits have become partly ripe. 
 # labels = forman:71:59
-1	Melasébu	_	_	_	_	_	_	_	_
-2	no	_	_	_	_	_	_	_	_
-3	rétang	_	_	_	_	_	_	_	_
-4	sampáluk	_	_	_	_	_	_	_	_
-5	ku	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Melasébu	_	VERB	_	_	0	root	_	_
+2-3	no	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	o	_	PRON	_	_	1	dep	_	_
+4-5	rétang	_	_	_	_	_	_	_	_
+4	réta	_	DET	_	_	6	det	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	sampáluk	_	NOUN	_	_	1	nsubj	_	_
+7	ku	_	PRON	_	_	6	dep	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:194
 # text = Melulút no rétang manggá. 
 # text[eng] = Those mangoes have become ripe.
 # labels = forman:71:59
-1	Melulút	_	_	_	_	_	_	_	_
-2	no	_	_	_	_	_	_	_	_
-3	rétang	_	_	_	_	_	_	_	_
-4	manggá	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Melulút	_	VERB	_	_	0	root	_	_
+2-3	no	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	o	_	PRON	_	_	1	dep	_	_
+4-5	rétang	_	_	_	_	_	_	_	_
+4	réta	_	DET	_	_	6	det	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	manggá	_	NOUN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:195
 # text = Melukúng ya itáng plástik.
 # text[eng] = The piece of plastic got curved. 
 # labels = forman:71:59
-1	Melukúng	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	itáng	_	_	_	_	_	_	_	_
-4	plástik	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Melukúng	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3-4	itáng	_	_	_	_	_	_	_	_
+3	itá	_	DET	_	_	5	det	_	_
+4	ng	_	PART	_	_	3	mark:link	_	_
+5	plástik	_	NOUN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:196
 # text = Mebagsík ne itáng ásu ku.
 # text[eng] = My dog has become fierce. 
 # labels = forman:71:59
-1	Mebagsík	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	itáng	_	_	_	_	_	_	_	_
-4	ásu	_	_	_	_	_	_	_	_
-5	ku	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Mebagsík	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4-5	itáng	_	_	_	_	_	_	_	_
+4	itá	_	DET	_	_	6	det	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	ásu	_	NOUN	_	_	1	nsubj	_	_
+7	ku	_	PRON	_	_	6	dep	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:197
 # text = Mangatáko langán deng táung dén. 
 # text[eng] = Those people there are all greedy. 
-# labels = forman:71:59
-1	Mangatáko	_	_	_	_	_	_	_	_
-2	langán	_	_	_	_	_	_	_	_
-3	deng	_	_	_	_	_	_	_	_
-4	táung	_	_	_	_	_	_	_	_
-5	dén	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+# labels = forman:71:59 , check label for ngan
+1	Mangatáko	_	ADJ	_	_	0	root	_	_
+2-3	langán	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ngán	_	DET	_	_	5	det	_	_
+4	deng	_	ADP	_	_	5	case	_	_
+5-6	táung	_	_	_	_	_	_	_	_
+5	táu	_	NOUN	_	_	1	nsubj	_	_
+6	ng	_	PART	_	_	7	mark:link	_	_
+7	dén	_	DET	_	_	5	det	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:198
 # text = Mangatarám lading gagamítan dang kampít. 
 # text[eng] = The knives they are using are sharp. 
 # labels = forman:71:59
-1	Mangatarám	_	_	_	_	_	_	_	_
-2	lading	_	_	_	_	_	_	_	_
-3	gagamítan	_	_	_	_	_	_	_	_
-4	dang	_	_	_	_	_	_	_	_
-5	kampít	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Mangatarám	_	ADJ	_	_	0	root	_	_
+2-3	lading	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ding	_	ADP	_	_	4	case	_	_
+4	gagamítan	_	VERB	_	_	1	nsubj	_	_
+5-6	dang	_	_	_	_	_	_	_	_
+5	da	_	PRON	_	_	4	dep	_	_
+6	ng	_	PART	_	_	7	mark:link	_	_
+7	kampít	_	NOUN	_	_	4	nsubj	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:199
 # text = Mangabarúg ya kang tátang na. 
 # text[eng] = He keeps getting whipped by his father. 
 # labels = forman:71:59
-1	Mangabarúg	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	kang	_	_	_	_	_	_	_	_
-4	tátang	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Mangabarúg	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	kang	_	ADP	_	_	4	case	_	_
+4	tátang	_	NOUN	_	_	1	obl	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:200
 # text = Mengalutú ya iniang pékisábián ke. 
 # text[eng] = He reddened when I spoke to him. 
 # labels = forman:71:59
-1	Mengalutú	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	iniang	_	_	_	_	_	_	_	_
-4	pékisábián	_	_	_	_	_	_	_	_
-5	ke	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Mengalutú	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	iniang	_	SCONJ	_	_	4	mark	_	_
+4	pékisábián	_	VERB	_	_	1	advcl	_	_
+5-6	ke	_	_	_	_	_	_	_	_
+5	k	_	PRON	_	_	4	dep	_	_
+6	e	_	PRON	_	_	4	dep	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:201
 # text = Mengalilyú la ulíng éla mámangán maski nánu. 
 # text[eng] = They got dizzy because they didn’t eat anything. 
-# labels = forman:71:59
-1	Mengalilyú	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	ulíng	_	_	_	_	_	_	_	_
-4	éla	_	_	_	_	_	_	_	_
-5	mámangán	_	_	_	_	_	_	_	_
-6	maski	_	_	_	_	_	_	_	_
-7	nánu	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:59 , check pos of maskinanu (anything), pos of uling (because vs. because of)
+1	Mengalilyú	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ulíng	_	SCONJ	_	_	6	mark	_	_
+4-5	éla	_	_	_	_	_	_	_	_
+4	é	_	ADV	_	_	6	advmod	_	_
+5	la	_	PRON	_	_	6	dep	_	_
+6	mámangán	_	VERB	_	_	1	advcl	_	_
+7	maski	_	PRON	_	_	6	obl	_	_
+8	nánu	_	PRON	_	_	7	fixed	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:202
 # text = Mengalálam la ding sápaq kéni. 
 # text[eng] = The brooks get deep here. 
 # labels = forman:71:59
-1	Mengalálam	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	ding	_	_	_	_	_	_	_	_
-4	sápaq	_	_	_	_	_	_	_	_
-5	kéni	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
-
+1	Mengalálam	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ding	_	ADP	_	_	4	case	_	_
+4	sápaq	_	NOUN	_	_	1	nsubj	_	_
+5	kéni	_	DET	_	_	4	det	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:203
 # text = Mepagál kung ústu. 
 # text[eng] = I got really tired. 
 # labels = forman:71:59
-1	Mepagál	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	ústu	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mepagál	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	ústu	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:204
 # text = Meína neng talagá ngéni. 
 # text[eng] = He has grown very weak now.  
 # labels = forman:71:60
-1	Meína	_	_	_	_	_	_	_	_
-2	neng	_	_	_	_	_	_	_	_
-3	talagá	_	_	_	_	_	_	_	_
-4	ngéni	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Meína	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	talagá	_	ADV	_	_	1	advmod	_	_
+6	ngéni	_	ADV	_	_	1	advmod	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:205
 # text = Mengabsí na kayúng méngan?
 # text[eng] = Did you get filled up from eating?’ 
-# labels = forman:71:60
-1	Mengabsí	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	kayúng	_	_	_	_	_	_	_	_
-4	méngan	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+# labels = forman:71:60 , check xcomp
+1	Mengabsí	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3-4	kayúng	_	_	_	_	_	_	_	_
+3	kayú	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	méngan	_	VERB	_	_	1	xcomp	_	_
+6	?	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:206
