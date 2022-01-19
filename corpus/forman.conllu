@@ -1127,7 +1127,7 @@
 # text[eng] = May you not be neglected, ever/at any time. 
 # labels = forman:71:46
 1-4	Enakósaq	_	_	_	_	_	_	_	_
-1	E	_	ADV	_	_	5	advmod	_	_
+1	E	_	PART	_	_	5	advmod	_	_
 2	na	_	PRON	_	_	5	dep	_	_
 3	kó	_	PRON	_	_	5	dep	_	_
 4	saq	_	PART	_	_	5	discourse	_	_
@@ -1485,7 +1485,7 @@
 # text = É na ku mámakó.
 # text[eng] = I’m not leaving now. 
 # labels = forman:71:53
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2	na	_	PART	_	_	4	discourse	_	_
 3	ku	_	PRON	_	_	4	dep	_	_
 4	mámakó	_	VERB	_	_	0	root	_	_
@@ -1774,7 +1774,7 @@
 # text = É ku Maríang Sinukuán. 
 # text[eng] = I’m not Maria Sinukuan. 
 # labels = forman:71:56
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ku	_	PRON	_	_	3	dep	_	_
 3	Maríang	_	PROPN	_	_	0	root	_	_
 4	Sinukuán	_	PROPN	_	_	3	flat	_	_
@@ -1876,7 +1876,7 @@
 # text = É la asán dén. 
 # text[eng] =  Those are not fish. 
 # labels = forman:71:56
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	la	_	PRON	_	_	3	dep	_	_
 3	asán	_	NOUN	_	_	0	root	_	_
 4	dén	_	DET	_	_	3	nsubj	_	_
@@ -1887,7 +1887,7 @@
 # text = É ya tugák ing king súput. 
 # text[eng] = The thing in the sack is not a frog. 
 # labels = forman:71:56 , check labels of ing king suput
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ya	_	PRON	_	_	3	dep	_	_
 3	tugák	_	NOUN	_	_	0	root	_	_
 4	ing	_	ADP	_	_	6	case	_	_
@@ -2089,7 +2089,7 @@
 # text = É tutú itá. 
 # text[eng] = That’s not true. 
 # labels = forman:71:58
-1	É	_	ADV	_	_	2	advmod	_	_
+1	É	_	PART	_	_	2	advmod	_	_
 2	tutú	_	ADJ	_	_	0	root	_	_
 3	itá	_	DET	_	_	2	nsubj	_	_
 4	.	_	PUNCT	_	_	2	punct	_	_
@@ -3798,94 +3798,99 @@
 # sent_id = grammar:311
 # text = Malyári kung mángutáng? 
 # text[eng] = May I ask a question?’ 
-# labels = forman:71:69
-1	Malyári	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	mángutáng	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+# labels = forman:71:69 , check xcomp
+1	Malyári	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	mángutáng	_	VERB	_	_	1	xcomp	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:312
 # text = Mémipí ku nápun. 
 # text[eng] = I did the wash yesterday. 
 # labels = forman:71:69
-1	Mémipí	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	nápun	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mémipí	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	nápun	_	ADV	_	_	1	advmod	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:313
 # text = Mémilád kung pále. 
 # text[eng] = I dried some rice. 
 # labels = forman:71:69
-1	Mémilád	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	pále	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mémilád	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	pále	_	NOUN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:314
 # text = Íka, manyábi ka? 
 # text[eng] = How about you, are you the sort that talks out?’ 
 # labels = forman:71:71
-1	Íka	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	manyábi	_	_	_	_	_	_	_	_
-4	ka	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Íka	_	PRON	_	_	3	dislocated	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	manyábi	_	VERB	_	_	0	root	_	_
+4	ka	_	PRON	_	_	3	dep	_	_
+5	?	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:315
 # text = Mínyalí ya i Imáq. 
 # text[eng] = Mother went shopping. 
 # labels = forman:71:71
-1	Mínyalí	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Imáq	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Mínyalí	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Imáq	_	PROPN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:316
 # text = Malyári kung makisaké? 
 # text[eng] = May I ride with you?’ 
 # labels = forman:71:71
-1	Malyári	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	makisaké	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Malyári	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	makisaké	_	VERB	_	_	1	xcomp	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:317
 # text = Makipámalíta ka kang María keng situasyón, Meníla. 
 # text[eng] = Talk with Maria about the situation in Manila. 
 # labels = forman:71:71
-1	Makipámalíta	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	kang	_	_	_	_	_	_	_	_
-4	María	_	_	_	_	_	_	_	_
-5	keng	_	_	_	_	_	_	_	_
-6	situasyón	_	_	_	_	_	_	_	_
-7	,	_	_	_	_	_	_	_	_
-8	Meníla	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Makipámalíta	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	kang	_	ADP	_	_	4	case	_	_
+4	María	_	PROPN	_	_	1	obj	_	_
+5	keng	_	ADP	_	_	6	case	_	_
+6	situasyón	_	NOUN	_	_	1	obj	_	_
+7	,	_	PUNCT	_	_	8	punct	_	_
+8	Meníla	_	PROPN	_	_	1	dislocated	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:318
-# text = I Séni, makipagáral ya mu kang Lús. ‘
+# text = I Séni, makipagáral ya mu kang Lús.
 # text[eng] = Seny is studying with Lus. 
 # labels = forman:71:71
-1	I	_	_	_	_	_	_	_	_
-2	Séni	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	makipagáral	_	_	_	_	_	_	_	_
-5	ya	_	_	_	_	_	_	_	_
-6	mu	_	_	_	_	_	_	_	_
-7	kang	_	_	_	_	_	_	_	_
-8	Lús	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
-10	‘	_	_	_	_	_	_	_	_
+1	I	_	ADP	_	_	2	case	_	_
+2	Séni	_	PROPN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	makipagáral	_	VERB	_	_	0	root	_	_
+5	ya	_	PRON	_	_	4	dep	_	_
+6	mu	_	PART	_	_	4	discourse	_	_
+7	kang	_	ADP	_	_	8	case	_	_
+8	Lús	_	PROPN	_	_	4	obl	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:319
@@ -3906,54 +3911,60 @@
 # text = Mákapaglútu ná ku. 
 # text[eng] = I know how/am able to cook now. 
 # labels = forman:71:71
-1	Mákapaglútu	_	_	_	_	_	_	_	_
-2	ná	_	_	_	_	_	_	_	_
-3	ku	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mákapaglútu	_	VERB	_	_	0	root	_	_
+2	ná	_	PART	_	_	1	discourse	_	_
+3	ku	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:321
 # text = Ikatán me ing basán.
 # text[eng] = Braid the rag. 
 # labels = forman:71:72
-1	Ikatán	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	basán	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Ikatán	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	basán	_	NOUN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:322
 # text = Pupulán mo reng suáq. 
 # text[eng] = Harvest the pomelos. 
 # labels = forman:71:72
-1	Pupulán	_	_	_	_	_	_	_	_
-2	mo	_	_	_	_	_	_	_	_
-3	reng	_	_	_	_	_	_	_	_
-4	suáq	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Pupulán	_	VERB	_	_	0	root	_	_
+2-3	mo	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	o	_	PRON	_	_	1	dep	_	_
+4	reng	_	ADP	_	_	5	case	_	_
+5	suáq	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:323
 # text = Patdán me ing rádio. 
 # text[eng] = Turn off the radio. 
 # labels = forman:71:72
-1	Patdán	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	rádio	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Patdán	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	rádio	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:324
 # text = É ku pinermihán itá. 
 # text[eng] = I didn’t approve that. 
 # labels = forman:71:72
-1	É	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	pinermihán	_	_	_	_	_	_	_	_
-4	itá	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	É	_	ADV	_	_	3	advmod	_	_
+2	ku	_	PRON	_	_	3	dep	_	_
+3	pinermihán	_	VERB	_	_	0	root	_	_
+4	itá	_	DET	_	_	3	nsubj:pass	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:325
