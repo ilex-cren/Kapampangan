@@ -3359,14 +3359,16 @@
 # text = Ing mísis ku, burí ne tétérak. 
 # text[eng] = My wife, she likes dancing. 
 # labels = forman:71:67
-1	Ing	_	_	_	_	_	_	_	_
-2	mísis	_	_	_	_	_	_	_	_
-3	ku	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	burí	_	_	_	_	_	_	_	_
-6	ne	_	_	_	_	_	_	_	_
-7	tétérak	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Ing	_	ADP	_	_	2	case	_	_
+2	mísis	_	NOUN	_	_	5	dislocated	_	_
+3	ku	_	PRON	_	_	2	dep	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	burí	_	VERB	_	_	0	root	_	_
+6-7	ne	_	_	_	_	_	_	_	_
+6	n	_	PRON	_	_	5	dep	_	_
+7	e	_	PRON	_	_	5	dep	_	_
+8	tétérak	_	VERB	_	_	5	xcomp	_	_
+9	.	_	PUNCT	_	_	5	punct	_	_
 
 
 # sent_id = grammar:277
@@ -3472,44 +3474,52 @@
 # text = Sáli kang serbésa. 
 # text[eng] = Buy some beer. 
 # labels = forman:71:68
-1	Sáli	_	_	_	_	_	_	_	_
-2	kang	_	_	_	_	_	_	_	_
-3	serbésa	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Sáli	_	VERB	_	_	0	root	_	_
+2-3	kang	_	_	_	_	_	_	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	serbésa	_	NOUN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:286
 # text = Sásalí yang serbésa i Andíng. 
 # text[eng] = Andy is buying some beer. 
 # labels = forman:71:68
-1	Sásalí	_	_	_	_	_	_	_	_
-2	yang	_	_	_	_	_	_	_	_
-3	serbésa	_	_	_	_	_	_	_	_
-4	i	_	_	_	_	_	_	_	_
-5	Andíng	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Sásalí	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	serbésa	_	NOUN	_	_	1	obl	_	_
+5	i	_	ADP	_	_	6	case	_	_
+6	Andíng	_	PROPN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:287
 # text = Sínalí yang serbésa i Témyong. 
 # text[eng] = Temyong bought beer. 
 # labels = forman:71:68
-1	Sínalí	_	_	_	_	_	_	_	_
-2	yang	_	_	_	_	_	_	_	_
-3	serbésa	_	_	_	_	_	_	_	_
-4	i	_	_	_	_	_	_	_	_
-5	Témyong	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Sínalí	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	serbésa	_	NOUN	_	_	1	obl	_	_
+5	i	_	ADP	_	_	6	case	_	_
+6	Témyong	_	PROPN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:288
 # text = Púpúpul lang suáq. 
 # text[eng] = They are picking pomelo. 
 # labels = forman:71:68
-1	Púpúpul	_	_	_	_	_	_	_	_
-2	lang	_	_	_	_	_	_	_	_
-3	suáq	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Púpúpul	_	VERB	_	_	0	root	_	_
+2-3	lang	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	suáq	_	NOUN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:289
@@ -3526,139 +3536,153 @@
 # text = É ka sísindíq? 
 # text[eng] = Don’t you smoke?’ 
 # labels = forman:71:68
-1	É	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	sísindíq	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	É	_	ADV	_	_	3	advmod	_	_
+2	ka	_	PRON	_	_	3	dep	_	_
+3	sísindíq	_	VERB	_	_	0	root	_	_
+4	?	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:291
 # text = Sísípun ya i Rodél. 
 # text[eng] = Rodel has a cold/is sniffling. Rodel’s nose is dripping. 
 # labels = forman:71:68
-1	Sísípun	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Rodél	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Sísípun	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Rodél	_	PROPN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:292
 # text = Súsúngkít lang biábas.
 # text[eng] = They are hooking down guavas. 
 # labels = forman:71:68
-1	Súsúngkít	_	_	_	_	_	_	_	_
-2	lang	_	_	_	_	_	_	_	_
-3	biábas	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Súsúngkít	_	VERB	_	_	0	root	_	_
+2-3	lang	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	biábas	_	NOUN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:293
 # text = Sásagakgák ya i Máya.
 # text[eng] = Maia is sobbing. 
 # labels = forman:71:68
-1	Sásagakgák	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Máya	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Sásagakgák	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Máya	_	PROPN	_	_	1	nsubj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:294
 # text = Sínulú lang asán nábéngi. 
 # text[eng] = They went torch-fishing last night. 
 # labels = forman:71:68
-1	Sínulú	_	_	_	_	_	_	_	_
-2	lang	_	_	_	_	_	_	_	_
-3	asán	_	_	_	_	_	_	_	_
-4	nábéngi	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Sínulú	_	VERB	_	_	0	root	_	_
+2-3	lang	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	asán	_	NOUN	_	_	1	obl	_	_
+5	nábéngi	_	ADV	_	_	1	advmod	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:295
 # text = Masayá lang tátanám reng bátaq ampo ing bápa ra. 
 # text[eng] = The children and their father/uncle are happily planting. 
 # labels = forman:71:68
-1	Masayá	_	_	_	_	_	_	_	_
-2	lang	_	_	_	_	_	_	_	_
-3	tátanám	_	_	_	_	_	_	_	_
-4	reng	_	_	_	_	_	_	_	_
-5	bátaq	_	_	_	_	_	_	_	_
-6	ampo	_	_	_	_	_	_	_	_
-7	ing	_	_	_	_	_	_	_	_
-8	bápa	_	_	_	_	_	_	_	_
-9	ra	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+1	Masayá	_	ADV	_	_	4	advmod	_	_
+2-3	lang	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	4	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	tátanám	_	VERB	_	_	0	root	_	_
+5	reng	_	ADP	_	_	6	case	_	_
+6	bátaq	_	NOUN	_	_	4	nsubj	_	_
+7	ampo	_	CCONJ	_	_	9	cc	_	_
+8	ing	_	ADP	_	_	9	case	_	_
+9	bápa	_	NOUN	_	_	6	conj	_	_
+10	ra	_	PRON	_	_	6	dep	_	_
+11	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:296
 # text = Bisá yang minúm. 
 # text[eng] = He wants to drink.
 # labels = forman:71:68
-1	Bisá	_	_	_	_	_	_	_	_
-2	yang	_	_	_	_	_	_	_	_
-3	minúm	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Bisá	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	minúm	_	VERB	_	_	1	xcomp	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:297
 # text = É na ka míminúm médikul? 
 # text[eng] = Don’t you take (drink) Medicol?’ 
-# labels = forman:71:68
-1	É	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	ka	_	_	_	_	_	_	_	_
-4	míminúm	_	_	_	_	_	_	_	_
-5	médikul	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
+# labels = forman:71:68 , check should medikul be propn
+1	É	_	ADV	_	_	4	advmod	_	_
+2	na	_	PART	_	_	4	discourse	_	_
+3	ka	_	PRON	_	_	4	dep	_	_
+4	míminúm	_	VERB	_	_	0	root	_	_
+5	médikul	_	NOUN	_	_	4	obl	_	_
+6	?	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:298
 # text = Mémiúm kang kapé.
 # text[eng] = You drank coffee. 
 # labels = forman:71:68
-1	Mémiúm	_	_	_	_	_	_	_	_
-2	kang	_	_	_	_	_	_	_	_
-3	kapé	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mémiúm	_	VERB	_	_	0	root	_	_
+2-3	kang	_	_	_	_	_	_	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	kapé	_	NOUN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:299
 # text = Mílaí yang masalúsu. 
 # text[eng] = He ran swiftly. 
 # labels = forman:71:68
-1	Mílaí	_	_	_	_	_	_	_	_
-2	yang	_	_	_	_	_	_	_	_
-3	masalúsu	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mílaí	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	masalúsu	_	ADV	_	_	1	advmod	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:300
 # text = Mintá ya Meníla.
 # text[eng] = She went to Manila. 
 # labels = forman:71:68
-1	Mintá	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	Meníla	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mintá	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	Meníla	_	PROPN	_	_	1	obl	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:301
 # text = Mánintún yang málan a masantíng. 
 # text[eng] = She is looking for a pretty dress. 
 # labels = forman:71:69
-1	Mánintún	_	_	_	_	_	_	_	_
-2	yang	_	_	_	_	_	_	_	_
-3	málan	_	_	_	_	_	_	_	_
-4	a	_	_	_	_	_	_	_	_
-5	masantíng	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Mánintún	_	VERB	_	_	0	root	_	_
+2-3	yang	_	_	_	_	_	_	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	málan	_	NOUN	_	_	1	obl	_	_
+5	a	_	PART	_	_	6	mark:link	_	_
+6	masantíng	_	ADJ	_	_	4	amod	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:302
 # text = Mínqanggá lang álas dósi. 
 # text[eng] = They went on up to two o’clock. 
-# labels = forman:71:69
+# labels = forman:71:69 , check time expression 
 1	Mínqanggá	_	_	_	_	_	_	_	_
 2	lang	_	_	_	_	_	_	_	_
 3	álas	_	_	_	_	_	_	_	_
@@ -3666,7 +3690,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:303
 # text = É ka mámalís neng béngi.
 # text[eng] = Don’t sweep at night. 
 # labels = forman:71:69
@@ -3678,94 +3702,100 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:304
 # text = É ka sáq mángalínguan, póta atí na ká king Hawáii.
 # text[eng] = Please don’t forget (e.g., us) later when you are in Hawaii. 
 # labels = forman:71:69
-1	É	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	sáq	_	_	_	_	_	_	_	_
-4	mángalínguan	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	póta	_	_	_	_	_	_	_	_
-7	atí	_	_	_	_	_	_	_	_
-8	na	_	_	_	_	_	_	_	_
-9	ká	_	_	_	_	_	_	_	_
-10	king	_	_	_	_	_	_	_	_
-11	Hawáii	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+1	É	_	ADV	_	_	4	advmod	_	_
+2	ka	_	PRON	_	_	4	dep	_	_
+3	sáq	_	PART	_	_	4	discourse	_	_
+4	mángalínguan	_	VERB	_	_	0	root	_	_
+5	,	_	PUNCT	_	_	7	punct	_	_
+6	póta	_	SCONJ	_	_	7	mark	_	_
+7	atí	_	VERB	_	_	4	advcl	_	_
+8	na	_	PART	_	_	7	discourse	_	_
+9	ká	_	PRON	_	_	7	dep	_	_
+10	king	_	ADP	_	_	11	case	_	_
+11	Hawáii	_	PROPN	_	_	7	obj	_	_
+12	.	_	PUNCT	_	_	7	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:305
 # text = Mángadí la. 
 # text[eng] = They are praying.
 # labels = forman:71:69
-1	Mángadí	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Mángadí	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:306
 # text = Manambág ya i Tátang keng ágúman. 
 # text[eng] = Father will contribute to the association.
 # labels = forman:71:69
-1	Manambág	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Tátang	_	_	_	_	_	_	_	_
-5	keng	_	_	_	_	_	_	_	_
-6	ágúman	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Manambág	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	i	_	ADP	_	_	4	case	_	_
+4	Tátang	_	PROPN	_	_	1	nsubj	_	_
+5	keng	_	ADP	_	_	6	case	_	_
+6	ágúman	_	NOUN	_	_	1	obj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:307
 # text = Mamalíta ka keng lugál a íkit mu. 
 # text[eng] = Tell about the place you saw. 
 # labels = forman:71:69
-1	Mamalíta	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	keng	_	_	_	_	_	_	_	_
-4	lugál	_	_	_	_	_	_	_	_
-5	a	_	_	_	_	_	_	_	_
-6	íkit	_	_	_	_	_	_	_	_
-7	mu	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Mamalíta	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	keng	_	ADP	_	_	4	case	_	_
+4	lugál	_	NOUN	_	_	1	obj	_	_
+5	a	_	PART	_	_	6	mark:link	_	_
+6	íkit	_	VERB	_	_	4	acl:relcl	_	_
+7	mu	_	PRON	_	_	6	dep	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:308
 # text = Bisá ku sánang manqúpang balé. 
 # text[eng] = I would like to rent a house. 
 # labels = forman:71:69
-1	Bisá	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	sánang	_	_	_	_	_	_	_	_
-4	manqúpang	_	_	_	_	_	_	_	_
-5	balé	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Bisá	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3-4	sánang	_	_	_	_	_	_	_	_
+3	sána	_	PART	_	_	1	discourse	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5-6	manqúpang	_	_	_	_	_	_	_	_
+5	manqúpa	_	VERB	_	_	1	xcomp	_	_
+6	ng	_	PART	_	_	7	mark:link	_	_
+7	balé	_	NOUN	_	_	5	obl	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:309
 # text = Mandám kung gitára. 
 # text[eng] = I will borrow a guitar. 
 # labels = forman:71:69
-1	Mandám	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	gitára	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Mandám	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	gitára	_	NOUN	_	_	1	obj	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:310
 # text = É ku maniwála kayá. 
 # text[eng] = I don’t believe (in) him. 
 # labels = forman:71:69
-1	É	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	maniwála	_	_	_	_	_	_	_	_
-4	kayá	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	É	_	ADV	_	_	3	advmod	_	_
+2	ku	_	PRON	_	_	3	dep	_	_
+3	maniwála	_	VERB	_	_	0	root	_	_
+4	kayá	_	PRON	_	_	3	obl	_	_
+5	.	_	PUNCT	_	_	3	punct	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:311
 # text = Malyári kung mángutáng? 
 # text[eng] = May I ask a question?’ 
 # labels = forman:71:69
@@ -3775,7 +3805,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:312
 # text = Mémipí ku nápun. 
 # text[eng] = I did the wash yesterday. 
 # labels = forman:71:69
@@ -3785,7 +3815,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:313
 # text = Mémilád kung pále. 
 # text[eng] = I dried some rice. 
 # labels = forman:71:69
@@ -3795,7 +3825,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:314
 # text = Íka, manyábi ka? 
 # text[eng] = How about you, are you the sort that talks out?’ 
 # labels = forman:71:71
@@ -3806,7 +3836,7 @@
 5	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:315
 # text = Mínyalí ya i Imáq. 
 # text[eng] = Mother went shopping. 
 # labels = forman:71:71
@@ -3817,7 +3847,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:316
 # text = Malyári kung makisaké? 
 # text[eng] = May I ride with you?’ 
 # labels = forman:71:71
@@ -3827,7 +3857,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:317
 # text = Makipámalíta ka kang María keng situasyón, Meníla. 
 # text[eng] = Talk with Maria about the situation in Manila. 
 # labels = forman:71:71
@@ -3842,7 +3872,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:318
 # text = I Séni, makipagáral ya mu kang Lús. ‘
 # text[eng] = Seny is studying with Lus. 
 # labels = forman:71:71
@@ -3858,7 +3888,7 @@
 10	‘	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:319
 # text = Makidáme ya kareng mélakuán keng karélang kálungkútan. 
 # text[eng] = He is offering condolences to those left behind in their time of sadness. 
 # labels = forman:71:71
@@ -3872,7 +3902,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:320
 # text = Mákapaglútu ná ku. 
 # text[eng] = I know how/am able to cook now. 
 # labels = forman:71:71
@@ -3882,7 +3912,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:321
 # text = Ikatán me ing basán.
 # text[eng] = Braid the rag. 
 # labels = forman:71:72
@@ -3893,7 +3923,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:322
 # text = Pupulán mo reng suáq. 
 # text[eng] = Harvest the pomelos. 
 # labels = forman:71:72
@@ -3904,7 +3934,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:323
 # text = Patdán me ing rádio. 
 # text[eng] = Turn off the radio. 
 # labels = forman:71:72
@@ -3915,7 +3945,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:324
 # text = É ku pinermihán itá. 
 # text[eng] = I didn’t approve that. 
 # labels = forman:71:72
@@ -3926,7 +3956,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:325
 # text = Pugúngan me ing langgótsi. 
 # text[eng] = Hold the sack shut. 
 # labels = forman:71:72
@@ -3937,7 +3967,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:326
 # text = Púpuntukán ne ing luklúkan. 
 # text[eng] = He is carrying the chair on his head. 
 # labels = forman:71:72
@@ -3948,7 +3978,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:327
 # text = Sebatán de ing dálan. 
 # text[eng] = They barricaded the road. 
 # labels = forman:71:72
@@ -3959,7 +3989,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:328
 # text = Sakmalán me ing pále.
 # text[eng] = Grab a handful of the rice. 
 # labels = forman:71:72
@@ -3970,7 +4000,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:329
 # text = Sebulán ne ing ébun. 
 # text[eng] = She scrambled the egg. 
 # labels = forman:71:72
@@ -3981,7 +4011,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:330
 # text = Sisián na ing pámanáko na. 
 # text[eng] = He will regret his stealing. 
 # labels = forman:71:72
@@ -3993,7 +4023,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:331
 # text = Tutuksuán do reng ának. 
 # text[eng] = They are teasing the children. 
 # labels = forman:71:72
@@ -4004,7 +4034,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:332
 # text = Unyabán me ing abyás. 
 # text[eng] = Swish the rice in the water. 
 # labels = forman:71:72
@@ -4015,7 +4045,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:333
 # text = Úman da ká. 
 # text[eng] = I’m going to kiss you. 
 # labels = forman:71:72
@@ -4025,7 +4055,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:334
 # text = Sindulán ne ing búko. 
 # text[eng] = He poked the young coconut down with a pole. 
 # labels = forman:71:72
@@ -4036,7 +4066,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:335
 # text = Tikmán ku na.
 # text[eng] = I’ve already tasted it. 
 # labels = forman:71:72
@@ -4046,7 +4076,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:336
 # text = Weldingán me. 
 # text[eng] = Weld it. 
 # labels = forman:71:72
@@ -4055,7 +4085,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:337
 # text = Ináus ne i Títa.
 # text[eng] = He called Tita. 
 # labels = forman:71:73
@@ -4066,7 +4096,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:338
 # text = Inakmúl ne ing bútul. 
 # text[eng] = He swallowed the seed. 
 # labels = forman:71:73
@@ -4077,7 +4107,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:339
 # text = Inalilán de. 
 # text[eng] = They changed it. 
 # labels = forman:71:73
@@ -4086,7 +4116,7 @@
 3	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:340
 # text = Inalbén yé pu ing sarswéla nábéngi? 
 # text[eng] = Did you watch the zarzuela last night, sir?’ 
 # labels = forman:71:73
@@ -4099,7 +4129,7 @@
 7	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:341
 # text = Kiniákán neng Dígu ing méte nang ásu.
 # text[eng] = Digu cried about his dog that died. 
 # labels = forman:71:73
@@ -4113,7 +4143,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:342
 # text = Bíklat neng Davíd ing áwang. 
 # text[eng] = David opened the window. 
 # labels = forman:71:74
@@ -4125,7 +4155,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:343
 # text = Séli ku iní.
 # text[eng] = I bought this. 
 # labels = forman:71:74
@@ -4135,7 +4165,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:344
 # text = Géwa ye púq? 
 # text[eng] = Did you make it, sir?’ 
 # labels = forman:71:74
@@ -4145,7 +4175,7 @@
 4	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:345
 # text = Deng áne, bísbusán de ing balé. 
 # text[eng] = The termites, they made holes in the house. 
 # labels = forman:71:74
@@ -4159,7 +4189,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:346
 # text = Béwalán ke i Són keng pámangaíli na. 
 # text[eng] = I put (Cora)son under a prohibition about her laughing. 
 # labels = forman:71:74
@@ -4173,7 +4203,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:347
 # text = Kímbirán da kayú. 
 # text[eng] = You were invited by them. 
 # labels = forman:71:74
@@ -4183,7 +4213,7 @@
 4	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:348
 # text = Goal-focused predication with iIqílig me ing kwáyan bándang wanán. 
 # text[eng] = Bend the bamboo towards the right. 
 # labels = forman:71:74
@@ -4199,7 +4229,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:349
 # text = Iqalbúg mu reng málan. 
 # text[eng] = Starch the clothes. 
 # labels = forman:71:74
@@ -4210,7 +4240,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:350
 # text = Irasyún ku ing gátas a ití kang Lorén. 
 # text[eng] = I will deliver this milk to Loren. 
 # labels = forman:71:74
@@ -4225,7 +4255,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:351
 # text = Ilagá mu reng ébun. 
 # text[eng] = Boil the eggs. 
 # labels = forman:71:74
@@ -4236,7 +4266,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:352
 # text = Isará me ing pasbúl.
 # text[eng] = Close the door. 
 # labels = forman:71:74
@@ -4247,7 +4277,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:353
 # text = Itáis me ing paláng. 
 # text[eng] = Sharpen the bolo. 
 # labels = forman:71:74
@@ -4258,7 +4288,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:354
 # text = Ibilí me reng manggá keng púlut. 
 # text[eng] = Put the mangoes into the syrup. 
 # labels = forman:71:74
@@ -4271,7 +4301,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:355
 # text = Ibuklát me ing líbru mu. 
 # text[eng] = Open your book. 
 # labels = forman:71:74
@@ -4283,7 +4313,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:356
 # text = Itiltíl me ing asán keng aslám.
 # text[eng] = Dip the fish into the vinegar. 
 # labels = forman:71:74
@@ -4296,7 +4326,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:357
 # text = Ikuá meng danúm i Lús.
 # text[eng] = Get some water for Lus. 
 # labels = forman:71:75
@@ -4308,7 +4338,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:358
 # text = Kinguá neng danúm ning anák i Ináng.  
 # text[eng] = A child got water for Mother. 
 # labels = forman:71:75
@@ -4322,7 +4352,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:359
 # text = Ákuá keng danúm i Tátang.
 # text[eng] = I was able to get water for Father.
 # labels = forman:71:75
@@ -4334,7 +4364,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:360
 # text = Igawá mu kung báruq. 
 # text[eng] = Make a dress/shirt for me. 
 # labels = forman:71:75
@@ -4345,7 +4375,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:361
 # text = Géwá neng báruq i Ináng na. 
 # text[eng] = She made a dress for her mother. 
 # labels = forman:71:75
@@ -4358,7 +4388,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:362
 # text = Isalí mu kung tinápe. 
 # text[eng] = Buy some bread for me. 
 # labels = forman:71:75
@@ -4369,7 +4399,7 @@
 5	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:363
 # text = Isalí meng báruq i Krísti. 
 # text[eng] = Buy a dress for Christie. 
 # labels = forman:71:75
@@ -4381,7 +4411,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:364
 # text = Séli neng báruq i Krísti. 
 # text[eng] = He bought a dress for Christie. 
 # labels = forman:71:75
@@ -4393,7 +4423,7 @@
 6	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:365
 # text = Panyád mu kung abyás keng síping tang balé.
 # text[eng] = Ask our neighbor(s) for some rice for me. 
 # labels = forman:71:75
@@ -4408,7 +4438,7 @@
 9	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:366
 # text = Pényád neng abyás i Ináng keng síping dang balé. 
 # text[eng] = He asked their neighbor(s) for some rice for Mother.
 # labels = forman:71:75
@@ -4424,7 +4454,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:367
 # text = Pányáwad neng pabór Mike i Shéila kang Ináng mu. 
 # text[eng] = Mike is asking a favor of your mother for Sheila. 
 # labels = forman:71:75
@@ -4440,7 +4470,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:368
 # text = Pényáwad neng pabór Míke i Shéila kang Ináng mu. 
 # text[eng] = Mike asked a favor of your mother for Sheila. 
 # labels = forman:71:75
@@ -4456,7 +4486,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:369
 # text = Pányakáp neng Kítong tuláng ing wáli na. 
 # text[eng] = Kitong is catching a dragonfly for his younger brother. 
 # labels = forman:71:75
@@ -4470,7 +4500,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:370
 # text = Pínyakáp neng Kítong tuláng ing wáli na.
 # text[eng] = Kitong caught a dragonfly for his younger brother. 
 # labels = forman:71:75
@@ -4484,7 +4514,7 @@
 8	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:371
 # text = Pandamán mu kung suklé, Néna. 
 # text[eng] = Lend me a comb, Nena. 
 # labels = forman:71:75
@@ -4497,7 +4527,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:372
 # text = Panandám me ing kakláse mung isúlud keng kapatád mu. 
 # text[eng] = Ask your sister to lend a dress to your classmate. 
 # labels = forman:71:76
@@ -4513,7 +4543,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:373
 # text = Pánandám keng isúlud ing wáli ku.
 # text[eng] = I am borrowing a dress for my younger sister. 
 # labels = forman:71:76
@@ -4526,7 +4556,7 @@
 7	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:374
 # text = Pénandám ne ing kakláse neng isúlud keng kapatád na. 
 # text[eng] = She borrowed a dress from her sister for her classmate. 
 # labels = forman:71:76
@@ -4542,7 +4572,7 @@
 10	.	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:
+# sent_id = grammar:375
 # text = Pányalí na kang diáriu ning laláki.
 # text[eng] = The man is buying a newspaper for you. 
 # labels = forman:71:76
