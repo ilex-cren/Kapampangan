@@ -974,6 +974,8 @@
 2	ring	_	ADP	_	_	3	case	_	_
 3	maní	_	NOUN	_	_	1	nsubj	_	_
 4	.	_	PUNCT	_	_	1	punct	_	_
+
+
 # sent_id = grammar:83 # text = Oréta na ring músikus. 
 # text[eng] =  There are the musicians. 
 # labels = forman:71:45
@@ -3971,173 +3973,199 @@
 # text = Pugúngan me ing langgótsi. 
 # text[eng] = Hold the sack shut. 
 # labels = forman:71:72
-1	Pugúngan	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	langgótsi	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Pugúngan	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	langgótsi	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:326
 # text = Púpuntukán ne ing luklúkan. 
 # text[eng] = He is carrying the chair on his head. 
 # labels = forman:71:72
-1	Púpuntukán	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	luklúkan	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Púpuntukán	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	luklúkan	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:327
 # text = Sebatán de ing dálan. 
 # text[eng] = They barricaded the road. 
 # labels = forman:71:72
-1	Sebatán	_	_	_	_	_	_	_	_
-2	de	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	dálan	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Sebatán	_	VERB	_	_	0	root	_	_
+2-3	de	_	_	_	_	_	_	_	_
+2	d	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	dálan	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:328
 # text = Sakmalán me ing pále.
 # text[eng] = Grab a handful of the rice. 
 # labels = forman:71:72
-1	Sakmalán	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	pále	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Sakmalán	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	pále	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:329
 # text = Sebulán ne ing ébun. 
 # text[eng] = She scrambled the egg. 
 # labels = forman:71:72
-1	Sebulán	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	ébun	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Sebulán	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	ébun	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:330
 # text = Sisián na ing pámanáko na. 
 # text[eng] = He will regret his stealing. 
-# labels = forman:71:72
-1	Sisián	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	pámanáko	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+# labels = forman:71:72 , check csubj
+1	Sisián	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	pámanáko	_	VERB	_	_	1	csubj	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:331
 # text = Tutuksuán do reng ának. 
 # text[eng] = They are teasing the children. 
 # labels = forman:71:72
-1	Tutuksuán	_	_	_	_	_	_	_	_
-2	do	_	_	_	_	_	_	_	_
-3	reng	_	_	_	_	_	_	_	_
-4	ának	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Tutuksuán	_	VERB	_	_	0	root	_	_
+2-3	do	_	_	_	_	_	_	_	_
+2	d	_	PRON	_	_	1	dep	_	_
+3	o	_	PRON	_	_	1	dep	_	_
+4	reng	_	ADP	_	_	5	case	_	_
+5	ának	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:332
 # text = Unyabán me ing abyás. 
 # text[eng] = Swish the rice in the water. 
 # labels = forman:71:72
-1	Unyabán	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	abyás	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Unyabán	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	abyás	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:333
 # text = Úman da ká. 
 # text[eng] = I’m going to kiss you. 
 # labels = forman:71:72
-1	Úman	_	_	_	_	_	_	_	_
-2	da	_	_	_	_	_	_	_	_
-3	ká	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Úman	_	VERB	_	_	0	root	_	_
+2	da	_	PRON	_	_	1	dep	_	_
+3	ká	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:334
 # text = Sindulán ne ing búko. 
 # text[eng] = He poked the young coconut down with a pole. 
 # labels = forman:71:72
-1	Sindulán	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	búko	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Sindulán	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	búko	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:335
 # text = Tikmán ku na.
 # text[eng] = I’ve already tasted it. 
 # labels = forman:71:72
-1	Tikmán	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	na	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Tikmán	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	na	_	PART	_	_	1	discourse	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:336
 # text = Weldingán me. 
 # text[eng] = Weld it. 
 # labels = forman:71:72
-1	Weldingán	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Weldingán	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:337
 # text = Ináus ne i Títa.
 # text[eng] = He called Tita. 
 # labels = forman:71:73
-1	Ináus	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Títa	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Ináus	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	i	_	ADP	_	_	5	case	_	_
+5	Títa	_	PROPN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:338
 # text = Inakmúl ne ing bútul. 
 # text[eng] = He swallowed the seed. 
 # labels = forman:71:73
-1	Inakmúl	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	bútul	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Inakmúl	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	bútul	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:339
 # text = Inalilán de. 
 # text[eng] = They changed it. 
 # labels = forman:71:73
-1	Inalilán	_	_	_	_	_	_	_	_
-2	de	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Inalilán	_	VERB	_	_	0	root	_	_
+2-3	de	_	_	_	_	_	_	_	_
+2	d	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:340
 # text = Inalbén yé pu ing sarswéla nábéngi? 
 # text[eng] = Did you watch the zarzuela last night, sir?’ 
 # labels = forman:71:73
-1	Inalbén	_	_	_	_	_	_	_	_
-2	yé	_	_	_	_	_	_	_	_
-3	pu	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	sarswéla	_	_	_	_	_	_	_	_
-6	nábéngi	_	_	_	_	_	_	_	_
-7	?	_	_	_	_	_	_	_	_
+1	Inalbén	_	VERB	_	_	0	root	_	_
+2-3	yé	_	_	_	_	_	_	_	_
+2	y	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	pu	_	PART	_	_	1	discourse	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	sarswéla	_	NOUN	_	_	1	nsubj:pass	_	_
+7	nábéngi	_	ADV	_	_	1	advmod	_	_
+8	?	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:341
@@ -4158,158 +4186,174 @@
 # text = Bíklat neng Davíd ing áwang. 
 # text[eng] = David opened the window. 
 # labels = forman:71:74
-1	Bíklat	_	_	_	_	_	_	_	_
-2	neng	_	_	_	_	_	_	_	_
-3	Davíd	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	áwang	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Bíklat	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	ADP	_	_	5	case	_	_
+5	Davíd	_	PROPN	_	_	1	obj:agent	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	áwang	_	NOUN	_	_	1	nsubj:pass	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:343
 # text = Séli ku iní.
 # text[eng] = I bought this. 
 # labels = forman:71:74
-1	Séli	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	iní	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Séli	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	iní	_	DET	_	_	1	nsubj:pass	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:344
 # text = Géwa ye púq? 
 # text[eng] = Did you make it, sir?’ 
 # labels = forman:71:74
-1	Géwa	_	_	_	_	_	_	_	_
-2	ye	_	_	_	_	_	_	_	_
-3	púq	_	_	_	_	_	_	_	_
-4	?	_	_	_	_	_	_	_	_
+1	Géwa	_	VERB	_	_	0	root	_	_
+2-3	ye	_	_	_	_	_	_	_	_
+2	y	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	púq	_	PART	_	_	1	discourse	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:345
 # text = Deng áne, bísbusán de ing balé. 
 # text[eng] = The termites, they made holes in the house. 
 # labels = forman:71:74
-1	Deng	_	_	_	_	_	_	_	_
-2	áne	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	bísbusán	_	_	_	_	_	_	_	_
-5	de	_	_	_	_	_	_	_	_
-6	ing	_	_	_	_	_	_	_	_
-7	balé	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Deng	_	ADP	_	_	2	case	_	_
+2	áne	_	NOUN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	bísbusán	_	VERB	_	_	0	root	_	_
+5-6	de	_	_	_	_	_	_	_	_
+5	d	_	PRON	_	_	4	dep	_	_
+6	e	_	PRON	_	_	4	dep	_	_
+7	ing	_	ADP	_	_	8	case	_	_
+8	balé	_	NOUN	_	_	4	nsubj:pass	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:346
 # text = Béwalán ke i Són keng pámangaíli na. 
 # text[eng] = I put (Cora)son under a prohibition about her laughing. 
 # labels = forman:71:74
-1	Béwalán	_	_	_	_	_	_	_	_
-2	ke	_	_	_	_	_	_	_	_
-3	i	_	_	_	_	_	_	_	_
-4	Són	_	_	_	_	_	_	_	_
-5	keng	_	_	_	_	_	_	_	_
-6	pámangaíli	_	_	_	_	_	_	_	_
-7	na	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Béwalán	_	VERB	_	_	0	root	_	_
+2-3	ke	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	i	_	ADP	_	_	5	case	_	_
+5	Són	_	PROPN	_	_	1	nsubj:pass	_	_
+6	keng	_	ADP	_	_	7	case	_	_
+7	pámangaíli	_	VERB	_	_	1	obl	_	_
+8	na	_	PRON	_	_	7	dep	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:347
 # text = Kímbirán da kayú. 
 # text[eng] = You were invited by them. 
 # labels = forman:71:74
-1	Kímbirán	_	_	_	_	_	_	_	_
-2	da	_	_	_	_	_	_	_	_
-3	kayú	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Kímbirán	_	VERB	_	_	0	root	_	_
+2	da	_	PRON	_	_	1	dep	_	_
+3	kayú	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:348
-# text = Goal-focused predication with iIqílig me ing kwáyan bándang wanán. 
+# text = Iqílig me ing kwáyan bándang wanán. 
 # text[eng] = Bend the bamboo towards the right. 
-# labels = forman:71:74
-1	Goal-focused	_	_	_	_	_	_	_	_
-2	predication	_	_	_	_	_	_	_	_
-3	with	_	_	_	_	_	_	_	_
-4	iIqílig	_	_	_	_	_	_	_	_
-5	me	_	_	_	_	_	_	_	_
-6	ing	_	_	_	_	_	_	_	_
-7	kwáyan	_	_	_	_	_	_	_	_
-8	bándang	_	_	_	_	_	_	_	_
-9	wanán	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+# labels = forman:71:74 , check meaning of banda(ng)
+1	Iqílig	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	kwáyan	_	NOUN	_	_	1	nsubj:pass	_	_
+6-7	bándang	_	_	_	_	_	_	_	_
+6	bánda	_	ADP	_	_	8	case	_	_
+7	ng	_	PART	_	_	6	mark:link	_	_
+8	wanán	_	NOUN	_	_	1	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:349
 # text = Iqalbúg mu reng málan. 
 # text[eng] = Starch the clothes. 
 # labels = forman:71:74
-1	Iqalbúg	_	_	_	_	_	_	_	_
-2	mu	_	_	_	_	_	_	_	_
-3	reng	_	_	_	_	_	_	_	_
-4	málan	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Iqalbúg	_	VERB	_	_	0	root	_	_
+2	mu	_	PRON	_	_	1	dep	_	_
+3	reng	_	ADP	_	_	4	case	_	_
+4	málan	_	NOUN	_	_	1	nsubj:pass	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:350
 # text = Irasyún ku ing gátas a ití kang Lorén. 
 # text[eng] = I will deliver this milk to Loren. 
 # labels = forman:71:74
-1	Irasyún	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	gátas	_	_	_	_	_	_	_	_
-5	a	_	_	_	_	_	_	_	_
-6	ití	_	_	_	_	_	_	_	_
-7	kang	_	_	_	_	_	_	_	_
-8	Lorén	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Irasyún	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	gátas	_	NOUN	_	_	1	nsubj:pass	_	_
+5	a	_	PART	_	_	6	mark:link	_	_
+6	ití	_	DET	_	_	4	det	_	_
+7	kang	_	ADP	_	_	8	case	_	_
+8	Lorén	_	PROPN	_	_	1	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:351
 # text = Ilagá mu reng ébun. 
 # text[eng] = Boil the eggs. 
 # labels = forman:71:74
-1	Ilagá	_	_	_	_	_	_	_	_
-2	mu	_	_	_	_	_	_	_	_
-3	reng	_	_	_	_	_	_	_	_
-4	ébun	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Ilagá	_	VERB	_	_	0	root	_	_
+2	mu	_	PRON	_	_	1	dep	_	_
+3	reng	_	ADP	_	_	4	case	_	_
+4	ébun	_	NOUN	_	_	1	nsubj:pass	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:352
 # text = Isará me ing pasbúl.
 # text[eng] = Close the door. 
 # labels = forman:71:74
-1	Isará	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	pasbúl	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Isará	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	pasbúl	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:353
 # text = Itáis me ing paláng. 
 # text[eng] = Sharpen the bolo. 
 # labels = forman:71:74
-1	Itáis	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	paláng	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Itáis	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	paláng	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:354
 # text = Ibilí me reng manggá keng púlut. 
 # text[eng] = Put the mangoes into the syrup. 
 # labels = forman:71:74
-1	Ibilí	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	reng	_	_	_	_	_	_	_	_
-4	manggá	_	_	_	_	_	_	_	_
-5	keng	_	_	_	_	_	_	_	_
-6	púlut	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Ibilí	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	reng	_	ADP	_	_	5	case	_	_
+5	manggá	_	NOUN	_	_	1	nsubj:pass	_	_
+6	keng	_	ADP	_	_	7	case	_	_
+7	púlut	_	NOUN	_	_	1	obl	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:355
