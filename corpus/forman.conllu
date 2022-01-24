@@ -1860,9 +1860,9 @@
 # text = Ságin la? 
 # text[eng] = Are they bananas? 
 # labels = forman:71:56
-1       Ságin   _       _       _       _       _       _       _       _
-2       la      _       _       _       _       _       _       _       _
-3       ?       _       _       _       _       _       _       _       _
+1	Ságin	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
 
 
 # sent_id = grammar:157
