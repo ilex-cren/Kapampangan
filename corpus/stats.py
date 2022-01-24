@@ -11,10 +11,16 @@ def is_complete(tree):
 		if line.strip() == '':
 			continue
 		row = line.split('\t')
+			
 		if '-' in row[0] or '.' in row[0]:
 			continue
 		if '#' in row[0]:
 			continue
+
+		if len(row) != 10:
+			print('ERROR',len(row), row,file=sys.stderr)
+			return (False, 0)
+
 		if row[3] == '_' or row[6] == '_' or row[7] == '_':
 			valid = False
 		n_tokens += 1
