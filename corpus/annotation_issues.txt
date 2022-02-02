@@ -1,0 +1,17 @@
+POS CLASSIFICATION ISSUES
+-------------------------
+ng : when before a PROPN. It is not clear whether this is a linker or one of the case markers. The literature suggests that the case marker for PROPN may be either "nang" (which gets lost through contraction with pronouns) or possibly "ng", but it could also be null. 
+Examples:
+~ Idalúm neng Córa i Oscár. ~ (the "ng" could be a linker, which frequently shows up in this position with common nouns as well as other parts of speech, or it could be a case marker or part of a case marker (i.e. "nang")
+
+---
+ng : the "linker" or "ligature" in general. We have been tagging this as PART, but this seems inadequate given its syntactic role(s). However, therre doesn't seem to be a part-of-speech tag that better characterizes it. 
+
+
+LABELING ISSUES
+-------------------------
+mark:link (applied to ng) : following the Tagalog treebank, we have been labeling the relationship of ng to the modifying word/phrase as mark:link. This seems to fit well for some situations (such as when ng links a noun to a relative clause), but "mark" doesn't seem like an ideal way to describe the role of "ng" much of the time.
+
+
+OTHER ISSUES
+-------------------------

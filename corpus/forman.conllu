@@ -5040,23 +5040,30 @@
 # text = Iqabísu me iníng súlat. 
 # text[eng] = Take this letter as a warning.
 # labels = forman:71:78
-1	Iqabísu	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	iníng	_	_	_	_	_	_	_	_
-4	súlat	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Iqabísu	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4-5	iníng	_	_	_	_	_	_	_	_
+4	iní	_	DET	_	_	6	det	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	súlat	_	NOUN	_	_	1	nsubj:pass	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:400
 # text = Idalúm neng Córa i Oscár. 
 # text[eng] = Cora will complain against Oscar. 
 # labels = forman:71:78
-1	Idalúm	_	_	_	_	_	_	_	_
-2	neng	_	_	_	_	_	_	_	_
-3	Córa	_	_	_	_	_	_	_	_
-4	i	_	_	_	_	_	_	_	_
-5	Oscár	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Idalúm	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	Córa	_	PROPN	_	_	1	obj:agent	_	_
+6	i	_	ADP	_	_	7	case	_	_
+7	Oscár	_	PROPN	_	_	1	nsubj:pass	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:401
