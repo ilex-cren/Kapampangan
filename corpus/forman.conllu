@@ -82,7 +82,7 @@
 # text = Éne pepákit ing íya talagáng tátákut ya.
 # text[eng] = He didn’t let it show that he himself was very frightened.
 # labels = forman:71:31 , check SCONJ and dislocated
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	4	dep	_	_
 3	e	_	PRON	_	_	4	dep	_	_
@@ -825,7 +825,7 @@
 # text[eng] = Those aren’t fish. 
 # labels = forman:71:44 , check advmod
 1-2	Éla	_	_	_	_	_	_	_	_
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	la	_	PRON	_	_	3	dep	_	_
 3	asán	_	NOUN	_	_	0	root	_	_
 4	dén	_	PRON	_	_	3	nsubj	_	_
@@ -1153,7 +1153,7 @@
 # text = É ko bísang maniwálaq. 
 # text[eng] = I don’t want to believe (it). 
 # labels = forman:71:50
-1	É	_	ADV	_	_	3	advcl	_	_
+1	É	_	PART	_	_	3	advcl	_	_
 2	ko	_	PRON	_	_	3	dep	_	_
 3-4	bísang	_	_	_	_	_	_	_	_
 3	bísa	_	VERB	_	_	0	root	_	_
@@ -1166,7 +1166,7 @@
 # text = É ne buríng dínan.
 # text[eng] =  She doesn’t want to give (something). 
 # labels = forman:71:50
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	4	dep	_	_
 3	e	_	PRON	_	_	4	dep	_	_
@@ -1395,7 +1395,7 @@
 # text = É me ipusít makanyán. 
 # text[eng] = Don’t squeeze it like that. (51
 # labels = forman:71:51
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2-3	me	_	_	_	_	_	_	_	_
 2	m	_	PRON	_	_	4	dep	_	_
 3	e	_	PRON	_	_	4	dep	_	_
@@ -1467,7 +1467,7 @@
 # text[eng] = I didn’t go. 
 # labels = forman:71:52
 1-2	Éku	_	_	_	_	_	_	_	_
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ku	_	PRON	_	_	3	dep	_	_
 3	mintá	_	VERB	_	_	0	root	_	_
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -1508,7 +1508,7 @@
 # text = É ka makó.
 # text[eng] = Don’t leave. 
 # labels = forman:71:53
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ka	_	PRON	_	_	3	dep	_	_
 3	makó	_	VERB	_	_	0	root	_	_
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -1528,7 +1528,7 @@
 # text = É na ka magbálik?
 # text[eng] = Aren’t you going to come back?’ 
 # labels = forman:71:53
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2	na	_	PART	_	_	4	discourse	_	_
 3	ka	_	PRON	_	_	4	dep	_	_
 4	magbálik	_	VERB	_	_	0	root	_	_
@@ -3293,7 +3293,7 @@
 # text = É ka bísa lumuál? 
 # text[eng] = Don’t you want to go out?’ 
 # labels = forman:71:67
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ka	_	PRON	_	_	3	dep	_	_
 3	bísa	_	VERB	_	_	0	root	_	_
 4	lumuál	_	VERB	_	_	3	xcomp	_	_
@@ -3325,7 +3325,7 @@
 # text = É la sásábong. 
 # text[eng] = They don’t go cockfighting. 
 # labels = forman:71:67
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	la	_	PRON	_	_	3	dep	_	_
 3	sásábong	_	VERB	_	_	0	root	_	_
 4	.	_	PUNCT	_	_	3	punct	_	_
@@ -3450,7 +3450,7 @@
 # text = É na ka gumámit súngkit. 
 # text[eng] = Don’t use a pole-hook now. 
 # labels = forman:71:67
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2	na	_	PART	_	_	4	discourse	_	_
 3	ka	_	PRON	_	_	4	dep	_	_
 4	gumámit	_	VERB	_	_	0	root	_	_
@@ -3538,7 +3538,7 @@
 # text = É ka sísindíq? 
 # text[eng] = Don’t you smoke?’ 
 # labels = forman:71:68
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ka	_	PRON	_	_	3	dep	_	_
 3	sísindíq	_	VERB	_	_	0	root	_	_
 4	?	_	PUNCT	_	_	3	punct	_	_
@@ -3625,7 +3625,7 @@
 # text = É na ka míminúm médikul? 
 # text[eng] = Don’t you take (drink) Medicol?’ 
 # labels = forman:71:68 , check should medikul be propn
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2	na	_	PART	_	_	4	discourse	_	_
 3	ka	_	PRON	_	_	4	dep	_	_
 4	míminúm	_	VERB	_	_	0	root	_	_
@@ -3708,7 +3708,7 @@
 # text = É ka sáq mángalínguan, póta atí na ká king Hawáii.
 # text[eng] = Please don’t forget (e.g., us) later when you are in Hawaii. 
 # labels = forman:71:69
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2	ka	_	PRON	_	_	4	dep	_	_
 3	sáq	_	PART	_	_	4	discourse	_	_
 4	mángalínguan	_	VERB	_	_	0	root	_	_
@@ -3790,7 +3790,7 @@
 # text = É ku maniwála kayá. 
 # text[eng] = I don’t believe (in) him. 
 # labels = forman:71:69
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ku	_	PRON	_	_	3	dep	_	_
 3	maniwála	_	VERB	_	_	0	root	_	_
 4	kayá	_	PRON	_	_	3	obl	_	_
@@ -3962,7 +3962,7 @@
 # text = É ku pinermihán itá. 
 # text[eng] = I didn’t approve that. 
 # labels = forman:71:72
-1	É	_	ADV	_	_	3	advmod	_	_
+1	É	_	PART	_	_	3	advmod	_	_
 2	ku	_	PRON	_	_	3	dep	_	_
 3	pinermihán	_	VERB	_	_	0	root	_	_
 4	itá	_	DET	_	_	3	nsubj:pass	_	_
@@ -5000,7 +5000,7 @@
 # text = É ne pigpárti ing málan.
 # text[eng] = The dress is not for parties. 
 # labels = forman:71:77 , check voice
-1	É	_	ADV	_	_	4	advmod	_	_
+1	É	_	PART	_	_	4	advmod	_	_
 2-3	ne	_	_	_	_	_	_	_	_
 2	n	_	PRON	_	_	4	dep	_	_
 3	e	_	PRON	_	_	4	dep	_	_
@@ -5122,45 +5122,49 @@
 # text = Iké mu deng maní keng balasúsu para kayá. 
 # text[eng] = Put the peanuts into the cone for him. 
 # labels = forman:71:78
-1	Iké	_	_	_	_	_	_	_	_
-2	mu	_	_	_	_	_	_	_	_
-3	deng	_	_	_	_	_	_	_	_
-4	maní	_	_	_	_	_	_	_	_
-5	keng	_	_	_	_	_	_	_	_
-6	balasúsu	_	_	_	_	_	_	_	_
-7	para	_	_	_	_	_	_	_	_
-8	kayá	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Iké	_	VERB	_	_	0	root	_	_
+2	mu	_	PRON	_	_	1	dep	_	_
+3	deng	_	ADP	_	_	4	case	_	_
+4	maní	_	NOUN	_	_	1	nsubj:pass	_	_
+5	keng	_	ADP	_	_	6	case	_	_
+6	balasúsu	_	NOUN	_	_	1	obl	_	_
+7	para	_	ADP	_	_	8	case	_	_
+8	kayá	_	PRON	_	_	1	obl	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:406
 # text = María, ikutkút mu na iníng bitúka ning bábiq king múla.
 # text[eng] = Maria, bury this pig intestine in the yard. 
 # labels = forman:71:78
-1	María	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	ikutkút	_	_	_	_	_	_	_	_
-4	mu	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	iníng	_	_	_	_	_	_	_	_
-7	bitúka	_	_	_	_	_	_	_	_
-8	ning	_	_	_	_	_	_	_	_
-9	bábiq	_	_	_	_	_	_	_	_
-10	king	_	_	_	_	_	_	_	_
-11	múla	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+1	María	_	PROPN	_	_	3	dislocated	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	ikutkút	_	VERB	_	_	0	root	_	_
+4	mu	_	PRON	_	_	3	dep	_	_
+5	na	_	PART	_	_	3	discourse	_	_
+6-7	iníng	_	_	_	_	_	_	_	_
+6	iní	_	DET	_	_	8	det	_	_
+7	ng	_	PART	_	_	6	mark:link	_	_
+8	bitúka	_	NOUN	_	_	3	nsubj:pass	_	_
+9	ning	_	ADP	_	_	10	case	_	_
+10	bábiq	_	NOUN	_	_	8	nmod:poss	_	_
+11	king	_	ADP	_	_	12	case	_	_
+12	múla	_	NOUN	_	_	3	obl	_	_
+13	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:407
 # text = Obát kátakútan ye ing timbabálak?
 # text[eng] = Why does the lizard frighten you?’ 
 # labels = forman:71:78
-1	Obát	_	_	_	_	_	_	_	_
-2	kátakútan	_	_	_	_	_	_	_	_
-3	ye	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	timbabálak	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
+1	Obát	_	ADV	_	_	2	advmod	_	_
+2	kátakútan	_	VERB	_	_	0	root	_	_
+3-4	ye	_	_	_	_	_	_	_	_
+3	y	_	PRON	_	_	2	dep	_	_
+4	e	_	PRON	_	_	2	dep	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	timbabálak	_	NOUN	_	_	2	nsubj:pass	_	_
+7	?	_	PUNCT	_	_	2	punct	_	_
 
 
 # sent_id = grammar:408
