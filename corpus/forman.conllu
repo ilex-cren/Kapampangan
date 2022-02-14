@@ -5171,26 +5171,28 @@
 # text = É ka maingé, póta mítakútan yá. 
 # text[eng] = Don’t make noise, or later he’ll be frightened. 
 # labels = forman:71:79
-1	É	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	maingé	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	póta	_	_	_	_	_	_	_	_
-6	mítakútan	_	_	_	_	_	_	_	_
-7	yá	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	É	_	PART	_	_	3	advmod	_	_
+2	ka	_	PRON	_	_	3	dep	_	_
+3	maingé	_	VERB	_	_	0	root	_	_
+4	,	_	PUNCT	_	_	6	punct	_	_
+5	póta	_	ADV	_	_	6	advmod	_	_
+6	mítakútan	_	VERB	_	_	3	parataxis	_	_
+7	yá	_	PART	_	_	6	dep	_	_
+8	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:409
 # text = Atín kung métung a kápaté. 
 # text[eng] = There is one person I fight with. 
-# labels = forman:71:79
-1	Atín	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	métung	_	_	_	_	_	_	_	_
-4	a	_	_	_	_	_	_	_	_
-5	kápaté	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+# labels = forman:71:79 , check pos for metung
+1	Atín	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	métung	_	NOUN	_	_	1	obl	_	_
+5	a	_	PART	_	_	6	mark:link	_	_
+6	kápaté	_	VERB	_	_	4	acl:relcl	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:410
@@ -5228,36 +5230,40 @@
 
 # sent_id = grammar:413
 # text = Bísa kang míbarílan katá? 
-# text[eng] = Do you want me to shoot you?’ 
-# labels = forman:71:79
-1	Bísa	_	_	_	_	_	_	_	_
-2	kang	_	_	_	_	_	_	_	_
-3	míbarílan	_	_	_	_	_	_	_	_
-4	katá	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+# text[eng] = Do you want me to shoot you? 
+# labels = forman:71:79 , translation inaccurate: more like "Do you want that we shoot each other?"
+1	Bísa	_	VERB	_	_	0	root	_	_
+2-3	kang	_	_	_	_	_	_	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	míbarílan	_	VERB	_	_	1	ccomp	_	_
+5	katá	_	PRON	_	_	4	dep	_	_
+6	?	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:414
 # text = Mirínan dinát ing málan makasáble. 
 # text[eng] = The clothes hanging up got dirt on them. 
 # labels = forman:71:79
-1	Mirínan	_	_	_	_	_	_	_	_
-2	dinát	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	málan	_	_	_	_	_	_	_	_
-5	makasáble	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Mirínan	_	VERB	_	_	0	root	_	_
+2	dinát	_	NOUN	_	_	1	obl	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	málan	_	NOUN	_	_	1	nsubj	_	_
+5	makasáble	_	VERB	_	_	4	acl:relcl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:415
 # text = Miabuán ye ing bábiq. 
 # text[eng] = The pig got ashes on it. 
-# labels = forman:71:79
-1	Miabuán	_	_	_	_	_	_	_	_
-2	ye	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	bábiq	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+# labels = forman:71:79 , mistranslation... ye = you (pl) + it ; something like "you put ashes on the pig" ?
+1	Miabuán	_	VERB	_	_	0	root	_	_
+2-3	ye	_	_	_	_	_	_	_	_
+2	y	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	bábiq	_	NOUN	_	_	1	nsubj:pass	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:416
@@ -5311,259 +5317,281 @@
 # text = Kébengián ya keng dálan. 
 # text[eng] = He was “benighted” on the road. 
 # labels = forman:71:79
-1	Kébengián	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	keng	_	_	_	_	_	_	_	_
-4	dálan	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Kébengián	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	keng	_	ADP	_	_	4	case	_	_
+4	dálan	_	NOUN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:421
 # text = Káyabyáyan da ká. 
 # text[eng] = We give and get from you. 
 # labels = forman:71:79
-1	Káyabyáyan	_	_	_	_	_	_	_	_
-2	da	_	_	_	_	_	_	_	_
-3	ká	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Káyabyáyan	_	VERB	_	_	0	root	_	_
+2	da	_	PRON	_	_	1	dep	_	_
+3	ká	_	PRON	_	_	1	dep	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:422
 # text = Kátubásan deng kamátis nung é me agád agtalán. 
 # text[eng] = The tomatoes will get overripe if you don’t pick them right away. 
 # labels = forman:71:79
-1	Kátubásan	_	_	_	_	_	_	_	_
-2	deng	_	_	_	_	_	_	_	_
-3	kamátis	_	_	_	_	_	_	_	_
-4	nung	_	_	_	_	_	_	_	_
-5	é	_	_	_	_	_	_	_	_
-6	me	_	_	_	_	_	_	_	_
-7	agád	_	_	_	_	_	_	_	_
-8	agtalán	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Kátubásan	_	VERB	_	_	0	root	_	_
+2	deng	_	ADP	_	_	3	case	_	_
+3	kamátis	_	NOUN	_	_	1	nsubj	_	_
+4	nung	_	SCONJ	_	_	9	mark	_	_
+5	é	_	PART	_	_	9	advmod	_	_
+6-7	me	_	_	_	_	_	_	_	_
+6	m	_	PRON	_	_	9	dep	_	_
+7	e	_	PRON	_	_	9	dep	_	_
+8	agád	_	ADV	_	_	9	advmod	_	_
+9	agtalán	_	VERB	_	_	1	advcl	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:423
 # text = Kédagúlan ne ing imálan na. 
 # text[eng] = He got too big for his clothes. 
 # labels = forman:71:79
-1	Kédagúlan	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	imálan	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Kédagúlan	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	imálan	_	NOUN	_	_	1	nsubj:pass	_	_
+6	na	_	PRON	_	_	5	dep	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:424
 # text = Karatángratáng mi páq. 
 # text[eng] = We just arrived. 
 # labels = forman:71:80
-1	Karatángratáng	_	_	_	_	_	_	_	_
-2	mi	_	_	_	_	_	_	_	_
-3	páq	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Karatángratáng	_	VERB	_	_	0	root	_	_
+2	mi	_	PRON	_	_	1	dep	_	_
+3	páq	_	PART	_	_	1	discourse	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:425
 # text = I Ríta, kapanganákpanganák na páq. 
 # text[eng] = Rita just gave birth. 
-# labels = forman:71:80
-1	I	_	_	_	_	_	_	_	_
-2	Ríta	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	kapanganákpanganák	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	páq	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+# labels = forman:71:80 , check dislocated
+1	I	_	ADP	_	_	2	case	_	_
+2	Ríta	_	PROPN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	kapanganákpanganák	_	VERB	_	_	0	root	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	páq	_	PART	_	_	4	discourse	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:426
 # text = I Imáq, kapuntápuntá na pá Meníla. 
 # text[eng] = Mother just went to Manila. 
-# labels = forman:71:80
-1	I	_	_	_	_	_	_	_	_
-2	Imáq	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	kapuntápuntá	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	pá	_	_	_	_	_	_	_	_
-7	Meníla	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:80 , check dislocated
+1	I	_	ADP	_	_	2	case	_	_
+2	Imáq	_	PROPN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	kapuntápuntá	_	VERB	_	_	0	root	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	pá	_	PART	_	_	4	discourse	_	_
+7	Meníla	_	PROPN	_	_	4	obl	_	_
+8	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:427
 # text = Katigtígtigtíg na páng masantíng a kánta ing rádio.
 # text[eng] = The radio just finished playing a nice song. 
 # labels = forman:71:80
-1	Katigtígtigtíg	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	páng	_	_	_	_	_	_	_	_
-4	masantíng	_	_	_	_	_	_	_	_
-5	a	_	_	_	_	_	_	_	_
-6	kánta	_	_	_	_	_	_	_	_
-7	ing	_	_	_	_	_	_	_	_
-8	rádio	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Katigtígtigtíg	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3-4	páng	_	_	_	_	_	_	_	_
+3	pá	_	PART	_	_	1	discourse	_	_
+4	ng	_	PART	_	_	7	mark:link	_	_
+5	masantíng	_	ADJ	_	_	7	amod	_	_
+6	a	_	PART	_	_	5	mark:link	_	_
+7	kánta	_	NOUN	_	_	1	obl	_	_
+8	ing	_	ADP	_	_	9	case	_	_
+9	rádio	_	NOUN	_	_	1	nsubj	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:428
 # text = Kabáwalbáwal na kanáku. 
 # text[eng] = I was just told I wasn’t allowed to do it. 
 # labels = forman:71:80
-1	Kabáwalbáwal	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	kanáku	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Kabáwalbáwal	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	kanáku	_	PRON	_	_	1	obl	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:429
 # text = Kabilíbíli ku keng librú ku, kinuá ne. 
 # text[eng] = I just put down my book and he took it. 
 # labels = forman:71:80
-1	Kabilíbíli	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	keng	_	_	_	_	_	_	_	_
-4	librú	_	_	_	_	_	_	_	_
-5	ku	_	_	_	_	_	_	_	_
-6	,	_	_	_	_	_	_	_	_
-7	kinuá	_	_	_	_	_	_	_	_
-8	ne	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Kabilíbíli	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	keng	_	ADP	_	_	4	case	_	_
+4	librú	_	NOUN	_	_	1	obl	_	_
+5	ku	_	PRON	_	_	4	dep	_	_
+6	,	_	PUNCT	_	_	7	punct	_	_
+7	kinuá	_	VERB	_	_	1	parataxis	_	_
+8-9	ne	_	_	_	_	_	_	_	_
+8	n	_	PRON	_	_	7	dep	_	_
+9	e	_	PRON	_	_	7	dep	_	_
+10	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:430
 # text = Kapangápangalínguan mi páq. 
 # text[eng] = We have just forgotten each other. 
 # labels = forman:71:80
-1	Kapangápangalínguan	_	_	_	_	_	_	_	_
-2	mi	_	_	_	_	_	_	_	_
-3	páq	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Kapangápangalínguan	_	VERB	_	_	0	root	_	_
+2	mi	_	PRON	_	_	1	dep	_	_
+3	páq	_	PART	_	_	1	discourse	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:431
 # text = Kakétkét na pá ning ásu. 
 # text[eng] = He was just bitten by a dog. 
 # labels = forman:71:80
-1	Kakétkét	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	pá	_	_	_	_	_	_	_	_
-4	ning	_	_	_	_	_	_	_	_
-5	ásu	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Kakétkét	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	pá	_	PART	_	_	1	discourse	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	ásu	_	NOUN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:432
 # text = Kagísangísan na pá ning katól. 
 # text[eng] = The mosquito killer just got used up. 
 # labels = forman:71:80
-1	Kagísangísan	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	pá	_	_	_	_	_	_	_	_
-4	ning	_	_	_	_	_	_	_	_
-5	katól	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Kagísangísan	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	pá	_	PART	_	_	1	discourse	_	_
+4	ning	_	ADP	_	_	5	case	_	_
+5	katól	_	NOUN	_	_	1	nsubj	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:433
 # text = Ding ának, kapagápagáral da páng lisyún.
 # text[eng] = The children just finished studying the lesson. 
-# labels = forman:71:80
-1	Ding	_	_	_	_	_	_	_	_
-2	ának	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	kapagápagáral	_	_	_	_	_	_	_	_
-5	da	_	_	_	_	_	_	_	_
-6	páng	_	_	_	_	_	_	_	_
-7	lisyún	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:80 , check dislocated
+1	Ding	_	ADP	_	_	2	case	_	_
+2	ának	_	NOUN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	kapagápagáral	_	VERB	_	_	0	root	_	_
+5	da	_	PRON	_	_	4	dep	_	_
+6-7	páng	_	_	_	_	_	_	_	_
+6	pá	_	PART	_	_	4	discourse	_	_
+7	ng	_	PART	_	_	8	mark:link	_	_
+8	lisyún	_	NOUN	_	_	4	obl	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:434
 # text = Katudtúdtudtúd na pang Títa kaníni.
 # text[eng] = Tita had just finished sleeping then. 
 # labels = forman:71:80
-1	Katudtúdtudtúd	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	pang	_	_	_	_	_	_	_	_
-4	Títa	_	_	_	_	_	_	_	_
-5	kaníni	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Katudtúdtudtúd	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3-4	pang	_	_	_	_	_	_	_	_
+3	pa	_	PART	_	_	1	discourse	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	Títa	_	PROPN	_	_	1	nsubj	_	_
+6	kaníni	_	DET	_	_	1	obl	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:435
 # text = Kaibátibát ku pang míninúm. 
 # text[eng] = I just came from drinking. 
-# labels = forman:71:80
-1	Kaibátibát	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	pang	_	_	_	_	_	_	_	_
-4	míninúm	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+# labels = forman:71:80 , check xcomp
+1	Kaibátibát	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3-4	pang	_	_	_	_	_	_	_	_
+3	pa	_	PART	_	_	1	discourse	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	míninúm	_	VERB	_	_	1	xcomp	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:436
 # text = Kaibátibát na páng migísing Míke. 
 # text[eng] = Mike just woke up. 
 # labels = forman:71:80
-1	Kaibátibát	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	páng	_	_	_	_	_	_	_	_
-4	migísing	_	_	_	_	_	_	_	_
-5	Míke	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Kaibátibát	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3-4	páng	_	_	_	_	_	_	_	_
+3	pá	_	PART	_	_	1	discourse	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	migísing	_	VERB	_	_	1	xcomp	_	_
+6	Míke	_	PROPN	_	_	1	nsubj	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:437
 # text = Kaibátibát kung méngan. 
 # text[eng] = I just finished eating. 
 # labels = forman:71:80
-1	Kaibátibát	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	méngan	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Kaibátibát	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	méngan	_	VERB	_	_	1	xcomp	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:438
 # text = Kaibátibát ke pang biníruq.
 # text[eng] = I just finished teasing him. 
 # labels = forman:71:80
-1	Kaibátibát	_	_	_	_	_	_	_	_
-2	ke	_	_	_	_	_	_	_	_
-3	pang	_	_	_	_	_	_	_	_
-4	biníruq	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Kaibátibát	_	VERB	_	_	0	root	_	_
+2-3	ke	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4-5	pang	_	_	_	_	_	_	_	_
+4	pa	_	PART	_	_	1	discourse	_	_
+5	ng	_	PART	_	_	6	mark:link	_	_
+6	biníruq	_	VERB	_	_	1	xcomp	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:439
 # text = Dúduldúl ya. 
 # text[eng] = It’s thundering. 
 # labels = forman:71:81
-1	Dúduldúl	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Dúduldúl	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:440
 # text = Múmurán ya. 
 # text[eng] = It’s raining.
 # labels = forman:71:81
-1	Múmurán	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Múmurán	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:441
 # text = Lílintík ya. 
 # text[eng] = It’s showering. 
 # labels = forman:71:81
-1	Lílintík	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Lílintík	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 
-# sent_id = grammar:442
+# sent_id = grammar:
 # text = Bákit? 
 # text[eng] = Why?’ 
 # labels = forman:71:81
@@ -5571,7 +5599,7 @@
 2	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:443
+# sent_id = grammar:
 # text = Kapilán man? 
 # text[eng] = Then when?’ 
 # labels = forman:71:81
@@ -5580,15 +5608,15 @@
 3	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:444
+# sent_id = grammar:
 # text = Nínu? 
-# text[eng] = Who?’ 
+# text[eng] = Who? 
 # labels = forman:71:81
 1	Nínu	_	_	_	_	_	_	_	_
 2	?	_	_	_	_	_	_	_	_
 
 
-# sent_id = grammar:445
+# sent_id = grammar:
 # text = Magkánu?
 # text[eng] = How much?’ 
 # labels = forman:71:81
@@ -5599,49 +5627,51 @@
 # sent_id = grammar:446
 # text = Kítang na nung (makó ka). 
 # text[eng] = He asked if you will leave. 
-# labels = forman:71:86
-1	Kítang	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	nung	_	_	_	_	_	_	_	_
-4	(	_	_	_	_	_	_	_	_
-5	makó	_	_	_	_	_	_	_	_
-6	ka	_	_	_	_	_	_	_	_
-7	)	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:86 , check ccomp
+1	Kítang	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	nung	_	SCONJ	_	_	5	mark	_	_
+4	(	_	PUNCT	_	_	5	punct	_	_
+5	makó	_	VERB	_	_	1	ccomp	_	_
+6	ka	_	PRON	_	_	5	dep	_	_
+7	)	_	PUNCT	_	_	5	punct	_	_
+8	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:447
 # text = Kítang na nung (núkarín ka múnta). 
 # text[eng] = He asked where you are going. 
 # labels = forman:71:86
-1	Kítang	_	_	_	_	_	_	_	_
-2	na	_	_	_	_	_	_	_	_
-3	nung	_	_	_	_	_	_	_	_
-4	(	_	_	_	_	_	_	_	_
-5	núkarín	_	_	_	_	_	_	_	_
-6	ka	_	_	_	_	_	_	_	_
-7	múnta	_	_	_	_	_	_	_	_
-8	)	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Kítang	_	VERB	_	_	0	root	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	nung	_	SCONJ	_	_	7	mark	_	_
+4	(	_	PUNCT	_	_	7	punct	_	_
+5	núkarín	_	ADV	_	_	7	advmod	_	_
+6	ka	_	PRON	_	_	7	dep	_	_
+7	múnta	_	VERB	_	_	1	ccomp	_	_
+8	)	_	PUNCT	_	_	7	punct	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:448
 # text = É me ákutnán ing anák nung (nánu ing másakít na). 
 # text[eng] = You won’t be able to ask the child what hurts him. 
-# labels = forman:71:86
-1	É	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ákutnán	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	anák	_	_	_	_	_	_	_	_
-6	nung	_	_	_	_	_	_	_	_
-7	(	_	_	_	_	_	_	_	_
-8	nánu	_	_	_	_	_	_	_	_
-9	ing	_	_	_	_	_	_	_	_
-10	másakít	_	_	_	_	_	_	_	_
-11	na	_	_	_	_	_	_	_	_
-12	)	_	_	_	_	_	_	_	_
-13	.	_	_	_	_	_	_	_	_
+# labels = forman:71:86 , check csubj , masakit VERB?
+1	É	_	PART	_	_	4	advmod	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	4	dep	_	_
+3	e	_	PRON	_	_	4	dep	_	_
+4	ákutnán	_	VERB	_	_	0	root	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	anák	_	NOUN	_	_	4	nsubj:pass	_	_
+7	nung	_	SCONJ	_	_	9	mark	_	_
+8	(	_	PUNCT	_	_	9	punct	_	_
+9	nánu	_	VERB	_	_	4	ccomp	_	_
+10	ing	_	ADP	_	_	11	case	_	_
+11	másakít	_	VERB	_	_	9	csubj	_	_
+12	na	_	PRON	_	_	11	dep	_	_
+13	)	_	PUNCT	_	_	9	punct	_	_
+14	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:449
