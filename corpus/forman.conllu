@@ -2647,23 +2647,25 @@
 # sent_id = grammar:215
 # text = Makabáwal ing pámipalímbag aláng kapaintulútan. 
 # text[eng] = Printing without permission is prohibited. 
-# labels = forman:71:60
-1	Makabáwal	_	_	_	_	_	_	_	_
-2	ing	_	_	_	_	_	_	_	_
-3	pámipalímbag	_	_	_	_	_	_	_	_
-4	aláng	_	_	_	_	_	_	_	_
-5	kapaintulútan	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+# labels = forman:71:60 , check
+1	Makabáwal	_	VERB	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	pámipalímbag	_	VERB	_	_	1	csubj	_	_
+4	aláng	_	ADP	_	_	5	case	_	_
+5	kapaintulútan	_	NOUN	_	_	3	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:216
 # text = Makasalikút nó ngan. 
 # text[eng] = They’re all hidden. 
 # labels = forman:71:60
-1	Makasalikút	_	_	_	_	_	_	_	_
-2	nó	_	_	_	_	_	_	_	_
-3	ngan	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Makasalikút	_	VERB	_	_	0	root	_	_
+2-3	nó	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	ó	_	PRON	_	_	1	dep	_	_
+4	ngan	_	DET	_	_	1	nsubj:pass	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:217
@@ -3066,7 +3068,7 @@
 # sent_id = grammar:245
 # text = Kasantíng ning mamiálung kéti. 
 # text[eng] = How nice to play here!’ 
-# labels = forman:71:62
+# labels = forman:71:62 , check label -> mamialung
 1	Kasantíng	_	_	_	_	_	_	_	_
 2	ning	_	_	_	_	_	_	_	_
 3	mamiálung	_	_	_	_	_	_	_	_
