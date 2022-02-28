@@ -36,6 +36,8 @@ for block in inp.split('----------'):
 		# split the string on newlines to get the list of sentences
 		return outp.split('\n')
 
+	# a function to tokenise sentences into tokens
+	# for example "This is a test." -> ["This", "is", "a", "test", "."]
 	def tokenise(sent):
 		outp = sent
 		# add spaces around punctuation characters
