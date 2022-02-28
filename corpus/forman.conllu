@@ -1349,10 +1349,10 @@
 # text = Mesúgat ka buntúk.
 # text[eng] = You were wounded in the head. 
 # labels = forman:71:51 , check
-1       Mesúgat _       ADJ     _       _       0       root    _       _
-2       ka      _       PRON    _       _       1       dep     _       _
-3       buntúk  _       NOUN    _       _       1       obl	_       _
-4       .       _       PUNCT   _       _       1       punct   _       _
+1	Mesúgat	_	ADJ	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	buntúk	_	NOUN	_	_	1	obl	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:107
