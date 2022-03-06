@@ -31,6 +31,8 @@ for block in inp.split('----------'):
 		# and a newline
 		outp = re.sub('([!.?]+)', '\g<1>\n', outp)
 		outp = re.sub('([!.?]+)\n"', '\g<1>"\n', outp)
+		outp = re.sub('(["]+)','( " )', outp)
+		outp = re.sub('([ ]+)', ' ', outp)
 		# ['káyi Kapampángán nómang Gen Z déng tútúlak kang Bongbong kéti...', ' dána...', ' bísá lá mú yátang live Sábung ding alti...', '']
 		outp = re.sub('([!.?]+)\n( *dána)([!.?]+)\n', '\g<1>\g<2>\g<3>', outp)
 		# split the string on newlines to get the list of sentences
