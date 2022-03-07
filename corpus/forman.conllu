@@ -646,14 +646,14 @@
 # sent_id = grammar:51
 # text = Ikayú, atín kayúng upáyang mas lábis kekamí.
 # text[eng] = As for you, you have a power greater than ours.
-# labels = forman:71:40 , check comparison
+# labels = forman:71:40 
 1	Ikayú	_	PRON	_	_	3	dislocated	_	_
 2	,	_	PUNCT	_	_	1	punct	_	_
 3	atín	_	VERB	_	_	0	root	_	_
 4-5	kayúng	_	_	_	_	_	_	_	_
 4	kayú	_	PRON	_	_	3	dep	_	_
-5	ng	_	PART	_	_	_	_	_	_
-6	upáyang	_	NOUN	_	_	3	obj	_	_
+5	ng	_	PART	_	_	6	mark:link	_	_
+6	upáyang	_	NOUN	_	_	3	obl	_	_
 7	mas	_	ADV	_	_	8	advmod	_	_
 8	lábis	_	ADJ	_	_	6	amod	_	_
 9	kekamí	_	PRON	_	_	8	obl	_	_
@@ -708,16 +708,16 @@
 # sent_id = grammar:56
 # text = Magkánu ing akákit mu king kilúb ning aldóqaldó?
 # text[eng] = How much are you able to earn in a day?
-# labels = forman:71:38 , check pos of magkanu ("how much cost?")
-1	Magkánu	_	_	_	_	_	_	_	_
-2	ing	_	_	_	_	_	_	_	_
-3	akákit	_	_	_	_	_	_	_	_
-4	mu	_	_	_	_	_	_	_	_
-5	king	_	_	_	_	_	_	_	_
-6	kilúb	_	_	_	_	_	_	_	_
-7	ning	_	_	_	_	_	_	_	_
-8	aldóqaldó	_	_	_	_	_	_	_	_
-9	?	_	_	_	_	_	_	_	_
+# labels = forman:71:38 , check
+1	Magkánu	_	VERB	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	akákit	_	VERB	_	_	1	csubj	_	_
+4	mu	_	PRON	_	_	3	dep	_	_
+5	king	_	ADP	_	_	6	case	_	_
+6	kilúb	_	NOUN	_	_	3	obl	_	_
+7	ning	_	ADP	_	_	8	case	_	_
+8	aldóqaldó	_	NOUN	_	_	6	nmod:poss	_	_
+9	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:57
 # text = Ináus ke.
@@ -901,7 +901,7 @@
 3	réta	_	DET	_	_	5	det	_	_
 4	ng	_	PART	_	_	5	mark:link	_	_
 5	makabálut	_	VERB	_	_	1	nsubj	_	_
-6	papíl	_	NOUN	_	_	5	_	_	_
+6	papíl	_	NOUN	_	_	5	obl	_	_
 7	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = grammar:73
@@ -971,7 +971,7 @@
 # labels = forman:71:44 , check pos of kanita , check obl (dislocated?)
 1	Kaníta	_	ADP	_	_	3	obl	_	_
 2	naman	_	PART	_	_	3	discourse	_	_
-3	migmúla	_	VERB	_	_	_	_	_	_
+3	migmúla	_	VERB	_	_	0	root	_	_
 4	ing	_	ADP	_	_	5	case	_	_
 5	qínge	_	NOUN	_	_	3	nsubj	_	_
 6	king	_	ADP	_	_	7	case	_	_
@@ -3751,23 +3751,25 @@
 # text = Mínqanggá lang álas dósi. 
 # text[eng] = They went on up to two o’clock. 
 # labels = forman:71:69 , check time expression 
-1	Mínqanggá	_	_	_	_	_	_	_	_
-2	lang	_	_	_	_	_	_	_	_
-3	álas	_	_	_	_	_	_	_	_
-4	dósi	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Mínqanggá	_	VERB	_	_	0	root	_	_
+2-3	lang	_	_	_	_	_	_	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	5	mark:link	_	_
+4	álas	_	ADP	_	_	5	case	_	_
+5	dósi	_	NUM	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:304
 # text = É ka mámalís neng béngi.
 # text[eng] = Don’t sweep at night. 
 # labels = forman:71:69
-1	É	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	mámalís	_	_	_	_	_	_	_	_
-4	neng	_	_	_	_	_	_	_	_
-5	béngi	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	É	_	PART	_	_	3	advmod	_	_
+2	ka	_	PRON	_	_	3	dep	_	_
+3	mámalís	_	VERB	_	_	0	root	_	_
+4	neng	_	ADP	_	_	5	case	_	_
+5	béngi	_	NOUN	_	_	3	obl	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:305
@@ -4239,15 +4241,20 @@
 # sent_id = grammar:342
 # text = Kiniákán neng Dígu ing méte nang ásu.
 # text[eng] = Digu cried about his dog that died. 
-# labels = forman:71:73
-1	Kiniákán	_	_	_	_	_	_	_	_
-2	neng	_	_	_	_	_	_	_	_
-3	Dígu	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	méte	_	_	_	_	_	_	_	_
-6	nang	_	_	_	_	_	_	_	_
-7	ásu	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:73 , check "flipped" relative clause
+1	Kiniákán	_	VERB	_	_	0	root	_	_
+2-4	neng	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ng	_	ADP	_	_	5	case	_	_
+5	Dígu	_	PROPN	_	_	1	obj:agent	_	_
+6	ing	_	ADP	_	_	10	case	_	_
+7	méte	_	VERB	_	_	10	acl:relcl	_	_
+8-9	nang	_	_	_	_	_	_	_	_
+8	na	_	PRON	_	_	7	dep	_	_
+9	ng	_	PART	_	_	7	mark:link	_	_
+10	ásu	_	NOUN	_	_	1	nsubj:pass	_	_
+11	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:343
@@ -4699,29 +4706,33 @@
 # sent_id = grammar:373
 # text = Panandám me ing kakláse mung isúlud keng kapatád mu. 
 # text[eng] = Ask your sister to lend a dress to your classmate. 
-# labels = forman:71:76
-1	Panandám	_	_	_	_	_	_	_	_
-2	me	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	kakláse	_	_	_	_	_	_	_	_
-5	mung	_	_	_	_	_	_	_	_
-6	isúlud	_	_	_	_	_	_	_	_
-7	keng	_	_	_	_	_	_	_	_
-8	kapatád	_	_	_	_	_	_	_	_
-9	mu	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+# labels = forman:71:76 , check xcomp
+1	Panandám	_	VERB	_	_	0	root	_	_
+2-3	me	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	kakláse	_	NOUN	_	_	1	nsubj:bfoc	_	_
+6-7	mung	_	_	_	_	_	_	_	_
+6	mu	_	PRON	_	_	5	dep	_	_
+7	ng	_	PART	_	_	8	mark:link	_	_
+8	isúlud	_	VERB	_	_	1	xcomp	_	_
+9	keng	_	ADP	_	_	10	case	_	_
+10	kapatád	_	NOUN	_	_	1	obl	_	_
+11	mu	_	PRON	_	_	10	dep	_	_
+12	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:374
 # text = Pánandám keng isúlud ing wáli ku.
 # text[eng] = I am borrowing a dress for my younger sister. 
-# labels = forman:71:76 , check nsubj:pass (beneficiary)
+# labels = forman:71:76  , check xcomp
 1	Pánandám	_	VERB	_	_	0	root	_	_
 2-4	keng	_	_	_	_	_	_	_	_
 2	k	_	PRON	_	_	1	dep	_	_
 3	e	_	PRON	_	_	1	dep	_	_
 4	ng	_	PART	_	_	5	mark:link	_	_
-5	isúlud	_	NOUN	_	_	1	obl	_	_
+5	isúlud	_	NOUN	_	_	1	xcomp	_	_
 6	ing	_	ADP	_	_	7	case	_	_
 7	wáli	_	NOUN	_	_	1	nsubj:bfoc	_	_
 8	ku	_	PRON	_	_	7	dep	_	_
@@ -4731,17 +4742,22 @@
 # sent_id = grammar:375
 # text = Pénandám ne ing kakláse neng isúlud keng kapatád na. 
 # text[eng] = She borrowed a dress from her sister for her classmate. 
-# labels = forman:71:76
-1	Pénandám	_	_	_	_	_	_	_	_
-2	ne	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	kakláse	_	_	_	_	_	_	_	_
-5	neng	_	_	_	_	_	_	_	_
-6	isúlud	_	_	_	_	_	_	_	_
-7	keng	_	_	_	_	_	_	_	_
-8	kapatád	_	_	_	_	_	_	_	_
-9	na	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+# labels = forman:71:76 , check xcomp
+1	Pénandám	_	VERB	_	_	0	root	_	_
+2-3	ne	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	e	_	PRON	_	_	1	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	kakláse	_	NOUN	_	_	1	nsubj:bfoc	_	_
+6-8	neng	_	_	_	_	_	_	_	_
+6	n	_	PRON	_	_	5	dep	_	_
+7	e	_	PRON	_	_	5	dep	_	_
+8	ng	_	PART	_	_	9	mark:link	_	_
+9	isúlud	_	VERB	_	_	1	xcomp	_	_
+10	keng	_	ADP	_	_	11	case	_	_
+11	kapatád	_	NOUN	_	_	1	obl	_	_
+12	na	_	PRON	_	_	11	dep	_	_
+13	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:376
@@ -4925,20 +4941,25 @@
 # text = I Suán, pintalán ne mísan ayaldó i Pédro dápot é ne dísan.
 # text[eng] = Suan, he went back to Pedro another day, but he didn’t reach him. 
 # labels = forman:71:77 , check meaning of misan
-1	I	_	_	_	_	_	_	_	_
-2	Suán	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	pintalán	_	_	_	_	_	_	_	_
-5	ne	_	_	_	_	_	_	_	_
-6	mísan	_	_	_	_	_	_	_	_
-7	ayaldó	_	_	_	_	_	_	_	_
-8	i	_	_	_	_	_	_	_	_
-9	Pédro	_	_	_	_	_	_	_	_
-10	dápot	_	_	_	_	_	_	_	_
-11	é	_	_	_	_	_	_	_	_
-12	ne	_	_	_	_	_	_	_	_
-13	dísan	_	_	_	_	_	_	_	_
-14	.	_	_	_	_	_	_	_	_
+1	I	_	ADP	_	_	2	case	_	_
+2	Suán	_	PROPN	_	_	4	dislocated	_	_
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	pintalán	_	VERB	_	_	0	root	_	_
+5-6	ne	_	_	_	_	_	_	_	_
+5	n	_	PRON	_	_	4	dep	_	_
+6	e	_	PRON	_	_	4	dep	_	_
+7	mísan	_	ADJ	_	_	9	amod	_	_
+8	a	_	PART	_	_	7	mark:link	_	_
+9	yaldó	_	NOUN	_	_	4	obl	_	_
+10	i	_	ADP	_	_	11	case	_	_
+11	Pédro	_	PROPN	_	_	4	nsubj:lfoc	_	_
+12	dápot	_	CCONJ	_	_	16	cc	_	_
+13	é	_	PART	_	_	16	advmod	_	_
+14-15	ne	_	_	_	_	_	_	_	_
+14	n	_	PRON	_	_	16	dep	_	_
+15	e	_	PRON	_	_	16	dep	_	_
+16	dísan	_	VERB	_	_	4	conj	_	_
+17	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:389
@@ -5023,17 +5044,21 @@
 # text = Ing lugár a pikuanán nang Maríang ulunán, mátas yá. 
 # text[eng] = The place where Maria got the pillow was high. 
 # labels = forman:71:77
-1	Ing	_	_	_	_	_	_	_	_
-2	lugár	_	_	_	_	_	_	_	_
-3	a	_	_	_	_	_	_	_	_
-4	pikuanán	_	_	_	_	_	_	_	_
-5	nang	_	_	_	_	_	_	_	_
-6	Maríang	_	_	_	_	_	_	_	_
-7	ulunán	_	_	_	_	_	_	_	_
-8	,	_	_	_	_	_	_	_	_
-9	mátas	_	_	_	_	_	_	_	_
-10	yá	_	_	_	_	_	_	_	_
-11	.	_	_	_	_	_	_	_	_
+1	Ing	_	ADP	_	_	2	case	_	_
+2	lugár	_	NOUN	_	_	11	dislocated	_	_
+3	a	_	PART	_	_	4	mark:link	_	_
+4	pikuanán	_	VERB	_	_	2	acl:relcl	_	_
+5-6	nang	_	_	_	_	_	_	_	_
+5	na	_	PRON	_	_	4	dep	_	_
+6	ng	_	ADP	_	_	7	case	_	_
+7-8	Maríang	_	_	_	_	_	_	_	_
+7	María	_	PROPN	_	_	4	obj:agent	_	_
+8	ng	_	PART	_	_	9	mark:link	_	_
+9	ulunán	_	NOUN	_	_	4	obl	_	_
+10	,	_	PUNCT	_	_	2	punct	_	_
+11	mátas	_	VERB	_	_	0	root	_	_
+12	yá	_	PRON	_	_	11	dep	_	_
+13	.	_	PUNCT	_	_	11	punct	_	_
 
 
 # sent_id = grammar:395
@@ -5287,13 +5312,13 @@
 # text = Mípatánan ya king pún ning manggá. 
 # text[eng] = He was struck at (by) the mango tree. 
 # labels = forman:71:79
-1	Mípatánan	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	king	_	_	_	_	_	_	_	_
-4	pún	_	_	_	_	_	_	_	_
-5	ning	_	_	_	_	_	_	_	_
-6	manggá	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Mípatánan	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	pún	_	NOUN	_	_	1	obl	_	_
+5	ning	_	ADP	_	_	6	case	_	_
+6	manggá	_	NOUN	_	_	4	nmod:poss	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:414
@@ -5337,48 +5362,48 @@
 # sent_id = grammar:417
 # text = Íka ing mísasakítan. 
 # text[eng] = You are the one who will suffer. 
-# labels = forman:71:79
-1	Íka	_	_	_	_	_	_	_	_
-2	ing	_	_	_	_	_	_	_	_
-3	mísasakítan	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+# labels = forman:71:79 , check
+1	Íka	_	PRON	_	_	0	root	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	mísasakítan	_	VERB	_	_	1	csubj	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:418
 # text = Istúng milamnán ka, sínulapó ka. 
 # text[eng] = When you are filled up, you fly away. 
 # labels = forman:71:79
-1	Istúng	_	_	_	_	_	_	_	_
-2	milamnán	_	_	_	_	_	_	_	_
-3	ka	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	sínulapó	_	_	_	_	_	_	_	_
-6	ka	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Istúng	_	SCONJ	_	_	2	mark	_	_
+2	milamnán	_	VERB	_	_	5	advcl	_	_
+3	ka	_	PRON	_	_	2	dep	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	sínulapó	_	VERB	_	_	0	root	_	_
+6	ka	_	PRON	_	_	5	dep	_	_
+7	.	_	PUNCT	_	_	5	punct	_	_
 
 
 # sent_id = grammar:419
 # text = Mialbugán kamí king Maliualúq. 
 # text[eng] = We were in Maliualu when sunset came. 
 # labels = forman:71:79
-1	Mialbugán	_	_	_	_	_	_	_	_
-2	kamí	_	_	_	_	_	_	_	_
-3	king	_	_	_	_	_	_	_	_
-4	Maliualúq	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Mialbugán	_	VERB	_	_	0	root	_	_
+2	kamí	_	PRON	_	_	1	dep	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	Maliualúq	_	PROPN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:420
 # text = Míarálan ka king amánu ning Diós. 
 # text[eng] = You are schooled in the word of God. 
-# labels = forman:71:79
-1	Míarálan	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	king	_	_	_	_	_	_	_	_
-4	amánu	_	_	_	_	_	_	_	_
-5	ning	_	_	_	_	_	_	_	_
-6	Diós	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+# labels = forman:71:79 , check discuss dios PROPN or NOUN
+1	Míarálan	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	case	_	_
+3	king	_	ADP	_	_	4	case	_	_
+4	amánu	_	NOUN	_	_	1	obl	_	_
+5	ning	_	ADP	_	_	6	case	_	_
+6	Diós	_	NOUN	_	_	4	nmod:poss	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:421
@@ -6062,29 +6087,33 @@
 # text = King pámagsalítang dakál, laltó ing kabalatúngan. 
 # text[eng] = If you talk a lot, your errors will be shown. 
 # labels = forman:71:88
-1	King	_	_	_	_	_	_	_	_
-2	pámagsalítang	_	_	_	_	_	_	_	_
-3	dakál	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	laltó	_	_	_	_	_	_	_	_
-6	ing	_	_	_	_	_	_	_	_
-7	kabalatúngan	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	King	_	SCONJ	_	_	2	mark	_	_
+2-3	pámagsalítang	_	_	_	_	_	_	_	_
+2	pámagsalíta	_	VERB	_	_	6	advcl	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	dakál	_	ADV	_	_	2	advmod	_	_
+5	,	_	PUNCT	_	_	2	punct	_	_
+6	laltó	_	VERB	_	_	0	root	_	_
+7	ing	_	ADP	_	_	8	case	_	_
+8	kabalatúngan	_	NOUN	_	_	6	nsubj	_	_
+9	.	_	PUNCT	_	_	6	punct	_	_
 
 
 # sent_id = grammar:468
 # text = Ing ásung makabaluktúk bútul man, é makápúlut.
 # text[eng] = A curled-up dog can’t find any bones.
 # labels = forman:71:88 , check meaning of butul
-1	Ing	_	_	_	_	_	_	_	_
-2	ásung	_	_	_	_	_	_	_	_
-3	makabaluktúk	_	_	_	_	_	_	_	_
-4	bútul	_	_	_	_	_	_	_	_
-5	man	_	_	_	_	_	_	_	_
-6	,	_	_	_	_	_	_	_	_
-7	é	_	_	_	_	_	_	_	_
-8	makápúlut	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Ing	_	ADP	_	_	2	case	_	_
+2-3	ásung	_	_	_	_	_	_	_	_
+2	ásu	_	NOUN	_	_	9	dislocated	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	makabaluktúk	_	VERB	_	_	2	acl:relcl	_	_
+5	bútul	_	NOUN	_	_	4	obl	_	_
+6	man	_	PART	_	_	4	discourse	_	_
+7	,	_	PUNCT	_	_	2	punct	_	_
+8	é	_	PART	_	_	9	advmod	_	_
+9	makápúlut	_	VERB	_	_	0	root	_	_
+10	.	_	PUNCT	_	_	9	punct	_	_
 
 
 # sent_id = grammar:469
