@@ -5794,21 +5794,25 @@
 # text = Sinábi nang Márkus king (ing anák nang dalága, míras ya bánua).
 # text[eng] = What Marcos said was that his daughter would reach heaven. 
 # labels = forman:71:86
-1	Sinábi	_	_	_	_	_	_	_	_
-2	nang	_	_	_	_	_	_	_	_
-3	Márkus	_	_	_	_	_	_	_	_
-4	king	_	_	_	_	_	_	_	_
-5	(	_	_	_	_	_	_	_	_
-6	ing	_	_	_	_	_	_	_	_
-7	anák	_	_	_	_	_	_	_	_
-8	nang	_	_	_	_	_	_	_	_
-9	dalága	_	_	_	_	_	_	_	_
-10	,	_	_	_	_	_	_	_	_
-11	míras	_	_	_	_	_	_	_	_
-12	ya	_	_	_	_	_	_	_	_
-13	bánua	_	_	_	_	_	_	_	_
-14	)	_	_	_	_	_	_	_	_
-15	.	_	_	_	_	_	_	_	_
+1	Sinábi	_	VERB	_	_	0	root	_	_
+2-3	nang	_	_	_	_	_	_	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ng	_	ADP	_	_	4	case	_	_
+4	Márkus	_	PROPN	_	_	1	nsubj	_	_
+5	king	_	SCONJ	_	_	13	mark	_	_
+6	(	_	PUNCT	_	_	13	punct	_	_
+7	ing	_	ADP	_	_	8	case	_	_
+8	anák	_	NOUN	_	_	13	dislocated	_	_
+9-10	nang	_	_	_	_	_	_	_	_
+9	na	_	ADP	_	_	8	dep	_	_
+10	ng	_	PART	_	_	11	mark:link	_	_
+11	dalága	_	NOUN	_	_	8	nmod	_	_
+12	,	_	PUNCT	_	_	8	punct	_	_
+13	míras	_	VERB	_	_	1	ccomp	_	_
+14	ya	_	PRON	_	_	13	dep	_	_
+15	bánua	_	NOUN	_	_	13	obl	_	_
+16	)	_	PUNCT	_	_	13	punct	_	_
+17	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:452
@@ -5884,28 +5888,32 @@
 # text = Masantíng at abé me palá i Sélso. 
 # text[eng] = It’s good that you will accompany Celso. 
 # labels = forman:71:86
-1	Masantíng	_	_	_	_	_	_	_	_
-2	at	_	_	_	_	_	_	_	_
-3	abé	_	_	_	_	_	_	_	_
-4	me	_	_	_	_	_	_	_	_
-5	palá	_	_	_	_	_	_	_	_
-6	i	_	_	_	_	_	_	_	_
-7	Sélso	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Masantíng	_	ADJ	_	_	0	root	_	_
+2	at	_	SCONJ	_	_	3	mark	_	_
+3	abé	_	VERB	_	_	1	ccomp	_	_
+4-5	me	_	_	_	_	_	_	_	_
+4	m	_	PRON	_	_	3	dep	_	_
+5	e	_	PRON	_	_	3	dep	_	_
+6	palá	_	PART	_	_	3	discourse	_	_
+7	i	_	ADP	_	_	8	case	_	_
+8	Sélso	_	PROPN	_	_	3	nsubj	_	_
+9	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:456
 # text = É ka saq ikamuáq at bénging disóras. 
 # text[eng] = Hopefully you won’t be angered that it is late at night. 
-# labels = forman:71:86
-1	É	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	saq	_	_	_	_	_	_	_	_
-4	ikamuáq	_	_	_	_	_	_	_	_
-5	at	_	_	_	_	_	_	_	_
-6	bénging	_	_	_	_	_	_	_	_
-7	disóras	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:86 , check benging disoras
+1	É	_	PART	_	_	4	advmod	_	_
+2	ka	_	PRON	_	_	4	dep	_	_
+3	saq	_	PART	_	_	4	discourse	_	_
+4	ikamuáq	_	VERB	_	_	0	root	_	_
+5	at	_	SCONJ	_	_	6	mark	_	_
+6-7	bénging	_	_	_	_	_	_	_	_
+6	béngi	_	NOUN	_	_	4	ccomp	_	_
+7	ng	_	PART	_	_	8	mark:link	_	_
+8	disóras	_	ADJ	_	_	6	amod	_	_
+9	.	_	PUNCT	_	_	4	punct	_	_
 
 
 # sent_id = grammar:457
@@ -5954,19 +5962,21 @@
 # text = Burí ra kang paglapakán oneng é ra ká agyúq uling maragúl ka.
 # text[eng] = They would like to beat you up, but they can’t overcome you because you are big. 
 # labels = forman:71:86
-1	Burí	_	_	_	_	_	_	_	_
-2	ra	_	_	_	_	_	_	_	_
-3	kang	_	_	_	_	_	_	_	_
-4	paglapakán	_	_	_	_	_	_	_	_
-5	oneng	_	_	_	_	_	_	_	_
-6	é	_	_	_	_	_	_	_	_
-7	ra	_	_	_	_	_	_	_	_
-8	ká	_	_	_	_	_	_	_	_
-9	agyúq	_	_	_	_	_	_	_	_
-10	uling	_	_	_	_	_	_	_	_
-11	maragúl	_	_	_	_	_	_	_	_
-12	ka	_	_	_	_	_	_	_	_
-13	.	_	_	_	_	_	_	_	_
+1	Burí	_	VERB	_	_	0	root	_	_
+2	ra	_	PRON	_	_	1	dep	_	_
+3-4	kang	_	_	_	_	_	_	_	_
+3	ka	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	paglapakán	_	VERB	_	_	1	xcomp	_	_
+6	oneng	_	CCONJ	_	_	10	cc	_	_
+7	é	_	PART	_	_	10	advmod	_	_
+8	ra	_	PRON	_	_	10	dep	_	_
+9	ká	_	PRON	_	_	10	dep	_	_
+10	agyúq	_	VERB	_	_	1	conj	_	_
+11	uling	_	SCONJ	_	_	12	mark	_	_
+12	maragúl	_	VERB	_	_	10	advcl	_	_
+13	ka	_	PRON	_	_	12	dep	_	_
+14	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:460
