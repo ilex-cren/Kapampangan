@@ -3055,11 +3055,11 @@
 # text = Kasantíng ning mamiálung kéti. 
 # text[eng] = How nice to play here! 
 # labels = forman:71:62 , check label -> mamialung
-1	Kasantíng	_	_	_	_	_	_	_	_
-2	ning	_	_	_	_	_	_	_	_
-3	mamiálung	_	_	_	_	_	_	_	_
-4	kéti	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Kasantíng	_	ADJ	_	_	0	root	_	_
+2	ning	_	ADP	_	_	3	case	_	_
+3	mamiálung	_	VERB	_	_	1	csubj	_	_
+4	kéti	_	ADP	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:246
@@ -5919,19 +5919,19 @@
 # sent_id = grammar:457
 # text = Pabukál mu la at saka mu la bilád, síkan la. 
 # text[eng] = Boil them and dry them in the sun and they will become strong. 
-# labels = forman:71:86
-1	Pabukál	_	_	_	_	_	_	_	_
-2	mu	_	_	_	_	_	_	_	_
-3	la	_	_	_	_	_	_	_	_
-4	at	_	_	_	_	_	_	_	_
-5	saka	_	_	_	_	_	_	_	_
-6	mu	_	_	_	_	_	_	_	_
-7	la	_	_	_	_	_	_	_	_
-8	bilád	_	_	_	_	_	_	_	_
-9	,	_	_	_	_	_	_	_	_
-10	síkan	_	_	_	_	_	_	_	_
-11	la	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+# labels = forman:71:86 , check try to find out if 'saka' has a meaning on its own
+1	Pabukál	_	VERB	_	_	0	root	_	_
+2	mu	_	PRON	_	_	1	dep	_	_
+3	la	_	PRON	_	_	1	dep	_	_
+4	at	_	CCONJ	_	_	8	cc	_	_
+5	saka	_	CCONJ	_	_	4	fixed	_	_
+6	mu	_	PRON	_	_	8	dep	_	_
+7	la	_	PRON	_	_	8	dep	_	_
+8	bilád	_	VERB	_	_	1	conj	_	_
+9	,	_	PUNCT	_	_	10	punct	_	_
+10	síkan	_	VERB	_	_	1	parataxis	_	_
+11	la	_	PRON	_	_	10	dep	_	_
+12	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:458
@@ -6013,39 +6013,45 @@
 # sent_id = grammar:462
 # text = Istung mimuá ka, kudkurán me ing buák ba kang é mainíp.
 # text[eng] = If you should get angry, scratch your head so you won’t lose your temper. 
-# labels = forman:71:87
-1	Istung	_	_	_	_	_	_	_	_
-2	mimuá	_	_	_	_	_	_	_	_
-3	ka	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	kudkurán	_	_	_	_	_	_	_	_
-6	me	_	_	_	_	_	_	_	_
-7	ing	_	_	_	_	_	_	_	_
-8	buák	_	_	_	_	_	_	_	_
-9	ba	_	_	_	_	_	_	_	_
-10	kang	_	_	_	_	_	_	_	_
-11	é	_	_	_	_	_	_	_	_
-12	mainíp	_	_	_	_	_	_	_	_
-13	.	_	_	_	_	_	_	_	_
+# labels = forman:71:87, check what to do with ba and linker
+1	Istung	_	SCONJ	_	_	2	mark	_	_
+2	mimuá	_	ADJ	_	_	5	advcl	_	_
+3	ka	_	PRON	_	_	2	case	_	_
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	kudkurán	_	VERB	_	_	0	root	_	_
+6-7	me	_	_	_	_	_	_	_	_
+6	m	_	PRON	_	_	5	dep	_	_
+7	e	_	PRON	_	_	5	dep	_	_
+8	ing	_	ADP	_	_	9	case	_	_
+9	buák	_	NOUN	_	_	5	nsubj:pass	_	_
+10	ba	_	SCONJ	_	_	14	mark	_	_
+11-12	kang	_	_	_	_	_	_	_	_
+11	ka	_	PRON	_	_	14	dep	_	_
+12	ng	_	PART	_	_	10	mark:link	_	_
+13	é	_	PART	_	_	14	advmod	_	_
+14	mainíp	_	ADJ	_	_	5	advcl	_	_
+15	.	_	PUNCT	_	_	5	punct	_	_
 
 
 # sent_id = grammar:463
 # text = Kabud sabián ku ing “úp”, ibuát ye ing balé. 
 # text[eng] = As soon as I say “up”, lift the house. 
-# labels = forman:71:87
-1	Kabud	_	_	_	_	_	_	_	_
-2	sabián	_	_	_	_	_	_	_	_
-3	ku	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	“	_	_	_	_	_	_	_	_
-6	úp	_	_	_	_	_	_	_	_
-7	”	_	_	_	_	_	_	_	_
-8	,	_	_	_	_	_	_	_	_
-9	ibuát	_	_	_	_	_	_	_	_
-10	ye	_	_	_	_	_	_	_	_
-11	ing	_	_	_	_	_	_	_	_
-12	balé	_	_	_	_	_	_	_	_
-13	.	_	_	_	_	_	_	_	_
+# labels = forman:71:87 , check analysis of "up"
+1	Kabud	_	SCONJ	_	_	2	mark	_	_
+2	sabián	_	VERB	_	_	9	advcl	_	_
+3	ku	_	PRON	_	_	2	dep	_	_
+4	ing	_	ADP	_	_	6	case	_	_
+5	“	_	PUNCT	_	_	6	punct	_	_
+6	úp	_	NOUN	_	_	2	nsubj:pass	_	_
+7	”	_	PUNCT	_	_	6	punct	_	_
+8	,	_	PUNCT	_	_	2	punct	_	_
+9	ibuát	_	VERB	_	_	0	root	_	_
+10-11	ye	_	_	_	_	_	_	_	_
+10	y	_	PRON	_	_	9	dep	_	_
+11	e	_	PRON	_	_	9	dep	_	_
+12	ing	_	ADP	_	_	13	case	_	_
+13	balé	_	NOUN	_	_	9	nsubj:pass	_	_
+14	.	_	PUNCT	_	_	9	punct	_	_
 
 
 # sent_id = grammar:464
