@@ -7,8 +7,11 @@ Examples:
 ---
 ng : the "linker" or "ligature" in general. We have been tagging this as PART, but this seems inadequate given its syntactic role(s). However, therre doesn't seem to be a part-of-speech tag that better characterizes it. 
 
+---
+demonstratives : The Tagalog (Ugnayan) treebank consistently tags these as PRON. When they are used with a noun they are labeled nmod. I think this is a good approach to Kapampangan demonstratives as well. Previously, I was using DET, so there may still be some trees that need to be updated.
 
-LABELING ISSUES
+
+DEPREL ISSUES
 -------------------------
 mark:link (applied to ng) : following the Tagalog treebank, we have been labeling the relationship of ng to the modifying word/phrase as mark:link. This seems to fit well for some situations (such as when ng links a noun to a relative clause), but "mark" doesn't seem like an ideal way to describe the role of "ng" much of the time.
 

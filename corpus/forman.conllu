@@ -851,14 +851,14 @@
 # text = Nukarín yu na la kasí kinwá déni? 
 # text[eng] = Because (I want you to tell me again) where did you get those?’ 
 # labels = forman:71:42 , check kasi, na
-1	Nukarín	_	_	_	_	_	_	_	_
-2	yu	_	_	_	_	_	_	_	_
-3	na	_	_	_	_	_	_	_	_
-4	la	_	_	_	_	_	_	_	_
-5	kasí	_	_	_	_	_	_	_	_
-6	kinwá	_	_	_	_	_	_	_	_
-7	déni	_	_	_	_	_	_	_	_
-8	?	_	_	_	_	_	_	_	_
+1	Nukarín	_	ADV	_	_	6	advmod	_	_
+2	yu	_	PRON	_	_	6	dep	_	_
+3	na	_	PART	_	_	6	discourse	_	_
+4	la	_	PRON	_	_	6	dep	_	_
+5	kasí	_	PART	_	_	6	discourse	_	_
+6	kinwá	_	VERB	_	_	0	root	_	_
+7	déni	_	PRON	_	_	6	nsubj:pass	_	_
+8	?	_	PUNCT	_	_	6	punct	_	_
 
 
 # sent_id = grammar:69
@@ -1058,44 +1058,48 @@
 # sent_id = grammar:85
 # text = Kéni ta tipúnan ing pibalátan tang maní.
 # text[eng] =  Here is where we (should) throw away our peanut shells. 
-# labels = forman:71:45 , check 
-1	Kéni	_	_	_	_	_	_	_	_
-2	ta	_	_	_	_	_	_	_	_
-3	tipúnan	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	pibalátan	_	_	_	_	_	_	_	_
-6	tang	_	_	_	_	_	_	_	_
-7	maní	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:45  
+1	Kéni	_	PRON	_	_	3	obl	_	_
+2	ta	_	PRON	_	_	3	dep	_	_
+3	tipúnan	_	VERB	_	_	0	root	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	pibalátan	_	NOUN	_	_	3	nsubj:pass	_	_
+6-7	tang	_	_	_	_	_	_	_	_
+6	ta	_	PRON	_	_	5	dep	_	_
+7	ng	_	PART	_	_	8	mark:link	_	_
+8	maní	_	NOUN	_	_	5	nmod	_	_
+9	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:86
 # text = Nánumang ásaup mu kén, pásalamátan ku. 
 # text[eng] = Whatever help you can give him, I thank you for it. 
-# labels = forman:71:45
-1	Nánumang	_	_	_	_	_	_	_	_
-2	ásaup	_	_	_	_	_	_	_	_
-3	mu	_	_	_	_	_	_	_	_
-4	kén	_	_	_	_	_	_	_	_
-5	,	_	_	_	_	_	_	_	_
-6	pásalamátan	_	_	_	_	_	_	_	_
-7	ku	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+# labels = forman:71:45 , check asaup noun or verb
+1-2	Nánumang	_	_	_	_	_	_	_	_
+1	Nánuman	_	PRON	_	_	3	nmod	_	_
+2	g	_	PART	_	_	1	mark:link	_	_
+3	ásaup	_	NOUN	_	_	7	parataxis	_	_
+4	mu	_	PRON	_	_	3	dep	_	_
+5	kén	_	PRON	_	_	3	obl	_	_
+6	,	_	PUNCT	_	_	3	punct	_	_
+7	pásalamátan	_	VERB	_	_	0	root	_	_
+8	ku	_	PRON	_	_	7	dep	_	_
+9	.	_	PUNCT	_	_	7	punct	_	_
 
 
 # sent_id = grammar:87
 # text = Qíka, Nóra, maglínis ka kéti balé. 
 # text[eng] = As for you, Nora, clean up here in the house. 
 # labels = forman:71:45
-1	Qíka	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	Nóra	_	_	_	_	_	_	_	_
-4	,	_	_	_	_	_	_	_	_
-5	maglínis	_	_	_	_	_	_	_	_
-6	ka	_	_	_	_	_	_	_	_
-7	kéti	_	_	_	_	_	_	_	_
-8	balé	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Qíka	_	PRON	_	_	5	vocative	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	Nóra	_	PROPN	_	_	5	vocative	_	_
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	maglínis	_	VERB	_	_	0	root	_	_
+6	ka	_	PRON	_	_	5	dep	_	_
+7	kéti	_	PRON	_	_	5	obl	_	_
+8	balé	_	NOUN	_	_	5	obl	_	_
+9	.	_	PUNCT	_	_	5	punct	_	_
 
 
 # sent_id = grammar:88
@@ -1733,24 +1737,26 @@
 # sent_id = grammar:140
 # text = Métung man aláng makipányu. 
 # text[eng] = None of them has a handkerchief. 
-# labels = forman:71:55
-1	Métung	_	_	_	_	_	_	_	_
-2	man	_	_	_	_	_	_	_	_
-3	aláng	_	_	_	_	_	_	_	_
-4	makipányu	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+# labels = forman:71:55 , check labels for metung, makipanyu, discuss in general
+1	Métung	_	NUM	_	_	3	dislocated	_	_
+2	man	_	PART	_	_	1	discourse	_	_
+3-4	aláng	_	_	_	_	_	_	_	_
+3	alá	_	VERB	_	_	0	root	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	makipányu	_	VERB	_	_	3	advcl	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:141
 # text = Dakál ya bié i Juán. 
 # text[eng] = Juan has many lives. (i.e., There are many stories about the life of Juan.) 
-# labels = forman:71:55 , check discuss
-1	Dakál	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	bié	_	_	_	_	_	_	_	_
-4	i	_	_	_	_	_	_	_	_
-5	Juán	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+# labels = forman:71:55 , check POS for dakal, bie
+1	Dakál	_	DET	_	_	3	det	_	_
+2	ya	_	PRON	_	_	3	dep	_	_
+3	bié	_	NOUN	_	_	0	root	_	_
+4	i	_	ADP	_	_	5	case	_	_
+5	Juán	_	PROPN	_	_	3	nsubj	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
 
 
 # sent_id = grammar:142
@@ -5999,15 +6005,19 @@
 # text = Mintá ya pala kéti ba yang mabiásang Kapampángan. 
 # text[eng] = So, he came here in order that he would become skilled in Kapampangan. 
 # labels = forman:71:87
-1	Mintá	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	pala	_	_	_	_	_	_	_	_
-4	kéti	_	_	_	_	_	_	_	_
-5	ba	_	_	_	_	_	_	_	_
-6	yang	_	_	_	_	_	_	_	_
-7	mabiásang	_	_	_	_	_	_	_	_
-8	Kapampángan	_	_	_	_	_	_	_	_
-9	.	_	_	_	_	_	_	_	_
+1	Mintá	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	pala	_	PART	_	_	1	discourse	_	_
+4	kéti	_	PRON	_	_	1	obl	_	_
+5	ba	_	SCONJ	_	_	8	mark	_	_
+6-7	yang	_	_	_	_	_	_	_	_
+6	ya	_	PRON	_	_	8	dep	_	_
+7	ng	_	PART	_	_	8	mark:link	_	_
+8-9	mabiásang	_	_	_	_	_	_	_	_
+8	mabiása	_	ADJ	_	_	1	advcl	_	_
+9	ng	_	PART	_	_	10	mark:link	_	_
+10	Kapampángan	_	NOUN	_	_	8	obl	_	_
+11	.	_	PUNCT	_	_	1	punct	_	_
 
 
 # sent_id = grammar:462
