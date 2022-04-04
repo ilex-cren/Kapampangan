@@ -1,0 +1,7 @@
+import sys
+sentence = 1
+for line in open(sys.argv[1]).readline():
+        if line.strip () =='':
+                continue
+        print('%d\t%s' % (sentence,line))
+        sentence +=1
