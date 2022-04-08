@@ -417,13 +417,15 @@
 # sent_id = facebook:29:29
 # text = É né rin búbulâ ing nakpúta.
 # date = October 6, 2021
-1	É	_	_	_	_	_	_	_	_
-2	né	_	_	_	_	_	_	_	_
-3	rin	_	_	_	_	_	_	_	_
-4	búbulâ	_	_	_	_	_	_	_	_
-5	ing	_	_	_	_	_	_	_	_
-6	nakpúta	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	É	_	PART	_	_	5	advmod	_	_
+2-3	né	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	5	dep	_	_
+3	é	_	PRON	_	_	5	dep	_	_
+4	rin	_	PART	_	_	5	discourse	_	_
+5	búbulâ	_	VERB	_	_	0	root	_	_
+6	ing	_	ADP	_	_	7	case	_	_
+7	nakpúta	_	NOUN	_	_	5	nsubj	_	_
+8	.	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = facebook:30:30
 # text = Kandílá ya yátá ing digpán ning alti!?
@@ -997,10 +999,12 @@
 # sent_id = facebook:54:76
 # text =  Tandánan mé ita.
 # date = October 17, 2021
-1	Tandánan	_	_	_	_	_	_	_	_
-2	mé	_	_	_	_	_	_	_	_
-3	ita	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Tandánan	_	VERB	_	_	0	root	_	_
+2-3	mé	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	ita	_	PRON	_	_	1	nsubj:pass	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:55:77
 # text = Cóng Boy: Back sin?
@@ -1858,17 +1862,17 @@
 # sent_id = facebook:96:135
 # text =  ai, sikrétu mi ya pala king pamiliá mi ita!
 # date = October 16, 2021
-1	ai	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	sikrétu	_	_	_	_	_	_	_	_
-4	mi	_	_	_	_	_	_	_	_
-5	ya	_	_	_	_	_	_	_	_
-6	pala	_	_	_	_	_	_	_	_
-7	king	_	_	_	_	_	_	_	_
-8	pamiliá	_	_	_	_	_	_	_	_
-9	mi	_	_	_	_	_	_	_	_
-10	ita	_	_	_	_	_	_	_	_
-11	!	_	_	_	_	_	_	_	_
+1	ai	_	INTJ	_	_	3	discourse	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	sikrétu	_	NOUN	_	_	0	root	_	_
+4	mi	_	PRON	_	_	3	dep	_	_
+5	ya	_	PRON	_	_	3	dep	_	_
+6	pala	_	PART	_	_	3	discourse	_	_
+7	king	_	ADP	_	_	8	case	_	_
+8	pamiliá	_	NOUN	_	_	3	obl	_	_
+9	mi	_	PRON	_	_	8	dep	_	_
+10	ita	_	PRON	_	_	3	nsubj	_	_
+11	!	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = facebook:97:136
 # text = Agyámpang gagáwan dé ngan ding éganaganang táwu, kapilan man é ya maging ustu ing malî.
@@ -1890,4 +1894,5 @@
 15	ing	_	_	_	_	_	_	_	_
 16	malî	_	_	_	_	_	_	_	_
 17	.	_	_	_	_	_	_	_	_
+
 
