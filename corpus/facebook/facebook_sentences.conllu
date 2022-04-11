@@ -1144,19 +1144,21 @@
 
 # sent_id = facebook:61:91
 # text =  Ósimáp pin ngéni king pagó námú at é na king buldit.
+# text[eng] = It is good now (that) it is on the shoulder and not on the butt.
 # date = October 17, 2021
-1	Ósimáp	_	_	_	_	_	_	_	_
-2	pin	_	_	_	_	_	_	_	_
-3	ngéni	_	_	_	_	_	_	_	_
-4	king	_	_	_	_	_	_	_	_
-5	pagó	_	_	_	_	_	_	_	_
-6	námú	_	_	_	_	_	_	_	_
-7	at	_	_	_	_	_	_	_	_
-8	é	_	_	_	_	_	_	_	_
-9	na	_	_	_	_	_	_	_	_
-10	king	_	_	_	_	_	_	_	_
-11	buldit	_	_	_	_	_	_	_	_
-12	.	_	_	_	_	_	_	_	_
+# labels = check clause structure
+1	Ósimáp	_	VERB	_	_	0	root	_	_
+2	pin	_	PART	_	_	1	dep	_	_
+3	ngéni	_	ADV	_	_	1	advmod	_	_
+4	king	_	ADP	_	_	5	case	_	_
+5	pagó	_	NOUN	_	_	1	ccomp	_	_
+6	námú	_	PART	_	_	5	discourse	_	_
+7	at	_	CCONJ	_	_	11	cc	_	_
+8	é	_	PART	_	_	11	advmod	_	_
+9	na	_	PRON	_	_	11	dep	_	_
+10	king	_	ADP	_	_	11	case	_	_
+11	buldit	_	NOUN	_	_	5	conj	_	_
+12	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:62:92
 # text = Atching Baby: Yápin ita.
@@ -1237,9 +1239,9 @@
 # sent_id = facebook:67:98
 # text = Bakúná ita.
 # date = October 17, 2021
-1	Bakúná	_	_	_	_	_	_	_	_
-2	ita	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Bakúná	_	VERB	_	_	0	root	_	_
+2	ita	_	PRON	_	_	1	nsubj	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:68:99
 # text = Cóng Boy: Bakúná pala ita.
@@ -1283,11 +1285,11 @@
 # sent_id = facebook:71:102
 # text = Mérkánu la réng dóktor?
 # date = October 17, 2021
-1	Mérkánu	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	réng	_	_	_	_	_	_	_	_
-4	dóktor	_	_	_	_	_	_	_	_
-5	?	_	_	_	_	_	_	_	_
+1	Mérkánu	_	ADJ	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	réng	_	ADP	_	_	4	case	_	_
+4	dóktor	_	NOUN	_	_	1	nsubj	_	_
+5	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:72:103
 # text = Cóng Boy: Wa, asnóng kátas!
@@ -1303,9 +1305,9 @@
 # sent_id = facebook:72:104
 # text =  Mákatákut la!
 # date = October 17, 2021
-1	Mákatákut	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	!	_	_	_	_	_	_	_	_
+1	Mákatákut	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:73:105
 # text = Atching Baby: Alí mó pótang bakunan dakatámu kailángan téng pákit ing buldit támu né?
@@ -1345,10 +1347,10 @@
 # sent_id = facebook:74:108
 # text =  Átatandánan ku pa.
 # date = October 17, 2021
-1	Átatandánan	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	pa	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Átatandánan	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	pa	_	PART	_	_	1	discourse	_	_
+4	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:75:109
 # text = Atching Baby: Déng Merkánu áintindian da ita.
@@ -1365,11 +1367,14 @@
 # sent_id = facebook:75:110
 # text =  É dakatámu buring díríné.
 # date = October 17, 2021
-1	É	_	_	_	_	_	_	_	_
-2	dakatámu	_	_	_	_	_	_	_	_
-3	buring	_	_	_	_	_	_	_	_
-4	díríné	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	É	_	PART	_	_	4	advmod	_	_
+2-3	dakatámu	_	_	_	_	_	_	_	_
+2	da	_	PRON	_	_	4	dep	_	_
+3	katámu	_	PRON	_	_	4	dep	_	_
+4	buri	_	VERB	_	_	0	root	_	_
+5	ng	_	PART	_	_	6	mark:link	_	_
+6	díríné	_	VERB	_	_	4	xcomp	_	_
+7	.	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = facebook:75:111
 # text =  Iniá kanuwárí mó ing gúlut támu yang íkit da at aliwá ing buldit, iniá " back seen " ngára.
@@ -1667,15 +1672,6 @@
 3	nákung	_	_	_	_	_	_	_	_
 4	múlî	_	_	_	_	_	_	_	_
 
-# sent_id = facebook:89:126
-# text = Kanítá pa man mékápamunlá nala.
-# date = ????
-1	Kanítá	_	_	_	_	_	_	_	_
-2	pa	_	_	_	_	_	_	_	_
-3	man	_	_	_	_	_	_	_	_
-4	mékápamunlá	_	_	_	_	_	_	_	_
-5	nala	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:90:127
 # text = Agpang kang Ingkung kung Éliung king Magálang, atin ya kanung sésé Kulariut i Ápung Mágnu a tátang na at Ingkung ku king tud.
