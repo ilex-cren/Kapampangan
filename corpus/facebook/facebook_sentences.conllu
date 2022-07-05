@@ -136,16 +136,18 @@
 # sent_id = facebook:10:10
 # text = Atin púsang línub king kuártu ku nandin lumual ku.
 # date = September 5, 2021
-1	Atin	_	_	_	_	_	_	_	_
-2	púsang	_	_	_	_	_	_	_	_
-3	línub	_	_	_	_	_	_	_	_
-4	king	_	_	_	_	_	_	_	_
-5	kuártu	_	_	_	_	_	_	_	_
-6	ku	_	_	_	_	_	_	_	_
-7	nandin	_	_	_	_	_	_	_	_
-8	lumual	_	_	_	_	_	_	_	_
-9	ku	_	_	_	_	_	_	_	_
-10	.	_	_	_	_	_	_	_	_
+1	Atin	_	VERB	_	_	0	root	_	_
+2-3	púsang	_	_	_	_	_	_	_	_
+2	púsa	_	NOUN	_	_	1	obl	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	línub	_	VERB	_	_	2	acl:relcl	_	_
+5	king	_	ADP	_	_	6	case	_	_
+6	kuártu	_	NOUN	_	_	4	obl	_	_
+7	ku	_	PRON	_	_	6	dep	_	_
+8	nandin	_	SCONJ	_	_	9	mark	_	_
+9	lumual	_	VERB	_	_	4	advcl	_	_
+10	ku	_	PRON	_	_	9	dep	_	_
+11	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:11:11
 # text = Baláku sá púsâ ké.
@@ -369,16 +371,20 @@
 # sent_id = facebook:23:23
 # text = Báyung lúpa.
 # date = October 7, 2021
-1	Báyung	_	_	_	_	_	_	_	_
-2	lúpa	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1-2	Báyung	_	_	_	_	_	_	_	_
+1	Báyu	_	ADJ	_	_	3	amod	_	_
+2	ng	_	PART	_	_	1	mark:link	_	_
+3	lúpa	_	NOUN	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = facebook:24:24
 # text = Báyung lagyû.
 # date = October 7, 2021
-1	Báyung	_	_	_	_	_	_	_	_
-2	lagyû	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1-2	Báyung	_	_	_	_	_	_	_	_
+1	Báyu	_	ADJ	_	_	3	amod	_	_
+2	ng	_	PART	_	_	1	mark:link	_	_
+3	lagyû	_	NOUN	_	_	0	root	_	_
+4	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = facebook:25:25
 # text = Báyung Talasúyû!
@@ -399,10 +405,12 @@
 # sent_id = facebook:27:27
 # text = Sinálí kung sabun.
 # date = October 6, 2021
-1	Sinálí	_	_	_	_	_	_	_	_
-2	kung	_	_	_	_	_	_	_	_
-3	sabun	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Sinálí	_	VERB	_	_	0	root	_	_
+2-3	kung	_	_	_	_	_	_	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	sabun	_	NOUN	_	_	1	obl	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:28:28
 # text = Pílán nang aldó é pa malaláso.
@@ -686,8 +694,8 @@
 # sent_id = facebook:39:44
 # text =  mámagad.
 # date = October 13, 2013
-1	mámagad	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
+1	mámagad	_	VERB	_	_	0	root	_	_
+2	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:39:45
 # text =  nung atin búngang aldó patié mapáli, atin mú naman palang búngang pakarimla né.
@@ -711,9 +719,9 @@
 # sent_id = facebook:39:46
 # text =  kaplas da!!!
 # date = October 13, 2013
-1	kaplas	_	_	_	_	_	_	_	_
-2	da	_	_	_	_	_	_	_	_
-3	!!!	_	_	_	_	_	_	_	_
+1	kaplas	_	ADJ	_	_	0	root	_	_
+2	da	_	PRON	_	_	1	dep	_	_
+3	!!!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:40:47
 # text = é kó pa áyáring ilbén.
@@ -8903,9 +8911,9 @@
 # sent_id = facebook:420:593
 # text =  Mulat la.
 # date = December 26, 2021 
-1	Mulat	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Mulat	_	VERB	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:420:594
 # text =  Marangal.
@@ -9403,23 +9411,25 @@
 # sent_id = facebook:449:629
 # text = Kapampángan ya itang ginámit na?
 # date = November 27, 2021 
-1	Kapampángan	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	itang	_	_	_	_	_	_	_	_
-4	ginámit	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
+1	Kapampángan	_	NOUN	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3-4	itang	_	_	_	_	_	_	_	_
+3	ita	_	PRON	_	_	1	nsubj	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	ginámit	_	VERB	_	_	3	acl:relcl	_	_
+6	na	_	PRON	_	_	5	dep	_	_
+7	?	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:449:630
 # text =  É ya dápat " maghihintay " ?
-# date = November 27, 2021 
-1	É	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	dápat	_	_	_	_	_	_	_	_
-4	"	_	_	_	_	_	_	_	_
-5	maghihintay	_	_	_	_	_	_	_	_
-6	"	_	_	_	_	_	_	_	_
-7	?	_	_	_	_	_	_	_	_
+# date = November 27, 2021 , check structure
+1	É	_	PART	_	_	5	advmod	_	_
+2	ya	_	PRON	_	_	5	dep	_	_
+3	dápat	_	AUX	_	_	5	aux	_	_
+4	"	_	PUNCT	_	_	5	punct	_	_
+5	maghihintay	_	VERB	_	_	0	root	_	_
+6	"	_	PUNCT	_	_	5	punct	_	_
+7	?	_	PUNCT	_	_	5	punct	_	_
 
 # sent_id = facebook:450:631
 # text = kábirabíra all star cast ya ing lecture ku!!!
@@ -9469,10 +9479,6 @@
 15	PATKÛ	_	_	_	_	_	_	_	_
 16	!!!	_	_	_	_	_	_	_	_
 
-# sent_id = facebook:453:634
-# text = ...
-# date = November 20, 2021 
-1	...	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:453:635
 # text = lakuan ké kéni ini...
@@ -9529,12 +9535,15 @@
 # sent_id = facebook:457:640
 # text = ibótu tó ngan sána pû!!!
 # date = November 17, 2021 
-1	ibótu	_	_	_	_	_	_	_	_
-2	tó	_	_	_	_	_	_	_	_
-3	ngan	_	_	_	_	_	_	_	_
-4	sána	_	_	_	_	_	_	_	_
-5	pû	_	_	_	_	_	_	_	_
-6	!!!	_	_	_	_	_	_	_	_
+# labels = check analysis of ngan
+1	ibótu	_	VERB	_	_	0	root	_	_
+2-3	tó	_	_	_	_	_	_	_	_
+2	t	_	PRON	_	_	1	dep	_	_
+3	ó	_	PRON	_	_	1	dep	_	_
+4	ngan	_	PRON	_	_	1	nsubj:pass	_	_
+5	sána	_	PART	_	_	1	discourse	_	_
+6	pû	_	PART	_	_	1	discourse	_	_
+7	!!!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:458:641
 # text = Maniáman lang díli kéni!
@@ -9549,35 +9558,45 @@
 
 # sent_id = facebook:458:642
 # text =  Masangkap ya at malásang patátas ampóng gisántis ing palamán na!
-# date = November 17, 2021 
-1	Masangkap	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	at	_	_	_	_	_	_	_	_
-4	malásang	_	_	_	_	_	_	_	_
-5	patátas	_	_	_	_	_	_	_	_
-6	ampóng	_	_	_	_	_	_	_	_
-7	gisántis	_	_	_	_	_	_	_	_
-8	ing	_	_	_	_	_	_	_	_
-9	palamán	_	_	_	_	_	_	_	_
-10	na	_	_	_	_	_	_	_	_
-11	!	_	_	_	_	_	_	_	_
+# date = November 17, 2021
+# labels = give up for now...
+1	Masangkap	_	ADJ	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	at	_	CCONJ	_	_	6	_	_	_
+4-5	malásang	_	_	_	_	_	_	_	_
+4	malása	_	ADJ	_	_	6	_	_	_
+5	ng	_	PART	_	_	4	mark:link	_	_
+6	patátas	_	NOUN	_	_	1	_	_	_
+7	ampóng	_	CCONJ	_	_	8	cc	_	_
+8	gisántis	_	NOUN	_	_	6	conj	_	_
+9	ing	_	ADP	_	_	10	case	_	_
+10	palamán	_	NOUN	_	_	1	nsubj	_	_
+11	na	_	PRON	_	_	10	dep	_	_
+12	!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:459:643
 # text = Tiltil méng Imli Chutney (sampáluk) ó kayá iyábé mé king Chana Masala.
 # date = November 17, 2021 
-1	Tiltil	_	_	_	_	_	_	_	_
-2	méng	_	_	_	_	_	_	_	_
-3	Imli	_	_	_	_	_	_	_	_
-4	Chutney	_	_	_	_	_	_	_	_
-5	(sampáluk)	_	_	_	_	_	_	_	_
-6	ó	_	_	_	_	_	_	_	_
-7	kayá	_	_	_	_	_	_	_	_
-8	iyábé	_	_	_	_	_	_	_	_
-9	mé	_	_	_	_	_	_	_	_
-10	king	_	_	_	_	_	_	_	_
-11	Chana	_	_	_	_	_	_	_	_
-12	Masala	_	_	_	_	_	_	_	_
-13	.	_	_	_	_	_	_	_	_
+1	Tiltil	_	VERB	_	_	0	root	_	_
+2-4	méng	_	_	_	_	_	_	_	_
+2	m	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	Imli	_	NOUN	_	_	1	obl	_	_
+6	Chutney	_	NOUN	_	_	5	flat	_	_
+7	(	_	PUNCT	_	_	8	punct	_	_
+8	sampáluk	_	NOUN	_	_	5	appos	_	_
+9	)	_	PUNCT	_	_	8	punct	_	_
+10	ó	_	CCONJ	_	_	12	cc	_	_
+11	kayá	_	PART	_	_	12	discourse	_	_
+12	iyábé	_	VERB	_	_	1	conj	_	_
+13-14	mé	_	_	_	_	_	_	_	_
+13	m	_	PRON	_	_	12	dep	_	_
+14	é	_	PRON	_	_	12	dep	_	_
+15	king	_	ADP	_	_	16	case	_	_
+16	Chana	_	NOUN	_	_	12	obl	_	_
+17	Masala	_	NOUN	_	_	16	flat	_	_
+18	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:460:644
 # text = Aldóldó lang máglútû!
@@ -9592,10 +9611,10 @@
 # sent_id = facebook:460:645
 # text =  Maniáman la kábang mapálí la!
 # date = November 17, 2021 
-1	Maniáman	_	_	_	_	_	_	_	_
-2	la	_	_	_	_	_	_	_	_
-3	kábang	_	_	_	_	_	_	_	_
-4	mapálí	_	_	_	_	_	_	_	_
-5	la	_	_	_	_	_	_	_	_
-6	!	_	_	_	_	_	_	_	_
+1	Maniáman	_	ADJ	_	_	0	root	_	_
+2	la	_	PRON	_	_	1	dep	_	_
+3	kábang	_	SCONJ	_	_	4	mark	_	_
+4	mapálí	_	ADJ	_	_	1	advcl	_	_
+5	la	_	PRON	_	_	4	dep	_	_
+6	!	_	PUNCT	_	_	1	punct	_	_
 
