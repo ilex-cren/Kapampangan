@@ -9447,17 +9447,23 @@
 # sent_id = facebook:451:632
 # text = dakal pung salámat king kékayung pámanágun at king kékatámung pámandáké!!!
 # date = November 24, 2021 
-1	dakal	_	_	_	_	_	_	_	_
-2	pung	_	_	_	_	_	_	_	_
-3	salámat	_	_	_	_	_	_	_	_
-4	king	_	_	_	_	_	_	_	_
-5	kékayung	_	_	_	_	_	_	_	_
-6	pámanágun	_	_	_	_	_	_	_	_
-7	at	_	_	_	_	_	_	_	_
-8	king	_	_	_	_	_	_	_	_
-9	kékatámung	_	_	_	_	_	_	_	_
-10	pámandáké	_	_	_	_	_	_	_	_
-11	!!!	_	_	_	_	_	_	_	_
+1	dakal	_	ADJ	_	_	4	amod	_	_
+2-3	pung	_	_	_	_	_	_	_	_
+2	pu	_	PART	_	_	4	discourse	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4	salámat	_	NOUN	_	_	0	root	_	_
+5	king	_	ADP	_	_	8	case	_	_
+6-7	kékayung	_	_	_	_	_	_	_	_
+6	kékayu	_	PRON	_	_	8	nmod:poss	_	_
+7	ng	_	PART	_	_	6	mark:link	_	_
+8	pámanágun	_	NOUN	_	_	4	obl	_	_
+9	at	_	CCONJ	_	_	13	cc	_	_
+10	king	_	ADP	_	_	13	case	_	_
+11-12	kékatámung	_	_	_	_	_	_	_	_
+11	kékatámu	_	PRON	_	_	13	nmod:poss	_	_
+12	ng	_	PART	_	_	11	mark:link	_	_
+13	pámandáké	_	NOUN	_	_	8	conj	_	_
+14	!!!	_	PUNCT	_	_	4	punct	_	_
 
 # sent_id = facebook:452:633
 # text = Mákaríné mang amínan dápot manggá man ngéni é ké pa rin bitasang tikman ing PATKÛ!!!
@@ -9483,27 +9489,22 @@
 # sent_id = facebook:453:635
 # text = lakuan ké kéni ini...
 # date = November 20, 2021 
-1	lakuan	_	_	_	_	_	_	_	_
-2	ké	_	_	_	_	_	_	_	_
-3	kéni	_	_	_	_	_	_	_	_
-4	ini	_	_	_	_	_	_	_	_
-5	...	_	_	_	_	_	_	_	_
+1	lakuan	_	VERB	_	_	0	root	_	_
+2-3	ké	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	kéni	_	ADP	_	_	1	obl	_	_
+5	ini	_	DET	_	_	1	nsubj:pass	_	_
+6	...	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:454:636
 # text = Luíd ka, Kirbs!!!
 # date = November 17, 2021 
-1	Luíd	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	Kirbs	_	_	_	_	_	_	_	_
-5	!!!	_	_	_	_	_	_	_	_
-
-# sent_id = facebook:454:637
-# text =  Happy Birthday!!!
-# date = November 17, 2021 
-1	Happy	_	_	_	_	_	_	_	_
-2	Birthday	_	_	_	_	_	_	_	_
-3	!!!	_	_	_	_	_	_	_	_
+1	Luíd	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	Kirbs	_	PROPN	_	_	1	vocative	_	_
+5	!!!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:455:638
 # text = Maligáyang Kapagmasusian kéting Kayaldawánan ning Kékang Kébaitan!!!
