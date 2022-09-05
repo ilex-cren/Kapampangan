@@ -152,31 +152,42 @@
 # sent_id = facebook:11:11
 # text = Baláku sá púsâ ké.
 # date = September 5, 2021
-1	Baláku	_	_	_	_	_	_	_	_
-2	sá	_	_	_	_	_	_	_	_
-3	púsâ	_	_	_	_	_	_	_	_
-4	ké	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1-2	Baláku	_	_	_	_	_	_	_	_
+1	Balá	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	sá	_	PART	_	_	1	discourse	_	_
+4	púsâ	_	NOUN	_	_	1	ccomp	_	_
+5-6	ké	_	_	_	_	_	_	_	_
+5	k	_	PRON	_	_	4	dep	_	_
+6	é	_	PRON	_	_	4	dep	_	_
+7	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:12:12
 # text = Kawángis némú pala.
 # date = September 5, 2021
-1	Kawángis	_	_	_	_	_	_	_	_
-2	némú	_	_	_	_	_	_	_	_
-3	pala	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Kawángis	_	VERB	_	_	0	root	_	_
+2-3	né	_	_	_	_	_	_	_	_
+2	n	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	mú	_	PART	_	_	1	discourse	_	_
+5	pala	_	PART	_	_	1	discourse	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:13:13
 # text = Óini mémáwung iming púsá ing gámit ku.
 # date = September 5, 2021
-1	Óini	_	_	_	_	_	_	_	_
-2	mémáwung	_	_	_	_	_	_	_	_
-3	iming	_	_	_	_	_	_	_	_
-4	púsá	_	_	_	_	_	_	_	_
-5	ing	_	_	_	_	_	_	_	_
-6	gámit	_	_	_	_	_	_	_	_
-7	ku	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Óini	_	PRON	_	_	2	discourse	_	_
+2-3	mémáwung	_	_	_	_	_	_	_	_
+2	mémáwu	_	VERB	_	_	0	root	_	_
+3	ng	_	PART	_	_	4	mark:link	_	_
+4-5	iming	_	_	_	_	_	_	_	_
+4	imi	_	NOUN	_	_	2	obl	_	_
+5	ng	_	PART	_	_	6	mark:link	_	_
+6	púsá	_	NOUN	_	_	4	nmod	_	_
+7	ing	_	ADP	_	_	8	case	_	_
+8	gámit	_	NOUN	_	_	2	nsubj	_	_
+9	ku	_	PRON	_	_	8	dep	_	_
+10	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = facebook:14:14
 # text = Ót íkit ké kétang video maka-pink yá rin i Bongbong?
@@ -9026,12 +9037,16 @@
 # sent_id = facebook:428:605
 # text = Págmaragul naka ning Indung Kapampángan!!!
 # date = December 21, 2021
-1	Págmaragul	_	_	_	_	_	_	_	_
-2	naka	_	_	_	_	_	_	_	_
-3	ning	_	_	_	_	_	_	_	_
-4	Indung	_	_	_	_	_	_	_	_
-5	Kapampángan	_	_	_	_	_	_	_	_
-6	!!!	_	_	_	_	_	_	_	_
+1	Págmaragul	_	VERB	_	_	0	root	_	_
+2-3	naka	_	_	_	_	_	_	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ka	_	PRON	_	_	1	dep	_	_
+4	ning	_	ADP	_	_	7	case	_	_
+5-6	Indung	_	_	_	_	_	_	_	_
+5	Indu	_	NOUN	_	_	7	nmod	_	_
+6	ng	_	PART	_	_	5	mark:link	_	_
+7	Kapampángan	_	NOUN	_	_	1	obj	_	_
+8	!!!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:429:606
 # text = Lubénas x Liglígan Parul king Sakhon Nakorn, Thailand.
@@ -9198,16 +9213,20 @@
 # sent_id = facebook:439:617
 # text = Panáyan ké pámú ing opinion nang Ebenezer Scrooge kaníni...
 # date = December 08, 2021
-1	Panáyan	_	_	_	_	_	_	_	_
-2	ké	_	_	_	_	_	_	_	_
-3	pámú	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	opinion	_	_	_	_	_	_	_	_
-6	nang	_	_	_	_	_	_	_	_
-7	Ebenezer	_	_	_	_	_	_	_	_
-8	Scrooge	_	_	_	_	_	_	_	_
-9	kaníni	_	_	_	_	_	_	_	_
-10	...	_	_	_	_	_	_	_	_
+1	Panáyan	_	VERB	_	_	0	root	_	_
+2-3	ké	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	pámú	_	PART	_	_	1	discourse	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	opinion	_	NOUN	_	_	1	nsubj	_	_
+7-8	nang	_	_	_	_	_	_	_	_
+7	na	_	PRON	_	_	6	dep	_	_
+8	ng	_	PART	_	_	9	mark:link	_	_
+9	Ebenezer	_	PROPN	_	_	6	nmod:poss	_	_
+10	Scrooge	_	PROPN	_	_	9	flat	_	_
+11	kaníni	_	PRON	_	_	1	obl	_	_
+12	...	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:440:618
 # text =  " Pampanga Day " kanu, péro balámo magóbra la Bulakan déng king PIO at é kéti Kapampángan.
@@ -9349,50 +9368,12 @@
 # sent_id = facebook:446:625
 # text = Burí ku ing makasúlat kéni!!!
 # date = December 01, 2021
-1	Burí	_	_	_	_	_	_	_	_
-2	ku	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	makasúlat	_	_	_	_	_	_	_	_
-5	kéni	_	_	_	_	_	_	_	_
-6	!!!	_	_	_	_	_	_	_	_
-
-# sent_id = facebook:447:626
-# text = Pákilála ké pú kékayu i Jeselle Dayrit, ing métung karing tátagal a konséyal para king métung a máyap at masaplálang Báyung Ángeles!!!
-# date = December 01, 2021
-1	Pákilála	_	_	_	_	_	_	_	_
-2	ké	_	_	_	_	_	_	_	_
-3	pú	_	_	_	_	_	_	_	_
-4	kékayu	_	_	_	_	_	_	_	_
-5	i	_	_	_	_	_	_	_	_
-6	Jeselle	_	_	_	_	_	_	_	_
-7	Dayrit	_	_	_	_	_	_	_	_
-8	,	_	_	_	_	_	_	_	_
-9	ing	_	_	_	_	_	_	_	_
-10	métung	_	_	_	_	_	_	_	_
-11	karing	_	_	_	_	_	_	_	_
-12	tátagal	_	_	_	_	_	_	_	_
-13	a	_	_	_	_	_	_	_	_
-14	konséyal	_	_	_	_	_	_	_	_
-15	para	_	_	_	_	_	_	_	_
-16	king	_	_	_	_	_	_	_	_
-17	métung	_	_	_	_	_	_	_	_
-18	a	_	_	_	_	_	_	_	_
-19	máyap	_	_	_	_	_	_	_	_
-20	at	_	_	_	_	_	_	_	_
-21	masaplálang	_	_	_	_	_	_	_	_
-22	Báyung	_	_	_	_	_	_	_	_
-23	Ángeles	_	_	_	_	_	_	_	_
-24	!!!	_	_	_	_	_	_	_	_
-
-# sent_id = facebook:448:627
-# text = Luíd ka, Ian Alfonso!!!
-# date = November 30, 2021 
-1	Luíd	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	,	_	_	_	_	_	_	_	_
-4	Ian	_	_	_	_	_	_	_	_
-5	Alfonso	_	_	_	_	_	_	_	_
-6	!!!	_	_	_	_	_	_	_	_
+1	Burí	_	VERB	_	_	0	root	_	_
+2	ku	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4	makasúlat	_	NOUN	_	_	1	nsubj	_	_
+5	kéni	_	DET	_	_	4	det	_	_
+6	!!!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:448:628
 # text =  Ayárí mu né pala ing thesis mu!
