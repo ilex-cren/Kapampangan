@@ -48,43 +48,40 @@
 21	Kapampángan	_	_	_	_	_	_	_	_
 22	???	_	_	_	_	_	_	_	_
 
-# sent_id = facebook:4:4
-# text = o nung kekatamung Kapampangan miliari ini???
-# date = May 13, 2021
-1	o	_	_	_	_	_	_	_	_
-2	nung	_	_	_	_	_	_	_	_
-3	kekatamung	_	_	_	_	_	_	_	_
-4	Kapampangan	_	_	_	_	_	_	_	_
-5	miliari	_	_	_	_	_	_	_	_
-6	ini	_	_	_	_	_	_	_	_
-7	???	_	_	_	_	_	_	_	_
-
 # sent_id = facebook:5:5
 # text = Librí mú ing páturung sumúlat Kulitan, péro nung matamad kang magáral at burí pásúlat naká mû, atín nang báyad kaníta.
 # date = October 4, 2010
-1	Librí	_	_	_	_	_	_	_	_
-2	mú	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	páturung	_	_	_	_	_	_	_	_
-5	sumúlat	_	_	_	_	_	_	_	_
-6	Kulitan	_	_	_	_	_	_	_	_
-7	,	_	_	_	_	_	_	_	_
-8	péro	_	_	_	_	_	_	_	_
-9	nung	_	_	_	_	_	_	_	_
-10	matamad	_	_	_	_	_	_	_	_
-11	kang	_	_	_	_	_	_	_	_
-12	magáral	_	_	_	_	_	_	_	_
-13	at	_	_	_	_	_	_	_	_
-14	burí	_	_	_	_	_	_	_	_
-15	pásúlat	_	_	_	_	_	_	_	_
-16	naká	_	_	_	_	_	_	_	_
-17	mû	_	_	_	_	_	_	_	_
-18	,	_	_	_	_	_	_	_	_
-19	atín	_	_	_	_	_	_	_	_
-20	nang	_	_	_	_	_	_	_	_
-21	báyad	_	_	_	_	_	_	_	_
-22	kaníta	_	_	_	_	_	_	_	_
-23	.	_	_	_	_	_	_	_	_
+1	Librí	_	ADJ	_	_	0	root	_	_
+2	mú	_	PRON	_	_	1	dep	_	_
+3	ing	_	ADP	_	_	4	case	_	_
+4-5	páturung	_	_	_	_	_	_	_	_
+4	páturu	_	NOUN	_	_	1	nsubj	_	_
+5	ng	_	PART	_	_	6	mark:link	_	_
+6	sumúlat	_	VERB	_	_	4	acl	_	_
+7	Kulitan	_	NOUN	_	_	6	obl	_	_
+8	,	_	PUNCT	_	_	1	punct	_	_
+9	péro	_	CCONJ	_	_	11	cc	_	_
+10	nung	_	SCONJ	_	_	11	mark	_	_
+11	matamad	_	ADJ	_	_	22	advcl	_	_
+12-13	kang	_	_	_	_	_	_	_	_
+12	ka	_	PRON	_	_	11	dep	_	_
+13	ng	_	PART	_	_	14	mark:link	_	_
+14	magáral	_	VERB	_	_	11	xcomp	_	_
+15	at	_	CCONJ	_	_	16	cc	_	_
+16	burí	_	VERB	_	_	11	conj	_	_
+17	pásúlat	_	VERB	_	_	16	xcomp	_	_
+18-19	naká	_	_	_	_	_	_	_	_
+18	na	_	PRON	_	_	17	dep	_	_
+19	ká	_	PRON	_	_	17	dep	_	_
+20	mû	_	PART	_	_	17	discourse	_	_
+21	,	_	PUNCT	_	_	11	punct	_	_
+22	atín	_	VERB	_	_	1	conj	_	_
+23-24	nang	_	_	_	_	_	_	_	_
+23	na	_	PRON	_	_	22	dep	_	_
+24	ng	_	PART	_	_	25	mark:link	_	_
+25	báyad	_	NOUN	_	_	22	obl	_	_
+26	kaníta	_	PRON	_	_	22	obl	_	_
+27	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:6:6
 # text = Ditakditak at ing AMÁNUNG SÍSUAN máging neng amánung dáyu kng saríli nang TÍBUAN.
@@ -203,18 +200,6 @@
 9	i	_	_	_	_	_	_	_	_
 10	Bongbong	_	_	_	_	_	_	_	_
 11	?	_	_	_	_	_	_	_	_
-
-# sent_id = facebook:15:15
-# text = Caballero yá naman pú i Bong Arceo.
-# date = October 7, 2021
-1	Caballero	_	_	_	_	_	_	_	_
-2	yá	_	_	_	_	_	_	_	_
-3	naman	_	_	_	_	_	_	_	_
-4	pú	_	_	_	_	_	_	_	_
-5	i	_	_	_	_	_	_	_	_
-6	Bong	_	_	_	_	_	_	_	_
-7	Arceo	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:16:16
 # text = Batch 85 ya king Chevalier School.
@@ -399,19 +384,22 @@
 
 # sent_id = facebook:25:25
 # text = Báyung Talasúyû!
+# text[eng] = New servant! (public servant?)
 # date = October 7, 2021
-1	Báyung	_	_	_	_	_	_	_	_
-2	Talasúyû	_	_	_	_	_	_	_	_
-3	!	_	_	_	_	_	_	_	_
+1-2	Báyung	_	_	_	_	_	_	_	_
+1	Báyu	_	ADJ	_	_	3	amod	_	_
+2	ng	_	PART	_	_	1	mark:link	_	_
+3	Talasúyû	_	NOUN	_	_	0	root	_	_
+4	!	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = facebook:26:26
 # text = Luíd ya ing #bayungangeles!!!
 # date = October 7, 2021
-1	Luíd	_	_	_	_	_	_	_	_
-2	ya	_	_	_	_	_	_	_	_
-3	ing	_	_	_	_	_	_	_	_
-4	#bayungangeles	_	_	_	_	_	_	_	_
-5	!!!	_	_	_	_	_	_	_	_
+1	Luíd	_	VERB	_	_	0	root	_	_
+2	ya	_	PRON	_	_	1	dep	_	_
+3	ing	_	PART	_	_	4	case	_	_
+4	#bayungangeles	_	NOUN	_	_	1	nsubj	_	_
+5	!!!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:27:27
 # text = Sinálí kung sabun.
@@ -425,14 +413,16 @@
 
 # sent_id = facebook:28:28
 # text = Pílán nang aldó é pa malaláso.
-# date = October 6, 2021
-1	Pílán	_	_	_	_	_	_	_	_
-2	nang	_	_	_	_	_	_	_	_
-3	aldó	_	_	_	_	_	_	_	_
-4	é	_	_	_	_	_	_	_	_
-5	pa	_	_	_	_	_	_	_	_
-6	malaláso	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+# date = October 6, 2021 , check advmod
+1	Pílán	_	ADJ	_	_	4	amod	_	_
+2-3	nang	_	_	_	_	_	_	_	_
+2	na	_	PART	_	_	1	discourse	_	_
+3	ng	_	PART	_	_	4	mark:lnk	_	_
+4	aldó	_	NOUN	_	_	7	advmod	_	_
+5	é	_	PART	_	_	7	advmod	_	_
+6	pa	_	PART	_	_	7	discourse	_	_
+7	malaláso	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = facebook:29:29
 # text = É né rin búbulâ ing nakpúta.
@@ -524,9 +514,9 @@
 # sent_id = facebook:34:34
 # text = Alî pala.
 # date = July 19, 2014
-1	Alî	_	_	_	_	_	_	_	_
-2	pala	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Alî	_	VERB	_	_	0	root	_	_
+2	pala	_	PART	_	_	1	discourse	_	_
+3	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:34:35
 # text =  Bála palang ístória ké karéng kalúpa kung Kapampángan i Ápûng Sínukuan, alâ la man palang kamalémále nung nínu at nánu ya tagana.
@@ -750,12 +740,6 @@
 1	Mé-busy	_	_	_	_	_	_	_	_
 2	biglâ	_	_	_	_	_	_	_	_
 3	.	_	_	_	_	_	_	_	_
-
-# sent_id = facebook:40:49
-# text =  Weird.
-# date = October 18, 2021
-1	Weird	_	_	_	_	_	_	_	_
-2	.	_	_	_	_	_	_	_	_
 
 # sent_id = facebook:40:50
 # text =  Familiar ya yet balámó aliwá ya.
@@ -9137,22 +9121,26 @@
 
 # sent_id = facebook:433:611
 # text = Pútanaidána, demokrásia mó kanu.
+# text[eng] = [expletive], It's democracy (supposedly, according to someone else).
 # date = December 18, 2021
-1	Pútanaidána	_	_	_	_	_	_	_	_
-2	,	_	_	_	_	_	_	_	_
-3	demokrásia	_	_	_	_	_	_	_	_
-4	mó	_	_	_	_	_	_	_	_
-5	kanu	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	Pútanaidána	_	INTJ	_	_	3	discourse	_	_
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	demokrásia	_	NOUN	_	_	0	root	_	_
+4	mó	_	PART	_	_	3	discourse	_	_
+5	kanu	_	PART	_	_	3	discourse	_	_
+6	.	_	PUNCT	_	_	3	punct	_	_
 
 # sent_id = facebook:434:612
 # text = Atin mó kanung eleksiun.
+# text[eng] = There is an election (supposedly, according to someone else).
 # date = December 18, 2021
-1	Atin	_	_	_	_	_	_	_	_
-2	mó	_	_	_	_	_	_	_	_
-3	kanung	_	_	_	_	_	_	_	_
-4	eleksiun	_	_	_	_	_	_	_	_
-5	.	_	_	_	_	_	_	_	_
+1	Atin	_	VERB	_	_	0	root	_	_
+2	mó	_	PART	_	_	1	discourse	_	_
+3-4	kanung	_	_	_	_	_	_	_	_
+3	kanu	_	PART	_	_	1	discourse	_	_
+4	ng	_	PART	_	_	5	mark:link	_	_
+5	eleksiun	_	NOUN	_	_	1	obl	_	_
+6	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:435:613
 # text = Ót mikaka-dynasty?
