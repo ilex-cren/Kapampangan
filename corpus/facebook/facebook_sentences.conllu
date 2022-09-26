@@ -566,13 +566,15 @@
 # sent_id = facebook:35:37
 # text =  Iniang kinorek ke é na burî.
 # date = October 19, 2021
-1	Iniang	_	_	_	_	_	_	_	_
-2	kinorek	_	_	_	_	_	_	_	_
-3	ke	_	_	_	_	_	_	_	_
-4	é	_	_	_	_	_	_	_	_
-5	na	_	_	_	_	_	_	_	_
-6	burî	_	_	_	_	_	_	_	_
-7	.	_	_	_	_	_	_	_	_
+1	Iniang	_	SCONJ	_	_	2	mark	_	_
+2	kinorek	_	VERB	_	_	7	advcl	_	_
+3-4	ke	_	_	_	_	_	_	_	_
+3	k	_	PRON	_	_	2	dep	_	_
+4	e	_	PRON	_	_	2	dep	_	_
+5	é	_	PART	_	_	7	advmod	_	_
+6	na	_	PRON	_	_	7	dep	_	_
+7	burî	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = facebook:35:38
 # text =  É na nóman kasi kanu áintindian ding " ancient Kapampángan " ngána ning alti.
@@ -727,19 +729,23 @@
 # sent_id = facebook:40:47
 # text = é kó pa áyáring ilbén.
 # date = October 18, 2021
-1	é	_	_	_	_	_	_	_	_
-2	kó	_	_	_	_	_	_	_	_
-3	pa	_	_	_	_	_	_	_	_
-4	áyáring	_	_	_	_	_	_	_	_
-5	ilbén	_	_	_	_	_	_	_	_
-6	.	_	_	_	_	_	_	_	_
+1	é	_	PART	_	_	7	advmod	_	_
+2-3	kó	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	7	dep	_	_
+3	ó	_	PRON	_	_	7	dep	_	_
+4	pa	_	PART	_	_	7	discourse	_	_
+5-6	áyáring	_	_	_	_	_	_	_	_
+5	áyári	_	ADV	_	_	7	advmod	_	_
+6	ng	_	PART	_	_	5	mark:link	_	_
+7	ilbén	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
 
 # sent_id = facebook:40:48
 # text =  Mé-busy biglâ.
 # date = October 18, 2021
-1	Mé-busy	_	_	_	_	_	_	_	_
-2	biglâ	_	_	_	_	_	_	_	_
-3	.	_	_	_	_	_	_	_	_
+1	Mé-busy	_	ADJ	_	_	2	xcomp	_	_
+2	biglâ	_	VERB	_	_	0	root	_	_
+3	.	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = facebook:40:50
 # text =  Familiar ya yet balámó aliwá ya.
@@ -755,10 +761,12 @@
 # sent_id = facebook:41:51
 # text = Tiktokers ké pû.
 # date = October 17, 2021
-1	Tiktokers	_	_	_	_	_	_	_	_
-2	ké	_	_	_	_	_	_	_	_
-3	pû	_	_	_	_	_	_	_	_
-4	.	_	_	_	_	_	_	_	_
+1	Tiktokers	_	NOUN	_	_	0	root	_	_
+2-3	ké	_	_	_	_	_	_	_	_
+2	k	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	pû	_	PART	_	_	1	discourse	_	_
+5	.	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:41:52
 # text =  É ké pú youtubers! " 
@@ -864,13 +872,16 @@
 
 # sent_id = facebook:45:61
 # text =  Intá atin támung vacuum cleaner?
+# text[eng] = Why do we have a vacuum cleaner?
 # date = October 17, 2021
-1	Intá	_	_	_	_	_	_	_	_
-2	atin	_	_	_	_	_	_	_	_
-3	támung	_	_	_	_	_	_	_	_
-4	vacuum	_	_	_	_	_	_	_	_
-5	cleaner	_	_	_	_	_	_	_	_
-6	?	_	_	_	_	_	_	_	_
+1	Intá	_	ADV	_	_	2	advmod	_	_
+2	atin	_	VERB	_	_	0	root	_	_
+3-4	támung	_	_	_	_	_	_	_	_
+3	támu	_	PRON	_	_	2	dep	_	_
+4	ng	_	PART	_	_	6	mark:link	_	_
+5	vacuum	_	NOUN	_	_	6	compound	_	_
+6	cleaner	_	NOUN	_	_	2	obl	_	_
+7	?	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = facebook:46:62
 # text = Palisan mu námú murét!
@@ -955,10 +966,12 @@
 # sent_id = facebook:52:70
 # text =  Ménimbéntu naka nanaman!
 # date = October 17, 2021
-1	Ménimbéntu	_	_	_	_	_	_	_	_
-2	naka	_	_	_	_	_	_	_	_
-3	nanaman	_	_	_	_	_	_	_	_
-4	!	_	_	_	_	_	_	_	_
+1	Ménimbéntu	_	VERB	_	_	0	root	_	_
+2-3	naka	_	_	_	_	_	_	_	_
+2	na	_	PRON	_	_	1	dep	_	_
+3	ka	_	PRON	_	_	1	dep	_	_
+4	nanaman	_	PART	_	_	1	discourse	_	_
+5	!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:52:71
 # text =  Simáp alang aliwang mékáramdam kéka.
@@ -1005,13 +1018,6 @@
 6	ya	_	_	_	_	_	_	_	_
 7	!	_	_	_	_	_	_	_	_
 
-# sent_id = facebook:54:75
-# text =  Back seen!
-# date = October 17, 2021
-1	Back	_	_	_	_	_	_	_	_
-2	seen	_	_	_	_	_	_	_	_
-3	!	_	_	_	_	_	_	_	_
-
 # sent_id = facebook:54:76
 # text =  Tandánan mé ita.
 # date = October 17, 2021
@@ -1036,8 +1042,8 @@
 # sent_id = facebook:55:78
 # text =  Gúlut...
 # date = October 17, 2021
-1	Gúlut	_	_	_	_	_	_	_	_
-2	...	_	_	_	_	_	_	_	_
+1	Gúlut	_	VERB	_	_	0	root	_	_
+2	...	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:55:79
 # text =  kasalánan?
