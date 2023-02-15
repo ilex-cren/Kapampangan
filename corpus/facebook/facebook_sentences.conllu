@@ -8992,23 +8992,25 @@
 # sent_id = facebook:425:602
 # text =  Pati ing caption na é ké áintindian.
 # date = December 21, 2021
-1	Pati	_	_	_	_	_	_	_	_
-2	ing	_	_	_	_	_	_	_	_
-3	caption	_	_	_	_	_	_	_	_
-4	na	_	_	_	_	_	_	_	_
-5	é	_	_	_	_	_	_	_	_
-6	ké	_	_	_	_	_	_	_	_
-7	áintindian	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
+1	Pati	_	ADV	_	_	3	advmod	_	_
+2	ing	_	ADP	_	_	3	case	_	_
+3	caption	_	NOUN	_	_	8	dislocated	_	_
+4	na	_	PRON	_	_	3	dep	_	_
+5	é	_	PART	_	_	8	advmod	_	_
+6-7	ké	_	_	_	_	_	_	_	_
+6	k	_	PRON	_	_	8	dep	_	_
+7	é	_	PRON	_	_	8	dep	_	_
+8	áintindian	_	VERB	_	_	0	root	_	_
+9	.	_	PUNCT	_	_	8	punct	_	_
 
 # sent_id = facebook:426:603
 # text = Luíd ka Cóng Méng!!!
 # date = December 21, 2021
-1	Luíd	_	_	_	_	_	_	_	_
-2	ka	_	_	_	_	_	_	_	_
-3	Cóng	_	_	_	_	_	_	_	_
-4	Méng	_	_	_	_	_	_	_	_
-5	!!!	_	_	_	_	_	_	_	_
+1	Luíd	_	VERB	_	_	0	root	_	_
+2	ka	_	PRON	_	_	1	dep	_	_
+3	Cóng	_	PROPN	_	_	1	vocative	_	_
+4	Méng	_	PROPN	_	_	3	flat	_	_
+5	!!!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:427:604
 # text = Máyap at Maligáyang Pámagmasúsí kéting Kayaldawánan ning Kékang Kébaitan!!!
@@ -9078,14 +9080,14 @@
 # sent_id = facebook:431:608
 # text = Péro nánu ya ing inspirasiun da kayâ?
 # date = December 20, 2021
-1	Péro	_	_	_	_	_	_	_	_
-2	nánu	_	_	_	_	_	_	_	_
-3	ya	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	inspirasiun	_	_	_	_	_	_	_	_
-6	da	_	_	_	_	_	_	_	_
-7	kayâ	_	_	_	_	_	_	_	_
-8	?	_	_	_	_	_	_	_	_
+1	Péro	_	CCONJ	_	_	2	cc	_	_
+2	nánu	_	VERB	_	_	0	root	_	_
+3	ya	_	PRON	_	_	2	dep	_	_
+4	ing	_	ADP	_	_	5	case	_	_
+5	inspirasiun	_	NOUN	_	_	2	nsubj	_	_
+6	da	_	PRON	_	_	5	dep	_	_
+7	kayâ	_	PART	_	_	5	discourse	_	_
+8	?	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = facebook:431:609
 # text =  Aliwá kayá ing Lubénas ning Pasku ning Kuliat (Ángeles) at ing Liglígan Parul ning Sampernándo?
@@ -9151,21 +9153,23 @@
 # sent_id = facebook:435:613
 # text = Ót mikaka-dynasty?
 # date = December 18, 2021
-1	Ót	_	_	_	_	_	_	_	_
-2	mikaka-dynasty	_	_	_	_	_	_	_	_
-3	?	_	_	_	_	_	_	_	_
+1	Ót	_	ADV	_	_	2	advmod	_	_
+2	mikaka-dynasty	_	VERB	_	_	0	root	_	_
+3	?	_	PUNCT	_	_	2	punct	_	_
 
 # sent_id = facebook:436:614
 # text = Daig té pa ing monarkia ing anakpúta!
 # date = December 18, 2021
-1	Daig	_	_	_	_	_	_	_	_
-2	té	_	_	_	_	_	_	_	_
-3	pa	_	_	_	_	_	_	_	_
-4	ing	_	_	_	_	_	_	_	_
-5	monarkia	_	_	_	_	_	_	_	_
-6	ing	_	_	_	_	_	_	_	_
-7	anakpúta	_	_	_	_	_	_	_	_
-8	!	_	_	_	_	_	_	_	_
+1	Daig	_	VERB	_	_	0	root	_	_
+2-3	té	_	_	_	_	_	_	_	_
+2	t	_	PRON	_	_	1	dep	_	_
+3	é	_	PRON	_	_	1	dep	_	_
+4	pa	_	PART	_	_	1	discourse	_	_
+5	ing	_	ADP	_	_	6	case	_	_
+6	monarkia	_	NOUN	_	_	1	nsubj	_	_
+7	ing	_	ADP	_	_	8	case	_	_
+8	anakpúta	_	NOUN	_	_	6	nmod:poss	_	_
+9	!	_	PUNCT	_	_	1	punct	_	_
 
 # sent_id = facebook:437:615
 # text = Káyi ing anak na balá mó réng kóntrabídang prinsipi karéng Korean Historical Telenovela.
